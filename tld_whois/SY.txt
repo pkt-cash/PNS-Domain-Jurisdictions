@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SY
+
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura Crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic (the)
+
+contact:      administrative
+name:         Head of Licensing Department
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura Crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic (the)
+phone:        +963 11 3937096
+fax-no:       +963 11 3937079
+e-mail:       dnsadmin@tld.sy
+
+contact:      technical
+name:         NANS DNS Technical Department
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura Crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic (the)
+phone:        +963 11 3937047
+fax-no:       +963 11 3937079
+e-mail:       dns@tld.sy
+
+nserver:      NS1.TLD.SY 82.137.200.85
+nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
+nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
+
+whois:        whois.tld.sy
+
+status:       ACTIVE
+remarks:      Registration information: http://tld.sy
+
+created:      1996-02-20
+changed:      2023-02-28
+source:       IANA
+
+# whois.tld.sy
+
+Domain Name: sy
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2024-10-08T17:00:10.61Z <<<
+

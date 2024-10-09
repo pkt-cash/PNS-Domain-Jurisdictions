@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       POHL
+
+organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
+address:      Wilhelm-Leuschner-Strasse 24
+address:      Hessen
+address:      Frankfurt am Main 60329
+address:      Germany
+
+contact:      administrative
+name:         Director, Digital Media
+organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
+address:      Wilhelm-Leuschner-Strasse 24
+address:      Hessen
+address:      Frankfurt am Main 60329
+address:      Germany
+phone:        +49.6923840
+fax-no:       +49.692384185
+e-mail:       mail@dvag-registry.de
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.POHL 194.169.218.96 2001:67c:13cc:0:0:0:1:96
+nserver:      B.NIC.POHL 185.24.64.96 2a04:2b00:13cc:0:0:0:1:96
+nserver:      C.NIC.POHL 212.18.248.96 2a04:2b00:13ee:0:0:0:0:96
+nserver:      D.NIC.POHL 212.18.249.96 2a04:2b00:13ff:0:0:0:0:96
+ds-rdata:     41627 8 2 d31963884932152ac788383aba38b83f187291afb59092a43185734ec561f506
+ds-rdata:     27074 8 2 a469aef13c3e1b336689d808679e1ed9024d43e635c3861f7269888bbc1623c9
+
+whois:        whois.nic.pohl
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dvag-registry.de
+
+created:      2014-09-18
+changed:      2023-11-06
+source:       IANA
+
+# whois.nic.pohl
+
+INVALID QUERY

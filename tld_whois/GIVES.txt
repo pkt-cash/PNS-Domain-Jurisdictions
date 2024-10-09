@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GIVES
+
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive 10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        1 703 889 5778
+fax-no:       1 703 889 5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.GIVES 2a01:8840:22:0:0:0:0:61 65.22.32.61
+nserver:      V0N1.NIC.GIVES 2a01:8840:23:0:0:0:0:61 65.22.33.61
+nserver:      V0N2.NIC.GIVES 2a01:8840:24:0:0:0:0:61 65.22.34.61
+nserver:      V0N3.NIC.GIVES 161.232.16.61 2a01:8840:fa:0:0:0:0:61
+nserver:      V2N0.NIC.GIVES 2a01:8840:25:0:0:0:0:61 65.22.35.61
+nserver:      V2N1.NIC.GIVES 161.232.17.61 2a01:8840:fb:0:0:0:0:61
+ds-rdata:     51526 8 2 d1dd06d869102253fe38e8f665571b0f10a7f2c24ad4a92c10c47503919a6e1d
+
+whois:        whois.nic.gives
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.gives
+
+created:      2014-05-29
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.gives
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:00:43Z <<<
+

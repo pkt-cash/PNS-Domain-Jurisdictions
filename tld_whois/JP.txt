@@ -1,0 +1,146 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JP
+
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East 13F
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo 101-0065
+address:      Japan
+
+contact:      administrative
+name:         Koki Higashida
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East 13F
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo 101-0065
+address:      Japan
+phone:        +81 3 5215 8451
+fax-no:       +81 3 5215 8452
+e-mail:       higashida@jprs.co.jp
+
+contact:      technical
+name:         Koki Higashida
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East 13F
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo 101-0065
+address:      Japan
+phone:        +81 3 5215 8480
+fax-no:       +81 3 5215 8452
+e-mail:       tech-admin@jprs.jp
+
+nserver:      A.DNS.JP 2001:dc4:0:0:0:0:0:1 203.119.1.1
+nserver:      B.DNS.JP 2001:dc2:0:0:0:0:0:1 202.12.30.131
+nserver:      C.DNS.JP 156.154.100.5 2001:502:ad09:0:0:0:0:5
+nserver:      D.DNS.JP 2001:240:0:0:0:0:0:53 210.138.175.244
+nserver:      E.DNS.JP 192.50.43.53 2001:200:c000:0:0:0:0:35
+nserver:      F.DNS.JP 150.100.6.8 2001:2f8:0:100:0:0:0:153
+nserver:      G.DNS.JP 203.119.40.1
+nserver:      H.DNS.JP 161.232.72.25 2a01:8840:1bc:0:0:0:0:25
+ds-rdata:     22111 8 2 e5a43534b9beafbf35d6c6b3eaa1e9ae7fe2b4d8961252126fd67b5172322286
+
+whois:        whois.jprs.jp
+
+status:       ACTIVE
+remarks:      Registration information: https://jprs.jp/
+
+created:      1986-08-05
+changed:      2023-11-06
+source:       IANA
+
+# whois.jprs.jp
+
+                        <JPRS WHOIS HELP>
+
+[To suppress Japanese output, add '/e' at the end of command,                 ]
+[e.g. 'whois -h whois.jprs.jp xxx/e'.                                         ]
+
+1. 公開している情報の種類
+
+・ドメイン名情報
+    JPRSが管理するドメイン名とその登録者の情報
+
+・ホスト情報
+    ネームサーバーとして登録されているホストの情報
+
+・担当者情報 ※属性型地域型JPドメイン名のみ
+    JPRSが管理するドメインの登録者や技術的な担当者の情報
+
+
+2. 検索方法
+
+2.1 情報の種類を指定しない検索
+
+  STRING     STRINGの内容から検索対象となる情報の種類が決定される
+
+
+・STRINGがドメイン名またはホスト名の場合
+    ドメイン情報の a. [ドメイン名]及びホスト情報の a. [ホスト名]で検索
+
+  例1)
+    example.co.jp
+
+
+・STRING がJPハンドル(旧JPNICハンドル)の場合
+    担当者情報の a. [JPNICハンドル]で検索(*)
+    (*)JPハンドルはサービス移行期につき「JPNICハンドル」と表示されます
+
+  例3)
+    XX9999JP
+
+
+2.2 情報の種類を指定する検索
+
+  TYPE STRING         TYPE は DOM や CONTACT など(下記参照)
+
+・TYPE一覧表
+  DOM もしくは DOMAIN    : ドメイン名情報をドメイン名で検索
+  HOST                   : ホスト情報をホスト名で検索
+  CONTACT                : 担当者情報をJPNICハンドルで検索 ※属性型地域型JPドメイン名のみ
+
+  例5) ドメイン情報をドメイン名で検索
+       "DOM EXAMPLE.CO.JP"
+
+
+2.3 参照関係の検索
+
+        ^STRING       この情報を参照している情報を表示 ※JPドメイン名のみ
+
+
+3. 得た情報はネットワーク運用のために利用してください。
+
+=======================================================================
+
+1. JPRS WHOIS database includes the following type of information in
+   Japan:
+
+        TYPE            Description
+        ----------------------------------------------------------
+        DOM             Domain Information
+        HOST            Host Information
+        CONTACT         Contact Information [only for Organization-type .JP domain names]
+
+2. How to get the information:
+
+        STRING          Broad search over the all types (if available)
+
+To restrict the search to a certain type of information:
+
+        TYPE STRING     See above for types of information
+
+To obtain related information:
+
+        ^STRING         Displays the information that refers the STRING [only for .JP domain names]
+
+3. Use of the information you obtain from JPRS WHOIS is restricted to
+   a purely network operation purposes.
+=======================================================================
+
+*Notice* If you had an intention to search for gTLD domain-related
+information and see this message, it is possible that JPRS WHOIS wasn't
+the right server to specify. In that case, you might be able to re-try
+your search via InterNIC WHOIS.
+

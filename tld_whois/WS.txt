@@ -1,0 +1,109 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WS
+
+organisation: Government of Samoa Ministry of Foreign Affairs & Trade
+address:      P.O. Box 1861
+address:      Apia
+address:      Samoa
+
+contact:      administrative
+name:         CEO
+organisation: Computer Services Ltd.
+address:      Lotemau Centre
+address:      Apia
+address:      Samoa
+phone:        +685 20926
+fax-no:       +685 20932
+e-mail:       admin.contact@csl.ws
+
+contact:      technical
+name:         CEO
+organisation: Global Domains International
+address:      701 Palomar Airport Road #300
+address:      Carlsbad CA 92011
+address:      United States of America (the)
+phone:        +1 760 602 3000
+fax-no:       +1 760 602 3099
+e-mail:       tech.contact@csl.ws
+
+nserver:      A.DNS.WS 194.146.106.146 2001:67c:1010:37:0:0:0:53
+nserver:      NS2.DNS.WS 64.70.19.80
+nserver:      NS5.DNS.WS 64.70.19.70
+nserver:      S.DNS.WS 2a01:3f0:0:311:0:0:0:53 77.72.229.248
+nserver:      US3.DNS.WS 64.70.78.70
+nserver:      US4.DNS.WS 64.70.78.80
+ds-rdata:     36454 8 2 7db7c8f0faed1ff118c3f081487cec39cec5c89fe647adc1e2d3643d1bc1f77d
+
+whois:        whois.website.ws
+
+status:       ACTIVE
+remarks:      Registration information: http://www.website.ws
+
+created:      1995-07-14
+changed:      2021-05-26
+source:       IANA
+
+# whois.website.ws
+
+Domain Name: WS.WS
+Domain ID: D865CD2901AE835CE040010AAB015FFF
+WHOIS Server: whois.website.ws
+Registrar URL: http://www.website.ws/
+Updated Date: 2021-05-27T23:21:28Z
+Creation Date: 2003-03-09T18:11:00Z
+Registrar Registration Expiration Date: 2028-03-09T18:11:00Z
+Registrar: GLOBAL DOMAINS INTERNATIONAL
+Registrar IANA ID: 1463
+Registrar Abuse Contact Email: abuse@website.ws
+Registrar Abuse Contact Phone: +1.7606023000
+Domain Status: ok
+Registry Registrant ID:
+Registrant Name: Global Domains International
+Registrant Organization: Domain Admin
+Registrant Street: 701 Palomar Airport Road #300 
+Registrant City: Carlsbad
+Registrant State/Province: CA
+Registrant Postal Code: 92011
+Registrant Country: US
+Registrant Phone: +1.7606023000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ws_support@website.ws
+Registry Admin ID:
+Admin Name: Global Domains International
+Admin Organization: Domain Admin
+Admin Street: 701 Palomar Airport Road #300 
+Admin City: Carlsbad
+Admin State/Province: CA
+Admin Postal Code: 92011
+Admin Country: US
+Admin Phone: +1.7606023000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ws_support@website.ws
+Registry Tech ID:
+Tech Name: Global Domains International
+Tech Organization: Domain Admin
+Tech Street: 701 Palomar Airport Road #300 
+Tech City: Carlsbad
+Tech State/Province: CA
+Tech Postal Code: 92011
+Tech Country: US
+Tech Phone: +1.7606023000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ws_support@website.ws
+Name Server: ns2.ncsdi.ws.
+Name Server: ns3.ncsdi.ws.
+Name Server: ns4.ncsdi.ws.
+Name Server: ns5.ncsdi.ws.
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-08T17:15:01Z <<<
+

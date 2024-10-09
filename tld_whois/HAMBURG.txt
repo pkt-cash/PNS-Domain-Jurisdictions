@@ -1,0 +1,94 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HAMBURG
+
+organisation: Hamburg Top-Level-Domain GmbH
+address:      Neuer Wall 10
+address:      Hamburg 20354
+address:      Germany
+
+contact:      administrative
+name:         Dirk Krischenowski
+organisation: Hamburg Top-Level-Domain GmbH
+address:      Neuer Wall 10
+address:      Hamburg 20354
+address:      Germany
+phone:        +49 40 6506 2020
+e-mail:       registry@nic.hamburg
+
+contact:      technical
+name:         Alexander Mayrhofer
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8
+address:      Salzburg 5020
+address:      Austria
+phone:        +43 662 2345 48730
+fax-no:       +43 662 2345 4829
+e-mail:       iana@tld-box.at
+
+nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
+nserver:      M.DNS.NIC.HAMBURG 194.0.26.10 2001:67c:10e0:0:0:0:0:10
+nserver:      N.DNS.NIC.HAMBURG 194.0.24.10 2001:678:24:0:0:0:0:10
+ds-rdata:     12136 8 2 8bdc8642f1c0275904aea61c126d9d5a5db25881a564348af218eb4165bef7c5
+ds-rdata:     39857 8 2 acadfbad24320a82cfad9dc5de24b5ef710fc0a9503f102596019b85ed1c74fa
+
+whois:        whois.nic.hamburg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.hamburg
+
+created:      2014-05-22
+changed:      2022-05-18
+source:       IANA
+
+# whois.nic.hamburg
+
+Domain Name:                  .hamburg
+Creation Date:                2014-04-16T10:23:25Z
+Registry Expiry Date:         2015-04-16T10:23:25Z
+Sponsoring Registrar:         Hamburg Top-Level-Domain GmbH
+Sponsoring Registrar IANA ID: 9999
+Domain Status:                serverDeleteProhibited
+Domain Status:                serverTransferProhibited
+Registrant ID:                HAMBURG-HAMBURG
+Registrant Name:              Oliver Joachim Sueme
+Registrant Organization:      Hamburg Top-Level-Domain GmbH
+Registrant Street:            Gertigstrasse 28
+Registrant City:              Hamburg
+Registrant State/Province:    Hamburg
+Registrant Postal Code:       22303
+Registrant Country:           DE
+Registrant Phone:             +49.403808980
+Registrant Fax:               +49.4038089810
+Registrant Email:             os@dothamburg.de
+Admin ID:                     HAMBURG-HAMBURG
+Admin Name:                   Oliver Joachim Sueme
+Admin Organization:           Hamburg Top-Level-Domain GmbH
+Admin Street:                 Gertigstrasse 28
+Admin City:                   Hamburg
+Admin State/Province:         Hamburg
+Admin Postal Code:            22303
+Admin Country:                DE
+Admin Phone:                  +49.403808980
+Admin Fax:                    +49.4038089810
+Admin Email:                  os@dothamburg.de
+Tech ID:                      TLDBOX-HAMBURG
+Tech Name:                    TLDBOX
+Tech Organization:            TLD-BOX Registrydienstleistungen GmbH
+Tech Street:                  Jakob-Haringer-Strasse 8
+Tech City:                    Salzburg
+Tech State/Province:          Salzburg
+Tech Postal Code:             5200
+Tech Country:                 AT
+Tech Phone:                   +43.662234548
+Tech Phone Ext:               730
+Tech Fax:                     +43.662234548
+Tech Fax Extension:           19
+Tech Email:                   iana@tld-box.at
+Name Server:                  sec1.rcode0.net
+Name Server:                  sec2.rcode0.net
+DNSSEC:                       Unsigned
+>>> Last update of Whois database: 2024-10-08T17:01:05Z <<<
+

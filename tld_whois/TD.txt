@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TD
+
+organisation: l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
+address:      Chad
+
+contact:      administrative
+name:         Ingenieur en Réseaux Telecoms
+organisation: ADETIC
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
+address:      Chad
+phone:        +235 63 31 90 90
+e-mail:       abatcha.moussa@adetic.td
+
+contact:      technical
+name:         Chef de Service Gestion du Noms de Domaines et des Adresses IP
+organisation: ADETIC
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
+address:      Chad
+phone:        +235 66 86 55 86
+e-mail:       batran.mahamat@adetic.td
+
+nserver:      ANYCASTDNS1.NIC.TD 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      ANYCASTDNS2.NIC.TD 185.28.194.194
+nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
+nserver:      PCH.NIC.TD 2001:500:14:6129:ad:0:0:1 204.61.216.129
+
+whois:        whois.nic.td
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.td
+
+created:      1997-11-03
+changed:      2024-07-18
+source:       IANA
+
+# whois.nic.td
+

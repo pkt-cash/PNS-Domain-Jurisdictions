@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EPSON
+
+organisation: Seiko Epson Corporation
+address:      4-1 Nishishinjuku 2-chome
+address:      Shinjuku-ku Tokyo 163-0811
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     61387 8 2 9183de01e842231d1f1f951de9b25c160dfddbab7411aadfc6fa69764b7d44e2
+
+whois:        whois.nic.epson
+
+status:       ACTIVE
+remarks:      Registration information: http://www.epson.com
+
+created:      2015-02-19
+changed:      2023-06-20
+source:       IANA
+
+# whois.nic.epson
+
+The queried object does not exist: NAMESERVER NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-08T16:59:38.0Z <<<
+

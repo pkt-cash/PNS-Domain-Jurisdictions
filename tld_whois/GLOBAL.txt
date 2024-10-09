@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GLOBAL
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         SVice President, Engineering
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.GLOBAL 2a01:8840:4e:0:0:0:0:1 65.22.80.1
+nserver:      A2.NIC.GLOBAL 2a01:8840:51:0:0:0:0:1 65.22.83.1
+nserver:      B0.NIC.GLOBAL 2a01:8840:4f:0:0:0:0:1 65.22.81.1
+nserver:      C0.NIC.GLOBAL 2a01:8840:50:0:0:0:0:1 65.22.82.1
+ds-rdata:     13060 8 2 5dd90e21ba23d0192e7f7148f56f7c20fe52b02074ac4baf8e611f1e6c7b878b
+
+whois:        whois.nic.global
+
+status:       ACTIVE
+remarks:      Registration information: https://donuts.domains/
+
+created:      2014-05-29
+changed:      2024-04-10
+source:       IANA
+
+# whois.nic.global
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:00:45Z <<<
+

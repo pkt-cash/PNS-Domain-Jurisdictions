@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BIO
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.BIO 2a01:8840:52:0:0:0:0:9 65.22.84.9
+nserver:      A2.NIC.BIO 2a01:8840:55:0:0:0:0:9 65.22.87.9
+nserver:      B0.NIC.BIO 2a01:8840:53:0:0:0:0:9 65.22.85.9
+nserver:      C0.NIC.BIO 2a01:8840:54:0:0:0:0:9 65.22.86.9
+ds-rdata:     16334 8 2 aeaf99ce9c6f64b1607605dae987d3bd0acd4c5490691322b98c592c9c27b14b
+
+whois:        whois.nic.bio
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-05-15
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.bio
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:54:38Z <<<
+

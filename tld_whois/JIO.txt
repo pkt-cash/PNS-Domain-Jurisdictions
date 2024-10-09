@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JIO
+
+organisation: Reliance Industries Limited
+address:      Building 2A, 1st floor, CA - 13
+address:      Reliance Corporate Park, Thane Belapur Road
+address:      Navi Mumbai Maharashtra 400701
+address:      India
+
+contact:      administrative
+name:         Saket Gadkari
+organisation: Reliance Industries Limited
+address:      Building 2A, 1st floor, CA - 13
+address:      Reliance Corporate Park, Thane Belapur Road
+address:      Navi Mumbai Maharashtra 400701
+address:      India
+phone:        +91.9967009933
+e-mail:       saket.gadkari@ril.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias Limited
+address:      c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.JIO 2a01:8840:ce:0:0:0:0:33 65.22.212.33
+nserver:      A2.NIC.JIO 2a01:8840:d1:0:0:0:0:33 65.22.215.33
+nserver:      B0.NIC.JIO 2a01:8840:cf:0:0:0:0:33 65.22.213.33
+nserver:      C0.NIC.JIO 2a01:8840:d0:0:0:0:0:33 65.22.214.33
+ds-rdata:     5476 8 2 d03f2390954d50f114b39620e940a7de9d1fb60661cdeb43757b5d4a76fa8180
+
+whois:        whois.nic.jio
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ril.com
+
+created:      2016-08-11
+changed:      2024-04-23
+source:       IANA
+
+# whois.nic.jio
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:01:58Z <<<
+

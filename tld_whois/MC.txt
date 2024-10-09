@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MC
+
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19 Avenue des Castelans
+address:      Entrée C
+address:      98000
+address:      Monaco
+
+contact:      administrative
+name:         Administrator
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19 Avenue des Castelans
+address:      Entrée C
+address:      98000
+address:      Monaco
+phone:        +377 98 98 88 00
+fax-no:       +377 97 98 56 57
+e-mail:       nic@gouv.mc
+
+contact:      technical
+name:         Administrator
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19 Avenue des Castelans
+address:      Entrée C
+address:      98000
+address:      Monaco
+phone:        +377 98 98 88 00
+fax-no:       +377 97 98 56 57
+e-mail:       nic@gouv.mc
+
+nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92
+nserver:      NS1.NIC.MC 185.243.3.205
+nserver:      NS2.NIC.MC 13.36.89.111
+nserver:      NS3.NIC.MC 15.237.153.29
+ds-rdata:     20677 8 2 81e94624ea1edd7ac7a412f0e5311b7d4d9500ffdb005e98b2fc610239331a9b
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.mc/
+
+created:      1995-01-20
+changed:      2023-06-30
+source:       IANA
+

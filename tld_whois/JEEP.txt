@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JEEP
+
+organisation: FCA US LLC.
+address:      1000 Chrysler Drive
+address:      Auburn Hills MI 48326
+address:      United States of America (the)
+
+contact:      administrative
+name:         Sales & Marketing - IT Services Aftersales
+organisation: FCA US LLC.
+address:      1000 Chrysler Drive
+address:      Auburn Hills MI 48326
+address:      United States of America (the)
+phone:        +1 248 512 2950
+fax-no:       +1 248 512 4053
+e-mail:       ngtld-fca@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.JEEP 2a01:8840:4a:0:0:0:0:41 65.22.76.41
+nserver:      A2.NIC.JEEP 2a01:8840:4d:0:0:0:0:41 65.22.79.41
+nserver:      B0.NIC.JEEP 2a01:8840:4b:0:0:0:0:41 65.22.77.41
+nserver:      C0.NIC.JEEP 2a01:8840:4c:0:0:0:0:41 65.22.78.41
+ds-rdata:     49999 8 2 f00a0b4b65adac570c2dbc81483367392ea9a86ffd17e4b3f042d446acd1ea4b
+
+whois:        whois.nic.jeep
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fcausllc.com/
+
+created:      2016-07-07
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.jeep
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:01:56Z <<<
+

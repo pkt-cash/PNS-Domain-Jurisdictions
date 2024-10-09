@@ -1,0 +1,68 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OVH
+
+organisation: OVH SAS
+address:      2, rue Kellermann
+address:      Roubaix 59100
+address:      France
+
+contact:      administrative
+name:         Technical Project Manager
+organisation: OVH SAS
+address:      2, rue Kellermann
+address:      Roubaix 59100
+address:      France
+phone:        +33 320827332
+fax-no:       +33 320839928
+e-mail:       whois@domain.ovh.net
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       pocovh@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
+
+whois:        whois.nic.ovh
+
+status:       ACTIVE
+remarks:      Registration information: https://www.ovh.com
+
+created:      2014-05-01
+changed:      2024-09-11
+source:       IANA
+
+# whois.nic.ovh
+
+Registrar:                     OVH
+Street:                        2 Rue Kellermann
+City:                          ROUBAIX
+Postal Code:                   59100
+Country:                       FR
+Phone Number:                  +33.974530000
+Email:                         support@ovh.net
+Registrar WHOIS Server:        whois.ovh.com
+Registrar URL:                 http://www.ovh.com
+Admin Contact:                 Antoine CALLOCH
+Phone Number:                  +33.320827332
+Email:                         registry-afnic-admin@ovh.net
+Tech Contact:                  Antoine CALLOCH
+Phone Number:                  +33.320827332
+Email:                         registry-afnic-tech@ovh.net
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-08T17:05:47.321257Z <<<
+
+# whois.ovh.com
+
+% 404

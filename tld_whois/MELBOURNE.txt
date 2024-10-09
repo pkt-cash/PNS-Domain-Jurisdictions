@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MELBOURNE
+
+organisation: The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation
+address:      Level 20, 80 Collins Street
+address:      Melbourne VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.MELBOURNE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MELBOURNE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MELBOURNE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     17374 8 2 6d9aaf608c610bea2a8ce99b8870e02e7ec8cd2a8c1a76d363cd813a682f5513
+
+whois:        whois.nic.melbourne
+
+status:       ACTIVE
+remarks:      Registration information: https://www.live.melbourne/
+
+created:      2014-07-03
+changed:      2024-04-17
+source:       IANA
+
+# whois.nic.melbourne
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:03:22Z <<<
+

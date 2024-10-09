@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BROTHER
+
+organisation: Brother Industries, Ltd.
+address:      15-1 Naeshiro-cho, Mizuho-ku
+address:      Nagoya Aichi 467-8561
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower, 26-1, Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       registry@brightsconsulting.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     6875 8 2 8955e563809e8dfe8f6b18fb0b23ad043dc6957e2aac1a5f2c8b4ca3244270eb
+
+whois:        whois.nic.brother
+
+status:       ACTIVE
+remarks:      Registration information: http://www.brother.com/
+
+created:      2015-04-09
+changed:      2023-06-20
+source:       IANA
+
+# whois.nic.brother
+
+The queried object does not exist: NAMESERVER NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-08T16:55:04.0Z <<<
+

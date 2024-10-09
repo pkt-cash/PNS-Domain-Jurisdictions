@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BERLIN
+
+organisation: dotBERLIN GmbH & Co. KG
+address:      Gustav-Mueller-Strasse 1
+address:      Berlin 10829
+address:      Germany
+
+contact:      administrative
+name:         Chief Executive Officer
+organisation: dotBERLIN GmbH & Co. KG
+address:      Gustav-Mueller-Strasse 1
+address:      Berlin 10829
+address:      Germany
+phone:        +49 30 49782354
+fax-no:       +49 30 49782356
+e-mail:       registry@dot.berlin
+
+contact:      technical
+name:         Technical Operations
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      Salzburg 5020
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       iana@tld-box.at
+
+nserver:      A.DNS.NIC.BERLIN 194.0.25.16 2001:678:20:0:0:0:0:16
+nserver:      M.DNS.NIC.BERLIN 194.0.26.5 2001:67c:10e0:0:0:0:0:5
+nserver:      N.DNS.NIC.BERLIN 194.0.24.5 2001:678:24:0:0:0:0:5
+ds-rdata:     47974 8 2 b1ddc962a9293cda1c2ae8f951c86a8f391248c50751ad61f642d46d0f644b41
+ds-rdata:     25424 8 2 479dd34641c6386048518f9a39aafba26172060ee36a91f478ebe521aa1cffd5
+
+whois:        whois.nic.berlin
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.berlin/
+
+created:      2013-12-19
+changed:      2022-05-18
+source:       IANA
+
+# whois.nic.berlin
+
+Domain Name:                  .berlin
+Creation Date:                2014-01-30T15:24:48Z
+Registry Expiry Date:         2015-01-30T15:24:48Z
+Sponsoring Registrar:         dotBERLIN GmbH &amp; Co. KG
+Sponsoring Registrar IANA ID: 9999
+Domain Status:                serverDeleteProhibited
+Domain Status:                serverTransferProhibited
+Registrant ID:                BERLIN-BERLIN
+Registrant Name:              Dirk Krischenowski
+Registrant Organization:      dotBERLIN GmbH & Co. KG
+Registrant Street:            Gustav-Mueller-Strasse 1
+Registrant City:              Berlin
+Registrant State/Province:    Berlin
+Registrant Postal Code:       10829
+Registrant Country:           DE
+Registrant Phone:             +49.304978
+Registrant Phone Ext:         2345
+Registrant Fax:               +49.304978
+Registrant Fax Extension:     2356
+Registrant Email:             krischenowski@dotberlin.de
+Admin ID:                     BERLIN-BERLIN
+Admin Name:                   Dirk Krischenowski
+Admin Organization:           dotBERLIN GmbH & Co. KG
+Admin Street:                 Gustav-Mueller-Strasse 1
+Admin City:                   Berlin
+Admin State/Province:         Berlin
+Admin Postal Code:            10829
+Admin Country:                DE
+Admin Phone:                  +49.304978
+Admin Phone Ext:              2345
+Admin Fax:                    +49.304978
+Admin Fax Extension:          2356
+Admin Email:                  krischenowski@dotberlin.de
+Tech ID:                      TLDBOX-BERLIN
+Tech Name:                    TLDBOX
+Tech Organization:            TLD-BOX Registrydienstleistungen GmbH
+Tech Street:                  Jakob-Haringer-Strasse 8
+Tech City:                    Salzburg
+Tech State/Province:          Salzburg
+Tech Postal Code:             5200
+Tech Country:                 AT
+Tech Phone:                   +43.662234548
+Tech Phone Ext:               730
+Tech Fax:                     +43.662234548
+Tech Fax Extension:           19
+Tech Email:                   iana@tld-box.at
+Name Server:                  sec1.rcode0.net
+Name Server:                  sec2.rcode0.net
+DNSSEC:                       Unsigned
+>>> Last update of Whois database: 2024-10-08T16:54:25Z <<<
+

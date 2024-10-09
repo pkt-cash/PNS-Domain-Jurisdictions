@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KI
+
+organisation: Ministry of Information, Communications and Transport (MICT)
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+
+contact:      administrative
+name:         Director of National ICT
+organisation: Ministry of Information, Communications and Transport
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+phone:        +686 26003
+e-mail:       dnict@mict.gov.ki
+
+contact:      technical
+name:         Kaboterenga Romatoa
+organisation: Communications Commission of Kiribati
+address:      Main Road
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+phone:        +686 25488
+e-mail:       kaboterenga.romatoa@cck.ki
+
+nserver:      ANYCASTDNS1.NIC.KI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      ANYCASTDNS2.NIC.KI 185.28.194.194
+nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
+ds-rdata:     59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
+
+whois:        whois.nic.ki
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ki
+
+created:      1995-04-19
+changed:      2024-02-06
+source:       IANA
+
+# whois.nic.ki
+
+Server can't process your request.

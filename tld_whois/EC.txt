@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EC
+
+organisation: ECUADORDOMAIN S.A.
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
+address:      Ecuador
+
+contact:      administrative
+name:         ECUADORDOMAIN S.A.
+organisation: ECUADORDOMAIN S.A.
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
+address:      Ecuador
+phone:        +593 98 432 4607
+e-mail:       administracion@nic.ec
+
+contact:      technical
+name:         ECUADORDOMAIN S.A.
+organisation: ECUADORDOMAIN S.A.
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
+address:      Ecuador
+phone:        +593 99 512 4454
+e-mail:       admin@nic.ec
+
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      N2.NIC.EC 200.12.199.1 2801:0:60:0:0:0:0:1
+nserver:      N3.DNS.EC 2001:500:14:6039:ad:0:0:1 204.61.216.39
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     35138 13 2 2de23508e6ac307fc11f86b8768025bff14e2b585d555b020e218ec65c9a0223
+
+whois:        whois.nic.ec
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ec
+
+created:      1991-02-01
+changed:      2024-04-10
+source:       IANA
+
+# whois.nic.ec
+

@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HM
+
+organisation: HM Domain Registry
+address:      PO Box 383
+address:      Dickson ACT 2602
+address:      Australia
+
+contact:      administrative
+name:         Edward Sweeney
+organisation: HM Domain Registry
+address:      PO Box 383
+address:      Dickson ACT 2602
+address:      Australia
+phone:        +612 6189 5260
+fax-no:       +612 6189 5261
+e-mail:       ed@capital.net.au
+
+contact:      technical
+name:         HM Hostmaster
+organisation: HM Domain Registry
+address:      PO Box 383
+address:      Dickson ACT 2602
+address:      Australia
+phone:        +61 2 6189 5260
+fax-no:       +61 2 6189 5261
+e-mail:       hostmaster@registry.hm
+
+nserver:      NS1.REGISTRY.HM 142.171.40.232
+nserver:      NS2.REGISTRY.HM 142.171.40.234
+nserver:      NS3.REGISTRY.HM 128.199.180.188
+
+whois:        whois.registry.hm
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.hm
+
+created:      1997-07-24
+changed:      2023-12-14
+source:       IANA
+
+# whois.registry.hm
+

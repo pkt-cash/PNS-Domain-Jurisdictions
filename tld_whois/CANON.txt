@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CANON
+
+organisation: Canon Inc.
+address:      30-2, Shimomaruko 3-chome
+address:      Ohta-ku Tokyo 1468501
+address:      Japan
+
+contact:      administrative
+name:         Representative Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 1508512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 1508512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     5225 8 2 9a1fc16a90acf3c7d3233480f45f595debdef3f71ae637bf3f8093670dda7d8a
+
+whois:        whois.nic.canon
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.canon
+
+created:      2015-01-29
+changed:      2019-08-20
+source:       IANA
+
+# whois.nic.canon
+
+The queried object does not exist: NAMESERVER NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-08T16:55:20.0Z <<<
+

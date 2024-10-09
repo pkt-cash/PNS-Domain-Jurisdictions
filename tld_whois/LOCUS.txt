@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LOCUS
+
+organisation: Locus Analytics LLC
+address:      179 Franklin Street
+address:      3rd Floor
+address:      New York NY 10013
+address:      United States of America (the)
+
+contact:      administrative
+name:         Sean Sandys
+organisation: Locus Analytics LLC
+address:      101 Elliott Avenue West, Suite 400
+address:      Seattle WA 98119
+address:      United States of America (the)
+phone:        +1 206 910 6225
+fax-no:       +1 212 883 2299
+e-mail:       sean@tyemill.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.LOCUS 213.248.219.11 2a01:618:403:0:0:0:0:11
+nserver:      DNS2.NIC.LOCUS 103.49.83.11 2401:fd80:403:0:0:0:0:11
+nserver:      DNS3.NIC.LOCUS 213.248.223.11 2a01:618:407:0:0:0:0:11
+nserver:      DNS4.NIC.LOCUS 2401:fd80:407:0:0:0:0:11 43.230.51.11
+nserver:      DNSA.NIC.LOCUS 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.LOCUS 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.LOCUS 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.LOCUS 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     23735 8 2 fb7c38be258c83cb17367ab656fe05f6a8a2a616feac4115dcecfa7da03a1214
+
+whois:        whois.nic.locus
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.locus
+
+created:      2016-02-26
+changed:      2021-11-25
+source:       IANA
+
+# whois.nic.locus
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T17:02:55Z <<<
+

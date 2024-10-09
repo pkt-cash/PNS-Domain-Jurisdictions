@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KERRYHOTELS
+
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+
+contact:      administrative
+name:         Legal Executive
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+phone:        +852 2525 7211
+fax-no:       +852 2845 9000
+e-mail:       ngtld-kerry3@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.KERRYHOTELS 2a01:8840:6e:0:0:0:0:53 65.22.112.53
+nserver:      A2.NIC.KERRYHOTELS 2a01:8840:71:0:0:0:0:53 65.22.115.53
+nserver:      B0.NIC.KERRYHOTELS 2a01:8840:6f:0:0:0:0:53 65.22.113.53
+nserver:      C0.NIC.KERRYHOTELS 2a01:8840:70:0:0:0:0:53 65.22.114.53
+ds-rdata:     59119 8 2 cabc1873ec8bc994e11443766b2eb1e6aaaa0f01ca1472b7ff03c4c7b818838a
+
+whois:        whois.nic.kerryhotels
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kerryprops.com
+
+created:      2015-12-17
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.kerryhotels
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:02:10Z <<<
+

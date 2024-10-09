@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VIRGIN
+
+organisation: Virgin Enterprises Limited
+address:      The Battleship Building
+address:      London England W2 6NB
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.VIRGIN 213.248.219.40 2a01:618:403:0:0:0:0:40
+nserver:      DNS2.NIC.VIRGIN 103.49.83.40 2401:fd80:403:0:0:0:0:40
+nserver:      DNS3.NIC.VIRGIN 213.248.223.40 2a01:618:407:0:0:0:0:40
+nserver:      DNS4.NIC.VIRGIN 2401:fd80:407:0:0:0:0:40 43.230.51.40
+nserver:      DNSA.NIC.VIRGIN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.VIRGIN 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.VIRGIN 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.VIRGIN 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     41930 8 2 64e74557cc76dd3bb05f8eb86ebf531b186d95e91bfdaa09f35fd620d960603a
+
+whois:        whois.nic.virgin
+
+status:       ACTIVE
+remarks:      Registration information: http://www.virgin.com
+
+created:      2015-09-10
+changed:      2021-10-19
+source:       IANA
+
+# whois.nic.virgin
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T17:14:35Z <<<
+

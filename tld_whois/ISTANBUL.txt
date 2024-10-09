@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ISTANBUL
+
+organisation: Istanbul Metropolitan Municipality
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1
+address:      Beyoğlu/İstanbul 34440
+address:      Turkey
+
+contact:      administrative
+name:         Registry Manager
+organisation: Istanbul Metropolitan Municipality
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1
+address:      Beyoğlu/İstanbul 34440
+address:      Turkey
+phone:        +90.2123128920
+fax-no:       +90.2124495115
+e-mail:       registry.iana@ibb.gov.tr
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ISTANBUL 2a01:8840:8e:0:0:0:0:9 65.22.144.9
+nserver:      A2.NIC.ISTANBUL 2a01:8840:91:0:0:0:0:9 65.22.147.9
+nserver:      B0.NIC.ISTANBUL 2a01:8840:8f:0:0:0:0:9 65.22.145.9
+nserver:      C0.NIC.ISTANBUL 2a01:8840:90:0:0:0:0:9 65.22.146.9
+ds-rdata:     61630 8 2 3ebb91801cf0d1a67a84b4f1e265b248a3e3b0459c30d3631955e98a31a430d8
+
+whois:        whois.nic.istanbul
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.istanbul
+
+created:      2015-05-29
+changed:      2023-08-03
+source:       IANA
+
+# whois.nic.istanbul
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:01:51Z <<<
+

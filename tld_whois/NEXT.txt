@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NEXT
+
+organisation: Next plc
+address:      Desford Road
+address:      Enderby Leicestershire LE19 4AT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Head of Ecommerce
+organisation: Next plc
+address:      Desford Road
+address:      Enderby Leicestershire LE19 4AT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 844 844 8888
+e-mail:       ngtld-next@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.NEXT 2a01:8840:6e:0:0:0:0:62 65.22.112.62
+nserver:      A2.NIC.NEXT 2a01:8840:71:0:0:0:0:62 65.22.115.62
+nserver:      B0.NIC.NEXT 2a01:8840:6f:0:0:0:0:62 65.22.113.62
+nserver:      C0.NIC.NEXT 2a01:8840:70:0:0:0:0:62 65.22.114.62
+ds-rdata:     39380 8 2 fd76f1a70049cc1383d9da8cbe33917b5877152f2d976e1a0806ca79c00f4658
+
+whois:        whois.nic.next
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2016-04-21
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.next
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:05:15Z <<<
+

@@ -1,0 +1,62 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IE
+
+organisation: University College Dublin
+organisation: Computing Services
+organisation: Computer Centre
+address:      Belfield
+address:      Dublin Dublin 4
+address:      Ireland
+
+contact:      administrative
+name:         Chief Executive
+organisation: IE Domain Registry Limited
+address:      2 Harbour Square
+address:      Dún Laoghaire
+address:      Dublin Dublin 2
+address:      Ireland
+phone:        +353 1 236 5412
+fax-no:       +353 1 230 1273
+e-mail:       tld-admin@weare.ie
+
+contact:      technical
+name:         Technical Services Manager
+organisation: IE Domain Registry Limited
+address:      2 Harbour Square
+address:      Dún Laoghaire
+address:      Dublin Dublin 2
+address:      Ireland
+phone:        +353 1 236 5421
+fax-no:       +353 1 230 1273
+e-mail:       tld-tech@weare.ie
+
+nserver:      A.NS.IE 2a01:4b0:0:0:0:0:0:40 77.72.72.40
+nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
+nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
+nserver:      E.NS.IE 185.159.199.210 2620:10a:80ac:0:0:0:0:210
+nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
+nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
+ds-rdata:     5150 13 2 8783faf3cc1a482638f1a822a92b6a0ffb791ab2a442232778acabfca26fea31
+
+whois:        whois.weare.ie
+
+status:       ACTIVE
+remarks:      Registration information: http://www.weare.ie
+
+created:      1988-01-27
+changed:      2024-10-07
+source:       IANA
+
+# whois.weare.ie
+
+
+% Dot IE domain names must:
+	-be less than 66 characters in length, including the '.ie' characters
+	-not start with a hyphen '-'
+	-not have a label ending in a hyphen before the '.ie' e.g. 'xyz-.ie'
+	-not start with 'xn--' which is reserved for IDN usage, e.g. éire.ie
+	-not contain any characters outside the range of a-z 0-9 á é í ó ú and - (hyphen)

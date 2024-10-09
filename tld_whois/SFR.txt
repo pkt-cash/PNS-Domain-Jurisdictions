@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SFR
+
+organisation: Societe Francaise du Radiotelephone - SFR
+address:      12 Rue Jean-Philippe Rameau
+address:      CS80001
+address:      Cedex
+address:      La Plaine Saint Denis  93634
+address:      France
+
+contact:      administrative
+name:         Frederic Guillemaut
+organisation: SafeBrands
+address:      SafeBrands
+address:      37 Rue Guibal
+address:      Pôle Media
+address:      Cedex
+address:      Marseille  13003
+address:      France
+phone:        +33488662207
+fax-no:       +33488662220
+e-mail:       tldsfr@safebrands.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.SFR 194.169.218.100 2001:67c:13cc:0:0:0:1:100
+nserver:      B.NIC.SFR 185.24.64.100 2a04:2b00:13cc:0:0:0:1:100
+nserver:      C.NIC.SFR 212.18.248.100 2a04:2b00:13ee:0:0:0:0:100
+nserver:      D.NIC.SFR 212.18.249.100 2a04:2b00:13ff:0:0:0:0:100
+ds-rdata:     58083 13 2 14a8a386f7a03b845ebd3b58aa143b9a558bb1a93eb8bb121c03291dd6d537e6
+ds-rdata:     25496 13 2 7516102f6d1f3343dabe0533df34c30b3f189dae89d61f691078ddc753653d9c
+
+whois:        whois.nic.sfr
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-11-12
+changed:      2024-01-31
+source:       IANA
+
+# whois.nic.sfr
+
+INVALID QUERY

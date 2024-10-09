@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CZ
+
+organisation: CZ.NIC, z.s.p.o
+address:      Milesovska 5
+address:      Prague 130 00
+address:      Czechia
+
+contact:      administrative
+name:         Ondrej Filip
+organisation: CZ.NIC, z.s.p.o.
+address:      Milesovska 5
+address:      Prague 130 00
+address:      Czechia
+phone:        +420 222745111
+fax-no:       +420 222745112
+e-mail:       admin@nic.cz
+
+contact:      technical
+name:         Martin Peterka
+organisation: CZ.NIC, z.s.p.o.
+address:      Milesovska 5
+address:      Prague 130 00
+address:      Czechia
+phone:        +420 222745111
+fax-no:       +420 222745112
+e-mail:       tech@nic.cz
+
+nserver:      A.NS.NIC.CZ 194.0.12.1 2001:678:f:0:0:0:0:1
+nserver:      B.NS.NIC.CZ 194.0.13.1 2001:678:10:0:0:0:0:1
+nserver:      C.NS.NIC.CZ 194.0.14.1 2001:678:11:0:0:0:0:1
+nserver:      D.NS.NIC.CZ 193.29.206.1 2001:678:1:0:0:0:0:1
+ds-rdata:     20237 13 2 cff0f3ecdbc529c1f0031ba1840bfb835853b9209ed1e508fff48451d7b778e2
+
+whois:        whois.nic.cz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.cz/
+
+created:      1993-01-13
+changed:      2023-03-07
+source:       IANA
+
+# whois.nic.cz
+
+Your connection limit exceeded. Please slow down and try again later.

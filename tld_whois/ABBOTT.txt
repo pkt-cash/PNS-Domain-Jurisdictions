@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ABBOTT
+
+organisation: Abbott Laboratories, Inc.
+address:      100 Abbott Park Road
+address:      Dept. G397, Bldg. AP6D-2
+address:      Abbott Park IL 60064
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Associate
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       abbottregistry@fairwindspartners.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ABBOTT 2a01:8840:9a:0:0:0:0:41 65.22.156.41
+nserver:      A2.NIC.ABBOTT 2a01:8840:9d:0:0:0:0:41 65.22.159.41
+nserver:      B0.NIC.ABBOTT 2a01:8840:9b:0:0:0:0:41 65.22.157.41
+nserver:      C0.NIC.ABBOTT 2a01:8840:9c:0:0:0:0:41 65.22.158.41
+ds-rdata:     41764 8 2 04c4003cf06316c866df2dcf23304b3a25d30778ac1a838f986350010d2647ce
+
+whois:        whois.nic.abbott
+
+status:       ACTIVE
+remarks:      Registration information: http://www.abbott.com
+
+created:      2014-11-20
+changed:      2023-08-16
+source:       IANA
+
+# whois.nic.abbott
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:51:03Z <<<
+

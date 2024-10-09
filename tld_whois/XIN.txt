@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       XIN
+
+organisation: Elegant Leader Limited
+address:      25/F Jubilee Centre
+address:      18 Fenwick Street
+address:      Wanchai
+address:      Hong Kong
+address:      China
+
+contact:      administrative
+name:         Nan Chu
+organisation: Elegant Leader Limited
+address:      HiChina Mansion
+address:      No.27 Gulouwai Avenue,
+address:      Dongcheng District
+address:      Beijing 100120
+address:      China
+phone:        +86 10 65985888 ext. 49971
+fax-no:       +86 10 65985608
+e-mail:       antonia.cn@alibaba-inc.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XIN 2a01:8840:7e:0:0:0:0:17 65.22.128.17
+nserver:      A2.NIC.XIN 2a01:8840:81:0:0:0:0:17 65.22.131.17
+nserver:      B0.NIC.XIN 2a01:8840:7f:0:0:0:0:17 65.22.129.17
+nserver:      C0.NIC.XIN 2a01:8840:80:0:0:0:0:17 65.22.130.17
+ds-rdata:     2809 8 2 3bbba82ef5ee5583f6743af83a583f203153df0c2066f8707a735dc514474bf4
+
+whois:        whois.nic.xin
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotxin.org
+
+created:      2015-02-19
+changed:      2023-08-14
+source:       IANA
+
+# whois.nic.xin
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:15:05Z <<<
+

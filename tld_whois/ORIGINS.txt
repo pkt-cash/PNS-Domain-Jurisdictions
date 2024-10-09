@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ORIGINS
+
+organisation: The Estée Lauder Companies Inc.
+address:      767 Fifth Avenue
+address:      New York NY 10153
+address:      United States of America (the)
+
+contact:      administrative
+name:         Associate Counsel
+organisation: The Estee Lauder Companies Inc.
+address:      767 Fifth Avenue
+address:      New York NY 10153
+address:      United States of America (the)
+phone:        +1 212.572.4200
+fax-no:       +1 212.277.2355
+e-mail:       ngtld-estee@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ORIGINS 2a01:8840:32:0:0:0:0:33 65.22.52.33
+nserver:      A2.NIC.ORIGINS 2a01:8840:35:0:0:0:0:33 65.22.55.33
+nserver:      B0.NIC.ORIGINS 2a01:8840:33:0:0:0:0:33 65.22.53.33
+nserver:      C0.NIC.ORIGINS 2a01:8840:34:0:0:0:0:33 65.22.54.33
+ds-rdata:     25234 8 2 5290155e291fba766eb200f5e95ac883babfbbfda64f5ad243068c7c8dc6019b
+
+whois:        whois.nic.origins
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://elcompanies.com/Pages/Homepage.aspx
+
+created:      2015-12-10
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.origins
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:05:43Z <<<
+

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SHELL
+
+organisation: Shell Information Technology International Inc
+address:      1500 Old Spanish Trail
+address:      Houston TX 77054-1818
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President Communications
+organisation: Shell International Limited
+address:      Shell Centre
+address:      London SE1 7NA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 207 421 7790
+fax-no:       +44 87 0011 8187
+e-mail:       registry@comlaude.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      DNS1.NIC.SHELL 213.248.219.137 2a01:618:403:0:0:0:0:137
+nserver:      DNS2.NIC.SHELL 103.49.83.137 2401:fd80:403:0:0:0:0:137
+nserver:      DNS3.NIC.SHELL 213.248.223.137 2a01:618:407:0:0:0:0:137
+nserver:      DNS4.NIC.SHELL 2401:fd80:407:0:0:0:0:137 43.230.51.137
+ds-rdata:     55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
+ds-rdata:     63424 8 2 8429208f879143266aa1eec685057c5c099912031d27bd1e0bc61732036b4d50
+
+whois:        whois.nic.shell
+
+status:       ACTIVE
+remarks:      Registration information: http://www.shell.com
+
+created:      2015-11-06
+changed:      2024-10-04
+source:       IANA
+
+# whois.nic.shell
+
+No match for "SHELL".
+>>> Last update of WHOIS database: 2024-10-08T17:08:46Z <<<
+

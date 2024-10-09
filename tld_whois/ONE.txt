@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ONE
+
+organisation: One.com A/S
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+
+contact:      administrative
+name:         Karsten Heimbürger
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       kmj@oneregistry.co
+
+contact:      technical
+name:         Karsten Heimbürger
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       operations@oneregistry.co
+
+nserver:      A.NIC.ONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.ONE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.ONE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.ONE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     64939 8 2 32961f5f8cbfc0a1714eb5589e9cb54e83e1340380b5d76ead661d58ea55de9d
+
+whois:        whois.nic.one
+
+status:       ACTIVE
+remarks:      Registration information: http://www.one.com/
+
+created:      2014-12-18
+changed:      2023-12-05
+source:       IANA
+
+# whois.nic.one
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:05:37Z <<<
+

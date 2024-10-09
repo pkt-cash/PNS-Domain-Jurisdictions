@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HAIR
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.HAIR 194.169.218.117 2001:67c:13cc:0:0:0:1:117
+nserver:      B.NIC.HAIR 185.24.64.117 2a04:2b00:13cc:0:0:0:1:117
+nserver:      C.NIC.HAIR 212.18.248.117 2a04:2b00:13ee:0:0:0:0:117
+nserver:      D.NIC.HAIR 212.18.249.117 2a04:2b00:13ff:0:0:0:0:117
+ds-rdata:     39236 8 2 d8c88daa478496c4f99a8cb5cacb0746cdde2612e9668beb6f7d683ac220313b
+ds-rdata:     30070 8 2 70efc235a8da1ce4cafcb1fdfba2bd6115ad02b6062adebc6e8ab91ca3a6bd79
+
+whois:        whois.nic.hair
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.hair/
+
+created:      2016-09-16
+changed:      2024-03-11
+source:       IANA
+
+# whois.nic.hair
+
+INVALID QUERY

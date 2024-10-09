@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SL
+
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
+
+contact:      administrative
+name:         Adel Suliman
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
+phone:        +232 22 235981
+fax-no:       +232 22 224439
+e-mail:       adel@afcomnetwork.net
+
+contact:      technical
+name:         Adam Ben-Gur
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
+phone:        +232 22 235981
+fax-no:       +232 22 224439
+e-mail:       adam@neoip.com
+
+nserver:      NS1.NEOIP.COM 51.195.14.249
+nserver:      NS2.NEOIP.COM 45.83.41.38
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.sl
+
+created:      1997-05-09
+changed:      2021-10-08
+source:       IANA
+

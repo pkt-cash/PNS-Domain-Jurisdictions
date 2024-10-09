@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAS
+
+organisation: Research IP LLC
+address:      100 Matrix Drive
+address:      Cary NC 27513
+address:      United States of America (the)
+
+contact:      administrative
+name:         Karen Day
+organisation: SAS Institute Inc.
+address:      SAS Campus Drive
+address:      Cary NC 27513
+address:      United States of America (the)
+phone:        +19195316016
+fax-no:       +19196774444
+e-mail:       gtldinfo@sas.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.SAS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SAS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SAS 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.SAS 156.154.169.39 2610:a1:1071:0:0:0:1:27
+nserver:      NS2.DNS.NIC.SAS 156.154.170.39 2610:a1:1072:0:0:0:1:27
+nserver:      NS3.DNS.NIC.SAS 156.154.171.39 2610:a1:1073:0:0:0:1:27
+ds-rdata:     55987 8 2 75e65d4917a0980aa1cccc56b99c58c86a5a2d62efee4d1de37f672ac7ae8e7b
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sas.com
+
+created:      2015-11-20
+changed:      2024-05-11
+source:       IANA
+

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CONSULTING
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.CONSULTING 2a01:8840:1a:0:0:0:0:65 65.22.24.65
+nserver:      V0N1.NIC.CONSULTING 2a01:8840:1b:0:0:0:0:65 65.22.25.65
+nserver:      V0N2.NIC.CONSULTING 2a01:8840:1c:0:0:0:0:65 65.22.26.65
+nserver:      V0N3.NIC.CONSULTING 161.232.12.65 2a01:8840:f6:0:0:0:0:65
+nserver:      V2N0.NIC.CONSULTING 2a01:8840:1d:0:0:0:0:65 65.22.27.65
+nserver:      V2N1.NIC.CONSULTING 161.232.13.65 2a01:8840:f7:0:0:0:0:65
+ds-rdata:     62590 8 2 d5e3b9150e958295e81d8760002ff9e5cffd91f95903581e648465a2abcbe2f0
+
+whois:        whois.nic.consulting
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-01-30
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.consulting
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:56:02Z <<<
+

@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BBT
+
+organisation: BB&T Corporation
+address:      200 West Second Street
+address:      Winston Salem NC 27101
+address:      United States of America (the)
+
+contact:      administrative
+name:         AVP Strategy Analyst
+organisation: BB&T Corporation
+address:      200 West Second Street
+address:      Winston Salem NC 27101
+address:      United States of America (the)
+phone:        +1 919 745 5328
+fax-no:       +1 919 791 3356
+e-mail:       ngtld-bbt@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.BBT 2a01:8840:6e:0:0:0:0:44 65.22.112.44
+nserver:      A2.NIC.BBT 2a01:8840:71:0:0:0:0:44 65.22.115.44
+nserver:      B0.NIC.BBT 2a01:8840:6f:0:0:0:0:44 65.22.113.44
+nserver:      C0.NIC.BBT 2a01:8840:70:0:0:0:0:44 65.22.114.44
+ds-rdata:     41827 8 2 06a56f660dff926af3c13ea685e7322ebcae343d10a15aa9815f27e959b24ee5
+
+whois:        whois.nic.bbt
+
+status:       ACTIVE
+remarks:      Registration information: http://bbt.com
+
+created:      2016-05-12
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.bbt
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:54:20Z <<<
+

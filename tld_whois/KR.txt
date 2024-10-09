@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KR
+
+organisation: Korea Internet & Security Agency (KISA)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+
+contact:      administrative
+name:         Kilnam Chon
+organisation: Korea Network Information Center (KRNIC)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+phone:        +82 10 8581 3514
+fax-no:       +82 61 820 2611
+e-mail:       chonkn@gmail.com
+
+contact:      technical
+name:         KRNIC Tech Team Manager
+organisation: Korea Internet & Security Agency (KISA)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+phone:        +82 61 820 1161
+fax-no:       +82 61 820 2611
+e-mail:       techc@kisa.or.kr
+
+nserver:      B.DNS.KR 210.101.60.1
+nserver:      C.DNS.KR 210.101.61.1
+nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 2001:dcc:6:0:0:0:0:1 210.101.62.1
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
+ds-rdata:     61615 8 2 ed570aadc88713ce2775fb8affb2ad782d056ea21d0677e147f2fb7bf54404da
+
+whois:        whois.kr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.or.kr/
+
+created:      1986-09-29
+changed:      2020-07-16
+source:       IANA
+
+# whois.kr
+
+query:kr
+
+
+# KOREAN(UTF8)
+
+본 조회는 조회 형식이 옳지 않습니다.
+아래 주소 조회 예제를 확인하신 후 다시 조회하여 주시기 바랍니다.
+
+도메인 네임 검색    : 예) kisa.or.kr
+IPv4 검색           : 예) 202.30.50.0
+IPv6 검색           : 예) 2001:02B8:00A2:: 또는 2001:02B8:00A2::/48
+AS번호 검색         : 예) AS9700
+한글 도메인 검색    : 예) 한국인터넷정보센터.kr 또는 한국인터넷정보센터.한국
+
+
+# ENGLISH
+
+The query type is incorrect.
+Please see the following query examples and try again.
+
+Domain Name Search  : ex) kisa.or.kr
+IPv4 Address Search : ex) 202.30.50.0
+IPv6 Address Search : ex) 2001:02B8:00A2:: or 2001:02B8:00A2::/48
+AS Number Search    : ex) AS9700
+
+%%error 350 Invalid Query Syntax
+
+- KISA/KRNIC WHOIS Service -
+
+

@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STATEBANK
+
+organisation: STATE BANK OF INDIA
+address:      State Bank Bhavan, Madame Cama Road, Nariman Point
+address:      Mumbai Maharashtra 400021
+address:      India
+
+contact:      administrative
+name:         IT-NW&MS Department
+organisation: State Bank of India
+address:      GITC, Belapur Sector-11
+address:      Navi Mumbai Maharashtra 400614
+address:      India
+phone:        +91.22.27566061
+fax-no:       +91.22.27577373-76
+e-mail:       gtld@sbi.co.in
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.STATEBANK 2a01:8840:aa:0:0:0:0:1 65.22.176.1
+nserver:      A2.NIC.STATEBANK 2a01:8840:ad:0:0:0:0:1 65.22.179.1
+nserver:      B0.NIC.STATEBANK 2a01:8840:ab:0:0:0:0:1 65.22.177.1
+nserver:      C0.NIC.STATEBANK 2a01:8840:ac:0:0:0:0:1 65.22.178.1
+ds-rdata:     6556 8 2 cef021e759c80743ac2b871f39db1aac7bfb542244b74ebd5c98776f5d4d844a
+
+whois:        whois.nic.statebank
+
+status:       ACTIVE
+remarks:      Registration information: https://www.sbi.co.in
+
+created:      2016-03-24
+changed:      2023-08-16
+source:       IANA
+
+# whois.nic.statebank
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:09:24Z <<<
+

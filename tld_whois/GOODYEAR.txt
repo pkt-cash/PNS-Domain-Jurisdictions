@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GOODYEAR
+
+organisation: The Goodyear Tire & Rubber Company
+address:      1144 East Market Street
+address:      Akron OH 44315
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Counsel - Intellectual Property
+organisation: The Goodyear Tire & Rubber Company
+address:      1144 East Market Street
+address:      Akron OH 44315
+address:      United States of America (the)
+phone:        +1.330.796.2121
+fax-no:       +1.330.796.2122
+e-mail:       ngtld-goodyear@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.GOODYEAR 2a01:8840:76:0:0:0:0:41 65.22.120.41
+nserver:      A2.NIC.GOODYEAR 2a01:8840:79:0:0:0:0:41 65.22.123.41
+nserver:      B0.NIC.GOODYEAR 2a01:8840:77:0:0:0:0:41 65.22.121.41
+nserver:      C0.NIC.GOODYEAR 2a01:8840:78:0:0:0:0:41 65.22.122.41
+ds-rdata:     43276 8 2 31677e86241af9fac9000ae3681f1054bb94fade26d91a92109547d4231a64bc
+
+whois:        whois.nic.goodyear
+
+status:       ACTIVE
+remarks:      Registration information: https://www.goodyear.com/
+
+created:      2015-12-17
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.goodyear
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:00:53Z <<<
+

@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       公益
+domain-ace:   XN--55QW42G
+
+organisation: China Organizational Name Administration Center
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
+address:      China
+
+contact:      administrative
+name:         Director of Department of International Affairs and Policy Analysis
+organisation: China Organizational Name Administration Center
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
+address:      China
+phone:        +8610-6900 1152
+fax-no:       +8610-6900 1153
+e-mail:       technical_cn@163.com
+
+contact:      technical
+name:         Director of Department of R&D
+organisation: China Organizational Name Administration Center
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
+address:      China
+phone:        +8610-6900 1432
+fax-no:       +8610- 6900 1153
+e-mail:       technical_cn@163.com
+
+nserver:      NS1.CONAC.CN 111.235.161.1 2401:b400:1:0:0:0:0:1
+nserver:      NS2.CONAC.CN 111.235.162.1 2401:b400:8:0:0:0:0:1
+nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
+nserver:      NS4.CONAC.CN 111.235.164.1
+nserver:      NS5.CONAC.CN 111.235.165.1
+ds-rdata:     48226 8 2 a16754c480e58c0d17126b3baf93f32bac39a916cf9d1f6f3a1f5c33687be80f
+ds-rdata:     21055 8 2 0d6f3aa00bb63f959e87931fea3f5d6e18a7c0f9f1408bfdf34113d88b191d37
+
+whois:        whois.conac.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.conac.cn
+
+created:      2013-12-12
+changed:      2024-07-18
+source:       IANA
+
+# whois.conac.cn
+
+Not find MatchingRecord
+
+使用条款:您无权通过高容量及自动的电子处理程序访问或查询我们的WHOIS数据库，除非是合理且必需的注册域名或者是变更现有的登记。CONAC提供的WHOIS数据库仅供您的参考，其目的在于协助您获得与域名注册记录有关的信息，CONAC不保证相关数据的准确性、充分性或完整性，并且对于此类数据的任何错误、遗漏、其他缺陷、延迟或中断，或者依据此类数据而采取的任何行动，均不承担任何责任。对于您因使用我们的数据而受到的任何损失，CONAC不承担任何责任。一旦您提交了域名注册查询，就意味着您无论在何种情况下使用此数据仅用于合法用途。您同意不得使用此类数据用于：（1）通过电子邮件、电话或传真来支持未经请求的大量商业广告，或者；（2）允许高容量的、自动的电子处理程序来运用于CONAC或其计算机系统。禁止编译、重新包装、传播或其他目的来使用该数据，除非事先得到CONAC的书面同意。您同意在未获得书面允许的情况下，不会对WHOIS的数据或信息进行复制、修改、重新设置格式、再造、重新处理、传输或再分发，也不会在其他情形下使用此类数据或信息。所有数据和信息都是"按原样"提供的，并且仅用于向您自己提供参考信息，而不是用于交易目的或明确建议。您同意不使用高容量且自动化的电子处理程序来访问或查询WHOIS数据库除非您合理且必需注册域名或修改现有的登记。CONAC保留限制您自行访问WHOIS数据库的权利以确保操作稳定性。CONAC可能由于您没有遵守上述条款而限制或终止您访问WHOIS数据库。CONAC保留随时修改上述条款的权利。注册数据只包括".政务(xn--zfr164b)"和".公益(xn--55qw42g)"域名数据、域名注册服务机构数据和名称服务器数据。
+
+You have no right to access our WHOIS database via high capacity and automated processing programs, unless for the need of rational and necessary domain name registrations and updates. The WHOIS database provided by CONAC assists you to obtain information about domain name registration records, and is only for your reference. CONAC does not guarantee the accuracy, sufficiency and integrity of the data, and is not liable for of errors, omissions, defects, delay or interruption of the data. CONAC will not take any action to modify any of above data, and is not responsible for any compensation caused by using the data. Once a query is submitted, it means you use the data only for legitimate purposes in any circumstances. You agree NOT to use the data for the purposes of: (1) spreading unsolicited emails, calls and faxes for marketing; or (2) allowing high capacity and automated processing programs to run in any computer systems of CONAC. Any compilation, repackaging, spreading and other use of the data shall have the prior written consent from CONAC.You agree not to copy, modify, reformat, rebuild, reconstitute, transfer, redistribute or use of the WHOIS data and information in all circumstances without CONAC’s written consent. All data and information are provided in "original form",and are only used to offer reference information, not for trade purposes or giving specific suggestions.You agree not to use highly automated electronic processing programs to access the WHOIS database, unless you have to register certain domain name or modify current registration in a reasonable manner.CONAC reserves the right to restrict your access to the WHOIS database to ensure the stability of operations. In violations of above terms, CONAC may restrict or terminate your access to the WHOIS database. CONAC reserves the right to modify above terms at any time (without prior notice).Registration data only contains ".政务(xn--zfr164b)"and".公益(xn--55qw42g)"domain names and registrars.

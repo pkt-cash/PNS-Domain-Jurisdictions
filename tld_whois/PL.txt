@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PL
+
+organisation: Research and Academic Computer Network
+address:      Kolska 12
+address:      Warsaw 01-045
+address:      Poland
+
+contact:      administrative
+name:         NASK Admin-C
+organisation: Research and Academic Computer Network
+address:      Kolska 12
+address:      Warsaw 01-045
+address:      Poland
+phone:        +48 22 380 8200
+fax-no:       +48 22 380 8201
+e-mail:       pl-admin@dns.pl
+
+contact:      technical
+name:         NASK Tech-C
+organisation: Research and Academic Computer Network
+address:      Kolska 12
+address:      Warsaw 01-045
+address:      Poland
+phone:        +48 22 380 8200
+fax-no:       +48 22 380 8201
+e-mail:       pl-tech@dns.pl
+
+nserver:      A-DNS.PL 192.102.225.53 2001:7f9:0:0:0:0:0:53
+nserver:      B-DNS.PL 192.195.72.53 2001:7f9:c:0:0:0:0:53
+nserver:      D-DNS.PL 185.159.197.48 2620:10a:80aa:0:0:0:0:48
+nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
+nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
+nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
+ds-rdata:     48559 8 2 6c7d94c6f25556eeb180ef5e3e9237f2247597f28dca8d7fa63b3a1a45b79a4f
+
+whois:        whois.dns.pl
+
+status:       ACTIVE
+remarks:      Registration information: https://www.dns.pl/en/
+
+created:      1990-07-30
+changed:      2024-01-22
+source:       IANA
+
+# whois.dns.pl
+
+Incorrect domain name: PL

@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GRAINGER
+
+organisation: Grainger Registry Services, LLC
+address:      100 Grainger Pkwy
+address:      Lake Forest IL 60045
+address:      United States of America (the)
+
+contact:      administrative
+name:         Erwin Cruz
+organisation: Grainger Registry Services, LLC
+address:      100 Grainger Pkwy
+address:      Lake Forest IL 60045
+address:      United States of America (the)
+phone:        +1 847-535-4709
+fax-no:       +1 847-535-9243
+e-mail:       graingerregistryservices@grainger.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.GRAINGER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.GRAINGER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.GRAINGER 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.GRAINGER 156.154.144.68 2610:a1:1071:0:0:0:0:44
+nserver:      NS2.DNS.NIC.GRAINGER 156.154.145.68 2610:a1:1072:0:0:0:0:44
+nserver:      NS3.DNS.NIC.GRAINGER 156.154.159.68 2610:a1:1073:0:0:0:0:44
+ds-rdata:     19057 8 2 21adfc98b30b8a046a117c926c36ce7d890ed1c98a7168049332af0afe19c08b
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.grainger.com
+
+created:      2015-10-29
+changed:      2024-05-11
+source:       IANA
+

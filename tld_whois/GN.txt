@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GN
+
+organisation: Centre National des Sciences Halieutiques de Boussoura
+address:      BP 1984
+address:      Conakry
+address:      Guinea
+
+contact:      administrative
+name:         Boubacar 55 Barry
+organisation: Association en charge pour le Nommage Internet en Coopération de la République de Guinée 'NIC.GN'
+address:      B.P 6505, Ratoma Centre, Commune de Ratoma
+address:      Conakry
+address:      Guinea
+phone:        +224 628 592 833
+e-mail:       president@nic.org.gn
+
+contact:      technical
+name:         Abdoul Khader Gakou
+organisation: Agence Nationale de Digitalisation de l’Etat (ANDE)
+address:      BP 5000, Kipé 'Immeuble Pacific,' Commune of Ratoma
+address:      Conakry
+address:      Guinea
+phone:        +224 622 298 656
+e-mail:       abdoulkhader.gakou@ande.gov.gn
+
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      NS-GN.AFRINIC.NET 196.216.168.49 2001:43f8:120:0:0:0:0:49
+nserver:      NS-PCH.GN 2001:500:14:6147:ad:0:0:1 204.61.216.147
+nserver:      NS1.GN 41.77.190.237
+ds-rdata:     9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
+
+whois:        whois.ande.gov.gn
+
+status:       ACTIVE
+remarks:      Registration information: https://ande.gov.gn/dns-gn/
+
+created:      1994-08-09
+changed:      2023-12-11
+source:       IANA
+
+# whois.ande.gov.gn
+

@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TUI
+
+organisation: TUI AG
+address:      Karl-Wiechert-Allee 4
+address:      Lower Saxony
+address:      Hannover 30625
+address:      Germany
+
+contact:      administrative
+name:         Senior Manager, Trademarks, Patents
+organisation: TUI AG
+address:      Karl-Wiechert-Allee 4
+address:      Lower Saxony
+address:      Hannover 30625
+address:      Germany
+phone:        +49.5115661111
+fax-no:       +49.5115661097
+e-mail:       domain@tui.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.TUI 194.169.218.103 2001:67c:13cc:0:0:0:1:103
+nserver:      B.NIC.TUI 185.24.64.103 2a04:2b00:13cc:0:0:0:1:103
+nserver:      C.NIC.TUI 212.18.248.103 2a04:2b00:13ee:0:0:0:0:103
+nserver:      D.NIC.TUI 212.18.249.103 2a04:2b00:13ff:0:0:0:0:103
+ds-rdata:     35342 8 2 60bac1e816660ea6cc89bbe453c4cac50ee7fbc9bbac3ca6f8eebfb1a24af721
+ds-rdata:     23341 8 2 6e0f7acb53334cd152a11d99f274fc3bb7da5aeb5ee1d08b74490ce25e116642
+
+whois:        whois.nic.tui
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tuiregistry.com
+
+created:      2014-09-18
+changed:      2024-05-28
+source:       IANA
+
+# whois.nic.tui
+
+INVALID QUERY

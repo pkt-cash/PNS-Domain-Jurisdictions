@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CHRISTMAS
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.CHRISTMAS 194.169.218.153 2001:67c:13cc:0:0:0:1:153
+nserver:      B.NIC.CHRISTMAS 185.24.64.153 2a04:2b00:13cc:0:0:0:1:153
+nserver:      C.NIC.CHRISTMAS 212.18.248.153 2a04:2b00:13ee:0:0:0:0:153
+nserver:      D.NIC.CHRISTMAS 212.18.249.153 2a04:2b00:13ff:0:0:0:0:153
+ds-rdata:     2330 13 2 06a2f220cec0ff0e52c7fb8f8b29ef509972660eb630eec8b18ef66b9c0433b6
+
+whois:        whois.nic.christmas
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.christmas
+
+created:      2014-02-13
+changed:      2024-01-31
+source:       IANA
+
+# whois.nic.christmas
+
+INVALID QUERY

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CHINTAI
+
+organisation: CHINTAI Corporation
+address:      1-2-7 Motoakasaka
+address:      AKASAKA K- TOWER 10th Floor
+address:      Minato-ku Tokyo 107-0051
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Co., Ltd.
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro
+address:      Toshima Tokyo 170-6045
+address:      Japan
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
+e-mail:       chintai-registry@interlink.ad.jp
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.CHINTAI 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CHINTAI 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CHINTAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
+nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
+nserver:      NS3.DNS.NIC.CHINTAI 156.154.159.40 2610:a1:1073:0:0:0:0:28
+ds-rdata:     63010 8 2 1ca7febcc15fb6098755eb40502c9ecddc2e9e0053f6c686a06a11c94fcc220f
+
+whois:        whois.nic.chintai
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.chintai
+
+created:      2016-03-03
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.chintai
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T16:55:40Z <<<
+

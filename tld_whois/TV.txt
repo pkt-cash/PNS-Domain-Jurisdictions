@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TV
+
+organisation: Ministry of Justice, Communications and Foreign Affairs
+address:      2 Vaiaku Rd
+address:      Vaiaku Funafuti
+address:      Tuvalu
+
+contact:      administrative
+name:         Ministry of Justice, Communications and Foreign Affairs
+address:      2 Vaiaku Rd
+address:      Vaiaku Funafuti
+address:      Tuvalu
+phone:        +(688) 20069
+e-mail:       ict@gov.tv
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      B.NIC.TV 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      C.NIC.TV 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      D.NIC.TV 2001:dcd:4:0:0:0:0:6 37.209.198.6
+ds-rdata:     57277 8 2 cdf61faf1ebc9d83d5bc3d9de22e794ae8acdb0475ea8cf27e92cc00f0c3f5f9
+
+whois:        whois.nic.tv
+
+status:       ACTIVE
+remarks:      Registration information: https://turnon.tv/
+
+created:      1996-03-18
+changed:      2024-05-20
+source:       IANA
+
+# whois.nic.tv
+
+Number of allowed queries exceeded.

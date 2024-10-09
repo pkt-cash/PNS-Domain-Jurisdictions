@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RIO
+
+organisation: Empresa Municipal de Informática SA - IPLANRIO
+address:      Av. Presidente Vargas, 3131 Sala 1204
+address:      Rio de Janeiro RJ 20210-030
+address:      Brazil
+
+contact:      administrative
+name:         Diretor Presidente
+organisation: Empresa Municipal de Informática SA - IPLANRIO
+address:      Av. Presidente Vargas, 3131 - 13. andar
+address:      Rio de Janeiro RJ 20210-030
+address:      Brazil
+phone:        +55 21 39711818
+e-mail:       gtlds-rio@registro.br
+
+contact:      technical
+name:         NIC.br Registry Services - Tech Contact
+organisation: NIC.br
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+e-mail:       gtlds-tech@registro.br
+
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
+nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
+nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
+ds-rdata:     50876 13 2 b4e05083f7129fab32ea7a6c847999ae437c7f2a8fc11d621f73e4fb386347d4
+
+whois:        whois.gtlds.nic.br
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.rio/
+
+created:      2014-05-15
+changed:      2023-11-14
+source:       IANA
+
+# whois.gtlds.nic.br
+
+Invalid query:RIO
+>>> Last update of WHOIS database: 2024-10-08T17:06:59Z <<<
+

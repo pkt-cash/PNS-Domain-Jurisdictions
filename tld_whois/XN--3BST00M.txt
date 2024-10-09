@@ -1,0 +1,133 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       集团
+domain-ace:   XN--3BST00M
+
+organisation: Eagle Horizon Limited
+address:      Scotia Centre, 4th Floor, P.O.Box2804
+address:      George Town Grand Cayman KY1-112
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         CEO
+organisation: Eagle Horizon Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
+address:      China
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
+
+contact:      technical
+name:         VP
+organisation: Eagle Horizon Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
+address:      China
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.newgtld.cn
+
+created:      2013-12-12
+changed:      2024-03-06
+source:       IANA
+
+# whois.gtld.knet.cn
+
+Registrar: EJEE GROUP HOLDINGS LIMITED
+Street: Unit 1105, 11th Floor, Lippo Centre, Tower One, No.89 Queensway
+Postal Code: 999077
+Country: HK
+Phone Number: +852.18906008012
+Fax Number: +852.01082553356
+Email: service@yiyu.com
+Registrar WHOIS Server: whois.yiyu.com
+Registrar URL: http://www.yiyu.com
+Admin Name: weizhiqiang
+Admin Phone: +852.01082886878
+Admin Fax: +852.01082553356
+Admin Email: wzq@ejee-inc.com
+Tech Name: EJEE GROUP HOLDINGS LIMITED
+Tech Phone: +852.18906008012
+Tech Fax: +852.01082553356
+Tech Email: service@yiyu.com
+
+Registrar: BRANDMA.CO LIMITED
+Street: China Business Mall Building B Room 2806 Chaoyang Road 6
+City: 香港
+State/Province: 香港
+Postal Code: 100000
+Country: HK
+Phone Number: +852.19525497659
+Fax Number: +852.01065084677
+Email: registrar@brandma.co
+Registrar WHOIS Server: whois.brandma.com
+Registrar URL: http://www.brandma.com
+Admin Name: Ching Chiao
+Admin Phone: +852.886227992189
+Admin Fax: +852.886227992762
+Admin Email: registrar@brandma.co
+Tech Name: Charlie Wang
+Tech Phone: +852.01065084677
+Tech Fax: +852.886227992762
+Tech Email: registrar@brandma.co
+
+Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED
+Street: 香港銅鑼灣百德新街恒隆中心1704號
+Postal Code: 0000
+Country: HK
+Phone Number: +852.85268581006
+Fax Number: +852.85268581006
+Email: nicenic@139.com
+Registrar WHOIS Server: whois.nicenic.net
+Registrar URL: http://www.nicenic.net
+Admin Name: 贺艳
+Admin Phone: +852.85268581006
+Admin Fax: +852.85268581006
+Admin Email: nicenic@139.com
+Tech Name: NICENIC INTERNATIONAL GROUP CO., LIMITED
+Tech Phone: +852.85268581006
+Tech Fax: +852.85268581006
+Tech Email: nicenic@139.com
+
+Registrar: EJEE Group Beijing Limited
+Street: Beijing city Haidian District wanquanzhuang Road No. 17 Jingjiang sunshine office b-208
+City: BeiJing
+State/Province: BeiJing
+Postal Code: 100089
+Country: CN
+Phone Number: +86.18906008012
+Fax Number: +86.82553356
+Email: hxd@ejee-inc.com
+Registrar WHOIS Server: whois.yiyu.com
+Registrar URL: http://www.domain.cn
+Admin Name: weizhiqiang
+Admin Phone: +86.13520992366
+Admin Fax: +86.82553356
+Admin Email: hxd@ejee-inc.com
+Tech Name: EJEE Group Beijing Limited
+Tech Phone: +86.18906008012
+Tech Fax: +86.82553356
+Tech Email: hxd@ejee-inc.com
+
+>>> Last update of WHOIS database: 2024-10-08T17:10:29Z <<<
+
+# whois.yiyu.com
+

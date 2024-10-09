@@ -1,0 +1,60 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ایران
+domain-ace:   XN--MGBA3A4F16A
+
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+
+contact:      administrative
+name:         Director
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+phone:        +98 21 22828081 Ext. 115
+fax-no:       +98 21 22295700
+e-mail:       info@irnic.ir
+
+contact:      technical
+name:         CTO
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+phone:        +98 21 22828081 Ext. 124
+fax-no:       +98 21 22295700
+e-mail:       tech-team@irnic.ir
+
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
+
+whois:        whois.nic.ir
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ir
+
+created:      2011-02-05
+changed:      2023-08-22
+source:       IANA
+
+# whois.nic.ir
+
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'XN--MGBA3A4F16A'
+
+%ERROR:101: no entries found
+% 
+% No entries found in the selected source(s).
+

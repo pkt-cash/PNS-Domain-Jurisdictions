@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAREER
+
+organisation: dotCareer LLC
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
+
+contact:      administrative
+name:         Ray Fassett
+organisation: dotCareer LLC
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
+phone:        216-426-1500
+fax-no:       216-588-1558
+e-mail:       ray@goto.jobs
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.CAREER 213.248.219.121 2a01:618:403:0:0:0:0:121
+nserver:      DNS2.NIC.CAREER 103.49.83.121 2401:fd80:403:0:0:0:0:121
+nserver:      DNS3.NIC.CAREER 213.248.223.121 2a01:618:407:0:0:0:0:121
+nserver:      DNS4.NIC.CAREER 2401:fd80:407:0:0:0:0:121 43.230.51.121
+nserver:      DNSA.NIC.CAREER 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.CAREER 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.CAREER 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.CAREER 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     11480 8 2 252513a3ade85062b3943c4d19b9de1a0ae15176ac5d0c6d15c6b79b70f36ff8
+
+whois:        whois.nic.career
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2014-03-20
+changed:      2021-11-09
+source:       IANA
+
+# whois.nic.career
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T16:55:25Z <<<
+

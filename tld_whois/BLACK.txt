@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BLACK
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.BLACK 2a01:8840:42:0:0:0:0:33 65.22.68.33
+nserver:      A2.NIC.BLACK 2a01:8840:45:0:0:0:0:33 65.22.71.33
+nserver:      B0.NIC.BLACK 2a01:8840:43:0:0:0:0:33 65.22.69.33
+nserver:      C0.NIC.BLACK 2a01:8840:44:0:0:0:0:33 65.22.70.33
+ds-rdata:     28819 8 2 fa6792252a660261b2c191a71bcedbe4cdd7bf61c33aa5f04e558abeb8f96bd9
+
+whois:        whois.nic.black
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-03-20
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.black
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:54:40Z <<<
+

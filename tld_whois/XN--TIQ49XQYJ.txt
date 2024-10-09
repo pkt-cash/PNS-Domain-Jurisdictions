@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       天主教
+domain-ace:   XN--TIQ49XQYJ
+
+organisation: Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+address:      Via della Conciliazione 5
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
+
+contact:      administrative
+name:         Administrative Contact
+organisation: Secretaria pro Communicatione
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
+phone:        +39 06 698 45204
+fax-no:       +39 06 698 45210
+e-mail:       administrative.catholictld@spc.va
+
+contact:      technical
+name:         Technical Contact
+organisation: Secretaria pro Communicatione
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
+phone:        +39 06 698 45204
+fax-no:       +39 06 698 45210
+e-mail:       technical.catholictld@spc.va
+
+nserver:      A.NIC.XN--TIQ49XQYJ 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.XN--TIQ49XQYJ 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.XN--TIQ49XQYJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.XN--TIQ49XQYJ 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.XN--TIQ49XQYJ 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.XN--TIQ49XQYJ 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     20710 8 2 c1fbac37a1a9b6fb9dc85ba47c7f98ad7cf2d78cbbd3cda8c93d389870616ba0
+
+whois:        whois.nic.xn--tiq49xqyj
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pccs.va
+
+created:      2016-11-16
+changed:      2023-12-21
+source:       IANA
+
+# whois.nic.xn--tiq49xqyj
+
+Number of allowed queries exceeded.

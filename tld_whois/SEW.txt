@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEW
+
+organisation: SEW-EURODRIVE GmbH & Co KG
+address:      Ernst-Blickle-Str. 42
+address:      Bruchsal 76646
+address:      Germany
+
+contact:      administrative
+name:         Legal Professional
+organisation: SEW-EURODRIVE GmbH & Co KG
+address:      Ernst-Blickle-Str. 42
+address:      Bruchsal 76646
+address:      Germany
+phone:        +497251 75 5278
+fax-no:       +49 7251 75 505229
+e-mail:       domains@sew-eurodrive.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias Limited
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        (215) 706-5700
+fax-no:       (215) 706-7501
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SEW 2a01:8840:b6:0:0:0:0:25 65.22.188.25
+nserver:      A2.NIC.SEW 2a01:8840:b9:0:0:0:0:25 65.22.191.25
+nserver:      B0.NIC.SEW 2a01:8840:b7:0:0:0:0:25 65.22.189.25
+nserver:      C0.NIC.SEW 2a01:8840:b8:0:0:0:0:25 65.22.190.25
+ds-rdata:     24562 8 2 f058b69dc4842232e352dbe1485dfc257ad1627aee9f4bf4decd967307e30b1d
+
+whois:        whois.nic.sew
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sew-eurodrive.com/
+
+created:      2014-11-06
+changed:      2023-08-15
+source:       IANA
+
+# whois.nic.sew
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:08:55Z <<<
+

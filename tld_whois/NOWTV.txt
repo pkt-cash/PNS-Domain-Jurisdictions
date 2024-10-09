@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NOWTV
+
+organisation: Starbucks (HK) Limited
+address:      41/F, PCCW Tower, Taikoo Place, Quarry Bay
+address:      Hong Kong
+address:      China
+
+contact:      administrative
+name:         Admin Contact
+organisation: Namesphere Holdings Limited
+address:      12/F, Daily House, 35-37 Haiphong Road,
+address:      Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+address:      China
+phone:        +852 2244 7900
+fax-no:       +852 2244 7902
+e-mail:       info@tld.asia
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.NOWTV 2a01:8840:a6:0:0:0:0:1 65.22.172.1
+nserver:      A2.NIC.NOWTV 2a01:8840:a9:0:0:0:0:1 65.22.175.1
+nserver:      B0.NIC.NOWTV 2a01:8840:a7:0:0:0:0:1 65.22.173.1
+nserver:      C0.NIC.NOWTV 2a01:8840:a8:0:0:0:0:1 65.22.174.1
+ds-rdata:     30316 8 2 06bcb6632fc4327ba1d5abff7caca06f7d01fcadefba3aea17db0839c5c9cc4a
+
+whois:        whois.nic.nowtv
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dot.asia/namesphere/
+
+created:      2016-04-15
+changed:      2023-08-03
+source:       IANA
+
+# whois.nic.nowtv
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:05:26Z <<<
+

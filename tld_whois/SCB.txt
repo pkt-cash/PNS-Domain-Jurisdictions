@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SCB
+
+organisation: The Siam Commercial Bank Public Company Limited ("SCB")
+address:      9 Ratchadapisek Rd., Jatujak
+address:      Bangkok 10900
+address:      Thailand
+
+contact:      administrative
+name:         Mr. Somphop Satjatham
+organisation: The Siam Commercial Bank Public Company Limited ("SCB")
+address:      Siam Commercial Bank, 21st Floor Zone C, 9 Ratchadapisek Road, Jatujak
+address:      Bangkok 10900
+address:      Thailand
+phone:        +66 2 544 6035
+fax-no:       +66 2 544 4948
+e-mail:       somphop.satjatham@scb.co.th
+
+contact:      technical
+name:         Director
+organisation: Thai Name Server Co., Ltd.
+address:      Thai Name Server Co., Ltd. 159 Phichai Road, Thanon Nakorn Chai Si, Dusit
+address:      Bangkok 10300
+address:      Thailand
+phone:        +66 2 2448261
+fax-no:       +66 2 2448164
+e-mail:       bero@thains.co.th
+
+nserver:      C.NIC.SCB 194.0.1.35 2001:678:4:0:0:0:0:23
+nserver:      NN1.NIC.SCB 194.58.198.136 2a01:3f1:3032:8001:0:0:0:136
+nserver:      RZ.NIC.SCB 194.0.25.42 2001:678:20:0:0:0:0:42
+ds-rdata:     3706 8 2 4468ba63991268d9c1916a569dc1608b39413749679313161165c84b24016160
+
+whois:        whois.nic.scb
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.scb.co.th/en/personal-banking/top-level-domain.html
+
+created:      2014-06-26
+changed:      2024-05-31
+source:       IANA
+
+# whois.nic.scb
+
+Domain Name: SCB
+Domain ID: DOMAIN_1-SCB
+WHOIS Server: whois.nic.scb
+Referral URL: http://www.nic.scb
+Updated Date: 2014-07-07T00:00:00Z
+Creation Date: 2014-05-01T00:00:00Z
+Registry Expiry Date: 2033-05-01T00:00:00Z
+Sponsoring Registrar: THAI NAME SERVER CO., LTD.
+Sponsoring Registrar IANA ID: 9999
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: clientRenewProhibited (https://www.icann.org/epp#clientRenewProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Registrant Name: Redacted for Data Protection
+Registrant Organization: Thai Name Server Co., Ltd.
+Registrant Street: Redacted for Data Protection
+Registrant City: Redacted for Data Protection
+Registrant State/Province: Bangkok
+Registrant Postal Code: Redacted for Data Protection
+Registrant Country: TH
+Registrant Phone: Redacted for Data Protection
+Registrant Phone Ext: 
+Registrant Fax: Redacted for Data Protection
+Registrant Fax Ext: 
+Registrant Email: Please query the RDDS service of the Registrar for information on how to contact the Registrant
+Admin Name: Redacted for Data Protection
+Admin Organization: Redacted for Data Protection
+Admin Street: Redacted for Data Protection
+Admin City: Redacted for Data Protection
+Admin State/Province: Redacted for Data Protection
+Admin Postal Code: Redacted for Data Protection
+Admin Country: TH
+Admin Phone: Redacted for Data Protection
+Admin Phone Ext: 
+Admin Fax: Redacted for Data Protection
+Admin Fax Ext: 
+Admin Email: Please query the RDDS service of the Registrar for information on how to contact the Admin contact
+Tech Name: Redacted for Data Protection
+Tech Organization: Redacted for Data Protection
+Tech Street: Redacted for Data Protection
+Tech City: Redacted for Data Protection
+Tech State/Province: Redacted for Data Protection
+Tech Postal Code: Redacted for Data Protection
+Tech Country: TH
+Tech Phone: Redacted for Data Protection
+Tech Phone Ext: 
+Tech Fax: Redacted for Data Protection
+Tech Fax Ext: 
+Tech Email: Please query the RDDS service of the Registrar for information on how to contact the Tech contact
+Name Server: A.NIC.SCB
+Name Server: B.NIC.SCB
+Name Server: C.NIC.SCB
+Name Server: D.NIC.SCB
+DNSSEC: signedDelegation
+DS Created: 2014-07-07T00:00:00Z
+DS Key Tag: 36341
+Algorithm: 8
+Digest Type: 2
+Digest: 33E5279F1FB14B6DE7B528238ACBCD7B139AFDFD2D3E5D0C27AE5A145F5EF30B
+>>> Last update of WHOIS database: 2024-10-08T17:08:40Z <<< 
+

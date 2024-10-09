@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEATHER
+
+organisation: International Business Machines Corporation
+address:      New Orchard Road
+address:      Armonk NY 10504
+address:      United States of America (the)
+
+contact:      administrative
+name:         Engineering Manager
+organisation: International Business Machines Corporation
+address:      North Castle Drive
+address:      Armonk NY 10504
+address:      United States of America (the)
+phone:        +1-914-765-4227
+fax-no:       +1-914-765-4390
+e-mail:       ngtld-ibm@cscinfo.com
+
+contact:      technical
+name:         Engineering Manager
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       ngtld-ibm@cscinfo.com
+
+nserver:      A.NIC.WEATHER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WEATHER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WEATHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS4.DNS.NIC.WEATHER 156.154.156.178 2610:a1:1074:0:0:0:0:b2
+nserver:      NS5.DNS.NIC.WEATHER 156.154.157.178 2610:a1:1075:0:0:0:0:b2
+nserver:      NS6.DNS.NIC.WEATHER 156.154.158.178 2610:a1:1076:0:0:0:0:b2
+ds-rdata:     1249 8 2 96765e88a1b12cce10c5c67934b10344ad4e5d63588e4b9d442fc533c8224f01
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.weather.com
+
+created:      2015-12-23
+changed:      2023-11-30
+source:       IANA
+

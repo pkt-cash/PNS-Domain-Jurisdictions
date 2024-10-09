@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ABLE
+
+organisation: Able Inc.
+address:      1-5-5 Motoakasaka MOTOAKASAKA SF Bldg
+address:      Minato-ku Tokyo 107-0051
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Co., Ltd.
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro
+address:      Toshima Tokyo 170-6045
+address:      Japan
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
+e-mail:       able-registry@interlink.ad.jp
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.ABLE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.ABLE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.ABLE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.ABLE 156.154.144.3 2610:a1:1071:0:0:0:0:3
+nserver:      NS2.DNS.NIC.ABLE 156.154.145.3 2610:a1:1072:0:0:0:0:3
+nserver:      NS3.DNS.NIC.ABLE 156.154.159.3 2610:a1:1073:0:0:0:0:3
+ds-rdata:     48877 8 2 6effec2f6db34b2d1086a3b4cedd6e4109135877e533d6d1bf0f7ca760eb018f
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.able.co.jp
+
+created:      2016-03-03
+changed:      2024-05-11
+source:       IANA
+

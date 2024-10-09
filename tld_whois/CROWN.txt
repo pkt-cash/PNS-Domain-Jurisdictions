@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CROWN
+
+organisation: Crown Equipment Corporation
+address:      44 S. Washington Street
+address:      New Bremen OH 45869
+address:      United States of America (the)
+
+contact:      administrative
+name:         Ron Meyer
+organisation: Crown Equipment Corporation
+address:      44 S. Washington Street
+address:      New Bremen OH 45869
+address:      United States of America (the)
+phone:        1-419-629-2311
+fax-no:       1-419-629-9202
+e-mail:       registryops@crown.com
+
+contact:      technical
+name:         Don Slaunwhite, Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa Ontario K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1-613-237-0534
+e-mail:       support@fury.ca
+
+nserver:      A.NS.NIC.CROWN 185.159.197.5 2620:10a:80aa:0:0:0:0:5
+nserver:      B.NS.NIC.CROWN 185.159.198.5 2620:10a:80ab:0:0:0:0:5
+nserver:      C.NS.NIC.CROWN 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.CROWN 185.159.199.5 2620:10a:80ac:0:0:0:0:5
+ds-rdata:     41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
+
+whois:        whois.nic.crown
+
+status:       ACTIVE
+remarks:      Registration information: http://www.crown.com/
+
+created:      2015-06-04
+changed:      2024-03-15
+source:       IANA
+
+# whois.nic.crown
+
+Error code: 10110
+Error message: The domain name provided must end with .crown.
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2024 Canadian Internet Registration Authority, (http://www.cira.ca/)

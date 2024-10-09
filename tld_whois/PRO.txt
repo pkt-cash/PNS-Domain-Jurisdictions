@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PRO
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.PRO.AFILIAS-NST.INFO 199.182.0.1 2001:500:c0:0:0:0:0:1
+nserver:      A2.PRO.AFILIAS-NST.INFO 199.182.32.1 2001:500:e0:0:0:0:0:1
+nserver:      B0.PRO.AFILIAS-NST.ORG 199.182.1.1 2001:500:c1:0:0:0:0:1
+nserver:      B2.PRO.AFILIAS-NST.ORG 199.182.40.1 2001:500:e1:0:0:0:0:1
+nserver:      C0.PRO.AFILIAS-NST.INFO 199.182.16.1 2001:500:d0:0:0:0:0:1
+nserver:      D0.PRO.AFILIAS-NST.ORG 199.182.17.1 2001:500:d1:0:0:0:0:1
+ds-rdata:     42154 8 2 5a8a58f4e30cde44a47091488870d109108ff45d42fdfdd30b448d78dffd5566
+
+whois:        whois.nic.pro
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2002-05-08
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.pro
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:06:24Z <<<
+

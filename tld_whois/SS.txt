@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SS
+
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      P.O. Box 531
+address:      Juba
+address:      South Sudan
+
+contact:      administrative
+name:         Admin
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      P.O. Box 531
+address:      Juba
+address:      South Sudan
+phone:        +211 922338781
+e-mail:       admin@nic.ss
+
+contact:      technical
+name:         Technical Support
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      P.O. Box 531
+address:      Juba
+address:      South Sudan
+phone:        +211 922338781
+e-mail:       tech@nic.ss
+
+nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
+nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
+nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
+ds-rdata:     39884 8 2 b603d47de4d4ac23168537763d91e5677300ac06f5d9a1108d29ea91c2c0d204
+
+whois:        whois.nic.ss
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.ss/
+
+created:      2011-08-31
+changed:      2024-04-05
+source:       IANA
+
+# whois.nic.ss
+
+Server can't process your request.

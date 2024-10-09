@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ALIPAY
+
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Project & Process Manager
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place
+address:      P.O Box 847
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
+phone:        +442070151717
+e-mail:       ngtld-alipay@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ALIPAY 2a01:8840:7e:0:0:0:0:25 65.22.128.25
+nserver:      A2.NIC.ALIPAY 2a01:8840:81:0:0:0:0:25 65.22.131.25
+nserver:      B0.NIC.ALIPAY 2a01:8840:7f:0:0:0:0:25 65.22.129.25
+nserver:      C0.NIC.ALIPAY 2a01:8840:80:0:0:0:0:25 65.22.130.25
+ds-rdata:     9922 8 2 01dc2703db44dca0f990ff6b619de1879dd06bdda5756272751a4b510cfd76bf
+
+whois:        whois.nic.alipay
+
+status:       ACTIVE
+remarks:      Registration information: http://www.alibabagroup.com
+
+created:      2016-01-08
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.alipay
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:53:26Z <<<
+

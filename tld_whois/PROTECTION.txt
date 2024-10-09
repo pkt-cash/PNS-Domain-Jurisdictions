@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PROTECTION
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1.7027632191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.PROTECTION 194.169.218.67 2001:67c:13cc:0:0:0:1:67
+nserver:      B.NIC.PROTECTION 185.24.64.67 2a04:2b00:13cc:0:0:0:1:67
+nserver:      E.NIC.PROTECTION 212.18.248.67 2a04:2b00:13ee:0:0:0:0:67
+nserver:      F.NIC.PROTECTION 212.18.249.67 2a04:2b00:13ff:0:0:0:0:67
+ds-rdata:     46846 8 2 3e780717cc500405e3e7869aebbe9f3d49ac770b338e216fca3f096efe92f2cf
+ds-rdata:     42842 8 2 a53b40df5d9fe9bcd1973b978c241562c22c70291dd829e6c59a864cb528b415
+
+whois:        whois.nic.protection
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.protection/
+
+created:      2015-08-13
+changed:      2024-03-11
+source:       IANA
+
+# whois.nic.protection
+
+INVALID QUERY

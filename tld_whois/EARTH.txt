@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EARTH
+
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
+address:      Japan
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
+e-mail:       gtld@interlink.ad.jp
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.EARTH 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.EARTH 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.EARTH 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.EARTH 156.154.144.230 2610:a1:1071:0:0:0:0:e6
+nserver:      NS2.DNS.NIC.EARTH 156.154.145.230 2610:a1:1072:0:0:0:0:e6
+nserver:      NS3.DNS.NIC.EARTH 156.154.159.230 2610:a1:1073:0:0:0:0:e6
+ds-rdata:     26449 8 2 f5ced94f4f7cd8bd7278cabd2d2e7be2db0ff7c89037b9066212d42883a525cf
+
+whois:        whois.nic.earth
+
+status:       ACTIVE
+remarks:      Registration information: https://domain.earth/
+
+created:      2015-04-16
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.earth
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T16:58:13Z <<<
+

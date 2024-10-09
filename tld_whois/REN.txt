@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REN
+
+organisation: ZDNS International Limited
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+
+contact:      administrative
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+phone:        86-10-58812426
+e-mail:       sophia@zdns.ren
+
+contact:      technical
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+phone:        86-10-58812426
+e-mail:       gaolei@zdns.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
+
+whois:        whois.nic.ren
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.ren/
+
+created:      2014-02-28
+changed:      2024-08-26
+source:       IANA
+
+# whois.nic.ren
+
+Registrar: French connexion
+Street: 455 promenade des anglais
+City: Nice
+State/Province: Alpes maritimes
+Postal Code: 06200
+Country: FR
+Phone Number: +33.33825701700
+Fax Number: +33.06200
+Email: providers@domaine.fr
+Registrar WHOIS Server: whois.french-connexion.com
+Registrar URL: http://www.domaine.fr
+Admin Name: Syamak Bavafa
+Admin Phone: +33.330782020902
+Admin Fax: +33.06200
+Admin Email: registries@domaine.fr
+Tech Name: French connexion
+Tech Phone: +33.33825701700
+Tech Fax: +33.06200
+Tech Email: providers@domaine.fr
+
+>>> Last update of WHOIS database: 2024-10-08T17:05:23Z <<<
+
+# whois.french-connexion.com
+
+NOT FOUND

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TOWN
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.TOWN 2a01:8840:1e:0:0:0:0:55 65.22.28.55
+nserver:      V0N1.NIC.TOWN 2a01:8840:1f:0:0:0:0:55 65.22.29.55
+nserver:      V0N2.NIC.TOWN 2a01:8840:20:0:0:0:0:55 65.22.30.55
+nserver:      V0N3.NIC.TOWN 161.232.14.55 2a01:8840:f8:0:0:0:0:55
+nserver:      V2N0.NIC.TOWN 2a01:8840:21:0:0:0:0:55 65.22.31.55
+nserver:      V2N1.NIC.TOWN 161.232.15.55 2a01:8840:f9:0:0:0:0:55
+ds-rdata:     63256 8 2 515451761441c5c476f32ee4d28ae24d5179521fb505c318ef721e5fd6165c16
+
+whois:        whois.nic.town
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-04-03
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.town
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:11:30Z <<<
+

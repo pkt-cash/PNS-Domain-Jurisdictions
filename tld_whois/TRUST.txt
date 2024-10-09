@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TRUST
+
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Shayan Rostam
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     33872 13 2 d324a81281464251e04686f4e75d2978b119496fe596012a89647ff6af0eefc3
+
+whois:        whois.nic.trust
+
+status:       ACTIVE
+remarks:      Registration information: https://internetnaming.co
+
+created:      2014-11-26
+changed:      2024-05-01
+source:       IANA
+
+# whois.nic.trust
+
+>>> Object "trust" not found
+
+>>> Last update of WHOIS database: 2024-10-08T17:11:37.401Z <<<
+

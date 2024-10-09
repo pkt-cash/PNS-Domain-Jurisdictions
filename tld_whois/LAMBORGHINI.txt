@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LAMBORGHINI
+
+organisation: Automobili Lamborghini S.p.A.
+address:      Via Modena, 12
+address:      Sant Agata Bolognese BO 40019
+address:      Italy
+
+contact:      administrative
+name:         CEO
+organisation: INDECA GmbH
+address:      Etzelstrasse 1-25
+address:      Heilbronn BW 74076
+address:      Germany
+phone:        +49 7131 7999 0
+e-mail:       dotlamborghini@domainexperten.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.LAMBORGHINI 2a01:8840:ca:0:0:0:0:33 65.22.208.33
+nserver:      A2.NIC.LAMBORGHINI 2a01:8840:cd:0:0:0:0:33 65.22.211.33
+nserver:      B0.NIC.LAMBORGHINI 2a01:8840:cb:0:0:0:0:33 65.22.209.33
+nserver:      C0.NIC.LAMBORGHINI 2a01:8840:cc:0:0:0:0:33 65.22.210.33
+ds-rdata:     61360 8 2 a10d1ea44cb7fb0a404807548f2cabd4def69b874ce31632c870e108c673cb09
+
+whois:        whois.nic.lamborghini
+
+status:       ACTIVE
+remarks:      Registration information: http://www.lamborghini.com
+
+created:      2015-11-12
+changed:      2023-08-16
+source:       IANA
+
+# whois.nic.lamborghini
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:02:33Z <<<
+

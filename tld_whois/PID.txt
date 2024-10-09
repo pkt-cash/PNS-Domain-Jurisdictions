@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PID
+
+organisation: Top Level Spectrum, Inc.
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
+
+contact:      administrative
+name:         Jay Westerdal
+organisation: Top Level Spectrum, Inc.
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
+phone:        +1.206-397-8825
+fax-no:       +1.206-238-1232
+e-mail:       contact@topspectrum.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     59747 8 2 787344f262181e467e0adde855b6015f6020a0136ba6ee835b1719e298879304
+ds-rdata:     43839 13 2 a8997ec116a3e8e9beff3c5170352c427956ddd9e3fbaa5166108d1a61574246
+
+whois:        whois.nic.pid
+
+status:       ACTIVE
+remarks:      Registration information: http://www.topspectrum.com/
+
+created:      2015-12-10
+changed:      2024-10-03
+source:       IANA
+
+# whois.nic.pid
+
+>>> Object "pid" not found
+
+>>> Last update of WHOIS database: 2024-10-08T17:06:06.140Z <<<
+

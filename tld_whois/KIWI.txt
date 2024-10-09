@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KIWI
+
+organisation: DOT KIWI LIMITED
+address:      18 Viaduct Harbour Avenue
+address:      Attn: Kensington Swan
+address:      Auckland Central
+address:      Auckland 1010
+address:      New Zealand
+
+contact:      administrative
+name:         Angus Richardson
+organisation: DOT KIWI LIMITED
+address:      604, 88 West 1st Avenue
+address:      Vancouver BC V5Y 0K2
+address:      Canada
+phone:        +6493070040
+e-mail:       info@hello.kiwi
+
+contact:      technical
+name:         Don Slaunwhite
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +16132375335
+fax-no:       +16132370534
+e-mail:       support@fury.ca
+
+nserver:      A.NS.NIC.KIWI 185.159.197.1 2620:10a:80aa:0:0:0:0:1
+nserver:      B.NS.NIC.KIWI 185.159.198.1 2620:10a:80ab:0:0:0:0:1
+nserver:      C.NS.NIC.KIWI 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.KIWI 185.159.199.1 2620:10a:80ac:0:0:0:0:1
+ds-rdata:     28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
+
+whois:        whois.nic.kiwi
+
+status:       ACTIVE
+remarks:      Registration information: http://hello.kiwi
+
+created:      2013-11-25
+changed:      2024-03-14
+source:       IANA
+
+# whois.nic.kiwi
+
+Error code: 10110
+Error message: The domain name provided must end with .kiwi.
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2024 Canadian Internet Registration Authority, (http://www.cira.ca/)

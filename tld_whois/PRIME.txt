@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PRIME
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+
+contact:      administrative
+name:         Program Manager, Registry
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+phone:        +1 206 646 5990
+fax-no:       +1 206 946 7702
+e-mail:       arsi-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.PRIME 213.248.218.51 2a01:618:402:0:0:0:0:51
+nserver:      DNS2.NIC.PRIME 103.49.82.51 2401:fd80:402:0:0:0:0:51
+nserver:      DNS3.NIC.PRIME 213.248.222.51 2a01:618:406:0:0:0:0:51
+nserver:      DNS4.NIC.PRIME 2401:fd80:406:0:0:0:0:51 43.230.50.51
+nserver:      DNSA.NIC.PRIME 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PRIME 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PRIME 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PRIME 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     48080 8 2 b29003c3e5f60ce38190106f221d85b335972c9dec6ea671c1536f63e081d214
+
+whois:        whois.nic.prime
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
+
+created:      2016-05-19
+changed:      2024-02-01
+source:       IANA
+
+# whois.nic.prime
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T17:06:24Z <<<
+

@@ -1,0 +1,97 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FI
+
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      TRAFICOM
+address:      Helsinki 00059
+address:      Finland
+
+contact:      administrative
+name:         Domain Names
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      TRAFICOM
+address:      Helsinki 00059
+address:      Finland
+phone:        +358 295 345 000
+e-mail:       firootadmin@traficom.fi
+
+contact:      technical
+name:         Sami Salmensuo
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      TRAFICOM
+address:      Helsinki 00059
+address:      Finland
+phone:        +358 295 345 000
+e-mail:       firootadmin@traficom.fi
+
+nserver:      A.FI 193.166.4.1 2001:708:10:53:0:0:0:53
+nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
+nserver:      C.FI 194.0.11.104 2001:678:e:104:0:0:0:53
+nserver:      D.FI 2a01:3f0:0:302:0:0:0:53 77.72.229.253
+nserver:      E.FI 194.0.1.14 2001:678:4:0:0:0:0:e
+nserver:      G.FI 2001:500:14:6098:ad:0:0:1 204.61.216.98
+nserver:      H.FI 2001:678:a0:0:0:0:0:aaaa 87.239.120.11
+nserver:      I.FI 194.0.25.30 2001:678:20:0:0:0:0:30
+nserver:      J.FI 185.159.199.190 2620:10a:80ac:0:0:0:0:190
+nserver:      K.FI 2001:14b8:188d:0:0:0:0:53 213.186.229.226
+ds-rdata:     35221 8 2 d4a489017f68a6c02836d4f126a4b9f6af34c371993bee97ed759d83db9cd38e
+
+whois:        whois.fi
+
+status:       ACTIVE
+remarks:      Registration information: https://domain.fi
+
+created:      1986-12-17
+changed:      2023-08-18
+source:       IANA
+
+# whois.fi
+
+
+domain.............: fi.fi
+status.............: Registered
+created............: 12.9.2016 10:00:00
+expires............: 12.9.2025 10:00:00
+available..........: 12.10.2025 10:00:00
+modified...........: 2.5.2023 12:44:11
+holder transfer....: 20.4.2023 13:40:48
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: kirk.ns.cloudflare.com [OK]
+nserver............: fiona.ns.cloudflare.com [OK]
+
+DNSSEC
+
+dnssec.............: no
+
+Holder
+
+name...............: Tumes Media Ltd
+register number....: C80858
+address............: 93, BLANCHE, HUBER STREET
+postal.............: 2052
+city...............: SLIEMA SLM 
+country............: Malta
+phone..............: 
+holder email.......: 
+
+Registrar
+
+registrar..........: SafeNames Ltd
+www................: http://www.safenames.net/
+
+Tech
+
+name...............: Safenames Ltd
+email..............: tec@safenames.net
+
+>>> Last update of WHOIS database: 8.10.2024 19:46:19 (EET) <<<
+

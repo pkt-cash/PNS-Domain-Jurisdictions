@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AX
+
+organisation: Ålands landskapsregering
+address:      Strandgatan
+address:      Mariehamn 22100
+address:      Åland Islands
+
+contact:      administrative
+name:         Ronny Lundström
+organisation: Ålands landskapsregering
+address:      PB 1060
+address:      Mariehamn 22111
+address:      Åland Islands
+phone:        +358 18 25000
+fax-no:       +358 18 19155
+e-mail:       axdoman@regeringen.ax
+
+contact:      technical
+name:         Valter Ulenius
+organisation: Ålands Telekommunikation Ab
+address:      Hantverkargränd 1
+address:      Jomala 22150
+address:      Åland Islands
+phone:        +358 18 23500
+e-mail:       domain@alcom.ax
+
+nserver:      NS1.ALAND.NET 194.112.0.1
+nserver:      NS2.ALAND.NET 194.112.0.5
+nserver:      NS3.ALCOM.FI 2a00:5500:1:6:0:0:0:130 82.199.186.130
+nserver:      NS4.ALCOM.FI 2a00:5500:1:7:0:0:0:194 82.199.184.194
+ds-rdata:     54055 8 2 4299c76d8767752c8a10579c4465cbc1c61ad2e1a0d68b42df75645322f06202
+
+whois:        whois.ax
+
+status:       ACTIVE
+remarks:      Registration information: http://www.whois.ax
+
+created:      2006-06-21
+changed:      2017-08-04
+source:       IANA
+
+# whois.ax
+
+
+
+domain...............: ax.ax
+status...............: Registered
+created..............: 07.12.2020
+expires..............: 07.12.2026
+available............: 08.01.2027
+modified.............: 05.06.2022
+RegistryLock.........: no
+
+Nameservers
+
+nserver..............: ns1.cctld.com
+nserver..............: ns2.cctld.com
+
+Holder
+
+name.................: xTom GmbH
+register number......: HRB86779
+address..............: Kreuzstr.60
+address..............: 40210
+address..............: Duesseldorf
+country..............: DE
+phone................: +49 21197635976
+holder email.........: domains@xtom.com
+
+Registrar
+
+registrar............: xTom GmbH
+www..................: https://xtom.com/
+
+Copyright (c) Ålands Landskapsregering
+

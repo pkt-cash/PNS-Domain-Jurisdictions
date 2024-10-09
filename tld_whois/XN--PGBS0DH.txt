@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       تونس
+domain-ace:   XN--PGBS0DH
+
+organisation: Agence Tunisienne d'Internet
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
+address:      Tunisia
+
+contact:      administrative
+name:         Mrs. Wafa Dahmani
+organisation: Agence Tunisienne d'Internet
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nicadmin@ati.tn
+
+contact:      technical
+name:         Network Information Center - NIC
+organisation: Agence Tunisienne d'Internet
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nic@ati.tn
+
+nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
+nserver:      NS1.ATI.TN 2c0f:fab0:ffff:4:41:228:62:63 41.228.62.63
+nserver:      NS2.ATI.TN 2c0f:fab0:ffff:5:41:228:63:62 41.228.63.62
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      PCH.ATI.TN 2001:500:14:6094:ad:0:0:1 204.61.216.94
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+ds-rdata:     23341 8 2 d7a6ed1fd619775c26ceb15a96586b3c1d7ac38574e44f1abc100ff2f50198a2
+
+whois:        whois.ati.tn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ati.tn
+
+created:      2010-08-19
+changed:      2023-03-07
+source:       IANA
+
+# whois.ati.tn
+
+NIC Whois server for cTLDs : .tn , .تونس
+All rights reserved
+Copyright "Tunisian Internet Agency - https://whois.ati.tn
+Supported ccTLDs : .tn , .تونس
+Sectorial domains : .com.tn,.ens.tn,.fin.tn,.gov.tn,.ind.tn,.intl.tn,.nat.tn,.net.tn,.org.tn,.info.tn,.perso.tn,.tourism.tn,.mincom.tn
+
+No match for  "xn--pgbs0dh".

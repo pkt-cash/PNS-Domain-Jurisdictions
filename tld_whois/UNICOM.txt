@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNICOM
+
+organisation: China United Network Communications Corporation Limited
+address:      No.21 Financial Street
+address:      Xicheng District
+address:      Beijing 100033
+address:      China
+
+contact:      administrative
+name:         Yun Zhou
+organisation: China United Network Communciations Corporation Limited
+address:      No.21 Financial Street
+address:      Xicheng District
+address:      Beijing 100033
+address:      China
+phone:        + 86 1066 259 710
+fax-no:       + 86 1066 259 154
+e-mail:       hqs-gtld@chinaunicom.cn
+
+contact:      technical
+name:         Lei Gao
+organisation: ZDNS, Ltd.
+address:      No.4,  South 4th Street, Zhongguancun
+address:      Haidian district
+address:      Beijing 100190
+address:      China
+phone:        +86 150 1138 0586
+e-mail:       gaolei@zdns.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
+ds-rdata:     28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
+
+whois:        whois.nic.unicom
+
+status:       ACTIVE
+remarks:      Registration information: http://www.chinaunicom.cn
+
+created:      2016-01-22
+changed:      2024-03-04
+source:       IANA
+
+# whois.nic.unicom
+
+The queried object does not exist: UNICOM
+>>> Last update of WHOIS database: 2024-10-08T17:11:08Z <<<
+

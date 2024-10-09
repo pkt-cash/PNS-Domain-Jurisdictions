@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IMDB
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+
+contact:      administrative
+name:         Program Manager, Registry
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+phone:        +1 206 646 5990
+fax-no:       +12069467702
+e-mail:       arsi-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.IMDB 213.248.218.50 2a01:618:402:0:0:0:0:50
+nserver:      DNS2.NIC.IMDB 103.49.82.50 2401:fd80:402:0:0:0:0:50
+nserver:      DNS3.NIC.IMDB 213.248.222.50 2a01:618:406:0:0:0:0:50
+nserver:      DNS4.NIC.IMDB 2401:fd80:406:0:0:0:0:50 43.230.50.50
+nserver:      DNSA.NIC.IMDB 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.IMDB 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.IMDB 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.IMDB 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     20815 8 2 e3cc51fe5a9a31ae6fac92900038dca9b523511b22158a08d8093220af88e4d7
+
+whois:        whois.nic.imdb
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
+
+created:      2016-05-19
+changed:      2024-02-01
+source:       IANA
+
+# whois.nic.imdb
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T17:01:36Z <<<
+

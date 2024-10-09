@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TEAM
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.TEAM 2a01:8840:22:0:0:0:0:37 65.22.32.37
+nserver:      V0N1.NIC.TEAM 2a01:8840:23:0:0:0:0:37 65.22.33.37
+nserver:      V0N2.NIC.TEAM 2a01:8840:24:0:0:0:0:37 65.22.34.37
+nserver:      V0N3.NIC.TEAM 161.232.16.37 2a01:8840:fa:0:0:0:0:37
+nserver:      V2N0.NIC.TEAM 2a01:8840:25:0:0:0:0:37 65.22.35.37
+nserver:      V2N1.NIC.TEAM 161.232.17.37 2a01:8840:fb:0:0:0:0:37
+ds-rdata:     38380 8 2 98207980337abe3132eb70514e4f2117a2cbc9d83acd2e89b18f9368a0456ea9
+
+whois:        whois.nic.team
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-04-09
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.team
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:09:49Z <<<
+

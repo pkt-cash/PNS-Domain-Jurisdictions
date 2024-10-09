@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECO
+
+organisation: Big Room Inc.
+address:      1231 Pacific Boulevard, Suite 581
+address:      Vancouver BC V6Z 0E2
+address:      Canada
+
+contact:      administrative
+name:         Registry Policy and Compliance
+organisation: Big Room Inc.
+address:      1231 Pacific Boulevard, Suite 581
+address:      Vancouver BC V6Z 0E2
+address:      Canada
+phone:        16046826673
+e-mail:       iana-contact@bigroom.eco
+
+contact:      technical
+name:         Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1 215.706.5701
+e-mail:       support@fury.ca
+
+nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
+nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
+nserver:      C.NS.NIC.ECO 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.ECO 185.159.199.4 2620:10a:80ac:0:0:0:0:4
+ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
+
+whois:        whois.nic.eco
+
+status:       ACTIVE
+remarks:      Registration information: https://go.eco
+
+created:      2016-08-18
+changed:      2024-03-15
+source:       IANA
+
+# whois.nic.eco
+
+Error code: 10110
+Error message: The domain name provided must end with .eco.
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2024 Canadian Internet Registration Authority, (http://www.cira.ca/)

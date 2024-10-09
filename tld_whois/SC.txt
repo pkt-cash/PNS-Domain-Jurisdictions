@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SC
+
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
+
+contact:      administrative
+name:         Arnold A. Chetty
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
+phone:        +248 2521188
+fax-no:       +248 4324056
+e-mail:       arnold.chetty@gmail.com
+
+contact:      technical
+name:         Marc Houareau
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
+phone:        +248 2513532
+fax-no:       +248 4324056
+e-mail:       marchouareau@gmail.com
+
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      NS1.NIC.SC 41.86.57.54
+ds-rdata:     2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
+
+whois:        whois.nic.sc
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.sc
+
+created:      1997-05-09
+changed:      2024-04-29
+source:       IANA
+
+# whois.nic.sc
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:08:39Z <<<
+

@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FREE
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+
+contact:      administrative
+name:         Program Manager, Registry
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
+phone:        +1 206 646 5990
+fax-no:       +1 206 946 7702
+e-mail:       arsi-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.FREE 213.248.218.67 2a01:618:402:0:0:0:0:67
+nserver:      DNS2.NIC.FREE 103.49.82.67 2401:fd80:402:0:0:0:0:67
+nserver:      DNS3.NIC.FREE 213.248.222.67 2a01:618:406:0:0:0:0:67
+nserver:      DNS4.NIC.FREE 2401:fd80:406:0:0:0:0:67 43.230.50.67
+nserver:      DNSA.NIC.FREE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.FREE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.FREE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.FREE 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     24446 8 2 04de92a2ccfbb31f3fe8b80a9e1c03b604062bb5726b1fe18d95c62f3cb8a26c
+
+whois:        whois.nic.free
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
+
+created:      2016-10-27
+changed:      2024-02-01
+source:       IANA
+
+# whois.nic.free
+
+Syntax error.
+
+>>> Last update of WHOIS database: 2024-10-08T17:00:20Z <<<
+

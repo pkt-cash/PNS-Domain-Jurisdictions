@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SALON
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.SALON 2a01:8840:1e:0:0:0:0:58 65.22.28.58
+nserver:      V0N1.NIC.SALON 2a01:8840:1f:0:0:0:0:58 65.22.29.58
+nserver:      V0N2.NIC.SALON 2a01:8840:20:0:0:0:0:58 65.22.30.58
+nserver:      V0N3.NIC.SALON 161.232.14.58 2a01:8840:f8:0:0:0:0:58
+nserver:      V2N0.NIC.SALON 2a01:8840:21:0:0:0:0:58 65.22.31.58
+nserver:      V2N1.NIC.SALON 161.232.15.58 2a01:8840:f9:0:0:0:0:58
+ds-rdata:     20629 8 2 15beee88cb2059844adc8b06944fc2424a7618726b390a08fc21fde2ef6daa07
+
+whois:        whois.nic.salon
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-11-12
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.salon
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:07:13Z <<<
+

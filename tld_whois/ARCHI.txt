@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ARCHI
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.ARCHI 2a01:8840:52:0:0:0:0:1 65.22.84.1
+nserver:      A2.NIC.ARCHI 2a01:8840:55:0:0:0:0:1 65.22.87.1
+nserver:      B0.NIC.ARCHI 2a01:8840:53:0:0:0:0:1 65.22.85.1
+nserver:      C0.NIC.ARCHI 2a01:8840:54:0:0:0:0:1 65.22.86.1
+ds-rdata:     11134 8 2 ed2b030f401540096b716481cd8897e37d9a8cecbdfd98c709f4860c77501680
+
+whois:        whois.nic.archi
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-03-20
+changed:      2023-08-31
+source:       IANA
+
+# whois.nic.archi
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:53:48Z <<<
+

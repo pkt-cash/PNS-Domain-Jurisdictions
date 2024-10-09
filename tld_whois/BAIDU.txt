@@ -1,0 +1,101 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BAIDU
+
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street
+address:      Haidian District
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Yuchen Wang
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street
+address:      Haidian District
+address:      Beijing
+address:      China
+phone:        +86 188 1064 7965
+fax-no:       +86 10 5992 0062
+e-mail:       wangyuchen08@baidu.com
+
+contact:      technical
+name:         Gao Lei
+organisation: ZDNS
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+phone:        +86.15011380586
+e-mail:       gaolei@zdns.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
+ds-rdata:     23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.zdns.cn
+
+created:      2015-12-17
+changed:      2024-03-11
+source:       IANA
+
+# whois.gtld.knet.cn
+
+Registrar: baidu
+Street: 北京市海淀区上地十街10号百度大厦
+City: 北京
+State/Province: 北京
+Postal Code: 100080
+Country: CN
+Phone Number: +86.13366201226
+Fax Number: +86.13366201226
+Email: yangzslife@gmail.com
+Registrar WHOIS Server: whois.zdns.cn
+Registrar URL: http://www.baidu.com
+Admin Name: 杨振生
+Admin Phone: +86.13366201226
+Admin Fax: +86.13366201226
+Admin Email: yangzslife@163.com
+Tech Name: baidu
+Tech Phone: +86.13366201226
+Tech Fax: +86.13366201226
+Tech Email: yangzslife@gmail.com
+
+>>> Last update of WHOIS database: 2024-10-08T16:50:18Z <<<
+
+# whois.zdns.cn
+
+Registrar: baidu
+Street: 北京市海淀区上地十街10号百度大厦
+City: 北京
+State/Province: 北京
+Postal Code: 100080
+Country: CN
+Phone Number: +86.13366201226
+Fax Number: +86.13366201226
+Email: yangzslife@gmail.com
+Registrar WHOIS Server: whois.zdns.cn
+Registrar URL: http://www.baidu.com
+Admin Name: 杨振生
+Admin Phone: +86.13366201226
+Admin Fax: +86.13366201226
+Admin Email: yangzslife@163.com
+Tech Name: baidu
+Tech Phone: +86.13366201226
+Tech Fax: +86.13366201226
+Tech Email: yangzslife@gmail.com
+
+>>> Last update of WHOIS database: 2024-10-08T16:50:18Z <<<
+

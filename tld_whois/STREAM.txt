@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STREAM
+
+organisation: dot Stream Limited
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+
+contact:      administrative
+name:         Edgar Charles Andrew Lavarello
+organisation: Pricewaterhousecoopers Ltd.
+address:      327 Main Street
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+phone:        +350 200 73520
+e-mail:       edgar.c.lavarello@gi.pwc.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.STREAM 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.STREAM 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.STREAM 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.STREAM 156.154.169.50 2610:a1:1071:0:0:0:1:32
+nserver:      NS2.DNS.NIC.STREAM 156.154.170.50 2610:a1:1072:0:0:0:1:32
+nserver:      NS3.DNS.NIC.STREAM 156.154.171.50 2610:a1:1073:0:0:0:1:32
+ds-rdata:     31735 8 2 b6a0ac51c5711a40b336884ea349544e664814376c82cf270336799225a7fd99
+
+whois:        whois.nic.stream
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.stream
+
+created:      2016-02-26
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.stream
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:09:27Z <<<
+

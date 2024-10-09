@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SG
+
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+
+contact:      administrative
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+contact:      technical
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+nserver:      DSANY.SGNIC.SG 120.29.253.11 2001:dcd:7:0:0:0:0:11
+nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
+nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
+ds-rdata:     26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
+
+whois:        whois.sgnic.sg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sgnic.sg
+
+created:      1988-10-19
+changed:      2024-03-28
+source:       IANA
+
+# whois.sgnic.sg
+
+Error code: 10110
+Error message: The domain name provided must end with .sg.
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

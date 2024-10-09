@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BABY
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +17027576555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.BABY 194.169.218.101 2001:67c:13cc:0:0:0:1:101
+nserver:      B.NIC.BABY 185.24.64.101 2a04:2b00:13cc:0:0:0:1:101
+nserver:      C.NIC.BABY 212.18.248.101 2a04:2b00:13ee:0:0:0:0:101
+nserver:      D.NIC.BABY 212.18.249.101 2a04:2b00:13ff:0:0:0:0:101
+ds-rdata:     11182 8 2 6b39ccc9ba6c73c818d68522547e5d56db46e13607dc0e83047d6e111067dcb2
+ds-rdata:     14956 8 2 523ec19f90ba1e0cd7292414999aab7a1fe67f878097fac9f18905fc4d68ae08
+
+whois:        whois.nic.baby
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.baby/
+
+created:      2016-01-14
+changed:      2024-02-28
+source:       IANA
+
+# whois.nic.baby
+
+INVALID QUERY

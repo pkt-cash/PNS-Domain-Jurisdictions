@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BARCLAYCARD
+
+organisation: Barclays Bank PLC
+address:      BTCR (Radbroke Hall)
+address:      Knutsford Cheshire WA16 9EU
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Simon Edlington
+organisation: Barclays Bank PLC
+address:      BTCR (Radbroke Hall)
+address:      Knutsford Cheshire WA16 9EU
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 7825 023892
+fax-no:       +44 2071 167663
+e-mail:       ngtld-barclays@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       tldtech@donuts.email
+
+nserver:      A0.NIC.BARCLAYCARD 2a01:8840:76:0:0:0:0:9 65.22.120.9
+nserver:      A2.NIC.BARCLAYCARD 2a01:8840:79:0:0:0:0:9 65.22.123.9
+nserver:      B0.NIC.BARCLAYCARD 2a01:8840:77:0:0:0:0:9 65.22.121.9
+nserver:      C0.NIC.BARCLAYCARD 2a01:8840:78:0:0:0:0:9 65.22.122.9
+ds-rdata:     8476 8 2 5ff69331a1fe54d3d3ea6f4b746444c19c1e61813ac3902e099cb25c369a39c4
+
+whois:        whois.nic.barclaycard
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barclaycard.com/
+
+created:      2015-01-08
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.barclaycard
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:54:12Z <<<
+

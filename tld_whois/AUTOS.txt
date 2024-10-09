@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AUTOS
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.AUTOS 194.169.218.136 2001:67c:13cc:0:0:0:1:136
+nserver:      B.NIC.AUTOS 185.24.64.136 2a04:2b00:13cc:0:0:0:1:136
+nserver:      C.NIC.AUTOS 212.18.248.136 2a04:2b00:13ee:0:0:0:0:136
+nserver:      D.NIC.AUTOS 212.18.249.136 2a04:2b00:13ff:0:0:0:0:136
+ds-rdata:     61492 8 2 34f530b8473fa65a88c5f81552efad281321445f6dc77ed685e06071bb56f0dd
+ds-rdata:     54470 8 2 0987b3830036cbc40b69d253f16e81ea74dd9dbfb981a0c8c21b93d64d2ba35b
+
+whois:        whois.nic.autos
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.autos
+
+created:      2014-05-01
+changed:      2023-11-27
+source:       IANA
+
+# whois.nic.autos
+
+INVALID QUERY

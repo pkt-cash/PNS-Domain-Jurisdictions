@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VIG
+
+organisation: VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe
+address:      Schottenring 30
+address:      Vienna 1010
+address:      Austria
+
+contact:      administrative
+name:         Operational Service Team
+organisation: VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe
+address:      Schottenring 30
+address:      Vienna 1010
+address:      Austria
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       vig@gtld.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VIG 2a01:8840:2e:0:0:0:0:25 65.22.48.25
+nserver:      A2.NIC.VIG 2a01:8840:31:0:0:0:0:25 65.22.51.25
+nserver:      B0.NIC.VIG 2a01:8840:2f:0:0:0:0:25 65.22.49.25
+nserver:      C0.NIC.VIG 2a01:8840:30:0:0:0:0:25 65.22.50.25
+ds-rdata:     64474 8 2 4dd8d2a7168f0358e8945f0558e2a643f3e941f6440fd26aa0d91b4e2b54b0e1
+
+whois:        whois.nic.vig
+
+status:       ACTIVE
+remarks:      Registration information: http://www.vig.com
+
+created:      2015-11-25
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.vig
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:14:32Z <<<
+

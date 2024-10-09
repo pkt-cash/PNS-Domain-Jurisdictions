@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SANOFI
+
+organisation: Sanofi
+address:      54, rue La Boétie
+address:      Paris 75008
+address:      France
+
+contact:      administrative
+name:         Hosting and Domain name manager
+organisation: Sanofi
+address:      54, rue La Boétie
+address:      Paris 75008
+address:      France
+phone:        +33 1 41 24 52 16
+fax-no:       +33 1 41 24 54 08
+e-mail:       ngtld-sanofi@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.SANOFI 2a01:8840:6e:0:0:0:0:67 65.22.112.67
+nserver:      A2.NIC.SANOFI 2a01:8840:71:0:0:0:0:67 65.22.115.67
+nserver:      B0.NIC.SANOFI 2a01:8840:6f:0:0:0:0:67 65.22.113.67
+nserver:      C0.NIC.SANOFI 2a01:8840:70:0:0:0:0:67 65.22.114.67
+ds-rdata:     41599 8 2 02843ff5975a697552b6331207523eed81a6fbe7a7f6aa90f9a2513bb3648092
+
+whois:        whois.nic.sanofi
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-07-16
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.sanofi
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:07:19Z <<<
+

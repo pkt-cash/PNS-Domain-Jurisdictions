@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MTR
+
+organisation: MTR Corporation Limited
+address:      MTR Headquarters Building, Telford Plaza
+address:      Kowloon Bay Kowloon
+address:      Hong Kong
+
+contact:      administrative
+name:         Cherry lam
+organisation: Hong Kong Internet Registration Corporation Limited
+address:      Unit 501, Level 5, Core C, Cyberport 3
+address:      100 Cyberport Road
+address:      Hong Kong
+phone:        +852 2319 3816
+fax-no:       +852 2319 2626
+e-mail:       cherry.lam@hkirc.hk
+
+contact:      technical
+name:         John Lam
+organisation: Hong Kong Internet Registration Corporation Limited
+address:      Unit 501, Level 5, Core C, Cyberport 3
+address:      100 Cyberport Road
+address:      Hong Kong
+phone:        +852 2319 2303
+fax-no:       +852 2319 2626
+e-mail:       john.lam@hkirc.hk
+
+nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
+nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
+nserver:      NS3.NIC.MTR 169.54.247.173 2607:f0d0:1b02:b9:0:0:0:4
+nserver:      NS4.NIC.MTR 135.90.90.24 2401:c900:2101:2a:0:0:0:b
+ds-rdata:     42697 8 2 3a0d21104e33bb379546248eb7fb301fa7383229b8d227f7bb8a53d7e50b194e
+
+whois:        whois.nic.mtr
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.mtr
+
+created:      2015-07-31
+changed:      2024-10-01
+source:       IANA
+
+# whois.nic.mtr
+
+The domain has not been registered.
+

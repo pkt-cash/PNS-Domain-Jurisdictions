@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NFL
+
+organisation: NFL Reg Ops LLC
+address:      345 Park Avenue
+address:      New York NY 10154
+address:      United States of America (the)
+
+contact:      administrative
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
+address:      United States of America (the)
+phone:        +1 (208) 389-5740
+e-mail:       dotnfl@markmonitor.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.NFL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.NFL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.NFL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS4.DNS.NIC.NFL 156.154.156.122 2610:a1:1074:0:0:0:0:7a
+nserver:      NS5.DNS.NIC.NFL 156.154.157.122 2610:a1:1075:0:0:0:0:7a
+nserver:      NS6.DNS.NIC.NFL 156.154.158.122 2610:a1:1076:0:0:0:0:7a
+ds-rdata:     7234 8 2 ec15a3b4d86192561c46bc1ebb72aa65bf5bf9c9d07a32ee736157ebadd447bb
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nfl.com/
+
+created:      2016-06-03
+changed:      2024-05-11
+source:       IANA
+

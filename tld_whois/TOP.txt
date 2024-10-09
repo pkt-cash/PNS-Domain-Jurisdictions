@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TOP
+
+organisation: .TOP Registry
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
+address:      China
+
+contact:      administrative
+name:         Xiangli Li
+organisation: Jiangsu Bangning Science & technology Co.,Ltd.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
+address:      China
+phone:        +86 13915996396
+fax-no:       +86 2586883476
+e-mail:       newgtld@55hl.com
+
+contact:      technical
+name:         Lin Dong
+organisation: Jiangsu Bangning Science & technology Co.,Ltd.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
+address:      China
+phone:        +86 15261877642
+fax-no:       +86 02586883476
+e-mail:       kf@55hl.com
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     56384 8 2 ba378c5913404ec654df544f519b0fb287e140d64dac5d59e349962393c17945
+ds-rdata:     26780 8 2 5d6e7869ee8e3b536a617de89482ddd1dcb9db9dbb1ac33d6ed351e2ca095b1b
+
+whois:        whois.nic.top
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.top
+
+created:      2014-07-24
+changed:      2024-04-26
+source:       IANA
+
+# whois.nic.top
+
+The queried object does not exist: TOP
+>>> Last update of WHOIS database: 2024-10-08T17:11:08Z <<<
+

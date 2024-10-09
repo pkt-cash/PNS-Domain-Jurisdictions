@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CRUISES
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.CRUISES 2a01:8840:1a:0:0:0:0:30 65.22.24.30
+nserver:      V0N1.NIC.CRUISES 2a01:8840:1b:0:0:0:0:30 65.22.25.30
+nserver:      V0N2.NIC.CRUISES 2a01:8840:1c:0:0:0:0:30 65.22.26.30
+nserver:      V0N3.NIC.CRUISES 161.232.12.30 2a01:8840:f6:0:0:0:0:30
+nserver:      V2N0.NIC.CRUISES 2a01:8840:1d:0:0:0:0:30 65.22.27.30
+nserver:      V2N1.NIC.CRUISES 161.232.13.30 2a01:8840:f7:0:0:0:0:30
+ds-rdata:     33562 8 2 1ddfe341f6a4826600129a02d4586888063e21c358e093d8ab4c4b5933d73e01
+
+whois:        whois.nic.cruises
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-01-30
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.cruises
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:56:15Z <<<
+

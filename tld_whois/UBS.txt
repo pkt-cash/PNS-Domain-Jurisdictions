@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UBS
+
+organisation: UBS AG
+address:      Bahnhofstrasse 45
+address:      Zurich CH-8098
+address:      Switzerland
+
+contact:      administrative
+name:         Legal Counsel ⁄ Executive Director
+organisation: UBS AG
+address:      Bahnhofstrasse 45
+address:      Zurich CH-8098
+address:      Switzerland
+phone:        +44 20 7568 7648
+fax-no:       +44 20 7568 7648
+e-mail:       ngtld-ubs@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.UBS 2a01:8840:6e:0:0:0:0:71 65.22.112.71
+nserver:      A2.NIC.UBS 2a01:8840:71:0:0:0:0:71 65.22.115.71
+nserver:      B0.NIC.UBS 2a01:8840:6f:0:0:0:0:71 65.22.113.71
+nserver:      C0.NIC.UBS 2a01:8840:70:0:0:0:0:71 65.22.114.71
+ds-rdata:     59500 8 2 7c8d56d7ecd2a44500d7463258c99b2acb49ebc2bbabb7aeb3a658f2d21581ab
+
+whois:        whois.nic.ubs
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-06-11
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.ubs
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:11:45Z <<<
+

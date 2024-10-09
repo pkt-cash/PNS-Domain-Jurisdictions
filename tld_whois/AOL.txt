@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AOL
+
+organisation: Yahoo Inc.
+address:      770 Broadway
+address:      New York NY 10003
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+address:      770 Broadway
+address:      New York NY 10003
+address:      United States of America (the)
+phone:        +1 212 206 4400
+fax-no:       n/a
+e-mail:       ngtld-aol@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.AOL 2a01:8840:6e:0:0:0:0:42 65.22.112.42
+nserver:      A2.NIC.AOL 2a01:8840:71:0:0:0:0:42 65.22.115.42
+nserver:      B0.NIC.AOL 2a01:8840:6f:0:0:0:0:42 65.22.113.42
+nserver:      C0.NIC.AOL 2a01:8840:70:0:0:0:0:42 65.22.114.42
+ds-rdata:     26461 8 2 05de3346df593b9db78a40efa9a8eb847347296974924fd837900db7054c13b3
+
+whois:        whois.nic.aol
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aol.com
+
+created:      2016-10-27
+changed:      2024-05-15
+source:       IANA
+
+# whois.nic.aol
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T16:53:39Z <<<
+

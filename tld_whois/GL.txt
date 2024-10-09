@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GL
+
+organisation: TELE Greenland A/S
+address:      Farip Aqqutaa 8
+address:      PO Box 1002
+address:      Nuuk 3900
+address:      Greenland
+
+contact:      administrative
+name:         Network Planning Department (NPL)
+organisation: TELE Greenland A/S
+address:      Farip Aqqutaa 8
+address:      PO Box 1002
+address:      Nuuk 3900
+address:      Greenland
+phone:        +299 341255
+fax-no:       +299 322966
+e-mail:       gl-admin@telepost.gl
+
+contact:      technical
+name:         Operations Support Systems Department (OSS)
+organisation: TELE Greenland A/S
+address:      Farip Aqqutaa 8
+address:      PO Box 1002
+address:      Nuuk 3900
+address:      Greenland
+phone:        +299 341255
+fax-no:       +299 322966
+e-mail:       gl-admin@telepost.gl
+
+nserver:      D.NIC.GL 2001:500:14:6049:ad:0:0:1 204.61.216.49
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     11560 8 2 3d44df84c78a82e0e9824440f3e82b402551341dbff3bce72cd786435d15f1aa
+
+whois:        whois.nic.gl
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.gl/
+
+created:      1994-04-08
+changed:      2022-11-26
+source:       IANA
+
+# whois.nic.gl
+
+INVALID QUERY

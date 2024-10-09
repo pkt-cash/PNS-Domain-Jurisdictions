@@ -1,0 +1,69 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ישראל
+domain-ace:   XN--4DBRK0CE
+
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach Tikva 4951477
+address:      Israel
+
+contact:      administrative
+name:         CEO
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach Tikva 4951477
+address:      Israel
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       ceo@isoc.org.il
+
+contact:      technical
+name:         IL Technical Contact
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach Tikva 4951477
+address:      Israel
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       tld-tech@isoc.org.il
+
+nserver:      ILNS.ILAN.NET.IL 128.139.35.5
+nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
+nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
+nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
+nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
+nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:7:0:0:0:0:53
+nserver:      NSB.NS.IL 192.115.7.60 2606:4700:52:0:0:0:ac40:349c 2606:4700:5a:0:0:0:ac40:3524
+nserver:      NSE.NS.IL 192.115.4.235
+ds-rdata:     5893 13 2 575289a1f1a3f38caade5b063d2977185d2ce1a573087d9b33ab2b6dbde83f29
+
+whois:        whois.isoc.org.il
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars
+
+created:      2020-06-16
+changed:      2024-05-14
+source:       IANA
+
+# whois.isoc.org.il
+
+
+% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in 
+% obtaining information about or related to a domain name 
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise 
+% support the transmission of mass unsolicited, commercial 
+% advertising or solicitations via e-mail (spam); 
+% or  (2) enable high volume, automated, electronic processes that 
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+ 

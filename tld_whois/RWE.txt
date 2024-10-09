@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RWE
+
+organisation: RWE AG
+address:      Opernplatz 1
+address:      Essen 45128
+address:      Germany
+
+contact:      administrative
+name:         Head of Group Brand Communications
+organisation: RWE AG
+address:      Opernplatz 1
+address:      Essen 45128
+address:      Germany
+phone:        +49 201 12 15372
+fax-no:       +49 201 12 15143
+e-mail:       ngtld-rwe@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.RWE 2a01:8840:6a:0:0:0:0:18 65.22.108.18
+nserver:      V0N1.NIC.RWE 2a01:8840:6b:0:0:0:0:18 65.22.109.18
+nserver:      V0N2.NIC.RWE 2a01:8840:6c:0:0:0:0:18 65.22.110.18
+nserver:      V0N3.NIC.RWE 161.232.32.18 2a01:8840:108:0:0:0:0:18
+nserver:      V2N0.NIC.RWE 2a01:8840:6d:0:0:0:0:18 65.22.111.18
+nserver:      V2N1.NIC.RWE 161.232.33.18 2a01:8840:109:0:0:0:0:18
+ds-rdata:     23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
+
+whois:        whois.nic.rwe
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-10-01
+changed:      2024-07-25
+source:       IANA
+
+# whois.nic.rwe
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:07:07Z <<<
+

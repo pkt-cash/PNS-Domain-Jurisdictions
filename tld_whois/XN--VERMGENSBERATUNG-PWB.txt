@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       vermögensberatung
+domain-ace:   XN--VERMGENSBERATUNG-PWB
+
+organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
+address:      Wilhelm-Leuschner-Strasse 24
+address:      Hessen
+address:      Frankfurt am Main 60329
+address:      Germany
+
+contact:      administrative
+name:         Director, Digital Media
+organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
+address:      Wilhelm-Leuschner-Strasse 24
+address:      Hessen
+address:      Frankfurt am Main 60329
+address:      Germany
+phone:        +49.6923840
+fax-no:       +49.692384185
+e-mail:       mail@dvag-registry.de
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.XN--VERMGENSBERATUNG-PWB 194.169.218.106 2001:67c:13cc:0:0:0:1:106
+nserver:      B.NIC.XN--VERMGENSBERATUNG-PWB 185.24.64.106 2a04:2b00:13cc:0:0:0:1:106
+nserver:      C.NIC.XN--VERMGENSBERATUNG-PWB 212.18.248.106 2a04:2b00:13ee:0:0:0:0:106
+nserver:      D.NIC.XN--VERMGENSBERATUNG-PWB 212.18.249.106 2a04:2b00:13ff:0:0:0:0:106
+ds-rdata:     30509 8 2 b1d9b6e7e50bd1ac597183b160050a398919dde4a33fac3714bccaedd4bfd2ef
+ds-rdata:     64685 8 2 aafbcb4c8bb1cd236d7cd0ea943987f94de28cb6da343813af260076d97828a1
+
+whois:        whois.nic.xn--vermgensberatung-pwb
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dvag-registry.de
+
+created:      2014-09-18
+changed:      2023-10-16
+source:       IANA
+
+# whois.nic.xn--vermgensberatung-pwb
+
+INVALID QUERY

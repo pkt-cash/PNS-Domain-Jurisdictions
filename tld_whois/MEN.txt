@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MEN
+
+organisation: Exclusive Registry Limited
+address:      Famous Four Media/Exclusive Registry Limited
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+
+contact:      administrative
+name:         Edgar Charles Andrew Lavarello
+organisation: Pricewaterhousecoopers Ltd.
+address:      327 Main Street
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+phone:        +350 200 73520
+e-mail:       edgar.c.lavarello@gi.pwc.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.MEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.MEN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MEN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MEN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     43840 8 2 f2ab9162a3125ee62726c0782da179d9a6ea14d948ccf416c2c6cb2e7122a70f
+
+whois:        whois.nic.men
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.men
+
+created:      2015-05-08
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.men
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:03:23Z <<<
+

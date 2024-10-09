@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SENER
+
+organisation: Sener Ingeniería y Sistemas, S.A.
+address:      Avda. De Zugazarte, 56
+address:      Getxo 48930
+address:      Spain
+
+contact:      administrative
+name:         Project Manager
+organisation: Sener Ingeniería y Sistemas, S.A.
+address:      Avda. De Zugazarte, 56
+address:      Getxo 48930
+address:      Spain
+phone:        +34 94 4817500
+fax-no:       +34 94 481 8110
+e-mail:       ngtld-sener@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.SENER 2a01:8840:6a:0:0:0:0:19 65.22.108.19
+nserver:      V0N1.NIC.SENER 2a01:8840:6b:0:0:0:0:19 65.22.109.19
+nserver:      V0N2.NIC.SENER 2a01:8840:6c:0:0:0:0:19 65.22.110.19
+nserver:      V0N3.NIC.SENER 161.232.32.19 2a01:8840:108:0:0:0:0:19
+nserver:      V2N0.NIC.SENER 2a01:8840:6d:0:0:0:0:19 65.22.111.19
+nserver:      V2N1.NIC.SENER 161.232.33.19 2a01:8840:109:0:0:0:0:19
+ds-rdata:     724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
+
+whois:        whois.nic.rwe
+
+status:       ACTIVE
+remarks:      Registration information: http://sener.es
+
+created:      2015-04-02
+changed:      2024-07-25
+source:       IANA
+
+# whois.nic.rwe
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:08:53Z <<<
+

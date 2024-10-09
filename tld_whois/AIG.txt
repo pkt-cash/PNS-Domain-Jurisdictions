@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AIG
+
+organisation: American International Group, Inc.
+address:      80 Pine Street, 30th Floor
+address:      New York NY NY10005
+address:      United States of America (the)
+
+contact:      administrative
+name:         GDS Governance
+organisation: American International Group, Inc.
+address:      80 Pine Street, 30th Floor
+address:      New York NY NY10005
+address:      United States of America (the)
+phone:        +1 212 770 7000
+fax-no:       +1 212 458 1942
+e-mail:       dmsgovernance@aig.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.AIG 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AIG 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AIG 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.AIG 156.154.144.6 2610:a1:1071:0:0:0:0:6
+nserver:      NS2.DNS.NIC.AIG 156.154.145.6 2610:a1:1072:0:0:0:0:6
+nserver:      NS3.DNS.NIC.AIG 156.154.159.6 2610:a1:1073:0:0:0:0:6
+ds-rdata:     15685 8 2 572786514068659a43816cef2d3774db47dec4783a3133f6bd7d63d0a37dcca1
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aig.com
+
+created:      2015-04-09
+changed:      2024-05-11
+source:       IANA
+

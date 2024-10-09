@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MENU
+
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
+
+contact:      administrative
+name:         Kenwei Chong
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
+phone:        +1 808 3721988
+fax-no:       +1 323 4886285
+e-mail:       kenwei@nic.menu
+
+contact:      technical
+name:         Erik Ludwick
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
+phone:        +1 424 3462122
+fax-no:       +1 323 4886285
+e-mail:       erik@nic.menu
+
+nserver:      A.NIC.MENU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MENU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.MENU 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MENU 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MENU 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     34801 8 2 9f75480edae26137d71c72574244ef65943199e92c89364035e6ba7b1f1bab32
+
+whois:        whois.nic.menu
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.menu
+
+created:      2013-11-13
+changed:      2024-07-05
+source:       IANA
+
+# whois.nic.menu
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:03:24Z <<<
+

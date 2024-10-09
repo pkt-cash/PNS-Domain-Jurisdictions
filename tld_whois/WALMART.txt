@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WALMART
+
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+
+contact:      administrative
+name:         Project and Process Manager
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+phone:        +44 20 70 15 17 17
+e-mail:       ngtld-walmart@cscglobal.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.WALMART 2a01:8840:6e:0:0:0:0:74 65.22.112.74
+nserver:      A2.NIC.WALMART 2a01:8840:71:0:0:0:0:74 65.22.115.74
+nserver:      B0.NIC.WALMART 2a01:8840:6f:0:0:0:0:74 65.22.113.74
+nserver:      C0.NIC.WALMART 2a01:8840:70:0:0:0:0:74 65.22.114.74
+ds-rdata:     34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
+
+whois:        whois.nic.walmart
+
+status:       ACTIVE
+remarks:      Registration information: http://www.walmart.com
+
+created:      2016-07-21
+changed:      2023-09-14
+source:       IANA
+
+# whois.nic.walmart
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:14:44Z <<<
+

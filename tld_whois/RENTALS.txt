@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RENTALS
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.RENTALS 2a01:8840:22:0:0:0:0:14 65.22.32.14
+nserver:      V0N1.NIC.RENTALS 2a01:8840:23:0:0:0:0:14 65.22.33.14
+nserver:      V0N2.NIC.RENTALS 2a01:8840:24:0:0:0:0:14 65.22.34.14
+nserver:      V0N3.NIC.RENTALS 161.232.16.14 2a01:8840:fa:0:0:0:0:14
+nserver:      V2N0.NIC.RENTALS 2a01:8840:25:0:0:0:0:14 65.22.35.14
+nserver:      V2N1.NIC.RENTALS 161.232.17.14 2a01:8840:fb:0:0:0:0:14
+ds-rdata:     33616 8 2 348cca06b6eaa7f81247d1b92c72a18cab732c243954080d773507739433202e
+
+whois:        whois.nic.rentals
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-01-30
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.rentals
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:06:51Z <<<
+

@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CYOU
+
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg L-1331
+address:      Luxembourg
+
+contact:      administrative
+name:         Lars Jensen
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.CYOU 194.169.218.120 2001:67c:13cc:0:0:0:1:120
+nserver:      B.NIC.CYOU 185.24.64.120 2a04:2b00:13cc:0:0:0:1:120
+nserver:      C.NIC.CYOU 212.18.248.120 2a04:2b00:13ee:0:0:0:0:120
+nserver:      D.NIC.CYOU 212.18.249.120 2a04:2b00:13ff:0:0:0:0:120
+ds-rdata:     19927 13 2 2079b2824eee39ec9ab51f32b199a6bcc68162ca56bd12c2740b8c800fc611c4
+ds-rdata:     14103 13 2 579e60f99fbb5da7942ead76a5f2c5e5c2f7b6e7376d3d76363b6314c660dc28
+
+whois:        whois.nic.cyou
+
+status:       ACTIVE
+remarks:      Registration information: http://cy.changyou.com
+
+created:      2015-03-19
+changed:      2024-06-19
+source:       IANA
+
+# whois.nic.cyou
+
+INVALID QUERY

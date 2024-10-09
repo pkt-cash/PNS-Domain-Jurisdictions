@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INSURANCE
+
+organisation: fTLD Registry Services LLC
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
+address:      Washington DC 20005
+address:      United States of America (the)
+
+contact:      administrative
+name:         Managing Director
+organisation: fTLD Registry Services, LLC
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
+address:      Washington DC 20005
+address:      United States of America (the)
+phone:        +1 202 236 1154
+e-mail:       ftld@ftld.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      D.NIC.INSURANCE 156.154.103.22 2610:a1:1010:0:0:0:0:22
+nserver:      E.NIC.INSURANCE 156.154.104.22 2610:a1:1011:0:0:0:0:22
+nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
+nserver:      W.NIC.INSURANCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      X.NIC.INSURANCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      Y.NIC.INSURANCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     32830 13 2 f51790be5f8a3bec1d392a45882a76c5bda288395a3929e9714eb26193e80f5e
+
+whois:        whois.nic.insurance
+
+status:       ACTIVE
+remarks:      Registration information: https://www.ftld.com/
+
+created:      2015-11-06
+changed:      2024-07-01
+source:       IANA
+
+# whois.nic.insurance
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T17:01:43Z <<<
+

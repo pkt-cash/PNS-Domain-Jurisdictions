@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EE
+
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+
+contact:      administrative
+name:         Member of the Management Board
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+phone:        +372 727 1000
+e-mail:       info@internet.ee
+
+contact:      technical
+name:         System Administrator
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+phone:        +372 727 1000
+e-mail:       noc@internet.ee
+
+nserver:      B.TLD.EE 194.146.106.110 2001:67c:1010:28:0:0:0:53
+nserver:      E.TLD.EE 2001:678:94:53:0:0:0:53 204.61.216.36
+nserver:      EE.CERT.EE 2a00:6a00:ad1:814:0:0:0:147 46.226.142.147
+nserver:      EE.EENET.EE 193.40.132.5 2001:bb8:4001:0:0:0:0:53
+nserver:      NS.TLD.EE 195.43.87.10
+ds-rdata:     34382 8 2 000a3d89dc6cd4ba00ea8affee3967d3a26de7a545fbefe16ba07518fc8d54f6
+
+whois:        whois.tld.ee
+
+status:       ACTIVE
+remarks:      Registration information: http://www.internet.ee
+
+created:      1992-06-03
+changed:      2023-06-28
+source:       IANA
+
+# whois.tld.ee
+
+
+Policy error: please study "Requirements for the registration of a Domain Name" of .ee domain regulations. https://www.internet.ee/domains/ee-domain-regulation#registration-of-domain-names
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

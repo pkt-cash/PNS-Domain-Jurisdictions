@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BANAMEX
+
+organisation: Citigroup Inc.
+address:      388 Greenwich St
+address:      New York NY 10013
+address:      United States of America (the)
+
+contact:      administrative
+name:         Head of Legal Policy
+organisation: Com Laude Group
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)20 7421 8250
+fax-no:       +44 (0)87 0011 8187
+e-mail:       primary_banamex@valideus.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.BANAMEX 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BANAMEX 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BANAMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.BANAMEX 156.154.144.21 2610:a1:1071:0:0:0:0:15
+nserver:      NS2.DNS.NIC.BANAMEX 156.154.145.21 2610:a1:1072:0:0:0:0:15
+nserver:      NS3.DNS.NIC.BANAMEX 156.154.159.21 2610:a1:1073:0:0:0:0:15
+ds-rdata:     38095 8 2 eb04c740fb681ab87a2376cfb9e5ce3a865f930da98246836670d0bb29478229
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.citigroup.com
+
+created:      2016-07-21
+changed:      2024-05-11
+source:       IANA
+

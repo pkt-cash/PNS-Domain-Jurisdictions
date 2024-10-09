@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOATS
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.BOATS 194.169.218.134 2001:67c:13cc:0:0:0:1:134
+nserver:      B.NIC.BOATS 185.24.64.134 2a04:2b00:13cc:0:0:0:1:134
+nserver:      C.NIC.BOATS 212.18.248.134 2a04:2b00:13ee:0:0:0:0:134
+nserver:      D.NIC.BOATS 212.18.249.134 2a04:2b00:13ff:0:0:0:0:134
+ds-rdata:     59980 8 2 a5e1e3d7c3a1cd95834be1a4f1b403eb0018e4918d107c25a61360b2b7e585dd
+ds-rdata:     35419 8 2 43c5098ed1c55c5eb62237acd9ebdc4721ca7e8b8290c66538ee4eae7bfd997e
+
+whois:        whois.nic.boats
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.boats
+
+created:      2015-02-13
+changed:      2024-02-28
+source:       IANA
+
+# whois.nic.boats
+
+INVALID QUERY

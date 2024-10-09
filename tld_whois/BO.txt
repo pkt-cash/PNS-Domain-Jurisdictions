@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BO
+
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz 13097
+address:      Bolivia (Plurinational State of)
+
+contact:      administrative
+name:         Bladimir Magne Molina
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz 13097
+address:      Bolivia (Plurinational State of)
+phone:        +591 2 2200720
+fax-no:       +591 2 2200720
+e-mail:       bmagne@adsib.gob.bo
+
+contact:      technical
+name:         José Luís Machicado Moya
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz 13097
+address:      Bolivia (Plurinational State of)
+phone:        +591 2 2200720
+fax-no:       +591 2 2200720
+e-mail:       jmachicado@adsib.gob.bo
+
+nserver:      ANYCAST.NS.NIC.BO 2001:500:14:6048:ad:0:0:1 204.61.216.48
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS.NIC.BO 166.114.1.40
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+
+whois:        whois.nic.bo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.bo
+
+created:      1991-02-26
+changed:      2024-05-23
+source:       IANA
+
+# whois.nic.bo
+
+
+
+whois.nic.bo solo acepta consultas con dominios .bo

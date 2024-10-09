@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEATHERCHANNEL
+
+organisation: International Business Machines Corporation
+address:      New Orchard Road
+address:      Armonk NY 10504
+address:      United States of America (the)
+
+contact:      administrative
+name:         Engineering Manager
+organisation: International Business Machines Corporation
+address:      North Castle Drive
+address:      Armonk NY 10504
+address:      United States of America (the)
+phone:        +1-914-765-4227
+fax-no:       +1-914-765-4390
+e-mail:       ngtld-ibm@cscinfo.com
+
+contact:      technical
+name:         Engineering Manager
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       ngtld-ibm@cscinfo.com
+
+nserver:      A.NIC.WEATHERCHANNEL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WEATHERCHANNEL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WEATHERCHANNEL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS4.DNS.NIC.WEATHERCHANNEL 156.154.156.179 2610:a1:1074:0:0:0:0:b3
+nserver:      NS5.DNS.NIC.WEATHERCHANNEL 156.154.157.179 2610:a1:1075:0:0:0:0:b3
+nserver:      NS6.DNS.NIC.WEATHERCHANNEL 156.154.158.179 2610:a1:1076:0:0:0:0:b3
+ds-rdata:     47695 8 2 b2f90e6997386b0411808f05702d0f9ac00f5c0d129262394c86e1ba79977be2
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.weather.com
+
+created:      2016-01-22
+changed:      2023-11-30
+source:       IANA
+

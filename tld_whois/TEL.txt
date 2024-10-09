@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TEL
+
+organisation: Telnames Ltd.
+address:      16 Charles II Street
+address:      London SW1Y 4NW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         TLD Administrative Contact
+organisation: Telnames Ltd.
+address:      16 Charles II Street
+address:      London SW1Y 4NW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 7467 6450
+fax-no:       +44 20 7467 6451
+e-mail:       asagar@telnic.org
+
+contact:      technical
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      Dortmund North Rhine-Westphalia 44227
+address:      Germany
+phone:        +49-231-9703-0
+fax-no:       +49-231-9703-200
+e-mail:       dnsmaster@irondns.net
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
+
+whois:        whois.nic.tel
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.tel
+
+created:      2007-03-01
+changed:      2024-03-18
+source:       IANA
+
+# whois.nic.tel
+
+The queried object does not exist: no matching objects found
+>>> Last update of Whois database: 2024-10-08T17:09:38.327Z <<<
+

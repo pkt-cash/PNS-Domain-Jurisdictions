@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WINE
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.WINE 2a01:8840:22:0:0:0:0:11 65.22.32.11
+nserver:      V0N1.NIC.WINE 2a01:8840:23:0:0:0:0:11 65.22.33.11
+nserver:      V0N2.NIC.WINE 2a01:8840:24:0:0:0:0:11 65.22.34.11
+nserver:      V0N3.NIC.WINE 161.232.16.11 2a01:8840:fa:0:0:0:0:11
+nserver:      V2N0.NIC.WINE 2a01:8840:25:0:0:0:0:11 65.22.35.11
+nserver:      V2N1.NIC.WINE 161.232.17.11 2a01:8840:fb:0:0:0:0:11
+ds-rdata:     4210 8 2 16016cd0c2432421b72d072422278999c3c2772353e3d5214d25be24b4d521cb
+
+whois:        whois.nic.wine
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-07-23
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.wine
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:14:56Z <<<
+

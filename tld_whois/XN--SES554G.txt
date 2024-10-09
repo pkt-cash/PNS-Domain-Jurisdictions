@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       网址
+domain-ace:   XN--SES554G
+
+organisation: KNET Co., Ltd
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Vice General Manager
+organisation: KNET Co., Ltd.
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
+address:      China
+phone:        +86-18610813899
+fax-no:       n/a
+e-mail:       wangzhi-admin@knet.cn
+
+contact:      technical
+name:         Technical Director
+organisation: KNET Co., Ltd.
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
+address:      China
+phone:        86-18519852227
+fax-no:       N/A
+e-mail:       wangzhi-tech@knet.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
+
+whois:        whois.nic.xn--ses554g
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.xn--ses554g/
+
+created:      2014-03-13
+changed:      2024-04-08
+source:       IANA
+
+# whois.nic.xn--ses554g
+
+The queried object does not exist: 网址
+>>> Last update of WHOIS database: 2024-10-08T17:15:19Z <<<
+

@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CARAVAN
+
+organisation: Caravan International, Inc.
+address:      401 N Michigan Ave
+address:      Chicago IL 60611
+address:      United States of America (the)
+
+contact:      administrative
+name:         Ray Koltys
+organisation: Caravan International, Inc.
+address:      401 N Michigan Ave
+address:      Chicago IL 60611
+address:      United States of America (the)
+phone:        +1-312-321-9800
+fax-no:       +1-312-321-9810
+e-mail:       tld.registry@caravan.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.CARAVAN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CARAVAN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CARAVAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.CARAVAN 156.154.144.32 2610:a1:1071:0:0:0:0:20
+nserver:      NS2.DNS.NIC.CARAVAN 156.154.145.32 2610:a1:1072:0:0:0:0:20
+nserver:      NS3.DNS.NIC.CARAVAN 156.154.159.32 2610:a1:1073:0:0:0:0:20
+ds-rdata:     3526 8 2 370991b8e6e9f532e4b6ddf051fae510353e27e0b99a3f9b7b359c48620c507e
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.caravan.com
+
+created:      2014-05-22
+changed:      2024-05-11
+source:       IANA
+

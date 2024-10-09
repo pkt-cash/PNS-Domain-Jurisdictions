@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TIAA
+
+organisation: Teachers Insurance and Annuity Association of America
+address:      730 Third Avenue
+address:      New York NY 10017
+address:      United States of America (the)
+
+contact:      administrative
+name:         Sr. IT Engineer
+organisation: Teachers Insurance and Annuity Association of America
+address:      730 Third Avenue
+address:      New York NY 10017
+address:      United States of America (the)
+phone:        +1 800 842 2522
+fax-no:       +1 800 914 8922
+e-mail:       ngtld-tiaa@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.TIAA 2a01:8840:6a:0:0:0:0:7 65.22.108.7
+nserver:      V0N1.NIC.TIAA 2a01:8840:6b:0:0:0:0:7 65.22.109.7
+nserver:      V0N2.NIC.TIAA 2a01:8840:6c:0:0:0:0:7 65.22.110.7
+nserver:      V0N3.NIC.TIAA 161.232.32.7 2a01:8840:108:0:0:0:0:7
+nserver:      V2N0.NIC.TIAA 2a01:8840:6d:0:0:0:0:7 65.22.111.7
+nserver:      V2N1.NIC.TIAA 161.232.33.7 2a01:8840:109:0:0:0:0:7
+ds-rdata:     14185 8 2 14d2ba968e8bda466149febec577c50eca9cb7759996fa762a5f8081c424b825
+
+whois:        whois.nic.tiaa
+
+status:       ACTIVE
+remarks:      Registration information: http://tiaa.org
+
+created:      2016-03-24
+changed:      2024-03-28
+source:       IANA
+
+# whois.nic.tiaa
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:09:58Z <<<
+

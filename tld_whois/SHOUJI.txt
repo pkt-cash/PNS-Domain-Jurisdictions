@@ -1,0 +1,69 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SHOUJI
+
+organisation: QIHOO 360 TECHNOLOGY CO. LTD.
+address:      Building #2, No. 6 Jiuxianqiao Road
+address:      Chaoyang District
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Senior Operation Manager
+organisation: Beijing Qihu Keji Co., Ltd.
+address:      Building #2, No. 6 Jiuxianqiao Road
+address:      Chaoyang District
+address:      Beijing
+address:      China
+phone:        +86 10 5244 7383
+fax-no:       +86. 10 5878 1411
+e-mail:       newgtld_legal@360.cn
+
+contact:      technical
+name:         CTO
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
+address:      China
+phone:        +86 18910283591
+e-mail:       gtld@teleinfo.cn
+
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
+ds-rdata:     27565 8 2 e9706714550cf565afcb114fda3dd0a4f105db670e12074a1a26b71c34f69125
+
+whois:        whois.teleinfo.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.teleinfo.cn
+
+created:      2016-03-18
+changed:      2024-05-06
+source:       IANA
+
+# whois.teleinfo.cn
+
+invalid parameter:SHOUJI
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE:The data contained in Beijing Tele-info Network
+Technology Co.  LTD's("TELE-INFO") WhoIs database is provided for the
+sole purpose of assisting you in obtaining information about or
+related to a domain name registration record.  TELE-INFO provides the
+data in accordance with the registration record, but does not
+guarantee its accuracy.  By submitting a WHOIS query, you agree that
+you will use this Data only for lawful purposes and that, under no
+circumstances will you: (1) use electronic processes that are
+automated and high-volume to access or query the Whois database;
+(2)support the transmission of mass unsolicited, commercial
+advertising or solicitations via facsimile, e-mail and telephone.
+Without the prior written consent of TELE-INFO, the compilation,
+repackaging and dissemination of this Data is expressly prohibited.
+TELE-INFO reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy.
+

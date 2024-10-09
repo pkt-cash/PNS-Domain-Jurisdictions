@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       公司
+domain-ace:   XN--55QX5D
+
+organisation: China Internet Network Information Center (CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Yu Zeng
+organisation: China Internet Network Information Center (CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
+address:      China
+phone:        +86(0)10-58813686
+fax-no:       +86(0)10-58813632
+e-mail:       ng@cnnic.cn
+
+contact:      technical
+name:         Anlei Hu
+organisation: China Internet Network Information Center (CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
+address:      China
+phone:        +86(0)10-58813121
+fax-no:       +86(0)10-58812666
+e-mail:       ngtech@cnnic.cn
+
+nserver:      A.NGTLD.CN 125.208.40.1 2001:dc7:ffc1:0:0:0:0:1
+nserver:      B.NGTLD.CN 125.208.41.1 2001:dc7:ffc2:0:0:0:0:1
+nserver:      C.NGTLD.CN 125.208.42.1 2001:dc7:ffc3:0:0:0:0:1
+nserver:      D.NGTLD.CN 125.208.43.1
+nserver:      E.NGTLD.CN 125.208.44.1
+ds-rdata:     47359 8 2 d8fe897ce8ac620cb7cb9f6f4e887fc7a14c3ed80cb973da4e30a17ceca1015b
+
+whois:        whois.ngtld.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cnnic.cn
+
+created:      2014-01-09
+changed:      2023-10-03
+source:       IANA
+
+# whois.ngtld.cn
+
+The queried object does not exist: XN--55QX5D (invalid parameter:XN--55QX5D)
+>>> Last update of WHOIS database: 2024-10-08T17:15:17Z <<<
+

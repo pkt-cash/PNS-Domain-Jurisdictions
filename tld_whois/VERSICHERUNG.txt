@@ -1,0 +1,107 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VERSICHERUNG
+
+organisation: tldbox GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      Salzburg 5020
+address:      Austria
+
+contact:      administrative
+name:         Richard Wein
+organisation: tldbox GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      Salzburg 5020
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       service@tld-box.at
+
+contact:      technical
+name:         Technical Operations
+organisation: tldbox GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      Salzburg 5020
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       iana@tld-box.at
+
+nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
+nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
+nserver:      N.DNS.NIC.VERSICHERUNG 194.0.24.2 2001:678:24:0:0:0:0:2
+ds-rdata:     26134 8 2 925ee924b5bc6876443e476c16eaf5bf02885acadbdf27ca2c87be8eeb7f3b41
+ds-rdata:     53914 8 2 3fb290c372a8e1f1662e968c7836f7856e493f96f0a6603de8e882f54bae577c
+
+whois:        whois.nic.versicherung
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.versicherung
+
+created:      2014-05-15
+changed:      2022-11-04
+source:       IANA
+
+# whois.nic.versicherung
+
+Domain Name: .versicherung
+Registry Domain ID: D0000000000-VERS
+Registrar WHOIS Server: whois.nic.versicherung
+Registrar URL: http://www.nic.versicherung/
+Updated Date: 2017-06-07T06:39:57Z
+Creation Date: 2014-04-29T14:08:54Z
+Registry Expiry Date: 2042-01-29T00:00:01Z
+Registrar: tldbox GmbH
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: service@tld-box.at
+Registrar Abuse Contact Phone: +43.6624669
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: tldbox GmbH
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Salzburg
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: AT
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: C0000000002-VERS
+Tech Name: TLDBOX
+Tech Organization: tldbox GmbH
+Tech Street: Jakob-Haringer-Strasse 8/V
+Tech City: Salzburg
+Tech State/Province: Salzburg
+Tech Postal Code: 5020
+Tech Country: AT
+Tech Phone: +43.662234548
+Tech Phone Ext: 730
+Tech Fax: +43.662234548
+Tech Fax Ext: 19
+Tech Email: iana@tld-box.at
+Name Server: sec1.rcode0.net
+Name Server: sec2.rcode0.net
+DNSSEC: signedDelegation
+>>> Last update of Whois database: 2024-10-08T17:14:29Z <<<
+

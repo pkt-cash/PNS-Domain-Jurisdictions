@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RIP
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.RIP 2a01:8840:22:0:0:0:0:22 65.22.32.22
+nserver:      V0N1.NIC.RIP 2a01:8840:23:0:0:0:0:22 65.22.33.22
+nserver:      V0N2.NIC.RIP 2a01:8840:24:0:0:0:0:22 65.22.34.22
+nserver:      V0N3.NIC.RIP 161.232.16.22 2a01:8840:fa:0:0:0:0:22
+nserver:      V2N0.NIC.RIP 2a01:8840:25:0:0:0:0:22 65.22.35.22
+nserver:      V2N1.NIC.RIP 161.232.17.22 2a01:8840:fb:0:0:0:0:22
+ds-rdata:     64594 8 2 e5771475fcab4c6df4608be0ede2efd5cfbcfa1405ca0b121c57557b959a40bd
+
+whois:        whois.nic.rip
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-10-09
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.rip
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:07:00Z <<<
+

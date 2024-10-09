@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HELP
+
+organisation: Innovation Service Ltd
+address:      Suite 3, Global Village Jivan Complex
+address:      Mont Fleuri Mahe
+address:      Seychelles
+address:      Seychelles
+
+contact:      administrative
+name:         CHENG/PUI KIT
+organisation: Innovation Service Ltd
+address:      Suite 3, Global Village Jivan Complex
+address:      Mont Fleuri Mahe
+address:      Seychelles
+phone:        +852 2988 8918
+fax-no:       +852 2988 8368
+e-mail:       m.cheng@innovationservice.help
+
+contact:      technical
+name:         Head of Engineering, Registry
+organisation: CentralNIC
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.HELP 194.169.218.158 2001:67c:13cc:0:0:0:1:158
+nserver:      B.NIC.HELP 185.24.64.158 2a04:2b00:13cc:0:0:0:1:158
+nserver:      C.NIC.HELP 212.18.248.158 2a04:2b00:13ee:0:0:0:0:158
+nserver:      D.NIC.HELP 212.18.249.158 2a04:2b00:13ff:0:0:0:0:158
+ds-rdata:     58472 13 2 9313a5ff28806d26514b86f9a83a67b79692ab1ff3a4401ce49fc0488b607bea
+ds-rdata:     10505 13 2 9f5fd17a8185397a597dc230dc457dcb5db4ae9cd4a3285cc7ce8cad823bfc9d
+
+whois:        whois.nic.help
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.help
+
+created:      2014-08-15
+changed:      2024-01-04
+source:       IANA
+
+# whois.nic.help
+
+OVERVIEW
+
+WHOIS is a query and response protocol that is widely used for querying
+databases that store the registered users or assignees of an Internet
+resource, such as a domain name, an IP address block, or an autonomous
+system, but is also used for a wider range of other information. The
+protocol stores and delivers database content in a human-readable
+format. The Whois protocol is documented in RFC 3912.
+
+The WHOIS server at whois.centralnicregistry.com on TCP port 43 will return
+information on the following objects held in CentralNic's registry
+system:
+
+  * domain names
+  * host servers
+  * registrars
+
+QUERYING
+
+By default, CentralNic's WHOIS server assumes all input strings are
+domain names, and will attempt to return a WHOIS record for the given
+domain. To query for other object types, prefix the object identifier
+with "contact", "nameserver" or "registrar", for example:
+
+  $ whois -h whois.centralnicregistry.com "nameserver ns0.example.uk.com"
+
+The above query will return the WHOIS record for the host server
+"ns0.example.uk.com".
+
+  $ whois -h whois.centralnicregistry.com "registrar CentralNic Ltd"
+
+The above query will return the WHOIS record for the registrar
+"CentralNic Ltd". You can also query for registrars by and IANA ID.
+
+CHARACTER ENCODING
+
+All input is assumed to be encoded in UTF-8. All output is encoded in
+UTF-8.
+
+The WHOIS server is IDN-aware, and will accept queries for both the
+U-label (ie café.uk.com) or the A-label (xn--caf-dma.uk.com).
+
+TERMS OF USE
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/rdap <<<
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://registrar-console.centralnicregistry.com/pub/whois_guidance.

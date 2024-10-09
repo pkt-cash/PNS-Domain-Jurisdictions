@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SBS
+
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
+
+contact:      administrative
+name:         CEO
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.SBS 194.169.218.127 2001:67c:13cc:0:0:0:1:127
+nserver:      B.NIC.SBS 185.24.64.127 2a04:2b00:13cc:0:0:0:1:127
+nserver:      C.NIC.SBS 212.18.248.127 2a04:2b00:13ee:0:0:0:0:127
+nserver:      D.NIC.SBS 212.18.249.127 2a04:2b00:13ff:0:0:0:0:127
+ds-rdata:     56056 8 2 ef6d326e9513ea4c07f99a08afcdc5f3d9e3f6eb73000af57d6fc3deca1ca31c
+ds-rdata:     9116 8 2 012791072305ec41947811dfdf889333d7e177007132faaf8d78873d0c38dfc6
+
+whois:        whois.nic.sbs
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.icu
+
+created:      2015-09-24
+changed:      2024-06-19
+source:       IANA
+
+# whois.nic.sbs
+
+INVALID QUERY

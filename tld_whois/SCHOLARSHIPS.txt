@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SCHOLARSHIPS
+
+organisation: Scholarships.com, LLC
+address:      513 Central Ave., Suite 300
+address:      Highland Park IL 60035
+address:      United States of America (the)
+
+contact:      administrative
+name:         CTO
+organisation: Scholarships.com, LLC
+address:      513 Central Ave., Suite 300
+address:      Highland Park IL 60035
+address:      United States of America (the)
+phone:        +1 847 432 1700 x114
+fax-no:       +1 847 572 8088
+e-mail:       djw@scholarships.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SCHOLARSHIPS 2a01:8840:8a:0:0:0:0:17 65.22.140.17
+nserver:      A2.NIC.SCHOLARSHIPS 2a01:8840:8d:0:0:0:0:17 65.22.143.17
+nserver:      B0.NIC.SCHOLARSHIPS 2a01:8840:8b:0:0:0:0:17 65.22.141.17
+nserver:      C0.NIC.SCHOLARSHIPS 2a01:8840:8c:0:0:0:0:17 65.22.142.17
+ds-rdata:     57649 8 2 24261732a51a4d33adc9a823ee1e38139bcabbda2f4c2eb7f6c8ceb3480b64b6
+
+whois:        whois.nic.scholarships
+
+status:       ACTIVE
+remarks:      Registration information: http://www.scholarships.com
+
+created:      2014-07-10
+changed:      2023-08-03
+source:       IANA
+
+# whois.nic.scholarships
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:08:43Z <<<
+

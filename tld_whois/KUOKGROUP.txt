@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KUOKGROUP
+
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+
+contact:      administrative
+name:         Legal Executive
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+phone:        +852 2525 7211
+fax-no:       +852 2845 9000
+e-mail:       ngtld-kerry4@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.KUOKGROUP 2a01:8840:6e:0:0:0:0:56 65.22.112.56
+nserver:      A2.NIC.KUOKGROUP 2a01:8840:71:0:0:0:0:56 65.22.115.56
+nserver:      B0.NIC.KUOKGROUP 2a01:8840:6f:0:0:0:0:56 65.22.113.56
+nserver:      C0.NIC.KUOKGROUP 2a01:8840:70:0:0:0:0:56 65.22.114.56
+ds-rdata:     28711 8 2 19c2733eeb5ab3b49ce9d819206870d68b3bb15dd07f69f99175e27a984ed8d1
+
+whois:        whois.nic.kuokgroup
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kerryprops.com
+
+created:      2015-12-17
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.kuokgroup
+
+Malformed request.
+>>> Last update of WHOIS database: 2024-10-08T17:02:28Z <<<
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STORAGE
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 7027576555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.STORAGE 194.169.218.55 2001:67c:13cc:0:0:0:1:55
+nserver:      B.NIC.STORAGE 185.24.64.55 2a04:2b00:13cc:0:0:0:1:55
+nserver:      C.NIC.STORAGE 212.18.248.55 2a04:2b00:13ee:0:0:0:0:55
+nserver:      D.NIC.STORAGE 212.18.249.55 2a04:2b00:13ff:0:0:0:0:55
+ds-rdata:     50476 7 2 bf2260b22c8c9630dc3e5ce22130c4fb97edd6b27805a05f8f526b951b465156
+ds-rdata:     7498 7 2 67d97de0482b8a801916d91dda71213fe03483a3bb83125038639a1635fcc1c5
+
+whois:        whois.nic.storage
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.storage/
+
+created:      2015-12-10
+changed:      2024-01-31
+source:       IANA
+
+# whois.nic.storage
+
+INVALID QUERY

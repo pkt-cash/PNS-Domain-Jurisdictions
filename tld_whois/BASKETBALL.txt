@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BASKETBALL
+
+organisation: Fédération Internationale de Basketball (FIBA)
+address:      Route Suisse 5 - P.O Box 29
+address:      Mies CH-1295
+address:      Switzerland
+
+contact:      administrative
+name:         Hamish Miller
+organisation: Fédération Internationale de Basketball (FIBA)
+address:      Route Suisse 5 - P.O Box 29
+address:      Mies CH-1295
+address:      Switzerland
+phone:        +64.21782255
+fax-no:       +44.2033880601
+e-mail:       primary@dotbasketball.co
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.BASKETBALL 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BASKETBALL 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BASKETBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.BASKETBALL 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.BASKETBALL 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.BASKETBALL 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     48130 8 2 02653b2567731ff23c16036c9f0d51a3596fb8c93b6bd0801b74e7267af995af
+
+whois:        whois.nic.basketball
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fiba.com/
+
+created:      2016-10-13
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.basketball
+
+No Data Found
+>>> Last update of WHOIS database: 2024-10-08T16:54:16Z <<<
+
