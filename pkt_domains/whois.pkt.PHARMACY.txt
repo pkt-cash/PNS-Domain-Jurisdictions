@@ -1,0 +1,61 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.pharmacy
+
+domain:       PHARMACY
+
+organisation: National Association of Boards of Pharmacy
+address:      1600 Feehanville Drive
+address:      Mount Prospect IL 60056
+address:      United States of America (the)
+
+contact:      administrative
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.PHARMACY 213.248.219.45 2a01:618:403:0:0:0:0:45
+nserver:      DNS2.NIC.PHARMACY 103.49.83.45 2401:fd80:403:0:0:0:0:45
+nserver:      DNS3.NIC.PHARMACY 213.248.223.45 2a01:618:407:0:0:0:0:45
+nserver:      DNS4.NIC.PHARMACY 2401:fd80:407:0:0:0:0:45 43.230.51.45
+nserver:      DNSA.NIC.PHARMACY 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PHARMACY 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PHARMACY 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PHARMACY 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     13921 8 2 d24b9704b0642e8d9ea7cf6418c9212883ecd172c5651e89501c04724da8ac00
+
+whois:        whois.nic.pharmacy
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://nabp.pharmacy/programs/accreditations-inspections/dotpharmacy/
+
+created:      2014-08-28
+changed:      2021-10-19
+source:       IANA
+
+# whois.nic.pharmacy
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T08:58:02Z <<<
+

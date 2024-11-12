@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.arte
+
+domain:       ARTE
+
+organisation: Association Relative à la Télévision Européenne G.E.I.E.
+address:      4, Quai du Chanoine Winterer
+address:      Strasbourg 67000
+address:      France
+
+contact:      administrative
+name:         Legal Director
+organisation: Association Relative à la Télévision Européenne G.E.I.E.
+address:      4, Quai du Chanoine Winterer
+address:      Strasbourg 67000
+address:      France
+phone:        +33 3 88 14 22 22
+e-mail:       ngtld-arte@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.ARTE 2a01:8840:6a:0:0:0:0:11 65.22.108.11
+nserver:      V0N1.NIC.ARTE 2a01:8840:6b:0:0:0:0:11 65.22.109.11
+nserver:      V0N2.NIC.ARTE 2a01:8840:6c:0:0:0:0:11 65.22.110.11
+nserver:      V0N3.NIC.ARTE 161.232.32.11 2a01:8840:108:0:0:0:0:11
+nserver:      V2N0.NIC.ARTE 2a01:8840:6d:0:0:0:0:11 65.22.111.11
+nserver:      V2N1.NIC.ARTE 161.232.33.11 2a01:8840:109:0:0:0:0:11
+ds-rdata:     58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
+
+whois:        whois.nic.arte
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-09-24
+changed:      2024-03-31
+source:       IANA
+
+# whois.nic.arte
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:41:07Z <<<
+

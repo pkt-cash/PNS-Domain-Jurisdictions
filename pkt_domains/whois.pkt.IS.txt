@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.isnic.is
+
+domain:       IS
+
+organisation: ISNIC - Internet Iceland ltd.
+address:      Katrínartún 2
+address:      Reykjavik 105
+address:      Iceland
+
+contact:      administrative
+name:         Jens Pétur Jensen
+organisation: ISNIC - Internet á Íslandi hf.
+address:      Katrínartún 2
+address:      Reykjavík 105
+address:      Iceland
+phone:        +354 578 2030
+e-mail:       jens@isnic.is
+
+contact:      technical
+name:         ISNIC Hostmaster
+organisation: ISNIC - Internet á Íslandi hf.
+address:      Katrínartún 2
+address:      Reykjavík 105
+address:      Iceland
+phone:        +354 578 2030
+e-mail:       iana-contact@isnic.is
+
+nserver:      A.NIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
+nserver:      B.NIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
+nserver:      C.NIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
+nserver:      D.NIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
+nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
+nserver:      E.NIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+ds-rdata:     17566 8 2 d53c92eab2840fdea346dbc99900c032f47763762e10e95ce6b0a895ddcb6b4e
+
+whois:        whois.isnic.is
+
+status:       ACTIVE
+remarks:      Registration information: https://www.isnic.is/
+
+created:      1987-11-18
+changed:      2024-03-08
+source:       IANA
+
+# whois.isnic.is
+
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+%
+% No entries found for query "PKT.IS".

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.lpl
+
+domain:       LPL
+
+organisation: LPL Holdings, Inc.
+address:      4828 Parkway Plaza Blvd
+address:      Charlotte NC 28217
+address:      United States of America (the)
+
+contact:      administrative
+name:         Richard Cook
+organisation: LPLFinancial
+address:      4707 Executive Drive
+address:      San Diego CA 91921-3091
+address:      United States of America (the)
+phone:        +1 858-779-5818
+e-mail:       richard.cook@lplfinancial.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.LPL 194.169.218.92 2001:67c:13cc:0:0:0:1:92
+nserver:      B.NIC.LPL 185.24.64.92 2a04:2b00:13cc:0:0:0:1:92
+nserver:      C.NIC.LPL 212.18.248.92 2a04:2b00:13ee:0:0:0:0:92
+nserver:      D.NIC.LPL 212.18.249.92 2a04:2b00:13ff:0:0:0:0:92
+ds-rdata:     43324 13 2 1783403d052e9b382d00f3d78ab8dc40689ae032b7246d93a683761837f220df
+
+whois:        whois.nic.lpl
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2016-06-30
+changed:      2023-10-05
+source:       IANA
+
+# whois.nic.lpl
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:52:48.0Z <<<
+

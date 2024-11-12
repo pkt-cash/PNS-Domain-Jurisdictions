@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.dog
+
+domain:       DOG
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.DOG 2a01:8840:22:0:0:0:0:45 65.22.32.45
+nserver:      V0N1.NIC.DOG 2a01:8840:23:0:0:0:0:45 65.22.33.45
+nserver:      V0N2.NIC.DOG 2a01:8840:24:0:0:0:0:45 65.22.34.45
+nserver:      V0N3.NIC.DOG 161.232.16.45 2a01:8840:fa:0:0:0:0:45
+nserver:      V2N0.NIC.DOG 2a01:8840:25:0:0:0:0:45 65.22.35.45
+nserver:      V2N1.NIC.DOG 161.232.17.45 2a01:8840:fb:0:0:0:0:45
+ds-rdata:     48736 8 2 4aedf3d3b5d11c33c5a39badbe1708d3afc6276582bf1ee80e73a667ebb543c0
+
+whois:        whois.nic.dog
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-04-16
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.dog
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:46:17Z <<<
+

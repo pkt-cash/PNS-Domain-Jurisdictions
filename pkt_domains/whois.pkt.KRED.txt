@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       KRED
+
+organisation: KredTLD Pty Ltd
+address:      Level 6
+address:      1 Chifley Square
+address:      Sydney NSW 2000
+address:      Australia
+
+contact:      administrative
+name:         Jodee Rich
+organisation: KredTLD Pty Ltd
+address:      Level 6
+address:      1 Chifley Square
+address:      Sydney NSW 2000
+address:      Australia
+phone:        +61 2 9247 8230
+e-mail:       contact@peoplebrowsr.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.KRED 194.169.218.79 2001:67c:13cc:0:0:0:1:79
+nserver:      B.NIC.KRED 185.24.64.79 2a04:2b00:13cc:0:0:0:1:79
+nserver:      C.NIC.KRED 212.18.248.79 2a04:2b00:13ee:0:0:0:0:79
+nserver:      D.NIC.KRED 212.18.249.79 2a04:2b00:13ff:0:0:0:0:79
+ds-rdata:     7366 8 2 46bb5d35906260d79f26c5639b8a1fe47061c329973204d07222808035cd11bf
+ds-rdata:     33850 8 2 2ed5e1e9ef263b8455a2df166c792df49a29c8294ae9999287b56d0b81d2ed70
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.peoplebrowsr.com
+
+created:      2014-02-20
+changed:      2023-11-17
+source:       IANA
+

@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        virgil.nic.vi
+
+domain:       VI
+
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
+
+contact:      administrative
+name:         TLD Manager
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       tld.manager@nic.vi
+
+contact:      technical
+name:         DNS Administrator
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       domain@nic.vi
+
+nserver:      NS3.NIC.VI 185.17.236.230
+nserver:      PCH.NIC.VI 2001:500:14:6133:ad:0:0:1 204.61.216.133
+
+whois:        virgil.nic.vi
+
+status:       ACTIVE
+remarks:      Registration information: https://secure.nic.vi
+
+created:      1995-08-31
+changed:      2024-02-26
+source:       IANA
+
+# virgil.nic.vi
+
+Domain Name: pkt.vi
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2024-10-28T03:40:25.41Z <<<
+

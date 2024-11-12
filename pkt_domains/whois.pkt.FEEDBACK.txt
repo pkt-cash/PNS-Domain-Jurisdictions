@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.feedback
+
+domain:       FEEDBACK
+
+organisation: Top Level Spectrum, Inc.
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
+
+contact:      administrative
+name:         Jay Westerdal
+organisation: Top Level Spectrum, Inc.
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
+phone:        206-397-8825
+fax-no:       206-238-1232
+e-mail:       contact@topspectrum.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     8710 13 2 d28054e80046b19c06009c25b451836bebe30a7516ed8c8e51b044e0d2144b64
+
+whois:        whois.nic.feedback
+
+status:       ACTIVE
+remarks:      Registration information: http://centralnic.com
+
+created:      2014-03-06
+changed:      2024-05-29
+source:       IANA
+
+# whois.nic.feedback
+
+>>> Domain pkt.feedback is available for registration
+
+>>> Please visit https://www.nic.realty/registrars/ for a list of accredited
+registrars
+
+>>> Last update of WHOIS database: 2024-10-28T08:49:32.054Z <<<
+

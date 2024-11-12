@@ -1,0 +1,141 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.homes
+
+domain:       HOMES
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.HOMES 194.169.218.132 2001:67c:13cc:0:0:0:1:132
+nserver:      B.NIC.HOMES 185.24.64.132 2a04:2b00:13cc:0:0:0:1:132
+nserver:      C.NIC.HOMES 212.18.248.132 2a04:2b00:13ee:0:0:0:0:132
+nserver:      D.NIC.HOMES 212.18.249.132 2a04:2b00:13ff:0:0:0:0:132
+ds-rdata:     33262 8 2 d9f3c8d72738eba7ed5002404c5e2748e1aa47c83e36d33d2d4eb72360e49d80
+ds-rdata:     64382 8 2 252b825350b3fb0d15cc087d7e7e52af81ce901db0f3a614d927ad153c909560
+
+whois:        whois.nic.homes
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.homes/
+
+created:      2014-05-01
+changed:      2024-04-15
+source:       IANA
+
+# whois.nic.homes
+
+Domain Name: PKT.HOMES
+Registry Domain ID: D478704216-CNIC
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: https://porkbun.com/
+Updated Date: 2024-09-12T15:03:16.0Z
+Creation Date: 2024-08-14T23:51:31.0Z
+Registry Expiry Date: 2025-08-14T23:59:59.0Z
+Registrar: Porkbun, LLC
+Registrar IANA ID: 1861
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Private by Design, LLC
+Registrant State/Province: NC
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: CURITIBA.NS.PORKBUN.COM
+Name Server: FORTALEZA.NS.PORKBUN.COM
+Name Server: MACEIO.NS.PORKBUN.COM
+Name Server: SALVADOR.NS.PORKBUN.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.8557675286
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:51:10.0Z <<<
+
+# whois.porkbun.com
+
+Domain Name: PKT.HOMES
+Registry Domain ID: D478704216-CNIC
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: http://www.porkbun.com
+Updated Date: 2024-08-14 23:51:31
+Created Date: 2024-08-14 23:51:31
+Registrar Registration Expiration Date: 2025-08-14 23:59:59
+Registrar: Porkbun LLC
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.5038508351
+Domain Status: serverTransferProhibited http://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited http://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited http://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Whois Privacy
+Registrant Organization: Private by Design, LLC
+Registrant Street: 500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Phone Ext: 
+Registrant Fax:
+Registrant Fax Ext: 
+Registrant Email: https://porkbun.com/whois/contact/registrant/pkt.homes
+Registry Admin ID: 
+Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street: 500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Phone Ext: 
+Admin Fax:
+Admin Fax Ext: 
+Admin Email: https://porkbun.com/whois/contact/admin/pkt.homes
+Registry Tech ID: 
+Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street: 500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Phone Ext: 
+Tech Fax:
+Tech Fax Ext: 
+Tech Email: https://porkbun.com/whois/contact/tech/pkt.homes
+Name Server: curitiba.ns.porkbun.com
+Name Server: fortaleza.ns.porkbun.com
+Name Server: maceio.ns.porkbun.com
+Name Server: salvador.ns.porkbun.com
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2024-08-14 23:51:31 <<<
+

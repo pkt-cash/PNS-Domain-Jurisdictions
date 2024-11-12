@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.phone
+
+domain:       PHONE
+
+organisation: Dish DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director Advanced Video Products
+organisation: DISH DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+phone:        +1.303.723.1000
+fax-no:       +1.303.723.1699
+e-mail:       cscngtlds28@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.PHONE 2a01:8840:5e:0:0:0:0:17 65.22.96.17
+nserver:      A2.NIC.PHONE 2a01:8840:61:0:0:0:0:17 65.22.99.17
+nserver:      B0.NIC.PHONE 2a01:8840:5f:0:0:0:0:17 65.22.97.17
+nserver:      C0.NIC.PHONE 2a01:8840:60:0:0:0:0:17 65.22.98.17
+ds-rdata:     18829 8 2 b7809834406510fcbea1aafa42f0bd2e7f4096bee97d8b7fd5964cdb39c607b4
+
+whois:        whois.nic.phone
+
+status:       ACTIVE
+remarks:      Registration information: https://www.dish.com/
+
+created:      2016-12-15
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.phone
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:58:04Z <<<
+

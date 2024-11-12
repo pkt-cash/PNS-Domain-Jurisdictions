@@ -1,0 +1,165 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.info
+
+domain:       INFO
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.INFO.AFILIAS-NST.INFO 199.254.31.1 2001:500:19:0:0:0:0:1
+nserver:      A2.INFO.AFILIAS-NST.INFO 199.249.113.1 2001:500:41:0:0:0:0:1
+nserver:      B0.INFO.AFILIAS-NST.ORG 199.254.48.1 2001:500:1a:0:0:0:0:1
+nserver:      B2.INFO.AFILIAS-NST.ORG 199.249.121.1 2001:500:49:0:0:0:0:1
+nserver:      C0.INFO.AFILIAS-NST.INFO 199.254.49.1 2001:500:1b:0:0:0:0:1
+nserver:      D0.INFO.AFILIAS-NST.ORG 199.254.50.1 2001:500:1c:0:0:0:0:1
+ds-rdata:     5104 8 2 1af7548a8d3e2950c20303757df9390c26cfa39e26c8b6a8f6c8b1e72dd8f744
+
+whois:        whois.nic.info
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2001-06-26
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.info
+
+Domain Name: pkt.info
+Registry Domain ID: dd9d508709c74e8faad604aeb53023e0-DONUTS
+Registrar WHOIS Server: whois.dynadot.com
+Registrar URL: http://dynadot.com
+Updated Date: 2024-02-26T01:10:01Z
+Creation Date: 2005-12-21T09:36:42Z
+Registry Expiry Date: 2025-12-21T09:36:42Z
+Registrar: Dynadot Inc
+Registrar IANA ID: 472
+Registrar Abuse Contact Email: abuse@dynadot.com
+Registrar Abuse Contact Phone: +1.6502620100
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: California
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.afternic.com
+Name Server: ns2.afternic.com
+Name Server: verification-w2xf9gdmxas2ndpt8ztrdm.ns101.verify.hn
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:51:32Z <<<
+
+# whois.dynadot.com
+
+Domain Name: PKT.INFO
+Registry Domain ID: D11580842-LRMS
+Registrar WHOIS Server: whois.dynadot.com
+Registrar URL: http://www.dynadot.com
+Updated Date: 2024-02-26T01:10:17.0Z
+Creation Date: 2005-12-21T09:36:42.0Z
+Registrar Registration Expiration Date: 2025-12-21T09:36:42.0Z
+Registrar: DYNADOT LLC
+Registrar IANA ID: 472
+Registrar Abuse Contact Email: abuse@dynadot.com
+Registrar Abuse Contact Phone: +1.6502620100
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: CPF-118857
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Super Privacy Service LTD c/o Dynadot
+Registrant Street: PO Box 701
+Registrant Street: 
+Registrant City: San Mateo
+Registrant State/Province: California
+Registrant Postal Code: 94401
+Registrant Country: US
+Registrant Phone: +1.6505854708
+Registrant Email: https://www.dynadot.com/domain/contact-request?domain=pkt.info
+Registry Admin ID: CPF-118857
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: Super Privacy Service LTD c/o Dynadot
+Admin Street: PO Box 701
+Admin Street: 
+Admin City: San Mateo
+Admin State/Province: California
+Admin Postal Code: 94401
+Admin Country: US
+Admin Phone: +1.6505854708
+Admin Email: https://www.dynadot.com/domain/contact-request?domain=pkt.info
+Registry Tech ID: CPF-118857
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: Super Privacy Service LTD c/o Dynadot
+Tech Street: PO Box 701
+Tech Street: 
+Tech City: San Mateo
+Tech State/Province: California
+Tech Postal Code: 94401
+Tech Country: US
+Tech Phone: +1.6505854708
+Tech Email: https://www.dynadot.com/domain/contact-request?domain=pkt.info
+Name Server: ns1.afternic.com
+Name Server: ns2.afternic.com
+Name Server: verification-w2xf9gdmxas2ndpt8ztrdm.ns101.verify.hn
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-02-25 17:10:17 -0800 <<<
+

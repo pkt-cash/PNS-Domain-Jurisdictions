@@ -1,0 +1,63 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.pm
+
+domain:       PM
+
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
+address:      France
+
+contact:      administrative
+name:         TLD Admin Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
+address:      France
+phone:        +33 1 39 30 83 05
+fax-no:       +33 1 39 30 83 01
+e-mail:       tld-admin@nic.fr
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       tld-tech@nic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
+
+whois:        whois.nic.pm
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.pm
+
+created:      1997-08-20
+changed:      2024-09-09
+source:       IANA
+
+# whois.nic.pm
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+%% NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:58:17.357185Z <<<
+

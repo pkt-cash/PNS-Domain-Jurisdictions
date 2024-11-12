@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       MIL
+
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+
+contact:      administrative
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+phone:        +1 614 692 6640
+fax-no:       +1 614 692 3452
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+contact:      technical
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall OH 43213
+address:      United States of America (the)
+phone:        +1 614 692 6640
+fax-no:       +1 614 692 3452
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+nserver:      CON1.NIPR.MIL 199.252.157.234 2608:140:c:157:0:0:0:234
+nserver:      CON2.NIPR.MIL 199.252.162.234 2608:120:c:162:0:0:0:234
+nserver:      EUR1.NIPR.MIL 199.252.154.234 2608:4122:2:154:0:0:0:234
+nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
+nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
+nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
+ds-rdata:     63500 8 2 3baa83867103d6604a124282063f295e1b15c87cc13cb875a42f5754a912ebe0
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      1985-01-01
+changed:      2024-09-19
+source:       IANA
+

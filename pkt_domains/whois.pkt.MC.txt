@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       MC
+
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      2 rue du Gabian
+address:      c/o DITN
+address:      98000
+address:      Monaco
+
+contact:      administrative
+name:         NIC Administrator
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      2 rue du Gabian
+address:      c/o DITN
+address:      98000
+address:      Monaco
+phone:        +377 98 98 88 00
+e-mail:       nic@gouv.mc
+
+contact:      technical
+name:         NIC Administrator
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      2 rue du Gabian
+address:      c/o DITN
+address:      98000
+address:      Monaco
+phone:        +377 98 98 88 00
+e-mail:       nic@gouv.mc
+
+nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92
+nserver:      NS1.NIC.MC 185.243.3.205
+nserver:      NS2.NIC.MC 13.36.89.111
+nserver:      NS3.NIC.MC 15.237.153.29
+ds-rdata:     20677 8 2 81e94624ea1edd7ac7a412f0e5311b7d4d9500ffdb005e98b2fc610239331a9b
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.mc/
+
+created:      1995-01-20
+changed:      2024-10-22
+source:       IANA
+

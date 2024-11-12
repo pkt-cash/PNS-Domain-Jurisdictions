@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ht
+
+domain:       HT
+
+organisation: Consortium FDS/RDDH
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
+address:      Haiti
+
+contact:      administrative
+name:         Admin Contact
+organisation: Fondation Réseau de Développement Durable d'Haïti/ Faculté Des Sciences - UEH
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
+address:      Haiti
+phone:        (509) 37357815
+e-mail:       jnahum.constant@frddh.org.ht
+
+contact:      technical
+name:         Contact Technique
+organisation: Faculté des Sciences de l'Université d'Etat d'Haïti/ FRDDH
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
+address:      Haiti
+phone:        +1 (305)8316789., +(509) 37027275
+e-mail:       maxlarson.henry@transversal.ht
+
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      NS-HT.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      PCH.NIC.HT 2001:500:14:6038:ad:0:0:1 204.61.216.38
+ds-rdata:     2176 8 2 7ca97faad5fd19728c3cedfb2f647eadc144ee21d01dafb7f821954b38bdda78
+
+whois:        whois.nic.ht
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ht
+
+created:      1997-03-06
+changed:      2023-03-15
+source:       IANA
+
+# whois.nic.ht
+
+Domain Name: PKT.HT
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:51:18.405Z <<<
+

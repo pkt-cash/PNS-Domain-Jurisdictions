@@ -1,0 +1,72 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.kr
+
+domain:       한국
+domain-ace:   XN--3E0B707E
+
+organisation: KISA (Korea Internet & Security Agency)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+
+contact:      administrative
+name:         KRNIC Policy Team Manager
+organisation: KISA (Korea Internet & Security Agency)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+phone:        +82 61 820 1176
+fax-no:       +82 61 820 2611
+e-mail:       adminc@kisa.or.kr
+
+contact:      technical
+name:         KRNIC Tech Team Manager
+organisation: KISA (Korea Internet & Security Agency)
+address:      9, Jinheung-gil
+address:      Naju-si Jeollanam-do 58324
+address:      Korea (the Republic of)
+phone:        +82 61 820 1161
+fax-no:       +82 61 820 2611
+e-mail:       techc@kisa.or.kr
+
+nserver:      B.DNS.KR 210.101.60.1
+nserver:      C.DNS.KR 210.101.61.1
+nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 2001:dcc:6:0:0:0:0:1 210.101.62.1
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
+ds-rdata:     48379 8 2 88372b74adb821c79fac26e1883cc6bd96ff6eb97aaa1a9486bb4b3b26076d02
+
+whois:        whois.kr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.or.kr
+
+created:      2011-02-05
+changed:      2023-03-07
+source:       IANA
+
+# whois.kr
+
+query : pkt.xn--3e0b707e
+
+
+# KOREAN(UTF8)
+
+상기 도메인이름은 등록되어 있지 않습니다.
+상기 도메인이름의 사용을 원하실 경우 도메인이름 등록대행자를 통해 
+등록 신청하시기 바랍니다.
+
+
+
+# ENGLISH
+
+The requested domain was not found in the Registry or Registrar’s WHOIS Server.
+
+
+
+- KISA/KRNIC WHOIS Service -
+

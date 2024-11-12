@@ -1,0 +1,99 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.tld.ee
+
+domain:       EE
+
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+
+contact:      administrative
+name:         Member of the Management Board
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+phone:        +372 727 1000
+e-mail:       info@internet.ee
+
+contact:      technical
+name:         System Administrator
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Paldiski mnt. 80
+address:      Tallinn Harjumaa 10617
+address:      Estonia
+phone:        +372 727 1000
+e-mail:       noc@internet.ee
+
+nserver:      B.TLD.EE 194.146.106.110 2001:67c:1010:28:0:0:0:53
+nserver:      E.TLD.EE 2001:678:94:53:0:0:0:53 204.61.216.36
+nserver:      EE.CERT.EE 2a00:6a00:ad1:814:0:0:0:147 46.226.142.147
+nserver:      EE.EENET.EE 193.40.132.5 2001:bb8:4001:0:0:0:0:53
+nserver:      NS.TLD.EE 195.43.87.10
+ds-rdata:     34382 8 2 000a3d89dc6cd4ba00ea8affee3967d3a26de7a545fbefe16ba07518fc8d54f6
+
+whois:        whois.tld.ee
+
+status:       ACTIVE
+remarks:      Registration information: http://www.internet.ee
+
+created:      1992-06-03
+changed:      2023-06-28
+source:       IANA
+
+# whois.tld.ee
+
+Search results may not be used for commercial, advertising, recompilation,
+repackaging, redistribution, reuse, obscuring or other similar activities.
+
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       pkt.ee
+status:     ok (paid and in zone)
+registered: 2023-05-26 16:05:05 +03:00
+changed:    2024-05-07 00:35:04 +03:00
+expire:     2025-05-27
+outzone:    
+delete:     
+
+Registrant:
+name:       Päikesekodu Teenused SA
+org id:     90013176
+country:    EE
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+phone:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2024-05-07 00:35:04 +03:00
+
+Administrative contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Technical contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2020-07-01 13:55:58 +03:00
+
+Name servers:
+nserver:   ns.zone.eu
+nserver:   ns2.zone.ee
+nserver:   ns3.zonedata.net
+changed:   2023-05-26 16:05:05 +03:00
+
+DNSSEC:
+dnskey:   257 3 13 /i7FR60CYdYNcI1bt5nMwMywg0Loiv84ac0xskmOXFXbMWFqRuUHQz8hq4rK0DZfyV7dYJnGDKVRHoFOyHjmtQ==
+changed:  2023-05-26 16:15:04 +03:00
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

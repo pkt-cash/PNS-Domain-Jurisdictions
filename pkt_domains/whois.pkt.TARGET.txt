@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       TARGET
+
+organisation: Target Domain Holdings, LLC
+address:      1000 Nicollet Mall
+address:      Minneapolis MN 55403
+address:      United States of America (the)
+
+contact:      administrative
+name:         Administrative Contact
+organisation: Target Domain Holdings, LLC
+address:      1000 Nicollet Mall
+address:      Minneapolis MN 55403
+address:      United States of America (the)
+phone:        +1 612 696-3400
+fax-no:       +1 612 696-3399
+e-mail:       domainname.admin@target.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.TARGET 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.TARGET 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.TARGET 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.TARGET 156.154.144.158 2610:a1:1071:0:0:0:0:9e
+nserver:      NS2.DNS.NIC.TARGET 156.154.145.158 2610:a1:1072:0:0:0:0:9e
+nserver:      NS3.DNS.NIC.TARGET 156.154.159.158 2610:a1:1073:0:0:0:0:9e
+ds-rdata:     63634 8 2 c16dcd3729fce936b4ff2021e1d2409499fc85c4934137249ef7b5288807aea4
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.target.com
+
+created:      2016-07-21
+changed:      2024-05-11
+source:       IANA
+

@@ -1,0 +1,139 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.best
+
+domain:       BEST
+
+organisation: BestTLD Pty Ltd
+address:      Level 6
+address:      1 Chifley Square
+address:      Sydney NSW 2000
+address:      Australia
+
+contact:      administrative
+name:         CEO
+organisation: The Best SAS
+address:      295 Rue Du Professeur Paul Milliez
+address:      Champigny Sur Marne 94500
+address:      France
+phone:        +1.310.6518061
+e-mail:       contact@the.best
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.BEST 194.169.218.109 2001:67c:13cc:0:0:0:1:109
+nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
+nserver:      C.NIC.BEST 212.18.248.109 2a04:2b00:13ee:0:0:0:0:109
+nserver:      D.NIC.BEST 212.18.249.109 2a04:2b00:13ff:0:0:0:0:109
+ds-rdata:     41279 8 2 d0c266b147e9fa7122215ccca36b23d43407bd2f03b2e3b6e917d350b31aa5fd
+ds-rdata:     13966 8 2 1b34271dc3cac4d1faa279893902bd3330eab9675dab6dba03fd163437e7d12a
+
+whois:        whois.nic.best
+
+status:       ACTIVE
+remarks:      Registration information: https://www.go.best
+
+created:      2014-02-20
+changed:      2023-10-05
+source:       IANA
+
+# whois.nic.best
+
+Domain Name: PKT.BEST
+Registry Domain ID: D480352506-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2024-08-31T10:59:50.0Z
+Creation Date: 2024-08-21T20:57:36.0Z
+Registry Expiry Date: 2025-08-21T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:41:57.0Z <<<
+
+# whois.namecheap.com
+
+Domain name: PKT.BEST
+Registry Domain ID: D480352506-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2024-08-21T20:57:36.00Z
+Registrar Registration Expiration Date: 2025-08-21T20:57:36.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2 
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 1a2c7ef59abc47ac86e70d95b3bb1537.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2 
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 1a2c7ef59abc47ac86e70d95b3bb1537.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2 
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 1a2c7ef59abc47ac86e70d95b3bb1537.protect@withheldforprivacy.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T03:41:57.72Z <<<
+

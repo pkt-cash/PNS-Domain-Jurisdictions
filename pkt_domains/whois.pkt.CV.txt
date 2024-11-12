@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.cv
+
+domain:       CV
+
+organisation: Agência Reguladora Multissectorial da Economia (ARME)
+address:      Avenida da China
+address:      Chã d' Areia
+address:      Praia Santiago 892
+address:      Cabo Verde
+
+contact:      administrative
+name:         Suzete Júlia Dias Monteiro Centeio
+organisation: Agência Reguladora Multissectorial da Economia (ARME)
+address:      Avenida da China
+address:      Chã d' Areia
+address:      Praia Santiago 892
+address:      Cabo Verde
+phone:        +238 260 4400
+fax-no:       +238 261 3069
+e-mail:       suzete.centeio@arme.cv
+
+contact:      technical
+name:         Assis Neves Guerreiro
+organisation: Associação DNS.PT
+address:      Rua Eça de Queiroz, 29
+address:      Lisboa 1050-095
+address:      Portugal
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
+e-mail:       assis.guerreiro@dns.pt
+
+nserver:      ANYC.DNSNODE.NET 194.58.198.135 2a01:3f1:3032:8001:0:0:0:135
+nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
+nserver:      CV01.DNS.PT 185.39.208.18 2a04:6d80:0:0:0:0:0:18
+nserver:      NS.DNS.CV 41.221.192.220
+
+whois:        whois.nic.cv
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dns.cv/
+
+created:      1996-10-21
+changed:      2024-02-26
+source:       IANA
+
+# whois.nic.cv
+
+Domain Name: PKT.CV
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:45:31.482Z <<<
+

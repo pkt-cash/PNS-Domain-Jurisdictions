@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       CK
+
+organisation: Telecom Cook Islands Ltd.
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands (the)
+
+contact:      administrative
+name:         Andreas Pareanga
+organisation: Bluesky Cook Islands
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands (the)
+phone:        +682 29680
+e-mail:       apareanga@vodafone.co.ck
+
+contact:      technical
+name:         Robert McFadzien
+organisation: Bluesky Cook Islands
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands (the)
+phone:        +682 29680
+e-mail:       rmcfadzien@vodafone.co.ck
+
+nserver:      CIRCA.MCS.VUW.AC.NZ 130.195.5.12
+nserver:      DOWNSTAGE.MCS.VUW.AC.NZ 130.195.6.10
+nserver:      PARAU.OYSTER.NET.CK 202.65.32.128
+nserver:      POIPARAU.OYSTER.NET.CK 202.65.32.127
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.vodafone.co.ck
+
+created:      1995-08-08
+changed:      2020-06-17
+source:       IANA
+

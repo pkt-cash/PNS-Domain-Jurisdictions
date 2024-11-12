@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       购物
+domain-ace:   XN--G2XX48C
+
+organisation: Nawang Heli(Xiamen) Network Service Co., LTD.
+address:      Suite201, No.45, WangHai Road, Software Park II
+address:      Xiamen
+address:      China
+
+contact:      administrative
+name:         Admin Contact
+organisation: Nawang Heli(Xiamen) Network Service Co., LTD.
+address:      Unit 03-11, 8th floor, building D, Xiamen International Shipping Center, No.97
+address:      Xiangyu Road
+address:      Xiamen Area of China (Fujian) Pilot Free Trade Zone Fujian
+address:      China
+phone:        00860592-3180008
+e-mail:       contact1@nicgouwu.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.XN--G2XX48C 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.XN--G2XX48C 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.XN--G2XX48C 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.XN--G2XX48C 156.154.169.68 2610:a1:1071:0:0:0:1:44
+nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
+nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
+ds-rdata:     11539 8 2 fd57401d8cbd9ec59540ddf8fffa884bc523d94b9a30d5efd81ece063376ff0b
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://nicgouwu.com/
+
+created:      2016-01-08
+changed:      2024-05-11
+source:       IANA
+

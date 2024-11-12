@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.loans
+
+domain:       LOANS
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.LOANS 2a01:8840:1a:0:0:0:0:55 65.22.24.55
+nserver:      V0N1.NIC.LOANS 2a01:8840:1b:0:0:0:0:55 65.22.25.55
+nserver:      V0N2.NIC.LOANS 2a01:8840:1c:0:0:0:0:55 65.22.26.55
+nserver:      V0N3.NIC.LOANS 161.232.12.55 2a01:8840:f6:0:0:0:0:55
+nserver:      V2N0.NIC.LOANS 2a01:8840:1d:0:0:0:0:55 65.22.27.55
+nserver:      V2N1.NIC.LOANS 161.232.13.55 2a01:8840:f7:0:0:0:0:55
+ds-rdata:     42307 8 2 1861e548a3f914c3b7f4db8336e56041359d352b703d9e302193fc1a98d3ae1b
+
+whois:        whois.nic.loans
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-05-08
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.loans
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:52:43Z <<<
+

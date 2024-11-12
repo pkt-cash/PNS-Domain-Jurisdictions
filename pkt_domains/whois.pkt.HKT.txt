@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.hkt
+
+domain:       HKT
+
+organisation: PCCW-HKT DataCom Services Limited
+address:      39/F, PCCW Tower, Taikoo Place, Quarry Bay
+address:      Hong Kong
+address:      China
+
+contact:      administrative
+name:         Admin Contact
+organisation: Namesphere Holdings Limited
+address:      12/F, Daily House, 35-37 Haiphong Road,
+address:      Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+address:      China
+phone:        +852 2244 7900
+fax-no:       +852 2244 7902
+e-mail:       info@tld.asia
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HKT 2a01:8840:72:0:0:0:0:33 65.22.116.33
+nserver:      A2.NIC.HKT 2a01:8840:75:0:0:0:0:33 65.22.119.33
+nserver:      B0.NIC.HKT 2a01:8840:73:0:0:0:0:33 65.22.117.33
+nserver:      C0.NIC.HKT 2a01:8840:74:0:0:0:0:33 65.22.118.33
+ds-rdata:     2077 8 2 b467734f0f2a8287ba3a0eddf252055d740f2fd0072f81095eb6a56be2405ee0
+
+whois:        whois.nic.hkt
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dot.asia/namesphere/
+
+created:      2016-04-15
+changed:      2023-08-03
+source:       IANA
+
+# whois.nic.hkt
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:07Z <<<
+

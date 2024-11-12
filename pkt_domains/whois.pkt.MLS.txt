@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.mls
+
+domain:       MLS
+
+organisation: The Canadian Real Estate Association
+address:      200 Catherine Street, 6th Floor
+address:      Ottawa ON K2P 2K9
+address:      Canada
+
+contact:      administrative
+name:         Legal Counsel
+organisation: The Canadian Real Estate Association
+address:      200 Catherine Street, 6th Floor
+address:      Ottawa ON K2P 2K9
+address:      Canada
+phone:        1-613-237-7111
+e-mail:       legal@crea.ca
+
+contact:      technical
+name:         Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1-613-237-0534
+e-mail:       support@fury.ca
+
+nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
+nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
+nserver:      C.NS.NIC.MLS 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.MLS 185.159.199.8 2620:10a:80ac:0:0:0:0:8
+ds-rdata:     2629 8 2 1f831bf4f17ca7b3636eb20249abe2bc58fe071b0f6e8869ec904c8dd8a48cb8
+ds-rdata:     37745 8 2 b362a7e06d93497eb7833a1d5013b2ab859cf864966d724ab1fe0ec5c50fb577
+
+whois:        whois.nic.mls
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-08-20
+changed:      2024-10-17
+source:       IANA
+
+# whois.nic.mls
+
+Not found: pkt.mls
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2024 Canadian Internet Registration Authority, (http://www.cira.ca/)

@@ -1,0 +1,110 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.rocks
+
+domain:       ROCKS
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.ROCKS 2a01:8840:22:0:0:0:0:35 65.22.32.35
+nserver:      V0N1.NIC.ROCKS 2a01:8840:23:0:0:0:0:35 65.22.33.35
+nserver:      V0N2.NIC.ROCKS 2a01:8840:24:0:0:0:0:35 65.22.34.35
+nserver:      V0N3.NIC.ROCKS 161.232.16.35 2a01:8840:fa:0:0:0:0:35
+nserver:      V2N0.NIC.ROCKS 2a01:8840:25:0:0:0:0:35 65.22.35.35
+nserver:      V2N1.NIC.ROCKS 161.232.17.35 2a01:8840:fb:0:0:0:0:35
+ds-rdata:     55882 8 2 bda2ed5e9099d2e358529c190d03290d396b85fc2a41259c734fb816bc7d5ed6
+
+whois:        whois.nic.rocks
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-01-16
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.rocks
+
+Domain Name: pkt.rocks
+Registry Domain ID: eb46a427e4774f5ab47b77173dbd771d-DONUTS
+Registrar WHOIS Server: https://www.ascio.com/products/availability-check/whois
+Registrar URL: http://www.ascio.com
+Updated Date: 2024-08-20T14:55:46Z
+Creation Date: 2024-08-15T14:55:39Z
+Registry Expiry Date: 2025-08-15T14:55:39Z
+Registrar: Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
+Registrar IANA ID: 106
+Registrar Abuse Contact Email: abuse@ascio.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Thomas Olsen
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: NO
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns.datacenter.no
+Name Server: ns2.datacenter.no
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:59:00Z <<<
+

@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       KPN
+
+organisation: Koninklijke KPN N.V.
+address:      Maanplein 55
+address:      The Hague 2516 CK
+address:      Netherlands (the)
+
+contact:      administrative
+name:         Laura Jansen
+organisation: Koninklijke KPN N.V.
+address:      P.O. Box 25110
+address:      Rotterdam 3001 HC
+address:      Netherlands (the)
+phone:        +31610163500
+e-mail:       laura.jansen@kpn.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.KPN 194.169.218.90 2001:67c:13cc:0:0:0:1:90
+nserver:      B.NIC.KPN 185.24.64.90 2a04:2b00:13cc:0:0:0:1:90
+nserver:      C.NIC.KPN 212.18.248.90 2a04:2b00:13ee:0:0:0:0:90
+nserver:      D.NIC.KPN 212.18.249.90 2a04:2b00:13ff:0:0:0:0:90
+ds-rdata:     10051 7 2 f265871198c769849f8acf952f01fcd412c9b3dc5dbf8fca98911d5052c0a240
+ds-rdata:     6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-12-04
+changed:      2024-06-04
+source:       IANA
+

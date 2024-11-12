@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.garden
+
+domain:       GARDEN
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.GARDEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.GARDEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.GARDEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.GARDEN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GARDEN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GARDEN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     27637 8 2 2d10a23a8dfeb7b80721476d3dcc5a5d31a61be1d7d3b5bf6f15f4a2747b347b
+
+whois:        whois.nic.garden
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.garden/
+
+created:      2014-10-23
+changed:      2024-04-16
+source:       IANA
+
+# whois.nic.garden
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:50:06Z <<<
+

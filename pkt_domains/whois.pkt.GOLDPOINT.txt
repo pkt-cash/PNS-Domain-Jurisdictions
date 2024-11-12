@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.goldpoint
+
+domain:       GOLDPOINT
+
+organisation: YODOBASHI CAMERA CO.,LTD.
+address:      20-1 3-chome Kita-Shinjyuku
+address:      Shinjyuku-ku Tokyo 169-8585
+address:      Japan
+
+contact:      administrative
+name:         Representative Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 1508512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 1508512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     44254 8 2 b83db888a853c9309a732e6ae3fdbb3ffaee325641b4f2f33ef6a4c468ac206c
+
+whois:        whois.nic.goldpoint
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.goldpoint
+
+created:      2015-02-13
+changed:      2019-08-20
+source:       IANA
+
+# whois.nic.goldpoint
+
+The queried object does not exist: DOMAIN NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:50:33.0Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tab
+
+domain:       TAB
+
+organisation: Tabcorp Holdings Limited
+address:      5 Bowen Crescent
+address:      Melbourne VIC 3004
+address:      Australia
+
+contact:      administrative
+name:         Senior Corporate Lawyer – IP
+organisation: Tabcorp Holdings Limited
+address:      5 Bowen Crescent
+address:      Melbourne VIC 3004
+address:      Australia
+phone:        +61.398682664
+fax-no:       +61.398682639
+e-mail:       ngtld-tab@cscinfo.com
+
+contact:      technical
+name:         Project & Process Manager
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd.
+address:      Suite 400
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-tab@cscinfo.com
+
+nserver:      A.NIC.TAB 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.TAB 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.TAB 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.TAB 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.TAB 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.TAB 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     43171 8 2 199df3de634cb26fbfd95ef9c9cb87c804b3d5de44460a58ea80a49a57a90c9d
+
+whois:        whois.nic.tab
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.tab
+
+created:      2015-09-04
+changed:      2023-11-30
+source:       IANA
+
+# whois.nic.tab
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:02:00Z <<<
+

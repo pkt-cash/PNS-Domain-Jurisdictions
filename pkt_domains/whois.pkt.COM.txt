@@ -1,0 +1,139 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2023-12-07
+source:       IANA
+
+# whois.verisign-grs.com
+
+   Domain Name: PKT.COM
+   Registry Domain ID: 15756415_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2023-12-17T06:15:10Z
+   Creation Date: 1999-12-21T11:47:15Z
+   Registry Expiry Date: 2024-12-21T11:47:15Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.PUBLICISGROUPE.COM
+   Name Server: NS3.PUBLICISGROUPE.COM
+   Name Server: NS5.PUBLICISGROUPE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2024-10-28T08:44:35Z <<<
+
+# whois.corporatedomains.com
+
+
+Domain Name: pkt.com
+Registry Domain ID: 15756415_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2023-12-17T01:15:10Z
+Creation Date: 1999-12-21T06:47:15Z
+Registrar Registration Expiration Date: 2024-12-21T11:47:15Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Network Support
+Registrant Organization: Publicis Groupe S.A.
+Registrant Street: 3310 W. Big Beaver Rd.
+Registrant City: Troy
+Registrant State/Province: MI
+Registrant Postal Code: 48084
+Registrant Country: US
+Registrant Phone: +1.2484588245
+Registrant Phone Ext: 
+Registrant Fax: +1.2484588214
+Registrant Fax Ext: 
+Registrant Email: network.support@us-resources.com
+Registry Admin ID: 
+Admin Name: Network Support
+Admin Organization: Publicis Groupe S.A.
+Admin Street: 3310 W. Big Beaver Rd.
+Admin City: Troy
+Admin State/Province: MI
+Admin Postal Code: 48084
+Admin Country: US
+Admin Phone: +1.2484588245
+Admin Phone Ext: 
+Admin Fax: +1.2484588214
+Admin Fax Ext: 
+Admin Email: network.support@us-resources.com
+Registry Tech ID: 
+Tech Name: Network Support
+Tech Organization: Publicis Groupe S.A.
+Tech Street: 3310 W. Big Beaver Rd.
+Tech City: Troy
+Tech State/Province: MI
+Tech Postal Code: 48084
+Tech Country: US
+Tech Phone: +1.2484588245
+Tech Phone Ext: 
+Tech Fax: +1.2484588214
+Tech Fax Ext: 
+Tech Email: network.support@us-resources.com
+Name Server: ns3.publicisgroupe.com
+Name Server: ns5.publicisgroupe.com
+Name Server: ns1.publicisgroupe.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-12-17T01:15:10Z <<<
+

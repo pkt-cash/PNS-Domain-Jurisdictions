@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       BB
+
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Telecommunications Unit
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens St. Michael
+address:      Barbados
+
+contact:      administrative
+name:         Clifford A Bostic
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens St. Michael
+address:      Barbados
+phone:        +1 246 535 2573
+e-mail:       clifford.bostic@barbados.gov.bb
+
+contact:      technical
+name:         George Foster
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens St. Michael
+address:      Barbados
+phone:        +1 246 535 2571
+e-mail:       george.foster@barbados.gov.bb
+
+nserver:      NS1.NIC.BB 2400:cb00:2049:1:0:0:a29f:1835 64.68.192.10
+nserver:      NS2.NIC.BB 198.41.222.254 2400:cb00:2049:1:0:0:c629:defe
+nserver:      NS3.NIC.BB 2620:49:3:0:0:0:0:10 64.68.196.10
+nserver:      NS4.NIC.BB 2620:49:4:0:0:0:0:10 64.68.197.10
+nserver:      NS5.NIC.BB 200.50.92.195
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.whois.telecoms.gov.bb/
+
+created:      1991-09-03
+changed:      2022-03-08
+source:       IANA
+

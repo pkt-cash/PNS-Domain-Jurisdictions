@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.rexroth
+
+domain:       REXROTH
+
+organisation: Robert Bosch GMBH
+address:      Robert-Bosch-Platz 1
+address:      Gerlingen-Schillerhöhe 70839
+address:      Germany
+
+contact:      administrative
+name:         eMarketing
+organisation: Bosch Rexroth AG
+address:      Maria-Theresien-Str. 23
+address:      Lohr a.Main 97816
+address:      Germany
+phone:        +49 9352 180
+fax-no:       +49 9352 18 1385
+e-mail:       ngtld-rexroth@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.REXROTH 2a01:8840:6e:0:0:0:0:65 65.22.112.65
+nserver:      A2.NIC.REXROTH 2a01:8840:71:0:0:0:0:65 65.22.115.65
+nserver:      B0.NIC.REXROTH 2a01:8840:6f:0:0:0:0:65 65.22.113.65
+nserver:      C0.NIC.REXROTH 2a01:8840:70:0:0:0:0:65 65.22.114.65
+ds-rdata:     13240 8 2 3fdb1d716cc4d502c89094eb8b0f44056e6bdebefdfdba79632c5dc606238e70
+
+whois:        whois.nic.rexroth
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-12-17
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.rexroth
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:58:54Z <<<
+

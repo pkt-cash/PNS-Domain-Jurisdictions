@@ -1,0 +1,208 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.systems
+
+domain:       SYSTEMS
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.SYSTEMS 2a01:8840:16:0:0:0:0:38 65.22.20.38
+nserver:      V0N1.NIC.SYSTEMS 2a01:8840:17:0:0:0:0:38 65.22.21.38
+nserver:      V0N2.NIC.SYSTEMS 2a01:8840:18:0:0:0:0:38 65.22.22.38
+nserver:      V0N3.NIC.SYSTEMS 161.232.10.38 2a01:8840:f4:0:0:0:0:38
+nserver:      V2N0.NIC.SYSTEMS 2a01:8840:19:0:0:0:0:38 65.22.23.38
+nserver:      V2N1.NIC.SYSTEMS 161.232.11.38 2a01:8840:f5:0:0:0:0:38
+ds-rdata:     9634 8 2 a45f6041847622b7a24e0b41aea1bbc2e618e952e2555206776295edcc9ef77d
+
+whois:        whois.nic.systems
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-12
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.systems
+
+Domain Name: pkt.systems
+Registry Domain ID: 3f435b7a374e4940b8b39cb6f74df5cf-DONUTS
+Registrar WHOIS Server: whois.registrar.amazon.com
+Registrar URL: http://registrar.amazon.com
+Updated Date: 2024-01-12T17:49:16Z
+Creation Date: 2024-01-07T17:48:47Z
+Registry Expiry Date: 2025-01-07T17:48:47Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Identity Protection Service
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Middlesex
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: GB
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns-1269.awsdns-30.org
+Name Server: ns-1937.awsdns-50.co.uk
+Name Server: ns-827.awsdns-39.net
+Name Server: ns-394.awsdns-49.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:01:59Z <<<
+
+# whois.registrar.amazon.com
+
+Domain Name: pkt.systems
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2024-01-07T17:58:54Z
+Creation Date: 2024-01-07T17:48:47Z
+Registrar Registration Expiration Date: 2025-01-07T17:48:47Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of pkt.systems owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: f8332774-690f-46d5-8254-7eeda3578864@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of pkt.systems owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: f8332774-690f-46d5-8254-7eeda3578864@identity-protect.org
+Name Server: NS-1937.AWSDNS-50.CO.UK
+Name Server: NS-1269.AWSDNS-30.ORG
+Name Server: NS-827.AWSDNS-39.NET
+Name Server: NS-394.AWSDNS-49.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T09:01:59Z <<<
+
+# whois.registrar.amazon
+
+Domain Name: pkt.systems
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2024-01-07T17:58:54Z
+Creation Date: 2024-01-07T17:48:47Z
+Registrar Registration Expiration Date: 2025-01-07T17:48:47Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of pkt.systems owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: f8332774-690f-46d5-8254-7eeda3578864@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of pkt.systems owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: f8332774-690f-46d5-8254-7eeda3578864@identity-protect.org
+Name Server: NS-1937.AWSDNS-50.CO.UK
+Name Server: NS-1269.AWSDNS-30.ORG
+Name Server: NS-827.AWSDNS-39.NET
+Name Server: NS-394.AWSDNS-49.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T09:01:59Z <<<
+

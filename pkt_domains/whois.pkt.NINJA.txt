@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ninja
+
+domain:       NINJA
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.NINJA 2a01:8840:16:0:0:0:0:4 65.22.20.4
+nserver:      V0N1.NIC.NINJA 2a01:8840:17:0:0:0:0:4 65.22.21.4
+nserver:      V0N2.NIC.NINJA 2a01:8840:18:0:0:0:0:4 65.22.22.4
+nserver:      V0N3.NIC.NINJA 161.232.10.4 2a01:8840:f4:0:0:0:0:4
+nserver:      V2N0.NIC.NINJA 2a01:8840:19:0:0:0:0:4 65.22.23.4
+nserver:      V2N1.NIC.NINJA 161.232.11.4 2a01:8840:f5:0:0:0:0:4
+ds-rdata:     46082 8 2 c8f816a7a575bdb2f997f682aab2653ba2cb5eddb69b036a30742a33befaf141
+
+whois:        whois.nic.ninja
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-19
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.ninja
+
+Domain Name: pkt.ninja
+Registry Domain ID: 508de884429d450ebef75efa8a2ffbdc-DONUTS
+Registrar WHOIS Server: whois.ionos.com
+Registrar URL: https://www.ionos.com
+Updated Date: 2024-01-07T16:21:16Z
+Creation Date: 2015-11-23T16:20:53Z
+Registry Expiry Date: 2024-11-23T16:20:53Z
+Registrar: IONOS SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@ionos.com
+Registrar Abuse Contact Phone: +1.6105601459
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: ON
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CA
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: doug.ns.cloudflare.com
+Name Server: virginia.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:57:29Z <<<
+
+# whois.ionos.com
+

@@ -1,0 +1,98 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.as
+
+domain:       AS
+
+organisation: AS Domain Registry
+address:      P.O. Box 997303
+address:      Pago Pago 96799
+address:      American Samoa
+
+contact:      administrative
+name:         Registrar
+organisation: AS Domain Registry
+address:      P.O. Box 997303
+address:      Pago Pago 96799
+address:      American Samoa
+phone:        +684 252 9742
+e-mail:       domainmaster@nic.as
+
+contact:      technical
+name:         GDNS Hostmaster
+organisation: GDNS, LLC
+address:      PO Box 32
+address:      Frenchtown NJ 08825
+address:      United States of America (the)
+phone:        +1 212 334 3660
+fax-no:       +1 212 208 2674
+e-mail:       hostmaster@gdns.com
+
+nserver:      NS1.ASNIC.BIZ 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      NS2.ASNIC.INFO 103.49.83.254 2401:fd80:403:0:0:0:0:254
+nserver:      NS3.ASNIC.ORG 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      NS4.ASNIC.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      NS5.ASNIC.US 194.146.106.86 2001:67c:1010:22:0:0:0:53
+nserver:      PCH.NIC.AS 2001:500:14:6111:ad:0:0:1 204.61.216.111
+
+whois:        whois.nic.as
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.as
+
+created:      1997-06-12
+changed:      2022-05-06
+source:       IANA
+
+# whois.nic.as
+
+Domain:
+     pkt.as
+
+Domain Status:
+     Active
+     Transfer Prohibited by Registrar
+
+Registrant:
+     PEDERSEN KRAN OG TRANSPORT AS
+
+Registrar:
+     Domeneshop AS (http://www.domeneshop.no)
+
+Relevant dates:
+     Registered on 08th May 2019 at 11:10:09.180
+     Registry fee due on 08th May each year
+
+Registration status:
+     Registered until cancelled
+
+Name servers:
+     ns1.hyp.net
+     ns2.hyp.net
+     ns3.hyp.net
+     
+
+WHOIS lookup made on Mon, 28 Oct 2024 at 8:41:07 GMT
+
+This WHOIS information is provided for free by CIDR, operator of
+the backend registry for domain names ending in GG, JE, and AS.
+
+Copyright (c) and database right AS Domain Registry 1997 - 2024.
+
+You may not access this WHOIS server or use any data from it except
+as permitted by our Terms and Conditions which are published
+at http://www.channelisles.net/legal/whoisterms
+
+They include restrictions and prohibitions on
+
+- using or re-using the data for advertising;
+- using or re-using the service for commercial purposes without a licence;
+- repackaging, recompilation, redistribution or reuse;
+- obscuring, removing or hiding any or all of this notice;
+- exceeding query rate or volume limits.
+
+The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time. 
+

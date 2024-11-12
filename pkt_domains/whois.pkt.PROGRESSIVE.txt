@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.progressive
+
+domain:       PROGRESSIVE
+
+organisation: Progressive Casualty Insurance Company
+address:      6300 Wilson Mills Road
+address:      Mayfield Village OH 44143
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Manager, Digital Strategy and Experience
+organisation: Progressive Casualty Insurance Company
+address:      6300 Wilson Mills Road
+address:      Mayfield Village OH 44143
+address:      United States of America (the)
+phone:        +1.440.461.5000
+fax-no:       +1.440.446.7168
+e-mail:       ngtld-progressive@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.PROGRESSIVE 2a01:8840:c2:0:0:0:0:33 65.22.200.33
+nserver:      A2.NIC.PROGRESSIVE 2a01:8840:c5:0:0:0:0:33 65.22.203.33
+nserver:      B0.NIC.PROGRESSIVE 2a01:8840:c3:0:0:0:0:33 65.22.201.33
+nserver:      C0.NIC.PROGRESSIVE 2a01:8840:c4:0:0:0:0:33 65.22.202.33
+ds-rdata:     17329 8 2 f6623efa3c197e122f7037a659f8e7fb2cec4d91af518653d04b44f15a72abc9
+
+whois:        whois.nic.progressive
+
+status:       ACTIVE
+remarks:      Registration information: http://www.progressive.com
+
+created:      2016-02-19
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.progressive
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:58:25Z <<<
+

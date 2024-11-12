@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.management
+
+domain:       MANAGEMENT
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.MANAGEMENT 2a01:8840:16:0:0:0:0:14 65.22.20.14
+nserver:      V0N1.NIC.MANAGEMENT 2a01:8840:17:0:0:0:0:14 65.22.21.14
+nserver:      V0N2.NIC.MANAGEMENT 2a01:8840:18:0:0:0:0:14 65.22.22.14
+nserver:      V0N3.NIC.MANAGEMENT 161.232.10.14 2a01:8840:f4:0:0:0:0:14
+nserver:      V2N0.NIC.MANAGEMENT 2a01:8840:19:0:0:0:0:14 65.22.23.14
+nserver:      V2N1.NIC.MANAGEMENT 161.232.11.14 2a01:8840:f5:0:0:0:0:14
+ds-rdata:     2944 8 2 3212da6705ed0149ee2e13781d2708a6add9073dd6e680edb3d76d9e45427590
+
+whois:        whois.nic.management
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-12
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.management
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:54:14Z <<<
+

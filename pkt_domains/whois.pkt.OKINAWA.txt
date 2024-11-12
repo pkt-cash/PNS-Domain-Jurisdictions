@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.okinawa
+
+domain:       OKINAWA
+
+organisation: BRregistry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+
+contact:      administrative
+name:         Representative Director and CEO
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-2611
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-2611
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     33736 8 2 ed3cf17ef5286ee0af90213fd802871a672213fece32038557dd2a0375a2e6c2
+
+whois:        whois.nic.okinawa
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.gmo-registry.com/en/
+
+created:      2014-02-20
+changed:      2019-08-20
+source:       IANA
+
+# whois.nic.okinawa
+
+The queried object does not exist: DOMAIN NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:57:41.0Z <<<
+

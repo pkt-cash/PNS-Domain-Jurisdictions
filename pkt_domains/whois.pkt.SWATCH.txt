@@ -1,0 +1,60 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.swatch
+
+domain:       SWATCH
+
+organisation: The Swatch Group Ltd
+address:      Seevorstadt 6
+address:      Biel / Bienne CH-2501
+address:      Switzerland
+
+contact:      administrative
+name:         Digital Project Manager
+organisation: The Swatch Group Ltd
+address:      Seevorstadt 6
+address:      Biel / Bienne CH-2501
+address:      Switzerland
+phone:        +41 32 343 68 11
+fax-no:       +41 32 343 69 11
+e-mail:       swatchgtld@swatchgroup.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.SWATCH 213.248.219.139 2a01:618:403:0:0:0:0:139
+nserver:      DNS2.NIC.SWATCH 103.49.83.139 2401:fd80:403:0:0:0:0:139
+nserver:      DNS3.NIC.SWATCH 213.248.223.139 2a01:618:407:0:0:0:0:139
+nserver:      DNS4.NIC.SWATCH 2401:fd80:407:0:0:0:0:139 43.230.51.139
+nserver:      DNSA.NIC.SWATCH 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.SWATCH 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.SWATCH 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.SWATCH 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
+ds-rdata:     63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
+
+whois:        whois.nic.swatch
+
+status:       ACTIVE
+remarks:      Registration information: http://www.swatchgroup.com/
+
+created:      2015-04-23
+changed:      2024-10-25
+source:       IANA
+
+# whois.nic.swatch
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T09:01:56Z <<<
+

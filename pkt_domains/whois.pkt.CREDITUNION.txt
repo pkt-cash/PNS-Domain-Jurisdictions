@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.creditunion
+
+domain:       CREDITUNION
+
+organisation: DotCooperation, LLC
+address:      1775 I Street NW, 8th Floor
+address:      Washington DC 20006
+address:      United States of America (the)
+
+contact:      administrative
+name:         Chief Marketing Officer
+organisation: DotCooperation, LLC.
+address:      1775 I Street NW, 8th Floor
+address:      Washington DC 20006
+address:      United States of America (the)
+phone:        +1 703 728 4176
+e-mail:       finn@identity.coop
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     11419 13 2 2393ddf8501d382cb4a700c85abcc974a95aad110898b8becc4bdba60b5e50f1
+
+whois:        whois.nic.creditunion
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.identity.coop/creditunion
+
+created:      2015-10-15
+changed:      2024-05-22
+source:       IANA
+
+# whois.nic.creditunion
+
+>>> Domain pkt.creditunion is available for registration
+
+>>> Please visit https://identity.coop/buy/ for a list of accredited registrars
+
+>>> Last update of WHOIS database: 2024-10-28T08:45:26.949Z <<<
+

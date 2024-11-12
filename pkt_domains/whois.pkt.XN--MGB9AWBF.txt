@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.registry.om
+
+domain:       عمان
+domain-ace:   XN--MGB9AWBF
+
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 3555, P.C 111, Seeb
+address:      Muscat
+address:      Oman
+
+contact:      administrative
+name:         Domain Name Exective Manager
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 3555, P.C 111, Seeb
+address:      Muscat
+address:      Oman
+phone:        (+968) 24222082
+fax-no:       (+968) 24222081
+e-mail:       dnsmanager@tra.gov.om
+
+contact:      technical
+name:         Domain Name Manager
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 3555, P.C 111, Seeb
+address:      Muscat
+address:      Oman
+phone:        (+968) 24222086
+fax-no:       (+968) 24222081
+e-mail:       dnsadmin@tra.gov.om
+
+nserver:      CCTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      CCTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      CCTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:6 37.209.198.6
+nserver:      CCTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      NS1.REGISTRY.OM 185.27.88.50 2a00:9120:1:0:0:0:0:50
+nserver:      NS2.REGISTRY.OM 185.27.89.50 2a00:9120:2:0:0:0:0:50
+
+whois:        whois.registry.om
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.om
+
+created:      2011-02-05
+changed:      2023-03-07
+source:       IANA
+
+# whois.registry.om
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:08:47Z <<<
+

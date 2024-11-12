@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ice
+
+domain:       ICE
+
+organisation: IntercontinentalExchange, Inc.
+address:      5660 New Northside Dr NW
+address:      Atlanta GA 30328
+address:      United States of America (the)
+
+contact:      administrative
+name:         DNS Admin
+organisation: ICE
+address:      5660 New Northside Dr NW
+address:      Atlanta GA 30328
+address:      United States of America (the)
+phone:        +1770 857 4700
+e-mail:       ice-ro@ice.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.ICE 2a01:8840:6e:0:0:0:0:9 65.22.112.9
+nserver:      A2.NIC.ICE 2a01:8840:71:0:0:0:0:9 65.22.115.9
+nserver:      B0.NIC.ICE 2a01:8840:6f:0:0:0:0:9 65.22.113.9
+nserver:      C0.NIC.ICE 2a01:8840:70:0:0:0:0:9 65.22.114.9
+ds-rdata:     18844 8 2 75d7adc8fa12d9c26466924ccc80c4b3c4eb15cc616c8255c4f759eed437177d
+
+whois:        whois.nic.ice
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-07-09
+changed:      2023-09-05
+source:       IANA
+
+# whois.nic.ice
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:23Z <<<
+

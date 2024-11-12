@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.lat
+
+domain:       LAT
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1.7027632191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.LAT 194.169.218.156 2001:67c:13cc:0:0:0:1:156
+nserver:      B.NIC.LAT 185.24.64.156 2a04:2b00:13cc:0:0:0:1:156
+nserver:      C.NIC.LAT 212.18.248.156 2a04:2b00:13ee:0:0:0:0:156
+nserver:      D.NIC.LAT 212.18.249.156 2a04:2b00:13ff:0:0:0:0:156
+ds-rdata:     42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
+ds-rdata:     25789 8 2 16aae37ef2d2a809d0d1ed18b045161dd63607375e23687ed840c78d8ab4387e
+
+whois:        whois.nic.lat
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.lat
+
+created:      2014-12-04
+changed:      2024-04-15
+source:       IANA
+
+# whois.nic.lat
+
+Domain Name: PKT.LAT
+Registry Domain ID: D393722514-CNIC
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: https://porkbun.com/
+Updated Date: 2024-10-19T12:46:25.0Z
+Creation Date: 2023-09-05T01:46:49.0Z
+Registry Expiry Date: 2024-09-05T23:59:59.0Z
+Registrar: Porkbun, LLC
+Registrar IANA ID: 1861
+Domain Status: pendingDelete https://icann.org/epp#pendingDelete
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
+Registrant Organization: Private by Design, LLC
+Registrant State/Province: NC
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server:
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.8557675286
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:52:25.0Z <<<
+
+# whois.porkbun.com
+
+No match for "PKT.LAT" in the registrar database.
+
+The Data in the Porkbun LLC WHOIS database is provided by Porkbun LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Porkbun LLC does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Porkbun LLC (or its systems). Porkbun LLC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+Porkbun!
+

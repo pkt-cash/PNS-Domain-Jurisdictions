@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fo
+
+domain:       FO
+
+organisation: FO Council
+address:      Tinghúsvegur 59
+address:      Tórshavn 110
+address:      Faroe Islands (the)
+
+contact:      administrative
+name:         Guðrun Poulsen
+organisation: CEO
+address:      Tinghúsvegur 59
+address:      Tórshavn 110
+address:      Faroe Islands (the)
+phone:        +298 550050
+e-mail:       gudrun@nic.fo
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
+nserver:      B.NIC.FO 185.24.64.27 2a04:2b00:13cc:0:0:0:1:27
+nserver:      C.NIC.FO 212.18.248.27 2a04:2b00:13ee:0:0:0:0:27
+nserver:      D.NIC.FO 212.18.249.27 2a04:2b00:13ff:0:0:0:0:27
+ds-rdata:     6691 8 2 a752ceaae4e28b4232244e5486d55889f117a15b81d3128ce7e9359f1d47a445
+ds-rdata:     14231 8 2 2828b71e13a64b57b7bb68c56519d583597bec04ef2721d967622223f4ccf36b
+
+whois:        whois.nic.fo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.fo/
+
+created:      1993-05-14
+changed:      2024-06-21
+source:       IANA
+
+# whois.nic.fo
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:49:46.0Z <<<
+

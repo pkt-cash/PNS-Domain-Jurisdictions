@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        ccwhois.verisign-grs.com
+
+domain:       CC
+
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      Level 10, 5 Queens Road
+address:      Melbourne VIC 3004
+address:      Australia
+
+contact:      administrative
+name:         Mario West, Managing Director
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      c/o Verisign Internet Services
+address:      Level 10, 5 Queens Road
+address:      Melbourne VIC 3004
+address:      Australia
+phone:        +613 9926 6700
+fax-no:       +613 9926 6788
+e-mail:       cc-administration@verisign.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     519 8 2 e1ec6495abd34562e6f433dee201e6c6a52cb10af69c04d675da692d2d566897
+
+whois:        ccwhois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.cc/
+
+created:      1997-10-13
+changed:      2023-10-04
+source:       IANA
+
+# ccwhois.verisign-grs.com
+
+   Domain Name: PKT.CC
+   Registry Domain ID: 97465348_DOMAIN_CC-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2024-07-30T13:46:43Z
+   Creation Date: 2011-07-30T11:08:51Z
+   Registry Expiry Date: 2026-07-30T11:08:51Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: S030NS1.HOSTINGHISPEED.COM
+   Name Server: S030NS2.HOSTINGHISPEED.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:43:51Z <<<
+
+# whois.PublicDomainRegistry.com
+
+WHOIS lookup not available for this domain name.

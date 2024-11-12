@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.space
+
+domain:       SPACE
+
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Director
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.SPACE 194.169.218.51 2001:67c:13cc:0:0:0:1:51
+nserver:      B.NIC.SPACE 185.24.64.51 2a04:2b00:13cc:0:0:0:1:51
+nserver:      E.NIC.SPACE 212.18.248.51 2a04:2b00:13ee:0:0:0:0:51
+nserver:      F.NIC.SPACE 212.18.249.51 2a04:2b00:13ff:0:0:0:0:51
+ds-rdata:     44251 8 2 a82d8ed2b07d66d6e7af375e0e44b22a82f4479ad45f5d8e1859df6fc170e67c
+ds-rdata:     63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
+
+whois:        whois.nic.space
+
+status:       ACTIVE
+remarks:      Registration information: https://radix.website/
+
+created:      2014-05-22
+changed:      2024-03-20
+source:       IANA
+
+# whois.nic.space
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T09:01:39.0Z <<<
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       STAPLES
+
+organisation: Staples, Inc.
+address:      500 Staples Drive
+address:      Framingham MA 01702
+address:      United States of America (the)
+
+contact:      administrative
+name:         Michael Dowd
+organisation: Staples, Inc.
+address:      500 Staples Drive
+address:      Framingham MA 01702
+address:      United States of America (the)
+phone:        1.508.253.5000
+fax-no:       1.508.253.7805
+e-mail:       ipmailbox@staples.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.STAPLES 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.STAPLES 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.STAPLES 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.STAPLES 156.154.169.79 2610:a1:1071:0:0:0:1:4f
+nserver:      NS2.DNS.NIC.STAPLES 156.154.170.79 2610:a1:1072:0:0:0:1:4f
+nserver:      NS3.DNS.NIC.STAPLES 156.154.171.79 2610:a1:1073:0:0:0:1:4f
+ds-rdata:     23296 8 2 ec6e9a376b2a1274d837a25381dfb539f1404eada456c15b7258074517bdddd8
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.staples.com/
+
+created:      2016-06-09
+changed:      2024-05-11
+source:       IANA
+

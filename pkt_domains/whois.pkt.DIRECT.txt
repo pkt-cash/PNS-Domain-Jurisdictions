@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.direct
+
+domain:       DIRECT
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.DIRECT 2a01:8840:1a:0:0:0:0:46 65.22.24.46
+nserver:      V0N1.NIC.DIRECT 2a01:8840:1b:0:0:0:0:46 65.22.25.46
+nserver:      V0N2.NIC.DIRECT 2a01:8840:1c:0:0:0:0:46 65.22.26.46
+nserver:      V0N3.NIC.DIRECT 161.232.12.46 2a01:8840:f6:0:0:0:0:46
+nserver:      V2N0.NIC.DIRECT 2a01:8840:1d:0:0:0:0:46 65.22.27.46
+nserver:      V2N1.NIC.DIRECT 161.232.13.46 2a01:8840:f7:0:0:0:0:46
+ds-rdata:     29044 8 2 dd72f7eec3b8ce0e6a278a6d560abacabcdff4a4a9062eb8dbd96eddc910b140
+
+whois:        whois.nic.direct
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-05-22
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.direct
+
+Domain Name: pkt.direct
+Registry Domain ID: e072deb140534ae0935ddb4a0f752605-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-08-13T23:41:34Z
+Creation Date: 2024-08-08T23:41:32Z
+Registry Expiry Date: 2025-08-08T23:41:32Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IS
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:45:48Z <<<
+
+# whois.namecheap.com
+

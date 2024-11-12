@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.jll
+
+domain:       JLL
+
+organisation: Jones Lang LaSalle Incorporated
+address:      200 E. Randolph Drive
+address:      Chicago IL 60601
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Corporate Counsel
+organisation: Jones Lang LaSalle Incorporated
+address:      200 E. Randolph Drive
+address:      Chicago IL 60601
+address:      United States of America (the)
+phone:        +1 312 228 2269
+fax-no:       +1 312 228 2777
+e-mail:       jllnewgtlds@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.JLL 2a01:8840:92:0:0:0:0:9 65.22.148.9
+nserver:      A2.NIC.JLL 2a01:8840:95:0:0:0:0:9 65.22.151.9
+nserver:      B0.NIC.JLL 2a01:8840:93:0:0:0:0:9 65.22.149.9
+nserver:      C0.NIC.JLL 2a01:8840:94:0:0:0:0:9 65.22.150.9
+ds-rdata:     34711 8 2 2684574b7ac4339237fa607c55c1244d45c6c7c86b143c9240a72c2f62a012e4
+
+whois:        whois.nic.jll
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jll.com
+
+created:      2015-05-14
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.jll
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:49Z <<<
+

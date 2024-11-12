@@ -1,0 +1,60 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.tcinet.ru
+
+domain:       рф
+domain-ace:   XN--P1AI
+
+organisation: Coordination Center for TLD RU
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
+
+contact:      administrative
+name:         .xn--p1ai domain Administrative group
+organisation: Coordination Center for TLD RU
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
+phone:        +7 495 730 29 71
+fax-no:       +7 495 730 29 68
+e-mail:       ru-adm@cctld.ru
+
+contact:      technical
+name:         Technical Center of Internet
+organisation: Technical Center of Internet
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
+phone:        +7 495 730 29 69
+fax-no:       +7 495 730 29 68
+e-mail:       ru-tech@tcinet.ru
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     59497 8 2 3de6c0350e9d16583aeaca8fbfb5148c25cfaf3a81d5083c1aa90d8399720ae3
+
+whois:        whois.tcinet.ru
+
+status:       ACTIVE
+remarks:      Registration information: http://cctld.ru/en
+
+created:      2010-05-12
+changed:      2024-01-17
+source:       IANA
+
+# whois.tcinet.ru
+
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+No entries found for the selected source(s).
+
+Last updated on 2024-10-28T09:06:30Z
+

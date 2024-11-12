@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.pictet
+
+domain:       PICTET
+
+organisation: Pictet Europe S.A.
+address:      15A, Avenue J. F. Kennedy
+address:      Luxembourg L-1855
+address:      Luxembourg
+
+contact:      administrative
+name:         Senior Web Publisher/Editor
+organisation: Banque Pictet & Cie SA
+address:      Route des Acacias 60
+address:      Geneva CH-1211
+address:      Switzerland
+phone:        +41 58 323 23 23
+fax-no:       +41 58 323 23 24
+e-mail:       ngtld-pictet@cscglobal.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.PICTET 2a01:8840:6a:0:0:0:0:6 65.22.108.6
+nserver:      V0N1.NIC.PICTET 2a01:8840:6b:0:0:0:0:6 65.22.109.6
+nserver:      V0N2.NIC.PICTET 2a01:8840:6c:0:0:0:0:6 65.22.110.6
+nserver:      V0N3.NIC.PICTET 161.232.32.6 2a01:8840:108:0:0:0:0:6
+nserver:      V2N0.NIC.PICTET 2a01:8840:6d:0:0:0:0:6 65.22.111.6
+nserver:      V2N1.NIC.PICTET 161.232.33.6 2a01:8840:109:0:0:0:0:6
+ds-rdata:     6694 8 2 61db4e4ae88a08e546af5490ac950221659b53669a6d54bbe6ff662568c5e6d7
+
+whois:        whois.nic.pictet
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-01-08
+changed:      2023-12-05
+source:       IANA
+
+# whois.nic.pictet
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:58:08Z <<<
+

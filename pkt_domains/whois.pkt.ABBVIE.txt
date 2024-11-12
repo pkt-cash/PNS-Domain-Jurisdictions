@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.abbvie
+
+domain:       ABBVIE
+
+organisation: AbbVie Inc.
+address:      1 N. Waukegan Road
+address:      North Chicago IL 60064
+address:      United States of America (the)
+
+contact:      administrative
+name:         Domain Manager
+organisation: Valideus
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 2074218299
+fax-no:       +44 8700118187
+e-mail:       technical@valideus.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.ABBVIE 213.248.219.41 2a01:618:403:0:0:0:0:41
+nserver:      DNS2.NIC.ABBVIE 103.49.83.41 2401:fd80:403:0:0:0:0:41
+nserver:      DNS3.NIC.ABBVIE 213.248.223.41 2a01:618:407:0:0:0:0:41
+nserver:      DNS4.NIC.ABBVIE 2401:fd80:407:0:0:0:0:41 43.230.51.41
+nserver:      DNSA.NIC.ABBVIE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.ABBVIE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.ABBVIE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.ABBVIE 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     56720 8 2 11e4530f78b2c9cb2455d04dfa886a61c3f23e1887e53245b7950fff03ad8b2b
+
+whois:        whois.nic.abbvie
+
+status:       ACTIVE
+remarks:      Registration information: http://www.abbvie.com
+
+created:      2016-02-26
+changed:      2021-11-09
+source:       IANA
+
+# whois.nic.abbvie
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T08:39:14Z <<<
+

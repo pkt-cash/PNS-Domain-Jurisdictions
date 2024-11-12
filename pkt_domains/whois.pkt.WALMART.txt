@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.walmart
+
+domain:       WALMART
+
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+
+contact:      administrative
+name:         Project and Process Manager
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+phone:        +44 20 70 15 17 17
+e-mail:       ngtld-walmart@cscglobal.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A0.NIC.WALMART 2a01:8840:6e:0:0:0:0:74 65.22.112.74
+nserver:      A2.NIC.WALMART 2a01:8840:71:0:0:0:0:74 65.22.115.74
+nserver:      B0.NIC.WALMART 2a01:8840:6f:0:0:0:0:74 65.22.113.74
+nserver:      C0.NIC.WALMART 2a01:8840:70:0:0:0:0:74 65.22.114.74
+ds-rdata:     34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
+ds-rdata:     4411 8 2 cee1000fc9a5a5c1e205308ac36910953c589174ca5d18516dcb0549ea450886
+
+whois:        whois.nic.walmart
+
+status:       ACTIVE
+remarks:      Registration information: http://www.walmart.com
+
+created:      2016-07-21
+changed:      2024-10-25
+source:       IANA
+
+# whois.nic.walmart
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:06:21Z <<<
+

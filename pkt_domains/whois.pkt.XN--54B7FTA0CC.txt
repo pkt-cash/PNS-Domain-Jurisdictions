@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       বাংলা
+domain-ace:   XN--54B7FTA0CC
+
+organisation: Posts and Telecommunications Division
+address:      Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh
+address:      Abdul Goni Road
+address:      Dhaka 1000
+address:      Bangladesh
+
+contact:      administrative
+name:         Deputy Secretary
+organisation: Posts and Telecommunications Division
+address:      Ministry of Posts, Telecommunications and Information Technology,
+address:      Abdul Goni Road
+address:      Dhaka 1000
+address:      Bangladesh
+phone:        +8802 22335448
+e-mail:       telecom1@ptd.gov.bd
+
+contact:      technical
+name:         Deputy General Manager (Domain)
+organisation: Bangladesh Telecommunications Company Limited (BTCL)
+address:      Telejogajog Bhaban, 37/E, Eskaton Garden
+address:      Dhaka 1000
+address:      Bangladesh
+phone:        +880249354200
+e-mail:       dgm.domain@btcl.gov.bd
+
+nserver:      BAYANNO.BTCL.NET.BD 180.211.212.213 2407:5000:88:2:0:0:0:3
+nserver:      BD-NS.ANYCAST.PCH.NET 2001:500:14:6108:ad:0:0:1 204.61.216.108
+nserver:      EKUSHEY.BTCL.NET.BD 123.49.50.51 2407:5000:88:1:0:0:0:2
+ds-rdata:     63049 8 1 91e8936dfe81e7350daf041bd12b77f29643a13d
+ds-rdata:     63049 8 2 dcdd04c4493e029dee060d18a91e87be930b9ce4c54fc7921f51f27455843dcb
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://domainreg.btcl.com.bd/
+
+created:      2011-03-30
+changed:      2024-05-29
+source:       IANA
+

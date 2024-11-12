@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--b4w605ferd
+
+domain:       淡马锡
+domain-ace:   XN--B4W605FERD
+
+organisation: Temasek Holdings (Private) Limited
+address:      60B Orchard Road
+address:      #06-18 Tower 2
+address:      The Atrium@Orchard
+address:      Singapore 238891
+address:      Singapore
+
+contact:      administrative
+name:         Business Development Executive
+organisation: IP Mirror Pte Ltd
+address:      9 Hongkong Street #01-01
+address:      Singapore 059652
+address:      Singapore
+phone:        +65 6222 0105
+fax-no:       +65 6222 0210
+e-mail:       ngtld-temasek@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--B4W605FERD 2a01:8840:8a:0:0:0:0:1 65.22.140.1
+nserver:      A2.NIC.XN--B4W605FERD 2a01:8840:8d:0:0:0:0:1 65.22.143.1
+nserver:      B0.NIC.XN--B4W605FERD 2a01:8840:8b:0:0:0:0:1 65.22.141.1
+nserver:      C0.NIC.XN--B4W605FERD 2a01:8840:8c:0:0:0:0:1 65.22.142.1
+ds-rdata:     56659 8 2 bd5e5982605e7ec6077b7742d7894a6959657afbfe9ee345eda682a9a4bf0252
+
+whois:        whois.nic.xn--b4w605ferd
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.temasek.com.sg/nicdan4ma3xi1
+
+created:      2014-12-18
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.xn--b4w605ferd
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:07:08Z <<<
+

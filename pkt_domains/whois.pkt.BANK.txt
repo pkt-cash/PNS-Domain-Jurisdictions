@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bank
+
+domain:       BANK
+
+organisation: fTLD Registry Services, LLC
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
+address:      Washington DC 20005
+address:      United States of America (the)
+
+contact:      administrative
+name:         Managing Director
+organisation: fTLD Registry Services, LLC
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
+address:      Washington DC 20005
+address:      United States of America (the)
+phone:        +1 202 236 1154
+e-mail:       ftld@ftld.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      D.NIC.BANK 156.154.103.27 2610:a1:1010:0:0:0:0:27
+nserver:      E.NIC.BANK 156.154.104.27 2610:a1:1011:0:0:0:0:27
+nserver:      F.NIC.BANK 156.154.105.27 2610:a1:1012:0:0:0:0:27
+nserver:      W.NIC.BANK 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      X.NIC.BANK 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      Y.NIC.BANK 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     32743 13 2 c962ca12693bf639b1eeb2c9e5a5e90988ab334038e8daff0c1cd05454b57038
+
+whois:        whois.nic.bank
+
+status:       ACTIVE
+remarks:      Registration information: https://www.ftld.com/
+
+created:      2014-11-26
+changed:      2024-07-01
+source:       IANA
+
+# whois.nic.bank
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:41:22Z <<<
+

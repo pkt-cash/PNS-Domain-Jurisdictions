@@ -1,0 +1,130 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.website
+
+domain:       WEBSITE
+
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Director
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.WEBSITE 194.169.218.52 2001:67c:13cc:0:0:0:1:52
+nserver:      B.NIC.WEBSITE 185.24.64.52 2a04:2b00:13cc:0:0:0:1:52
+nserver:      E.NIC.WEBSITE 212.18.248.52 2a04:2b00:13ee:0:0:0:0:52
+nserver:      F.NIC.WEBSITE 212.18.249.52 2a04:2b00:13ff:0:0:0:0:52
+ds-rdata:     47815 8 2 cb5f31743f17c1c1641d7ecc4c7dc40217363645e7ac25c509393c6709d933a8
+ds-rdata:     58591 8 2 bad631380e8e6f70cf21dec0d8d8abbe9df00cd2f0f9376a33535a3fa6ab26e6
+
+whois:        whois.nic.website
+
+status:       ACTIVE
+remarks:      Registration information: https://radix.website/
+
+created:      2014-05-22
+changed:      2024-03-20
+source:       IANA
+
+# whois.nic.website
+
+Domain Name: PKT.WEBSITE
+Registry Domain ID: D478928388-CNIC
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com/
+Updated Date: 2024-09-27T18:21:04.0Z
+Creation Date: 2024-08-15T22:10:17.0Z
+Registry Expiry Date: 2025-08-15T23:59:59.0Z
+Registrar: Go Daddy, LLC
+Registrar IANA ID: 146
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Domains By Proxy, LLC
+Registrant State/Province: Arizona
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS25.DOMAINCONTROL.COM
+Name Server: NS26.DOMAINCONTROL.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4805058800
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:06:26.0Z <<<
+
+# whois.godaddy.com
+
+Domain Name: pkt.website
+Registry Domain ID: D478928388-CNIC
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-08-15T22:10:18Z
+Creation Date: 2024-08-15T22:10:17Z
+Registrar Registration Expiration Date: 2025-08-15T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: CR816069610
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.website
+Registry Tech ID: CR816069611
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.website
+Name Server: NS25.DOMAINCONTROL.COM
+Name Server: NS26.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T09:06:26Z <<<
+

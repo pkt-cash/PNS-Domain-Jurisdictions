@@ -1,0 +1,135 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xyz
+
+domain:       XYZ
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1.7027632191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      GENERATIONXYZ.NIC.XYZ 212.18.249.42 2a04:2b00:13ff:0:0:0:0:42
+nserver:      X.NIC.XYZ 194.169.218.42 2001:67c:13cc:0:0:0:1:42
+nserver:      Y.NIC.XYZ 185.24.64.42 2a04:2b00:13cc:0:0:0:1:42
+nserver:      Z.NIC.XYZ 212.18.248.42 2a04:2b00:13ee:0:0:0:0:42
+ds-rdata:     3599 8 2 b9733869bc84c86bb59d102ba5da6b27b2088552332a39dcd54bc4e8d66b0499
+ds-rdata:     18130 8 2 5aa5961266594cceac50949a99219fe004f130e1864a427143e9ff2e641cac6f
+
+whois:        whois.nic.xyz
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.xyz
+
+created:      2014-02-06
+changed:      2024-02-28
+source:       IANA
+
+# whois.nic.xyz
+
+Domain Name: PKT.XYZ
+Registry Domain ID: D266027347-CNIC
+Registrar WHOIS Server: whois-service.virtualcloud.co
+Registrar URL: https://www.sav.com/
+Updated Date: 2023-11-30T10:23:41.0Z
+Creation Date: 2021-12-24T10:08:29.0Z
+Registry Expiry Date: 2024-12-24T23:59:59.0Z
+Registrar: Sav.com, LLC - 1
+Registrar IANA ID: 3891
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy Protection
+Registrant State/Province: IL
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.AFTERNIC.COM
+Name Server: NS2.AFTERNIC.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse-contact@sav.com
+Registrar Abuse Contact Phone: +1.8885808790
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:09:33.0Z <<<
+
+# whois-service.virtualcloud.co
+
+Domain Name: PKT.XYZ
+Registry Domain ID: D266027347-CNIC
+Registrar WHOIS Server: whois-service.virtualcloud.co
+Registrar URL: https://www.sav.com/
+Updated Date: 2024-09-26T21:06:20Z
+Creation Date: 2021-12-24T10:08:29Z
+Registrar Registration Expiration Date: 2024-12-24T23:59:59Z
+Registrar: SAV.COM, LLC - 1
+Registrar IANA ID: 3891
+Registrar Abuse Contact Email: ABUSE-CONTACT@SAV.COM
+Registrar Abuse Contact Phone: +1.8885808790
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: GFMF5DS
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: 2229 S MICHIGAN AVE SUITE 303
+Registrant City: CHICAGO
+Registrant State/Province: ILLINOIS
+Registrant Postal Code: 60616
+Registrant Country: US
+Registrant Phone: +1.2563740797
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Registry Admin ID: GFMF5DS
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: 2229 S MICHIGAN AVE SUITE 303
+Admin City: CHICAGO
+Admin State/Province: ILLINOIS
+Admin Postal Code: 60616
+Admin Country: US
+Admin Phone: +1.2563740797
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Registry Tech ID: GFMF5DS
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: 2229 S MICHIGAN AVE SUITE 303
+Tech City: CHICAGO
+Tech State/Province: ILLINOIS
+Tech Postal Code: 60616
+Tech Country: US
+Tech Phone: +1.2563740797
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Name Server: NS1.AFTERNIC.COM
+Name Server: NS2.AFTERNIC.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-09-26T21:06:20Z <<<
+

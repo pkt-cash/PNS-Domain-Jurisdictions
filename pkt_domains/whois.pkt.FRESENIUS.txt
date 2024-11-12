@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fresenius
+
+domain:       FRESENIUS
+
+organisation: Fresenius Immobilien-Verwaltungs-GmbH
+address:      Else-Kröner-Strasse 1
+address:      Bad Homburg Hessen 61352
+address:      Germany
+
+contact:      administrative
+name:         Domain Manager
+organisation: Thomsen Trampedach GmbH
+address:      Grundstrasse 22a
+address:      Rotkreuz CH-6343
+address:      Switzerland
+phone:        +41.798319275
+e-mail:       fresenius@thomsentrampedach.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.FRESENIUS 194.169.218.86 2001:67c:13cc:0:0:0:1:86
+nserver:      B.NIC.FRESENIUS 185.24.64.86 2a04:2b00:13cc:0:0:0:1:86
+nserver:      C.NIC.FRESENIUS 212.18.248.86 2a04:2b00:13ee:0:0:0:0:86
+nserver:      D.NIC.FRESENIUS 212.18.249.86 2a04:2b00:13ff:0:0:0:0:86
+ds-rdata:     14099 8 2 3a1c09d9328367d2077aa1418dacab1e9799c6e419409c35416ed57ad0d61dd2
+ds-rdata:     48287 8 2 a4740830986280d4ba13af47a2d92ae0a9561caa98eded550725bb2143f9ae88
+
+whois:        whois.nic.fresenius
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.freseniusregistry.com
+
+created:      2015-12-17
+changed:      2023-11-06
+source:       IANA
+
+# whois.nic.fresenius
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:49:53.0Z <<<
+

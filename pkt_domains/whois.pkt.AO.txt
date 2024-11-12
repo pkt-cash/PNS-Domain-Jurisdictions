@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       AO
+
+organisation: Ministry of Telecommunications and Information Technologies (MTTI)
+address:      Customs street, no. 10
+address:      Luanda CP 1459
+address:      Angola
+
+contact:      administrative
+name:         Mr. Andre Pedro (Eng.)
+organisation: Institute of Development of Information Society (‘INFOSI’)
+address:      Cidade Alta
+address:      Luanda
+address:      Angola
+phone:        +244 927 217 021
+e-mail:       andre.pedro@infosi.gov.ao
+
+contact:      technical
+name:         Marcos Damiao
+organisation: INSTITUTO NACIONAL DE FOMENTO DA SOCIEDADE DA INFORMACAO-INFOSI
+address:      Cidade Alta Luanda
+address:      Luanda 1412
+address:      Angola
+phone:        +244927991964
+fax-no:       (+244)927 991964
+e-mail:       ao@dns.ao
+
+nserver:      A.NS.AO 206.51.254.4 2620:171:804:ad2:0:0:0:4
+nserver:      AO-E.NS.NIC.CZ 185.43.134.13 2001:148f:fffd:0:0:0:0:13
+nserver:      AO02.DNS.PT 185.39.208.29 2a04:6d80:0:0:0:0:0:29
+nserver:      ETLD-1.ANYCAST.NET 2607:f740:45:0:0:0:0:54 45.54.45.54
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dns.ao/
+
+created:      1995-11-15
+changed:      2024-09-09
+source:       IANA
+

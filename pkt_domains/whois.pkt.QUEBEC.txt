@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.quebec
+
+domain:       QUEBEC
+
+organisation: PointQuébec Inc
+address:      202-1100, boul. Crémazie Est
+address:      Montréal QC H2P 2X2
+address:      Canada
+
+contact:      administrative
+name:         Normand Fortier
+organisation: Normand
+address:      202-1100, boul. Crémazie Est
+address:      Montréal QC H2P 2X2
+address:      Canada
+phone:        +1.514-700-0018
+fax-no:       +1.877-917-9904
+e-mail:       normand@registre.quebec
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: CORE Association
+address:      2, Cours de Rive
+address:      Geneva CH-1204
+address:      Switzerland
+phone:        +41 223 125 610
+fax-no:       +41 223 125 612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     46012 10 2 5916001fff3dc261a7f1b5d81bdc63312697f8b672ae1c8ac7677f6e68977f48
+
+whois:        whois.nic.quebec
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registre.quebec
+
+created:      2014-03-13
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.quebec
+
+The queried object does not exist: no matching objects found
+>>> Last update of Whois database: 2024-10-28T08:57:58.349Z <<<
+

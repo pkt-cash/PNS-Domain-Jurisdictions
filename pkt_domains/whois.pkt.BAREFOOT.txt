@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.barefoot
+
+domain:       BAREFOOT
+
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd.
+address:      Modesto CA 95354
+address:      United States of America (the)
+
+contact:      administrative
+name:         Principal IT Architect
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd.
+address:      Modesto CA 95354
+address:      United States of America (the)
+phone:        +1 209 341 4226
+fax-no:       +1 209 573 8520
+e-mail:       ngtld-barefoot@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       rzmtechcontact@identity.digital
+
+nserver:      A0.NIC.BAREFOOT 2a01:8840:36:0:0:0:0:17 65.22.56.17
+nserver:      A2.NIC.BAREFOOT 2a01:8840:39:0:0:0:0:17 65.22.59.17
+nserver:      B0.NIC.BAREFOOT 2a01:8840:37:0:0:0:0:17 65.22.57.17
+nserver:      C0.NIC.BAREFOOT 2a01:8840:38:0:0:0:0:17 65.22.58.17
+ds-rdata:     35550 8 2 2a380080b296e5bf1c8212618288fddbc665f7689a31dfdc7eeccfaefe17203d
+ds-rdata:     39166 8 2 138e51b866fd0185f6aa90cbf125cd40356c00a14efab23344f702f267e45eea
+
+whois:        whois.nic.barefoot
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barefootwine.com
+
+created:      2015-10-24
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.barefoot
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:41:26Z <<<
+

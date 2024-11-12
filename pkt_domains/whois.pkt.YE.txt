@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.y.net.ye
+
+domain:       YE
+
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+
+contact:      administrative
+name:         CCO
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+phone:        +967 777009890
+fax-no:       +967 1 270848
+e-mail:       m.alsabahi@teleyemen.com.ye
+
+contact:      technical
+name:         Mishaal Ali Thabet
+organisation: TeleYemen
+address:      P.O.Box 168
+address:      26th September Street
+address:      Sana'a
+address:      Yemen
+phone:        +967 771715858
+fax-no:       +967 1 7521403
+e-mail:       m.a.thabet@teleyemen.com.ye
+
+nserver:      TLD1.YE 195.94.10.22 2a02:e280:8:1000:0:0:0:1
+nserver:      TLD2.YE 195.94.13.22 2a02:e280:8:2000:0:0:0:1
+nserver:      TLD3.YE 2a02:2718:8:d3:0:0:0:244 82.114.164.244
+
+whois:        whois.y.net.ye
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      1996-08-19
+changed:      2024-08-06
+source:       IANA
+
+# whois.y.net.ye
+
+NOT FOUND

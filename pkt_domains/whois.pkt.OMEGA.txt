@@ -1,0 +1,60 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.omega
+
+domain:       OMEGA
+
+organisation: The Swatch Group Ltd
+address:      Seevorstadt 6
+address:      Biel / Bienne CH-2501
+address:      Switzerland
+
+contact:      administrative
+name:         Digital Project Manager
+organisation: The Swatch Group Ltd
+address:      Seevorstadt 6
+address:      Biel / Bienne CH-2501
+address:      Switzerland
+phone:        +41 32 343 68 11
+fax-no:       +41 32 343 69 11
+e-mail:       omegagtld@swatchgroup.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.OMEGA 213.248.219.140 2a01:618:403:0:0:0:0:140
+nserver:      DNS2.NIC.OMEGA 103.49.83.140 2401:fd80:403:0:0:0:0:140
+nserver:      DNS3.NIC.OMEGA 213.248.223.140 2a01:618:407:0:0:0:0:140
+nserver:      DNS4.NIC.OMEGA 2401:fd80:407:0:0:0:0:140 43.230.51.140
+nserver:      DNSA.NIC.OMEGA 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.OMEGA 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.OMEGA 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.OMEGA 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
+ds-rdata:     49055 8 2 7feb12a48d98dc3497171fa326dc92352f0c755d2cb7247950c3f42fe6f35871
+
+whois:        whois.nic.omega
+
+status:       ACTIVE
+remarks:      Registration information: http://www.swatchgroup.com/
+
+created:      2015-04-23
+changed:      2024-10-25
+source:       IANA
+
+# whois.nic.omega
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T08:57:44Z <<<
+

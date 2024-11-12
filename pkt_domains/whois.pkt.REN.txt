@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ren
+
+domain:       REN
+
+organisation: ZDNS International Limited
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+
+contact:      administrative
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+phone:        86-10-58812426
+e-mail:       sophia@zdns.ren
+
+contact:      technical
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
+address:      China
+phone:        86-10-58812426
+e-mail:       gaolei@zdns.cn
+
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
+
+whois:        whois.nic.ren
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.ren/
+
+created:      2014-02-28
+changed:      2024-10-16
+source:       IANA
+
+# whois.nic.ren
+
+The queried object does not exist: pkt.ren
+>>> Last update of WHOIS database: 2024-10-28T08:57:14Z <<<
+

@@ -1,0 +1,192 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa ON K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      D.CA-SERVERS.CA 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+ds-rdata:     18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2023-09-19
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: pkt.ca
+Registry Domain ID: D262893-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.mediafusion.ca
+Updated Date: 2024-03-26T05:06:47Z
+Creation Date: 2005-02-10T19:00:21Z
+Registry Expiry Date: 2025-02-10T05:00:00Z
+Registrar: Mediafusion Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: fortier@mediafusion.ca
+Registrar Abuse Contact Phone: +1.5149727777
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: R670960-CIRA
+Registrant Name: Daniel Rodrigue
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: C2097078-CIRA
+Admin Name: Daniel Rodrigue
+Admin Organization:
+Admin Street: 1261 Bourgeoys
+Admin City: Longueuil
+Admin State/Province: QC
+Admin Postal Code: J4M1Z5
+Admin Country: CA
+Admin Phone: +1.4504685726
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domain@ladministration.com
+Registry Tech ID: C2097078-CIRA
+Tech Name: Daniel Rodrigue
+Tech Organization:
+Tech Street: 1261 Bourgeoys
+Tech City: Longueuil
+Tech State/Province: QC
+Tech Postal Code: J4M1Z5
+Tech Country: CA
+Tech Phone: +1.4504685726
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domain@ladministration.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.on-rev.com
+Name Server: ns2.on-rev.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:43:57Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: pkt.ca
+Registry Domain ID: D262893-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.mediafusion.ca
+Updated Date: 2024-03-26T05:06:47Z
+Creation Date: 2005-02-10T19:00:21Z
+Registry Expiry Date: 2025-02-10T05:00:00Z
+Registrar: Mediafusion Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: fortier@mediafusion.ca
+Registrar Abuse Contact Phone: +1.5149727777
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: R670960-CIRA
+Registrant Name: Daniel Rodrigue
+Registrant Organization:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country:
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:
+Registry Admin ID: C2097078-CIRA
+Admin Name: Daniel Rodrigue
+Admin Organization:
+Admin Street: 1261 Bourgeoys
+Admin City: Longueuil
+Admin State/Province: QC
+Admin Postal Code: J4M1Z5
+Admin Country: CA
+Admin Phone: +1.4504685726
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domain@ladministration.com
+Registry Tech ID: C2097078-CIRA
+Tech Name: Daniel Rodrigue
+Tech Organization:
+Tech Street: 1261 Bourgeoys
+Tech City: Longueuil
+Tech State/Province: QC
+Tech Postal Code: J4M1Z5
+Tech Country: CA
+Tech Phone: +1.4504685726
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domain@ladministration.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.on-rev.com
+Name Server: ns2.on-rev.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:43:57Z <<<
+

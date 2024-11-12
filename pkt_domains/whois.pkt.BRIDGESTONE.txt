@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bridgestone
+
+domain:       BRIDGESTONE
+
+organisation: Bridgestone Corporation
+address:      1-1, Kyobashi 3-chome
+address:      Chuo-ku Tokyo 104-8340
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower, 26-1, Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       registry@brightsconsulting.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     8575 8 2 aa4b874cf014a4df2e7dc9e5a6b8b3efa5dc966a834f4802beb19b5cd7442403
+
+whois:        whois.nic.bridgestone
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bridgestone.com/
+
+created:      2015-04-16
+changed:      2023-06-22
+source:       IANA
+
+# whois.nic.bridgestone
+
+The queried object does not exist: DOMAIN NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:43:47.0Z <<<
+

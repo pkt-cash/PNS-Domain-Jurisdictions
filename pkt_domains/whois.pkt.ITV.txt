@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.itv
+
+domain:       ITV
+
+organisation: ITV Services Limited
+address:      The London Television Centre, Upper Ground
+address:      London SE1 9LT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Head of Secretariat
+organisation: ITV PLC
+address:      The London Television Centre, Upper Ground
+address:      London SE1 9LT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 207 157 6563
+fax-no:       +44 774 076 2399
+e-mail:       ngtld-itv@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ITV 2a01:8840:56:0:0:0:0:25 65.22.88.25
+nserver:      A2.NIC.ITV 2a01:8840:59:0:0:0:0:25 65.22.91.25
+nserver:      B0.NIC.ITV 2a01:8840:57:0:0:0:0:25 65.22.89.25
+nserver:      C0.NIC.ITV 2a01:8840:58:0:0:0:0:25 65.22.90.25
+ds-rdata:     47554 8 2 b40bd9c46f4ea1a9a496c57c37a91938af59778971851d7d91c54dc203649c13
+
+whois:        whois.nic.itv
+
+status:       ACTIVE
+remarks:      Registration information: http://www.itv.com
+
+created:      2016-05-19
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.itv
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:44Z <<<
+

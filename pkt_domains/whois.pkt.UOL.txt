@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.gtlds.nic.br
+
+domain:       UOL
+
+organisation: UBN INTERNET LTDA.
+address:      Av. Marcos Penteado Ulhoa Rodrigues, 700 - Parte
+address:      Santana de Parnaíba SP 06543-001
+address:      Brazil
+
+contact:      administrative
+name:         UOL Network Engineering
+organisation: UBN Internet Ltda.
+address:      Av. Marcos Penteado Ulhoa Rodrigues, 700 - Parte
+address:      Santana de Parnaíba SP 06543-001
+address:      Brazil
+phone:        +55 11 3038 8627
+e-mail:       l-adm-dns@uolinc.com
+
+contact:      technical
+name:         NIC.br Registry Services - Tech Contact
+organisation: NIC.br
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+e-mail:       gtlds-tech@registro.br
+
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
+nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
+nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
+ds-rdata:     50876 13 2 3bb27beb43a9097b691a4704dfe1b28089265799e77afd4a97ffba11796d87dc
+
+whois:        whois.gtlds.nic.br
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.uol/
+
+created:      2014-08-07
+changed:      2023-11-14
+source:       IANA
+
+# whois.gtlds.nic.br
+
+The queried object does not exist: PKT.UOL
+>>> Last update of WHOIS database: 2024-10-28T09:04:18Z <<<
+

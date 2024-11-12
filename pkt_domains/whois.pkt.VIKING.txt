@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.viking
+
+domain:       VIKING
+
+organisation: Viking River Cruises (Bermuda) Ltd.
+address:      5700 Canoga Avenue Suite 200
+address:      Woodland Hills CA 91367
+address:      United States of America (the)
+
+contact:      administrative
+name:         SVP of Marketing
+organisation: Viking River Cruises (Bermuda) Ltd.
+address:      5700 Canoga Avenue Suite 200
+address:      Woodland Hills CA 91367
+address:      United States of America (the)
+phone:        +1 (818) 227-1234
+fax-no:       +1 (818) 594-8446
+e-mail:       ngtld-viking@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VIKING 2a01:8840:ba:0:0:0:0:17 65.22.192.17
+nserver:      A2.NIC.VIKING 2a01:8840:bd:0:0:0:0:17 65.22.195.17
+nserver:      B0.NIC.VIKING 2a01:8840:bb:0:0:0:0:17 65.22.193.17
+nserver:      C0.NIC.VIKING 2a01:8840:bc:0:0:0:0:17 65.22.194.17
+ds-rdata:     50971 8 2 1809dba33d16e851270758c3ef774d65984af94f7c3de9b3470167ce19c22def
+
+whois:        whois.nic.viking
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.vikingrivercruises.com/
+
+created:      2015-10-15
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.viking
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:06:11Z <<<
+

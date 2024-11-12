@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.maif
+
+domain:       MAIF
+
+organisation: Mutuelle Assurance Instituteur France (MAIF)
+address:      200 avenue Salvador Allende
+address:      BP 303 Cedex
+address:      Niort 79038
+address:      France
+
+contact:      administrative
+name:         Internet Manager
+organisation: Mutuelle Assurance Instituteur France (MAIF)
+address:      200 avenue Salvador Allende
+address:      BP 303 Cedex
+address:      Niort 79038
+address:      France
+phone:        +33 5 49 73 74 75
+fax-no:       +33 549738083
+e-mail:       ngtld-maif@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.MAIF 2a01:8840:6a:0:0:0:0:5 65.22.108.5
+nserver:      V0N1.NIC.MAIF 2a01:8840:6b:0:0:0:0:5 65.22.109.5
+nserver:      V0N2.NIC.MAIF 2a01:8840:6c:0:0:0:0:5 65.22.110.5
+nserver:      V0N3.NIC.MAIF 161.232.32.5 2a01:8840:108:0:0:0:0:5
+nserver:      V2N0.NIC.MAIF 2a01:8840:6d:0:0:0:0:5 65.22.111.5
+nserver:      V2N1.NIC.MAIF 161.232.33.5 2a01:8840:109:0:0:0:0:5
+ds-rdata:     23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
+
+whois:        whois.nic.maif
+
+status:       ACTIVE
+remarks:      Registration information: http://www.maif.fr
+
+created:      2015-02-13
+changed:      2024-03-31
+source:       IANA
+
+# whois.nic.maif
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:54:12Z <<<
+

@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.net.sb
+
+domain:       SB
+
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+
+contact:      administrative
+name:         Manager Information Systems
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43360
+fax-no:       +677 30003
+e-mail:       iana.admin@telekom.com.sb
+
+contact:      technical
+name:         Senior Engineer SBNIC
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      P.O. Box 148
+address:      Honiara City Council
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 43119
+fax-no:       +677 30003
+e-mail:       iana.tech@telekom.com.sb
+
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+nserver:      PCH.NIC.SB 2001:500:14:6031:ad:0:0:1 204.61.216.31
+ds-rdata:     17635 8 2 27f59686a15b09dc8293fac9c31e5be51abf214e1e9cd5b21cbe50f0f311c780
+
+whois:        whois.nic.net.sb
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.net.sb/
+
+created:      1994-04-19
+changed:      2022-11-21
+source:       IANA
+
+# whois.nic.net.sb
+

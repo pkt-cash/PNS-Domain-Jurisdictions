@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.design
+
+domain:       DESIGN
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.DESIGN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.DESIGN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.DESIGN 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.DESIGN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.DESIGN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.DESIGN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     27199 8 2 eaec6e1b661b0264846ff8f70858cc63711f0627781386b9024360656679ecf5
+
+whois:        whois.nic.design
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.design/
+
+created:      2014-12-18
+changed:      2024-04-16
+source:       IANA
+
+# whois.nic.design
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:45:45Z <<<
+

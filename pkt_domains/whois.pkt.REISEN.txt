@@ -1,0 +1,172 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.reisen
+
+domain:       REISEN
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.REISEN 2a01:8840:1e:0:0:0:0:54 65.22.28.54
+nserver:      V0N1.NIC.REISEN 2a01:8840:1f:0:0:0:0:54 65.22.29.54
+nserver:      V0N2.NIC.REISEN 2a01:8840:20:0:0:0:0:54 65.22.30.54
+nserver:      V0N3.NIC.REISEN 161.232.14.54 2a01:8840:f8:0:0:0:0:54
+nserver:      V2N0.NIC.REISEN 2a01:8840:21:0:0:0:0:54 65.22.31.54
+nserver:      V2N1.NIC.REISEN 161.232.15.54 2a01:8840:f9:0:0:0:0:54
+ds-rdata:     16819 8 2 2fe6f73a7337d0492ba6acc3c38ac175e81d13b593136551ad1e95641dd396cd
+
+whois:        whois.nic.reisen
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-04-03
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.reisen
+
+Domain Name: pkt.reisen
+Registry Domain ID: c5ee8c81a1f84b61ac043fb4508c7041-DONUTS
+Registrar WHOIS Server: whois.ovh.com
+Registrar URL: http://www.ovh.com
+Updated Date: 2024-09-18T18:47:42Z
+Creation Date: 2024-09-13T18:47:19Z
+Registry Expiry Date: 2025-09-13T18:47:19Z
+Registrar: OVH SAS
+Registrar IANA ID: 433
+Registrar Abuse Contact Email: abuse@ovh.net
+Registrar Abuse Contact Phone: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: DE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns104.ovh.net
+Name Server: ns104.ovh.net
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:58:45Z <<<
+
+# whois.ovh.com
+
+Domain Name: pkt.reisen
+Registry Domain ID: c5ee8c81a1f84b61ac043fb4508c7041-DONUTS
+Registrar WHOIS Server: whois.ovh.com
+Registrar URL: https://www.ovh.com
+Updated Date: 2024-09-13T18:48:19Z
+Creation Date: 2024-09-13T18:47:19Z
+Registrar Registration Expiration Date: 2025-09-13T18:47:19+02:00
+Registrar: OVH, SAS
+Registrar IANA ID: 433
+Registrar Abuse Contact Email: abuse@ovh.net
+Registrar Abuse Contact Phone: +33.972101007
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: ovh66e488b5x8vm
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: DE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY - Send message to contact by visiting https://www.ovhcloud.com/en/lp/request-ovhcloud-registered-domain/
+Registry Admin ID: ovh66e488b6ri1v
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: REDACTED FOR PRIVACY - Send message to contact by visiting https://www.ovhcloud.com/en/lp/request-ovhcloud-registered-domain/
+Registry Tech ID: ovh66e488b6ri1v
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: REDACTED FOR PRIVACY - Send message to contact by visiting https://www.ovhcloud.com/en/lp/request-ovhcloud-registered-domain/
+Name Server: dns104.ovh.net
+Name Server: ns104.ovh.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-09-13T18:49:05Z <<<
+

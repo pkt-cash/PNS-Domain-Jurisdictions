@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.parts
+
+domain:       PARTS
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.PARTS 2a01:8840:16:0:0:0:0:53 65.22.20.53
+nserver:      V0N1.NIC.PARTS 2a01:8840:17:0:0:0:0:53 65.22.21.53
+nserver:      V0N2.NIC.PARTS 2a01:8840:18:0:0:0:0:53 65.22.22.53
+nserver:      V0N3.NIC.PARTS 161.232.10.53 2a01:8840:f4:0:0:0:0:53
+nserver:      V2N0.NIC.PARTS 2a01:8840:19:0:0:0:0:53 65.22.23.53
+nserver:      V2N1.NIC.PARTS 161.232.11.53 2a01:8840:f5:0:0:0:0:53
+ds-rdata:     24967 8 2 3facb67c61427cac01c712ea17c8d0e9eb74f5290a2d36311499c096578254bd
+
+whois:        whois.nic.parts
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-02-06
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.parts
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:57:57Z <<<
+

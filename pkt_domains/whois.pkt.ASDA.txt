@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.asda
+
+domain:       ASDA
+
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+
+contact:      administrative
+name:         Project and Process Manager
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+phone:        +44 20 70 15 17 17
+e-mail:       ngtld-asda@cscglobal.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.ASDA 2a01:8840:6e:0:0:0:0:43 65.22.112.43
+nserver:      A2.NIC.ASDA 2a01:8840:71:0:0:0:0:43 65.22.115.43
+nserver:      B0.NIC.ASDA 2a01:8840:6f:0:0:0:0:43 65.22.113.43
+nserver:      C0.NIC.ASDA 2a01:8840:70:0:0:0:0:43 65.22.114.43
+ds-rdata:     26782 8 2 dea162d88db4bf889a745ff70cc6d0e56245350e4aecddb262cdb1a0663347df
+
+whois:        whois.nic.asda
+
+status:       ACTIVE
+remarks:      Registration information: http://www.asda.com
+
+created:      2016-07-21
+changed:      2024-05-21
+source:       IANA
+
+# whois.nic.asda
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:41:07Z <<<
+

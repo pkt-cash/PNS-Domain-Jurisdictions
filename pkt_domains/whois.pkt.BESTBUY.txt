@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bestbuy
+
+domain:       BESTBUY
+
+organisation: BBY Solutions, Inc.
+address:      7601 Penn Avenue South
+address:      Richfield MN 55423
+address:      United States of America (the)
+
+contact:      administrative
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
+address:      United States of America (the)
+phone:        +1 208 685 1857
+e-mail:       dotbestbuy@markmonitor.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BESTBUY 2a01:8840:d2:0:0:0:0:9 65.22.216.9
+nserver:      A2.NIC.BESTBUY 2a01:8840:d5:0:0:0:0:9 65.22.219.9
+nserver:      B0.NIC.BESTBUY 2a01:8840:d3:0:0:0:0:9 65.22.217.9
+nserver:      C0.NIC.BESTBUY 2a01:8840:d4:0:0:0:0:9 65.22.218.9
+ds-rdata:     1501 8 2 6e98e0865f6a8cd3e69f0a03cb0d9d80333a31d113ad85bba7571f87262c5d32
+
+whois:        whois.nic.bestbuy
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.bestbuy
+
+created:      2015-12-10
+changed:      2024-01-25
+source:       IANA
+
+# whois.nic.bestbuy
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:41:58Z <<<
+

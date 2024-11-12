@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       JPRS
+
+organisation: Japan Registry Services Co., Ltd.
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo
+address:      Japan
+
+contact:      administrative
+name:         DotJPRS Administrative Contact
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East,
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo
+address:      Japan
+phone:        +81 3 5215 8451
+e-mail:       dotjprs-admin@jprs.co.jp
+
+contact:      technical
+name:         DotJPRS Technical Contact
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East,
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo
+address:      Japan
+phone:        +81 3 5215 8480
+fax-no:       +81 3 5215 8452
+e-mail:       dotjprs-tech-admin@jprs.co.jp
+
+nserver:      TLD1.NIC.JPRS 103.47.2.1 2001:dda:0:0:0:0:0:1
+nserver:      TLD2.NIC.JPRS 117.104.133.16 2001:218:3001:0:0:0:0:1
+nserver:      TLD3.NIC.JPRS 2a01:8840:1ba:0:0:0:0:1 65.22.40.1
+nserver:      TLD4.NIC.JPRS 103.198.210.1 2403:2880:0:0:0:0:0:1
+nserver:      TLD5.NIC.JPRS 2a01:8840:1ba:0:0:0:0:129 65.22.40.129
+ds-rdata:     14500 8 2 1e07f9bc32099270bd8b9b91452ffbd6c04e5d4bf7b002703110d5c091df045d
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.jprs/
+
+created:      2014-12-18
+changed:      2024-10-11
+source:       IANA
+

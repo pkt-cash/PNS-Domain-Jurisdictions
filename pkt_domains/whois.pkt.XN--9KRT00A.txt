@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--9krt00a
+
+domain:       微博
+domain-ace:   XN--9KRT00A
+
+organisation: Sina Corporation
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road
+address:      Haidian District
+address:      Beijing 100080
+address:      China
+
+contact:      administrative
+name:         Director, Legal Dept.
+organisation: Sina Corporation
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road
+address:      Haidian District
+address:      Beijing 100080
+address:      China
+phone:        +86-10-82628888
+fax-no:       +86-10-82607527
+e-mail:       register@staff.sina.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--9KRT00A 2a01:8840:6e:0:0:0:0:1 65.22.112.1
+nserver:      A2.NIC.XN--9KRT00A 2a01:8840:71:0:0:0:0:1 65.22.115.1
+nserver:      B0.NIC.XN--9KRT00A 2a01:8840:6f:0:0:0:0:1 65.22.113.1
+nserver:      C0.NIC.XN--9KRT00A 2a01:8840:70:0:0:0:0:1 65.22.114.1
+ds-rdata:     6052 8 2 e5aea197b5fb7f042833684bbf64fd1f9341baa2007b2db2958c9dfaa5884b78
+
+whois:        whois.nic.xn--9krt00a
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sina.com
+
+created:      2016-02-29
+changed:      2023-08-08
+source:       IANA
+
+# whois.nic.xn--9krt00a
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:07:07Z <<<
+

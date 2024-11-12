@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.weir
+
+domain:       WEIR
+
+organisation: Weir Group IP Limited
+address:      1 West Regent Street
+address:      Glasgow G2 1RW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Head of IT Service Delivery
+organisation: Head of IT Service Delivery
+address:      1 West Regent Street
+address:      Glasgow G2 1RW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 141 637 7111
+fax-no:       +44 141 221 9789
+e-mail:       ngtld-weir@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.WEIR 2a01:8840:6e:0:0:0:0:75 65.22.112.75
+nserver:      A2.NIC.WEIR 2a01:8840:71:0:0:0:0:75 65.22.115.75
+nserver:      B0.NIC.WEIR 2a01:8840:6f:0:0:0:0:75 65.22.113.75
+nserver:      C0.NIC.WEIR 2a01:8840:70:0:0:0:0:75 65.22.114.75
+ds-rdata:     7762 8 2 bfffb5b824d7cc802beb433840269cd57749aa46593c40b9967bfba4c376fc6f
+
+whois:        whois.nic.weir
+
+status:       ACTIVE
+remarks:      Registration information: http://weir.co.uk/
+
+created:      2015-04-02
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.weir
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:06:31Z <<<
+

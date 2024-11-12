@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.taobao
+
+domain:       TAOBAO
+
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
+address:      Grand Cayman
+
+contact:      administrative
+name:         Project & Process Manager
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
+address:      Grand Cayman
+phone:        +852-22155100
+fax-no:       +852-2215-5200
+e-mail:       ngtld-alibaba@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      A0.NIC.TAOBAO 2a01:8840:32:0:0:0:0:17 65.22.52.17
+nserver:      A2.NIC.TAOBAO 2a01:8840:35:0:0:0:0:17 65.22.55.17
+nserver:      B0.NIC.TAOBAO 2a01:8840:33:0:0:0:0:17 65.22.53.17
+nserver:      C0.NIC.TAOBAO 2a01:8840:34:0:0:0:0:17 65.22.54.17
+ds-rdata:     62422 8 2 9f3d7ceb441cd4dac22efcccf5e79d238163e139ab368abddaa1029302a77bcb
+
+whois:        whois.nic.taobao
+
+status:       ACTIVE
+remarks:      Registration information: http://www.alibabagroup.com
+
+created:      2016-01-08
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.taobao
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:02:02Z <<<
+

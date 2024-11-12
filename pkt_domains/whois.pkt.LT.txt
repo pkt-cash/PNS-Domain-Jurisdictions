@@ -1,0 +1,87 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.domreg.lt
+
+domain:       LT
+
+organisation: Kaunas University of Technology
+address:      Internet Service Centre
+address:      Studentu 48a
+address:      Kaunas LT-51367
+address:      Lithuania
+
+contact:      administrative
+name:         Tomas Mackus
+organisation: Kaunas University of Technology
+address:      Internet Service Centre
+address:      Studentu 48a
+address:      Kaunas LT-51367
+address:      Lithuania
+phone:        +370 37 300736
+fax-no:       +370 37 300643
+e-mail:       vadovas@domreg.lt
+
+contact:      technical
+name:         Tomas Simonaitis
+organisation: Kaunas University of Technology
+address:      Internet Service Centre
+address:      Studentu 48a
+address:      Kaunas LT-51367
+address:      Lithuania
+phone:        +370 37 353325
+fax-no:       +370 37 300643
+e-mail:       hostmaster@domreg.lt
+
+nserver:      A.TLD.LT 195.8.218.131
+nserver:      B.TLD.LT 194.0.20.1 2001:678:19:0:0:0:0:1
+nserver:      C.TLD.LT 194.0.1.4 2001:678:4:0:0:0:0:4
+nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
+nserver:      E.TLD.LT 194.0.18.1
+nserver:      F.TLD.LT 194.0.19.1 2001:678:8c:0:0:0:0:1
+ds-rdata:     60305 8 2 2f5e8cf57360378a0325783cbc4ae219b43d7fab1bced9e7c51c6104c1690078
+
+whois:        whois.domreg.lt
+
+status:       ACTIVE
+remarks:      Registration information: http://www.domreg.lt
+
+created:      1992-06-03
+changed:      2023-11-11
+source:       IANA
+
+# whois.domreg.lt
+
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.4
+%
+% For more information please visit https://whois.lt
+%
+Domain:			pkt.lt
+Status:			registered
+Registered:		2014-08-14
+Expires:		2025-08-15
+%
+Registrar:		UAB "Interneto vizija"
+Registrar website:	https://www.iv.lt/
+Registrar email:	hostmaster@iv.lt
+%
+Contact organization:	UAB "Interneto vizija"
+Contact email:		hostmaster@iv.lt
+%
+Nameserver:		ns1.serveriai.lt	
+Nameserver:		ns2.serveriai.lt	
+Nameserver:		ns3.serveriai.lt	
+Nameserver:		ns4.serveriai.lt	

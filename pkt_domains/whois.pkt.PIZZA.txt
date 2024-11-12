@@ -1,0 +1,171 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.pizza
+
+domain:       PIZZA
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.PIZZA 2a01:8840:1e:0:0:0:0:50 65.22.28.50
+nserver:      V0N1.NIC.PIZZA 2a01:8840:1f:0:0:0:0:50 65.22.29.50
+nserver:      V0N2.NIC.PIZZA 2a01:8840:20:0:0:0:0:50 65.22.30.50
+nserver:      V0N3.NIC.PIZZA 161.232.14.50 2a01:8840:f8:0:0:0:0:50
+nserver:      V2N0.NIC.PIZZA 2a01:8840:21:0:0:0:0:50 65.22.31.50
+nserver:      V2N1.NIC.PIZZA 161.232.15.50 2a01:8840:f9:0:0:0:0:50
+ds-rdata:     55750 8 2 9271cd9fb2ca456900ef1e26877eb45d968d8ddf80281b6c6e05621f4067207f
+
+whois:        whois.nic.pizza
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-08-22
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.pizza
+
+Domain Name: pkt.pizza
+Registry Domain ID: f770a03e807546e4a6f5b7e18f65b547-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-09-02T14:07:21Z
+Creation Date: 2024-08-28T14:06:34Z
+Registry Expiry Date: 2025-08-28T14:06:34Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IS
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:58:12Z <<<
+
+# whois.namecheap.com
+
+Domain name: PKT.PIZZA
+Registry Domain ID: f770a03e807546e4a6f5b7e18f65b547-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2024-08-28T14:06:34.94Z
+Registrar Registration Expiration Date: 2025-08-28T14:06:34.94Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2 
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 25d3aa9fab0c4026be571bfbf5387094.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2 
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 25d3aa9fab0c4026be571bfbf5387094.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2 
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 25d3aa9fab0c4026be571bfbf5387094.protect@withheldforprivacy.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-27T17:58:12.78Z <<<
+

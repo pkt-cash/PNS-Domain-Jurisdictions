@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.lefrak
+
+domain:       LEFRAK
+
+organisation: LeFrak Organization, Inc.
+address:      40 West 57th Street
+address:      New York NY 10019
+address:      United States of America (the)
+
+contact:      administrative
+name:         IT Operations Manager
+organisation: LeFrak Organization, Inc.
+address:      40 West 57th Street
+address:      New York NY 10019
+address:      United States of America (the)
+phone:        +1 212 708 6600
+fax-no:       +1 212 708 6681
+e-mail:       ngtld-lefrak@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.LEFRAK 2a01:8840:6e:0:0:0:0:58 65.22.112.58
+nserver:      A2.NIC.LEFRAK 2a01:8840:71:0:0:0:0:58 65.22.115.58
+nserver:      B0.NIC.LEFRAK 2a01:8840:6f:0:0:0:0:58 65.22.113.58
+nserver:      C0.NIC.LEFRAK 2a01:8840:70:0:0:0:0:58 65.22.114.58
+ds-rdata:     13552 8 2 dfe80636fc126c19c1af2ff130e361cb22b4f33d97a48ca25fe7c81ee351796e
+
+whois:        whois.nic.lefrak
+
+status:       ACTIVE
+remarks:      Registration information: http://lefrak.com
+
+created:      2016-03-31
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.lefrak
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:52:30Z <<<
+

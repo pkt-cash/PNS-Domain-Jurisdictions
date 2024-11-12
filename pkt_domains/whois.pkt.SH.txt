@@ -1,0 +1,164 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sh
+
+domain:       SH
+
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension and Tristan da Cunha
+
+contact:      administrative
+name:         Chief Secretary
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension and Tristan da Cunha
+fax-no:       +290 2598
+e-mail:       administrator@nic.sh
+
+contact:      technical
+name:         Technical Director
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.SH 2a01:8840:9e:0:0:0:0:9 65.22.160.9
+nserver:      A2.NIC.SH 2a01:8840:a1:0:0:0:0:9 65.22.163.9
+nserver:      B0.NIC.SH 2a01:8840:9f:0:0:0:0:9 65.22.161.9
+nserver:      C0.NIC.SH 2a01:8840:a0:0:0:0:0:9 65.22.162.9
+ds-rdata:     55297 8 2 ba339ad6e081dad292a3f473cbdd5adc53a0222769a7c6125f506dd6a813787f
+
+whois:        whois.nic.sh
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.sh/
+
+created:      1997-09-23
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.sh
+
+Domain Name: pkt.sh
+Registry Domain ID: 7e0ef48c01cf4fcbbf24ef80db08eebe-DONUTS
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: http://porkbun.com
+Updated Date: 2024-07-04T07:06:38Z
+Creation Date: 2020-06-30T13:29:12Z
+Registry Expiry Date: 2025-06-30T13:29:12Z
+Registrar: Porkbun LLC
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.5038508351
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Private by Design, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NC
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.sudodns.com
+Name Server: ns2.sudodns.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:00:55Z <<<
+
+# whois.porkbun.com
+
+Domain Name: PKT.SH
+Registry Domain ID: D503300001185864306-LRMS
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: http://www.porkbun.com
+Updated Date: 2024-06-29 07:06:16
+Created Date: 2020-06-30 13:29:12
+Registrar Registration Expiration Date: 2025-06-30 13:29:13
+Registrar: Porkbun LLC
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.5038508351
+Registry Registrant ID: 
+Registrant Name: Whois Privacy
+Registrant Organization: Private by Design, LLC
+Registrant Street: 500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Phone Ext: 
+Registrant Fax:
+Registrant Fax Ext: 
+Registrant Email: https://porkbun.com/whois/contact/registrant/pkt.sh
+Registry Admin ID: 
+Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street: 500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Phone Ext: 
+Admin Fax:
+Admin Fax Ext: 
+Admin Email: https://porkbun.com/whois/contact/admin/pkt.sh
+Registry Tech ID: 
+Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street: 500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Phone Ext: 
+Tech Fax:
+Tech Fax Ext: 
+Tech Email: https://porkbun.com/whois/contact/tech/pkt.sh
+Name Server: ns1.sudodns.com
+Name Server: ns2.sudodns.com
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2024-06-29 07:06:16 <<<
+

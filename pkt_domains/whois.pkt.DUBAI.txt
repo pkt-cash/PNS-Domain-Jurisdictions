@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.dubai
+
+domain:       DUBAI
+
+organisation: Dubai Smart Government Department
+address:      HH Ruler's Court, AlFahidi Street, Bastakiya Heritage Area P.O.Box 90300
+address:      United Arab Emirates (the)
+
+contact:      administrative
+name:         Mr. Matar AlHumairi
+organisation: Dubai Smart Government Department
+address:      HH Ruler’s Court, AlFahidi Street, Bastakiya Heritage Area P.O.Box 90300
+address:      United Arab Emirates (the)
+phone:        +97143533334
+fax-no:       +97143532988
+e-mail:       dubaitld@dsg.gov.ae
+
+contact:      technical
+name:         Manager Systems, ae Domain Administration
+organisation: Telecommunications Regulatory Authority of UAE
+address:      Al Waheeda street Al Memzar
+address:      P.O.Box 116688
+address:      Dubai
+address:      United Arab Emirates (the)
+phone:        +97142300018
+fax-no:       +97142300011
+e-mail:       gtldsupport@aeda.ae
+
+nserver:      GTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      GTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      GTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      GTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     32134 8 2 3b001ea7fb42657ce51e6d30dbf91a71b10ec5264c2a01b14082c5e3bd9a6f9d
+ds-rdata:     32134 8 1 096078e36e111a0773bf2546212b8bad920528ef
+
+whois:        whois.nic.dubai
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-12-17
+changed:      2020-05-21
+source:       IANA
+
+# whois.nic.dubai
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:46:24Z <<<
+

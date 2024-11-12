@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.diet
+
+domain:       DIET
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.DIET 194.169.218.145 2001:67c:13cc:0:0:0:1:145
+nserver:      B.NIC.DIET 185.24.64.145 2a04:2b00:13cc:0:0:0:1:145
+nserver:      C.NIC.DIET 212.18.248.145 2a04:2b00:13ee:0:0:0:0:145
+nserver:      D.NIC.DIET 212.18.249.145 2a04:2b00:13ff:0:0:0:0:145
+ds-rdata:     21867 13 2 2c0a937c6b26d322943537b3322f0b09c5ad21029b9f0567eb8e46b467006930
+
+whois:        whois.nic.diet
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.diet
+
+created:      2014-08-15
+changed:      2024-01-31
+source:       IANA
+
+# whois.nic.diet
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:45:47.0Z <<<
+

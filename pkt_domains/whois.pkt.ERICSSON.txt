@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ericsson
+
+domain:       ERICSSON
+
+organisation: Telefonaktiebolaget L M Ericsson
+address:      Torshamnsgatan 23
+address:      Stockholm SE-164 83
+address:      Sweden
+
+contact:      administrative
+name:         Senior Group Legal Counsel
+organisation: Telefonaktiebolaget L M Ericsson
+address:      Torshamnsgatan 23
+address:      Stockholm SE-164 83
+address:      Sweden
+phone:        +46 10 719 0000
+fax-no:       +46 10 719 3091
+e-mail:       ngtld-ericsson@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       rzmtechcontact@identity.digital
+
+nserver:      A0.NIC.ERICSSON 2a01:8840:36:0:0:0:0:33 65.22.56.33
+nserver:      A2.NIC.ERICSSON 2a01:8840:39:0:0:0:0:33 65.22.59.33
+nserver:      B0.NIC.ERICSSON 2a01:8840:37:0:0:0:0:33 65.22.57.33
+nserver:      C0.NIC.ERICSSON 2a01:8840:38:0:0:0:0:33 65.22.58.33
+ds-rdata:     60888 8 2 1b2fcf0c2219910e8bcc22b8b982b9adea8074c3c20540d58312646469c1f0ef
+ds-rdata:     47419 8 2 936161632ea5611634bad358155fa6b976a34bc812178605e9700890412eda71
+
+whois:        whois.nic.ericsson
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2016-04-14
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.ericsson
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:49:11Z <<<
+

@@ -1,0 +1,164 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.mobi
+
+domain:       MOBI
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.MOBI.AFILIAS-NST.INFO 199.254.55.1 2001:500:21:0:0:0:0:1
+nserver:      A2.MOBI.AFILIAS-NST.INFO 199.249.118.1 2001:500:46:0:0:0:0:1
+nserver:      B0.MOBI.AFILIAS-NST.ORG 199.254.56.1 2001:500:22:0:0:0:0:1
+nserver:      B2.MOBI.AFILIAS-NST.ORG 199.249.126.1 2001:500:4e:0:0:0:0:1
+nserver:      C0.MOBI.AFILIAS-NST.INFO 199.254.57.1 2001:500:23:0:0:0:0:1
+nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
+ds-rdata:     56191 8 2 016c0d8022bef2cabb827ce75dabd8fd24cd0160ac277a95ecd5e79b1a95592c
+
+whois:        whois.nic.mobi
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2005-10-17
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.mobi
+
+Domain Name: pkt.mobi
+Registry Domain ID: 41e921185f30416aa3dad4a44ca72040-DONUTS
+Registrar WHOIS Server: whois.godaddy.com/
+Registrar URL: http://www.godaddy.com/domains/search.aspx?ci=8990
+Updated Date: 2024-08-24T21:36:19Z
+Creation Date: 2024-08-19T21:35:22Z
+Registry Expiry Date: 2025-08-19T21:35:22Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Arizona
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns31.domaincontrol.com
+Name Server: ns32.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:54:55Z <<<
+
+# whois.godaddy.com
+
+Domain Name: pkt.mobi
+Registry Domain ID: 41e921185f30416aa3dad4a44ca72040-DONUTS
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-08-19T21:35:22Z
+Creation Date: 2024-08-19T21:35:22Z
+Registrar Registration Expiration Date: 2025-08-19T21:35:22Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: CR818749967
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.mobi
+Registry Tech ID: CR818749968
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.mobi
+Name Server: NS31.DOMAINCONTROL.COM
+Name Server: NS32.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:54:55Z <<<
+

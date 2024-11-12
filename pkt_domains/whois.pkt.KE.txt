@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.kenic.or.ke
+
+domain:       KE
+
+organisation: Kenya Network Information Center (KeNIC)
+address:      P.O. Box 1461
+address:      Waiyaki Way, CCK Complex
+address:      Nairobi 00606
+address:      Kenya
+
+contact:      administrative
+name:         Andrew Lewela Mwanyota
+organisation: Kenya Network Information Center (KeNIC)
+address:      P.O. Box 1461
+address:      Waiyaki Way, CA Centre
+address:      Nairobi 00606
+address:      Kenya
+phone:        +254 728 518366
+e-mail:       admin@kenic.or.ke
+
+contact:      technical
+name:         Ahmed Landi
+organisation: Kenya Network Information Center (KeNIC)
+address:      P.O. Box 1461
+address:      Waiyaki Way, CCK Complex
+address:      Nairobi 00606
+address:      Kenya
+phone:        +254 704 316 945
+fax-no:       +254 20 4450087
+e-mail:       tech@kenic.or.ke
+
+nserver:      KENIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
+nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 196.13.202.53 198.32.67.9 2001:43f8:10:0:50c0:a8ff:feee:30
+nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
+nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
+ds-rdata:     17597 8 2 4fef0bc48f3d29fb79eea0df695c2e0a3f768fe1c66133c8363909ac972e65d1
+
+whois:        whois.kenic.or.ke
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kenic.or.ke
+
+created:      1993-04-29
+changed:      2024-08-06
+source:       IANA
+
+# whois.kenic.or.ke
+
+Domain Name: PKT.KE
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:51:57.076Z <<<
+

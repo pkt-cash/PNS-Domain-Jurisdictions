@@ -1,0 +1,64 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sn
+
+domain:       SN
+
+organisation: Universite Cheikh Anta Diop
+address:      CURI - NIC SENEGAL
+address:      Campus UCAD 3
+address:      B.P. 5005
+address:      Dakar-Fann
+address:      Senegal
+
+contact:      administrative
+name:         Gestionnaire administratif
+organisation: Centre Universitaire de Recherche et de formations aux technologies Internet (CURI)
+address:      BP 16370
+address:      Dakar-Fann
+address:      Senegal
+phone:        +221 33 8219190
+e-mail:       tldsn-admin@nic.sn
+
+contact:      technical
+name:         Gestionnaire Technique
+organisation: CURI - NIC Senegal
+address:      BP 16370
+address:      Dakar-Fann
+address:      Senegal
+phone:        +221 33 821 91 90
+e-mail:       tldsn-tech@nic.sn
+
+nserver:      DNS-TLD.IRD.FR 13.39.116.127
+nserver:      NS-SN.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      NS.UCAD.SN 196.1.95.1
+nserver:      NS1.SONATEL.SN 213.154.64.11
+nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
+ds-rdata:     17591 13 2 b6dd49f142b2b79e8581db8ab1a9df7e9289bbdd06be3ddbae21673407e60287
+
+whois:        whois.nic.sn
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nicsenegal.sn
+
+created:      1993-03-19
+changed:      2024-09-12
+source:       IANA
+
+# whois.nic.sn
+
+============================================================================
+Whois du Registre .SN
+Les informations fournies par ce service ne sont qu'à titre informatif.
+
+Les données collectées via le formulaire d'enregistrement sont traitées exclusivement à des fins liées au traitement des domaines conformément à la RFC 3912 par le NIC Sénégal.
+
+En application des dispositions de la loi n°2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel, vous pouvez exercer vos droits d'accès, d'opposition, de rectification et de suppression auprès du NIC Sénégal - abuse(at)nic.sn.
+============================================================================
+
+%% NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T09:01:10.946974Z <<<
+

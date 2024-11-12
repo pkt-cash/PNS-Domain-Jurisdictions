@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--4gbrim
+
+domain:       موقع
+domain-ace:   XN--4GBRIM
+
+organisation: Helium TLDs Ltd
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Head of Registry Services
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       info@centralnic.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.XN--4GBRIM 194.169.218.144 2001:67c:13cc:0:0:0:1:144
+nserver:      B.NIC.XN--4GBRIM 185.24.64.144 2a04:2b00:13cc:0:0:0:1:144
+nserver:      C.NIC.XN--4GBRIM 212.18.248.144 2a04:2b00:13ee:0:0:0:0:144
+nserver:      D.NIC.XN--4GBRIM 212.18.249.144 2a04:2b00:13ff:0:0:0:0:144
+ds-rdata:     25097 8 2 123b7c37a9dfd48ded1914c9172ee05865d10e47c0517f40659cb0305ba0d8b3
+ds-rdata:     62231 8 2 c095636f7f327234bd3ae9d0d1fac82d5f1e1ff46cb1fc5ea76628b1430e6dc8
+
+whois:        whois.nic.xn--4gbrim
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotmawqe.com
+
+created:      2014-05-15
+changed:      2023-11-17
+source:       IANA
+
+# whois.nic.xn--4gbrim
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T09:06:53.0Z <<<
+

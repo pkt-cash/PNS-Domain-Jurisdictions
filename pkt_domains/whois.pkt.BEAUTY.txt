@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.beauty
+
+domain:       BEAUTY
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
+nserver:      B.NIC.BEAUTY 185.24.64.119 2a04:2b00:13cc:0:0:0:1:119
+nserver:      C.NIC.BEAUTY 212.18.248.119 2a04:2b00:13ee:0:0:0:0:119
+nserver:      D.NIC.BEAUTY 212.18.249.119 2a04:2b00:13ff:0:0:0:0:119
+ds-rdata:     52406 8 2 c5c45b79dbe67a132237b020f4966fe32fbe61553487e38d47918561568e9957
+ds-rdata:     6827 8 2 76ebfbd30c8ca9a269ae19395256889058390459d1770d6efdd04fdbb7c08b7b
+
+whois:        whois.nic.beauty
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.beauty/
+
+created:      2016-04-07
+changed:      2024-03-01
+source:       IANA
+
+# whois.nic.beauty
+
+Domain Name: PKT.BEAUTY
+Registry Domain ID: D478180236-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2024-08-19T09:42:23.0Z
+Creation Date: 2024-08-12T19:48:43.0Z
+Registry Expiry Date: 2025-08-12T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:41:35.0Z <<<
+
+# whois.namecheap.com
+

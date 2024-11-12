@@ -1,0 +1,168 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.onl
+
+domain:       ONL
+
+organisation: iRegistry GmbH
+address:      Friedrichstr. 171
+address:      Berlin 10117
+address:      Germany
+
+contact:      administrative
+name:         General Manager
+organisation: iRegistry GmbH
+address:      Friedrichstr. 171
+address:      Berlin 10117
+address:      Germany
+phone:        +49 180 5522744
+fax-no:       +49 180 5522944
+e-mail:       registry-onl@i-registry.com
+
+contact:      technical
+name:         Afilias TLD Technical Administrator
+organisation: Afilias Limited
+address:      4th Floor, International House, 3 Harbourmaster Pl., IFSC
+address:      Dublin D01 K8F1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ONL 2a01:8840:86:0:0:0:0:1 65.22.136.1
+nserver:      A2.NIC.ONL 2a01:8840:89:0:0:0:0:1 65.22.139.1
+nserver:      B0.NIC.ONL 2a01:8840:87:0:0:0:0:1 65.22.137.1
+nserver:      C0.NIC.ONL 2a01:8840:88:0:0:0:0:1 65.22.138.1
+ds-rdata:     40711 8 2 2144e3a641835a0f4944a2bab8df4dd9eecc76a76c330690765966c1c81a2d78
+
+whois:        whois.nic.onl
+
+status:       ACTIVE
+remarks:      Registration information: http://www.i-registry.com
+
+created:      2013-12-12
+changed:      2023-08-03
+source:       IANA
+
+# whois.nic.onl
+
+Domain Name: pkt.onl
+Registry Domain ID: 90f55c2d498d4f6bb01ac04d1428e730-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-09-02T14:06:20Z
+Creation Date: 2024-08-28T14:06:13Z
+Registry Expiry Date: 2025-08-28T14:06:13Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IS
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:57:46Z <<<
+
+# whois.namecheap.com
+
+Domain name: PKT.ONL
+Registry Domain ID: 90f55c2d498d4f6bb01ac04d1428e730-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2024-08-28T14:06:13.34Z
+Registrar Registration Expiration Date: 2025-08-28T14:06:13.34Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2 
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 5c9e6f1aedb74825ac6f42c6828846b7.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2 
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 5c9e6f1aedb74825ac6f42c6828846b7.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2 
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 5c9e6f1aedb74825ac6f42c6828846b7.protect@withheldforprivacy.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T00:57:46.85Z <<<
+

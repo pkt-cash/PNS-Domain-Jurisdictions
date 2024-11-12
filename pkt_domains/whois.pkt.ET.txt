@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       ET
+
+organisation: Ethio telecom
+address:      P.O. Box 1047
+address:      W. Churchill Rd.
+address:      Addis Ababa Region 14
+address:      Ethiopia
+
+contact:      administrative
+name:         Chief Information Officer (CIO)
+organisation: Ethio Telecom
+address:      P.O. Box 1047
+address:      W. Churchill Rd.
+address:      Addis Ababa Region 14
+address:      Ethiopia
+phone:        +251 911 208321
+fax-no:       +251 115 53 15 69
+e-mail:       endale.asrat@ethiotelecom.et
+
+contact:      technical
+name:         Value Added Services Operations Manager
+organisation: Ethio Telecom
+address:      P.O. Box 1047
+address:      W. Churchill Rd.
+address:      Addis Ababa Region 14
+address:      Ethiopia
+phone:        +251 911 107398
+fax-no:       +251 115 515777
+e-mail:       senait.mezgebu@ethiotelecom.et
+
+nserver:      A.NIC.ET 197.156.74.192
+nserver:      B.NIC.ET 197.156.74.193
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ethiotelecom.et
+
+created:      1995-10-15
+changed:      2022-06-02
+source:       IANA
+

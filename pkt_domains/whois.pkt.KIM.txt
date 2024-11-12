@@ -1,0 +1,168 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.kim
+
+domain:       KIM
+
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.KIM 2a01:8840:1e:0:0:0:0:1 65.22.28.1
+nserver:      A2.NIC.KIM 2a01:8840:21:0:0:0:0:1 65.22.31.1
+nserver:      B0.NIC.KIM 2a01:8840:1f:0:0:0:0:1 65.22.29.1
+nserver:      C0.NIC.KIM 2a01:8840:20:0:0:0:0:1 65.22.30.1
+ds-rdata:     12277 8 2 ba18a744991a561ab09a464ff96864573db04fd61a29e9d37f7551989e7e5535
+
+whois:        whois.nic.kim
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-19
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.kim
+
+Domain Name: pkt.kim
+Registry Domain ID: d6a9feff72314370b81d5b1d09294442-DONUTS
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: http://www.west.cn
+Updated Date: 2024-05-27T12:59:15Z
+Creation Date: 2024-05-22T12:58:34Z
+Registry Expiry Date: 2025-05-22T12:58:34Z
+Registrar: Chengdu West Dimension Digital Technology Co., Ltd.
+Registrar IANA ID: 1556
+Registrar Abuse Contact Email: abuse@west.cn
+Registrar Abuse Contact Phone: +86.2862778877
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Lei Jin
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Si Chuan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.myhostadmin.net
+Name Server: ns2.myhostadmin.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:52:04Z <<<
+
+# whois.west.cn
+
+Domain Name: pkt.kim                
+Registry Domain ID: 55733565215004
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: www.west.cn
+Updated Date: 2024-05-22T12:58:34.0Z
+Creation Date: 2024-05-22T12:58:34.0Z
+Registrar Registration Expiration Date: 2025-05-22T12:58:34.0Z
+Registrar: Chengdu west dimension digital technology Co., LTD
+Registrar IANA ID: 1556
+Reseller:
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Si Chuan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=pkt.kim
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: link at https://www.west.cn/web/whoisform?domain=pkt.kim
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: link at https://www.west.cn/web/whoisform?domain=pkt.kim
+Name Server: ns1.myhostadmin.net
+Name Server: ns2.myhostadmin.net
+DNSSEC: unsigned
+Registrar Abuse Contact Email: westabuse@gmail.com 
+Registrar Abuse Contact Phone: +86.2862778877
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+>>> Last update of WHOIS database: 2024-10-28T08:52:05.0Z <<<
+

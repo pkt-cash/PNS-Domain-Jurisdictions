@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.yahoo
+
+domain:       YAHOO
+
+organisation: Yahoo Inc.
+address:      701 First Avenue
+address:      Sunnyvale CA 94089
+address:      United States of America (the)
+
+contact:      administrative
+name:         Domain Admin
+organisation: OATH INC
+address:      701 First Avenue
+address:      Sunnyvale CA 94089
+address:      United States of America (the)
+phone:        +1 212 206 4400
+e-mail:       ngtld-oath@cscglobal.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.YAHOO 2a01:8840:6a:0:0:0:0:26 65.22.108.26
+nserver:      V0N1.NIC.YAHOO 2a01:8840:6b:0:0:0:0:26 65.22.109.26
+nserver:      V0N2.NIC.YAHOO 2a01:8840:6c:0:0:0:0:26 65.22.110.26
+nserver:      V0N3.NIC.YAHOO 161.232.32.26 2a01:8840:108:0:0:0:0:26
+nserver:      V2N0.NIC.YAHOO 2a01:8840:6d:0:0:0:0:26 65.22.111.26
+nserver:      V2N1.NIC.YAHOO 161.232.33.26 2a01:8840:109:0:0:0:0:26
+ds-rdata:     64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
+
+whois:        whois.nic.yahoo
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.yahoo
+
+created:      2016-01-29
+changed:      2024-07-25
+source:       IANA
+
+# whois.nic.yahoo
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:09:35Z <<<
+

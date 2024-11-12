@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.mortgage
+
+domain:       MORTGAGE
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.MORTGAGE 2a01:8840:22:0:0:0:0:56 65.22.32.56
+nserver:      V0N1.NIC.MORTGAGE 2a01:8840:23:0:0:0:0:56 65.22.33.56
+nserver:      V0N2.NIC.MORTGAGE 2a01:8840:24:0:0:0:0:56 65.22.34.56
+nserver:      V0N3.NIC.MORTGAGE 161.232.16.56 2a01:8840:fa:0:0:0:0:56
+nserver:      V2N0.NIC.MORTGAGE 2a01:8840:25:0:0:0:0:56 65.22.35.56
+nserver:      V2N1.NIC.MORTGAGE 161.232.17.56 2a01:8840:fb:0:0:0:0:56
+ds-rdata:     32380 8 2 5a2743723615f674dd2633997cfb7d2e89a0db552bf7553b6eb80c449e998049
+
+whois:        whois.nic.mortgage
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-05-22
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.mortgage
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:55:01Z <<<
+

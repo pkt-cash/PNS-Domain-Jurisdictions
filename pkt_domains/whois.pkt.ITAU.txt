@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       ITAU
+
+organisation: Itau Unibanco Holding S.A.
+address:      Praça Alfredo Egydio de Souza Aranha, 100, Torre Conceicao, 1st floor, CEP 04344-902
+address:      São Paulo SP
+address:      Brazil
+
+contact:      administrative
+name:         Diego Mariano de Campos
+organisation: Itau Unibanco Holding S.A.
+address:      Av. Engenheiro Armando de Arruda Pereira, Jabaquara – Torre Eudoro Vilella
+address:      São Paulo SP
+address:      Brazil
+phone:        55.115029-1202
+fax-no:       55.11 5019 1133
+e-mail:       notices@itau-unibanco.com.br
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.ITAU 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ITAU 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ITAU 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
+nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
+nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
+ds-rdata:     20974 8 2 255e44d9c42d417ae07b1b92f8bbd5c856f1347b87948b58dc245dcd58fd59b4
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.itau.com
+
+created:      2015-05-29
+changed:      2024-05-11
+source:       IANA
+

@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.aco
+
+domain:       ACO
+
+organisation: ACO Severin Ahlmann GmbH & Co. KG
+address:      Am Ahlmannkai
+address:      Buedelsdorf Schleswig-Holstein 24782
+address:      Germany
+
+contact:      administrative
+name:         CEO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
+address:      Germany
+phone:        +49 461 5050 35 - 0
+e-mail:       acoregistry@lemarit.com
+
+contact:      technical
+name:         CTO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
+address:      Germany
+phone:        +49 4615050350
+fax-no:       +49 461 50503535
+e-mail:       acoregistry@lemarit.com
+
+nserver:      A.DNS.NIC.ACO 194.0.25.32 2001:678:20:0:0:0:0:32
+nserver:      M.DNS.NIC.ACO 194.0.26.12 2001:67c:10e0:0:0:0:0:12
+nserver:      N.DNS.NIC.ACO 194.0.24.12 2001:678:24:0:0:0:0:12
+ds-rdata:     8201 8 2 e32174a9c6e3e3899cf5e0fe6053d8d9e615e0c2993ca32db589027f03aec0c9
+
+whois:        whois.nic.aco
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aco.com
+
+created:      2015-07-16
+changed:      2022-06-22
+source:       IANA
+
+# whois.nic.aco
+
+The queried object does not exist: domain PKT.ACO

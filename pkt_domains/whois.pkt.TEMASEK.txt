@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.temasek
+
+domain:       TEMASEK
+
+organisation: Temasek Holdings (Private) Limited
+address:      60B Orchard Road
+address:      #06-18 Tower 2
+address:      The Atrium@Orchard
+address:      Singapore 238891
+address:      Singapore
+
+contact:      administrative
+name:         Business Development Executive
+organisation: IP Mirror Pte Ltd
+address:      9 Hongkong Street #01-01
+address:      Singapore 059652
+address:      Singapore
+phone:        +65 6222 0105
+fax-no:       +65 6222 0210
+e-mail:       ngtld-temasek@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.TEMASEK 2a01:8840:8a:0:0:0:0:9 65.22.140.9
+nserver:      A2.NIC.TEMASEK 2a01:8840:8d:0:0:0:0:9 65.22.143.9
+nserver:      B0.NIC.TEMASEK 2a01:8840:8b:0:0:0:0:9 65.22.141.9
+nserver:      C0.NIC.TEMASEK 2a01:8840:8c:0:0:0:0:9 65.22.142.9
+ds-rdata:     35989 8 2 225862860c611d932591e3173ca1ff2a1903716878ee30981ab59e1d179570bb
+
+whois:        whois.nic.temasek
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.temasek.com.sg/nictemasek
+
+created:      2014-12-18
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.temasek
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:02:12Z <<<
+

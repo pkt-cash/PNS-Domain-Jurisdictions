@@ -1,0 +1,169 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fyi
+
+domain:       FYI
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.FYI 2a01:8840:16:0:0:0:0:42 65.22.20.42
+nserver:      V0N1.NIC.FYI 2a01:8840:17:0:0:0:0:42 65.22.21.42
+nserver:      V0N2.NIC.FYI 2a01:8840:18:0:0:0:0:42 65.22.22.42
+nserver:      V0N3.NIC.FYI 161.232.10.42 2a01:8840:f4:0:0:0:0:42
+nserver:      V2N0.NIC.FYI 2a01:8840:19:0:0:0:0:42 65.22.23.42
+nserver:      V2N1.NIC.FYI 161.232.11.42 2a01:8840:f5:0:0:0:0:42
+ds-rdata:     24340 8 2 853f208b5d528007d5b57bb498524364da3a2c43ad48444aae41d3afdb5b5aba
+
+whois:        whois.nic.fyi
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-05-14
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.fyi
+
+Domain Name: pkt.fyi
+Registry Domain ID: 0f0497138d6946f58af83ade3c4bcb30-DONUTS
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: http://www.PublicDomainRegistry.com
+Updated Date: 2023-08-01T18:19:28Z
+Creation Date: 2023-07-27T18:19:01Z
+Registry Expiry Date: 2025-07-27T18:19:01Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2230797500
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: MA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.bluehost.com
+Name Server: ns2.bluehost.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:50:01Z <<<
+
+# whois.PublicDomainRegistry.com
+
+Domain Name: PKT.FYI
+Registry Domain ID: Not Available From Registry
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2023-09-26T12:05:05Z
+Creation Date: 2023-07-27T18:19:01Z
+Registrar Registration Expiration Date: 2025-07-27T18:19:01Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Domain Admin
+Registrant Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Registrant Street: 10 Corporate Drive Note - Visit PrivacyProtect.org  
+Registrant City: Burlington
+Registrant State/Province: MA
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.8022274003
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: contact@privacyprotect.org
+Registry Admin ID: Not Available From Registry
+Admin Name: Domain Admin
+Admin Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Admin Street: 10 Corporate Drive Note - Visit PrivacyProtect.org  
+Admin City: Burlington
+Admin State/Province: MA
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.8022274003
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: contact@privacyprotect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: Domain Admin
+Tech Organization: Privacy Protect, LLC (PrivacyProtect.org)
+Tech Street: 10 Corporate Drive Note - Visit PrivacyProtect.org  
+Tech City: Burlington
+Tech State/Province: MA
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.8022274003
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: contact@privacyprotect.org
+Name Server: ns1.bluehost.com
+Name Server: ns2.bluehost.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:50:01Z <<<
+

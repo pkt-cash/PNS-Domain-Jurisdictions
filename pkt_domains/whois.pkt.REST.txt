@@ -1,0 +1,177 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.rest
+
+domain:       REST
+
+organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
+address:      Mexico
+
+contact:      administrative
+name:         CEO
+organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
+address:      Mexico
+phone:        +52.5585895544
+fax-no:       +52.5552505187
+e-mail:       info@punto2012.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
+
+whois:        whois.nic.rest
+
+status:       ACTIVE
+remarks:      Registration information: http://www.register.rest/
+
+created:      2014-03-06
+changed:      2024-05-22
+source:       IANA
+
+# whois.nic.rest
+
+Domain Name: pkt.rest
+Registry Domain ID: DO_59189bd70356ba43de07f1ff4b24c9cb-PUNTO
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com
+Updated Date: 2024-09-02T14:06:22.992Z
+Creation Date: 2024-08-28T14:06:19.284Z
+Registry Expiry Date: 2025-08-28T14:06:19.284Z
+Registrar: NAMECHEAP
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: support@namecheap.com
+Registrar Abuse Contact Phone: +1.3102593259
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IS
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+>>> Last update of WHOIS database: 2024-10-28T08:58:52.113Z <<<
+
+# whois.namecheap.com
+
+Domain name: PKT.REST
+Registry Domain ID: DO_59189bd70356ba43de07f1ff4b24c9cb-PUNTO
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2024-08-28T14:06:19.28Z
+Registrar Registration Expiration Date: 2025-08-28T14:06:19.28Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2 
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 70c3c09bbcb1497ea67c786d0260ca0a.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2 
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 70c3c09bbcb1497ea67c786d0260ca0a.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2 
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 70c3c09bbcb1497ea67c786d0260ca0a.protect@withheldforprivacy.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-27T11:58:52.51Z <<<
+

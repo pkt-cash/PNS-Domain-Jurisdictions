@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.uniregistry.net
+
+domain:       JUEGOS
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     29108 13 2 a05ce9ac7dd78b8c400aee67a0f85d3aa82b99c07745748021a53bc35e9fc0f3
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2014-05-08
+changed:      2024-05-01
+source:       IANA
+
+# whois.uniregistry.net
+
+>>> Domain pkt.juegos is available for registration
+
+>>> Please visit https://uniregistry.link/accredited-registrars/ for a
+list of accredited registrars
+
+>>> Last update of WHOIS database: 2024-10-28T08:51:54.205Z <<<
+

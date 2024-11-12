@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.gh
+
+domain:       GH
+
+organisation: Network Computer Systems Limited
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
+address:      Accra
+address:      Ghana
+
+contact:      administrative
+name:         Executive Chairman
+organisation: Network Computer Systems Limited
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
+address:      Accra
+address:      Ghana
+phone:        +233289518437
+fax-no:       +233302521696
+e-mail:       quaynor@ghana.com
+
+contact:      technical
+name:         CTO
+organisation: Network Computer Systems Limited
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
+address:      Accra
+address:      Ghana
+phone:        +233289518437
+fax-no:       +233302521696
+e-mail:       tevie@ghana.com
+
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS1.NIC.GH 197.253.95.251
+nserver:      NS2.NIC.GH 197.253.127.251
+
+whois:        whois.nic.gh
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.gh
+
+created:      1995-01-19
+changed:      2023-12-11
+source:       IANA
+
+# whois.nic.gh
+
+Domain Name: pkt.gh
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2024-10-27T19:58:40.599Z <<<
+

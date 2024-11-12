@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       DELL
+
+organisation: Dell Inc.
+address:      1 Dell Way
+address:      Round Rock TX 78682
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director, Consulting & Strategy
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
+phone:        +1-202-223-9252
+fax-no:       +1-202-223-9256
+e-mail:       dellregistry@fairwindspartners.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.DELL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.DELL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.DELL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
+nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
+nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
+ds-rdata:     3580 8 2 44c5f896b1f96a4b5f85385dda8648e5f050d94cf53b244d243caa0877a5a3c0
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dell.com
+
+created:      2015-04-30
+changed:      2024-05-11
+source:       IANA
+

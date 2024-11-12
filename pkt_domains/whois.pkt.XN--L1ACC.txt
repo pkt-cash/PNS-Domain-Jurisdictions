@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       мон
+domain-ace:   XN--L1ACC
+
+organisation: Datacom Co.,Ltd
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street,
+address:      Khan-Uul district
+address:      Ulaanbaatar 17010
+address:      Mongolia
+
+contact:      administrative
+name:         Enkhbat Dangaasuren
+organisation: Datacom Co.,Ltd
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street,
+address:      Khan-Uul district
+address:      Ulaanbaatar 17010
+address:      Mongolia
+phone:        +976 11 311411
+fax-no:       +976 11 320210
+e-mail:       enkhbat@datacom.mn
+
+contact:      technical
+name:         Enkhbold Gombo
+organisation: Datacom Co.,Ltd
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street,
+address:      Khan-Uul district
+address:      Ulaanbaatar 17010
+address:      Mongolia
+phone:        +976 7000 0505
+fax-no:       +976 11 320210
+e-mail:       enkhbold@datacom.mn
+
+nserver:      NS1.IDN.MN 218.100.84.27
+nserver:      NS2.IDN.MN 202.170.80.40
+nserver:      NS3.IDN.MN 180.149.98.78
+ds-rdata:     45112 5 2 1cbba9081b31b12fa98f5b7fee95751bd16676e41a2abc0b25bd0c0031474492
+ds-rdata:     45112 5 1 1f4351261342fc31daa8d5e4f1d4fbf6ee0d9857
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mon.mn/
+
+created:      2012-06-21
+changed:      2023-03-07
+source:       IANA
+

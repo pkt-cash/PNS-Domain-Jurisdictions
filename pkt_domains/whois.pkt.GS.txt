@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.gs
+
+domain:       GS
+
+organisation: Government of South Georgia and South Sandwich Islands (GSGSSI)
+address:      Government House
+address:      Stanley
+address:      Falkland Islands F1QQ 1ZZ
+address:      South Georgia and the South Sandwich Islands
+
+contact:      administrative
+name:         Customer Support and Development Officer
+organisation: Atlantis North Ltd
+address:      556 Strathmartine Road
+address:      Dundee DD3 9ER
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 121 318 6707
+fax-no:       +44 121 318 6707
+e-mail:       helpdesk@nic.gs
+
+contact:      technical
+name:         Technical Director
+organisation: Atlantis North Ltd
+address:      556 Strathmartine Road
+address:      Dundee DD3 9ER
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 121 318 6707
+fax-no:       +44 121 318 6707
+e-mail:       paul.shafi@sgisland.org
+
+nserver:      NS.ANYCAST.NIC.GS 2001:500:14:6021:ad:0:0:1 204.61.216.21
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     23990 8 2 2cbc82da27fdb16662bf359f59df1b63fa0ab720bfc2120f17ba369a3249fc5e
+
+whois:        whois.nic.gs
+
+status:       ACTIVE
+remarks:      Registration information: http://secure.nic.gs
+
+created:      1997-07-31
+changed:      2024-03-20
+source:       IANA
+
+# whois.nic.gs
+
+Domain Name: PKT.GS
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:50:46.433Z <<<
+

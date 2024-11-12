@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.shoes
+
+domain:       SHOES
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.SHOES 2a01:8840:1a:0:0:0:0:23 65.22.24.23
+nserver:      V0N1.NIC.SHOES 2a01:8840:1b:0:0:0:0:23 65.22.25.23
+nserver:      V0N2.NIC.SHOES 2a01:8840:1c:0:0:0:0:23 65.22.26.23
+nserver:      V0N3.NIC.SHOES 161.232.12.23 2a01:8840:f6:0:0:0:0:23
+nserver:      V2N0.NIC.SHOES 2a01:8840:1d:0:0:0:0:23 65.22.27.23
+nserver:      V2N1.NIC.SHOES 161.232.13.23 2a01:8840:f7:0:0:0:0:23
+ds-rdata:     59242 8 2 e6883ee7853289aff66b9090429f6573077638bac3b5a6595b0c16108abfbe9c
+
+whois:        whois.nic.shoes
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-12
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.shoes
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:00:59Z <<<
+

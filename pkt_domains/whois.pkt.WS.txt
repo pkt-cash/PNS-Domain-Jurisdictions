@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.website.ws
+
+domain:       WS
+
+organisation: Government of Samoa Ministry of Foreign Affairs & Trade
+address:      P.O. Box 1861
+address:      Apia
+address:      Samoa
+
+contact:      administrative
+name:         CEO
+organisation: Computer Services Ltd.
+address:      Lotemau Centre
+address:      Apia
+address:      Samoa
+phone:        +685 20926
+fax-no:       +685 20932
+e-mail:       admin.contact@csl.ws
+
+contact:      technical
+name:         CEO
+organisation: Global Domains International
+address:      701 Palomar Airport Road #300
+address:      Carlsbad CA 92011
+address:      United States of America (the)
+phone:        +1 760 602 3000
+fax-no:       +1 760 602 3099
+e-mail:       tech.contact@csl.ws
+
+nserver:      A.DNS.WS 194.146.106.146 2001:67c:1010:37:0:0:0:53
+nserver:      NS2.DNS.WS 64.70.19.80
+nserver:      NS5.DNS.WS 64.70.19.70
+nserver:      S.DNS.WS 2a01:3f0:0:311:0:0:0:53 77.72.229.248
+nserver:      US3.DNS.WS 64.70.78.70
+nserver:      US4.DNS.WS 64.70.78.80
+ds-rdata:     36454 8 2 7db7c8f0faed1ff118c3f081487cec39cec5c89fe647adc1e2d3643d1bc1f77d
+
+whois:        whois.website.ws
+
+status:       ACTIVE
+remarks:      Registration information: http://www.website.ws
+
+created:      1995-07-14
+changed:      2021-05-26
+source:       IANA
+
+# whois.website.ws
+
+The queried object does not exist: pkt.ws.
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T09:06:41Z <<<
+

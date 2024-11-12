@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.dot.cf
+
+domain:       CF
+
+organisation: Societe Centrafricaine de Telecommunications (SOCATEL)
+address:      Rue guerillot
+address:      Bangui BP 939
+address:      Central African Republic (the)
+
+contact:      administrative
+name:         Directeur General
+organisation: Societe Centrafricaine de Telecommunications (SOCATEL)
+address:      Rue guerillot
+address:      Bangui BP 939
+address:      Central African Republic (the)
+phone:        +236 21 61 60 64
+fax-no:       +236 21 61 44 72
+e-mail:       dg-socatel@socatel.cf
+
+contact:      technical
+name:         Manager ICT
+organisation: Centrafrique TLD B.V.
+address:      Danzigerkade 23D
+address:      Amsterdam NH 1013 AP
+address:      Netherlands (the)
+phone:        +31 20 5315726
+fax-no:       +31 20 5315721
+e-mail:       info@centrafriquetld.com
+
+nserver:      A.NS.CF 185.21.168.17 2a04:1b00:4:0:0:0:0:1
+nserver:      B.NS.CF 185.21.169.17 2a04:1b00:5:0:0:0:0:1
+nserver:      C.NS.CF 185.21.170.17 2a04:1b00:6:0:0:0:0:1
+nserver:      D.NS.CF 185.21.171.17 2a04:1b00:7:0:0:0:0:1
+
+whois:        whois.dot.cf
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dot.cf
+
+created:      1996-04-24
+changed:      2015-12-29
+source:       IANA
+
+# whois.dot.cf
+

@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.gdn
+
+domain:       GDN
+
+organisation: Joint Stock Company "Navigation-information systems"
+address:      Building 14th, Office # 107
+address:      Dubai Internet City
+address:      P.O. Box 111230
+address:      Dubai
+address:      United Arab Emirates (the)
+
+contact:      administrative
+name:         Muhammad Kausar Saleem
+organisation: GDN Registry FZ LLC
+address:      Building 14th, Office # 107
+address:      Dubai Internet City
+address:      P.O. Box 111230
+address:      Dubai
+address:      United Arab Emirates (the)
+phone:        +14169980932
+e-mail:       kausar@gdnregistry.com
+
+contact:      technical
+name:         Muhammad Kausar Saleem
+organisation: GDN Registry FZ LLC
+address:      Building 14th, Office # 107
+address:      Dubai Internet City
+address:      P.O. Box 111230
+address:      Dubai
+address:      United Arab Emirates (the)
+phone:        +14169980932
+e-mail:       kausar@gdnregistry.com
+
+nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
+nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
+nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
+ds-rdata:     28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
+ds-rdata:     31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
+
+whois:        whois.nic.gdn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.gdn
+
+created:      2014-12-04
+changed:      2024-05-06
+source:       IANA
+
+# whois.nic.gdn
+
+Domain Not Found

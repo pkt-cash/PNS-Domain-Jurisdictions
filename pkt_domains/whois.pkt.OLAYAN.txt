@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.olayan
+
+domain:       OLAYAN
+
+organisation: Competrol (Luxembourg) Sarl
+address:      25B Boulevard Royal
+address:      Luxembourg L-2449
+address:      Luxembourg
+
+contact:      administrative
+name:         Mr
+organisation: Crescent Holding GmbH
+address:      Opernring - Stiege R top Nr. 709-714
+address:      Vienna 1010
+address:      Austria
+phone:        +44.2077966288
+fax-no:       +44.2077966586
+e-mail:       john.wilks@dlapiper.com
+
+contact:      technical
+name:         Mr Michel Abi Aad
+organisation: Crescent Holding GmbH
+address:      Opernring - Stiege R top Nr. 709-714
+address:      Vienna 1010
+address:      Austria
+phone:        +30.2108913000
+fax-no:       +30.2108913000
+e-mail:       m.abiaad@olayangroup.com
+
+nserver:      A.NIC.OLAYAN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.OLAYAN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.OLAYAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.OLAYAN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.OLAYAN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.OLAYAN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     24340 8 2 84f7ade4991f5338fc9612349a62c456810e645b4af49b77ab8dd029ed8e5cea
+
+whois:        whois.nic.olayan
+
+status:       ACTIVE
+remarks:      Registration information: http://www.olayan.com/
+
+created:      2016-04-21
+changed:      2024-05-31
+source:       IANA
+
+# whois.nic.olayan
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:57:42Z <<<
+

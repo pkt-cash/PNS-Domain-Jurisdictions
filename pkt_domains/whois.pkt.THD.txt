@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.thd
+
+domain:       THD
+
+organisation: Home Depot Product Authority, LLC
+address:      2455 Paces Ferry Road, NW
+address:      Atlanta GA 30339
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Corporate Counsel
+organisation: Home Depot Product Authority, LLC
+address:      2455 Paces Ferry Road, NW
+address:      Atlanta GA 30339
+address:      United States of America (the)
+phone:        +1 770 433 8211
+fax-no:       +1 770 384 2293
+e-mail:       ngtld-thd@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.THD 2a01:8840:ba:0:0:0:0:9 65.22.192.9
+nserver:      A2.NIC.THD 2a01:8840:bd:0:0:0:0:9 65.22.195.9
+nserver:      B0.NIC.THD 2a01:8840:bb:0:0:0:0:9 65.22.193.9
+nserver:      C0.NIC.THD 2a01:8840:bc:0:0:0:0:9 65.22.194.9
+ds-rdata:     16237 8 2 a2b1e70ec2a5831a069b94ccf9b39e547cd9a351055ea87f4b74dd99f7b061e1
+
+whois:        whois.nic.thd
+
+status:       ACTIVE
+remarks:      Registration information: http://www.homedepot.com
+
+created:      2015-05-14
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.thd
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:02:16Z <<<
+

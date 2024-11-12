@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.capetown
+
+domain:       CAPETOWN
+
+organisation: ZA Central Registry NPC trading as ZA Central Registry
+address:      COZA House
+address:      Gazelle Close
+address:      Corporate Park South
+address:      Midrand
+address:      Midrand 1685
+address:      South Africa
+
+contact:      administrative
+name:         Neil Duncan Dundas
+organisation: ZA Central Registry NPC trading as ZA Central Registry
+address:      PO Box 4620
+address:      Halfway House 1685
+address:      South Africa
+phone:        +27113140077
+fax-no:       +27113140088
+e-mail:       icann@registry.net.za
+
+contact:      technical
+name:         Busdev Manager
+organisation: Domain Name Services (Pty) Ltd
+address:      PO Box 4620
+address:      Halfway House 1685
+address:      South Africa
+phone:        +27115682800
+e-mail:       theo@dnservices.co.za
+
+nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
+nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
+ds-rdata:     58120 8 2 0d66710dd001e9120a86952cebb8c21aedd72d5e2ca46f0a40266529e7133107
+
+whois:        whois.nic.capetown
+
+status:       ACTIVE
+remarks:      Registration information: http://registry.net.za
+
+created:      2014-06-05
+changed:      2022-05-16
+source:       IANA
+
+# whois.nic.capetown
+
+Available
+
+No information was found matching that query. This domain may be registered at another registry.
+
+
+>>> Last update of WHOIS database: 2024-10-28T08:44:03Z <<<
+

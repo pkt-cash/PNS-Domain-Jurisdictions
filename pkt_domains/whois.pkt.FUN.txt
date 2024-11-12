@@ -1,0 +1,79 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fun
+
+domain:       FUN
+
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Director
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.FUN 194.169.218.72 2001:67c:13cc:0:0:0:1:72
+nserver:      B.NIC.FUN 185.24.64.72 2a04:2b00:13cc:0:0:0:1:72
+nserver:      E.NIC.FUN 212.18.248.72 2a04:2b00:13ee:0:0:0:0:72
+nserver:      F.NIC.FUN 212.18.249.72 2a04:2b00:13ff:0:0:0:0:72
+ds-rdata:     4594 8 2 58d070a391a5808da071de7234c293b2a4a32006f1ff152ccac45e2ee66c3891
+ds-rdata:     45055 8 2 5e45d3230400b1e80e5e2011e4d03e969fa89254b8a2a483d6f366b17357f957
+
+whois:        whois.nic.fun
+
+status:       ACTIVE
+remarks:      Registration information: https://www.radix.website/
+
+created:      2016-11-30
+changed:      2024-03-11
+source:       IANA
+
+# whois.nic.fun
+
+Domain Name: PKT.FUN
+Registry Domain ID: D65335579-CNIC
+Registrar WHOIS Server: grs-whois.hichina.com
+Registrar URL:
+Updated Date: 2024-05-01T10:33:00.0Z
+Creation Date: 2018-04-08T13:24:59.0Z
+Registry Expiry Date: 2025-04-08T23:59:59.0Z
+Registrar: Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+Registrar IANA ID: 1599
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: PKT COMPANY
+Registrant State/Province: Guang Dong
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: DNS11.HICHINA.COM
+Name Server: DNS12.HICHINA.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domainabuse@service.aliyun.com
+Registrar Abuse Contact Phone: +86.95187
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:49:55.0Z <<<
+
+# grs-whois.hichina.com
+
+Allow only queries : com,net,cc,tv

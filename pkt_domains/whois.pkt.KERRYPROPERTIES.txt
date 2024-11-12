@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.kerryproperties
+
+domain:       KERRYPROPERTIES
+
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+
+contact:      administrative
+name:         Legal Executive
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre
+address:      683 King’s Road
+address:      Quarry Bay
+address:      Hong Kong
+phone:        +852 2525 7211
+fax-no:       +852 2845 9000
+e-mail:       ngtld-kerry4@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.KERRYPROPERTIES 2a01:8840:6e:0:0:0:0:55 65.22.112.55
+nserver:      A2.NIC.KERRYPROPERTIES 2a01:8840:71:0:0:0:0:55 65.22.115.55
+nserver:      B0.NIC.KERRYPROPERTIES 2a01:8840:6f:0:0:0:0:55 65.22.113.55
+nserver:      C0.NIC.KERRYPROPERTIES 2a01:8840:70:0:0:0:0:55 65.22.114.55
+ds-rdata:     48565 8 2 98e8c6905df7915e05a6af4cf38ad9e4bad214dfec3f14d2a62aca1a1a8c53b2
+
+whois:        whois.nic.kerryproperties
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kerryprops.com
+
+created:      2015-12-17
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.kerryproperties
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:59Z <<<
+

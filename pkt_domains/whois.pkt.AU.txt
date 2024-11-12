@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.auda.org.au
+
+domain:       AU
+
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+phone:        + 61 03 8341 4111
+fax-no:       + 61 03 8341 4112
+e-mail:       coo@auda.org.au
+
+contact:      technical
+name:         Chief Technical Officer
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+phone:        +61 (0)3 8341 4111
+fax-no:       +61 (0)3 8341 4112
+e-mail:       auda.iana@auda.org.au
+
+nserver:      A.AU 2407:6e00:254:0:0:0:0:1 58.65.254.1
+nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
+nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
+nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
+nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
+ds-rdata:     51895 8 2 6c7d509bd4df32af255ff847152b7b00316ac0ba44b853b3c9f9c7119aaa599c
+ds-rdata:     1775 8 2 64dfdddd2c68aa5cc67e58cd88f1fbd7804f911aa3d3314cb59539763a0af89f
+
+whois:        whois.auda.org.au
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.auda.org.au/domains/au-domains/
+
+created:      1986-03-05
+changed:      2024-08-08
+source:       IANA
+
+# whois.auda.org.au
+
+Domain Name: pkt.au
+Registry Domain ID: f5a5677a43ee413face5e7b98b2fee00-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://synergywholesale.com/partner-lookup
+Last Modified: 2024-10-24T23:46:31Z
+Registrar Name: Synergy Wholesale Accreditations Pty Ltd
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller Name: 
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Registrant Contact ID: 107c16b6f24b430da40d033382a879e5-AU
+Registrant Contact Name: The Director
+Tech Contact ID: 107c16b6f24b430da40d033382a879e5-AU
+Tech Contact Name: The Director
+Name Server: ns1.parkingcrew.net
+Name Server: ns2.parkingcrew.net
+Name Server: verification-9lsjtsgxkuo9zhc2bkzhmv.ns101.verify.hn
+DNSSEC: unsigned
+Registrant: VPE Pty Ltd
+Registrant ID: ABN 95618027384
+Eligibility Type: Company
+>>> Last update of WHOIS database: 2024-10-28T08:41:11Z <<<
+

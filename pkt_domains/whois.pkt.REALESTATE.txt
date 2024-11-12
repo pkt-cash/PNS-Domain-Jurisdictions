@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.realestate
+
+domain:       REALESTATE
+
+organisation: dotRealEstate LLC
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
+
+contact:      administrative
+name:         F Matthew Embrescia
+organisation: dotRealEstate LLC
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
+phone:        2163611000
+e-mail:       contact@home.realestate
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.REALESTATE 213.248.219.123 2a01:618:403:0:0:0:0:123
+nserver:      DNS2.NIC.REALESTATE 103.49.83.123 2401:fd80:403:0:0:0:0:123
+nserver:      DNS3.NIC.REALESTATE 213.248.223.123 2a01:618:407:0:0:0:0:123
+nserver:      DNS4.NIC.REALESTATE 2401:fd80:407:0:0:0:0:123 43.230.51.123
+nserver:      DNSA.NIC.REALESTATE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.REALESTATE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.REALESTATE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.REALESTATE 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     60815 8 2 9efe92191e0f3f5c0462d0f4fd5283a6227a240d56793adda2a9c654c4840131
+
+whois:        whois.nic.realestate
+
+status:       ACTIVE
+remarks:      Registration information: https://www.get.realtor/
+
+created:      2016-04-28
+changed:      2024-05-09
+source:       IANA
+
+# whois.nic.realestate
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T08:58:39Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.maison
+
+domain:       MAISON
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.MAISON 2a01:8840:1e:0:0:0:0:33 65.22.28.33
+nserver:      V0N1.NIC.MAISON 2a01:8840:1f:0:0:0:0:33 65.22.29.33
+nserver:      V0N2.NIC.MAISON 2a01:8840:20:0:0:0:0:33 65.22.30.33
+nserver:      V0N3.NIC.MAISON 161.232.14.33 2a01:8840:f8:0:0:0:0:33
+nserver:      V2N0.NIC.MAISON 2a01:8840:21:0:0:0:0:33 65.22.31.33
+nserver:      V2N1.NIC.MAISON 161.232.15.33 2a01:8840:f9:0:0:0:0:33
+ds-rdata:     47149 8 2 ae330295e4790375d3e98ac41830036aabb74d3d31b17c391b49d7fd2a4883bb
+
+whois:        whois.nic.maison
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-02-06
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.maison
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:54:12Z <<<
+

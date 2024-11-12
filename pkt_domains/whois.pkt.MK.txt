@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.marnet.mk
+
+domain:       MK
+
+organisation: Macedonian Academic Research Network Skopje
+address:      Blvd. Partizanski Odredi 17
+address:      Skopje 1000
+address:      North Macedonia
+
+contact:      administrative
+name:         Aleksandar Poposki
+organisation: Macedonian Academic And Research Network-MARnet
+address:      Blvd. Partizanski Odredi 17
+address:      Skopje 1000
+address:      North Macedonia
+phone:        +389 2 3256561
+e-mail:       info@marnet.mk
+
+contact:      technical
+name:         Vladislav Bidikov
+organisation: Faculty of Computer Science and Engineering
+address:      "Rugjer Boshkovikj" 16, P.O. Box 393
+address:      Skopje 1000
+address:      North Macedonia
+phone:        +389 23070377
+fax-no:       +389 23088222
+e-mail:       vladislav.bidikov@finki.ukim.mk
+
+nserver:      B.DNS.SI 153.5.81.140 2001:1470:8000:53:0:0:0:44
+nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
+nserver:      MK-E.NS.NIC.CZ 185.43.134.12 2001:148f:fffd:0:0:0:0:12
+nserver:      TLD1.MARNET.MK 194.149.137.168
+
+whois:        whois.marnet.mk
+
+status:       ACTIVE
+remarks:      Registration information: http://marnet.mk/
+
+created:      1993-09-23
+changed:      2024-02-15
+source:       IANA
+
+# whois.marnet.mk
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+
+%ERROR:101: no entries found
+% 
+% No entries found.
+
+

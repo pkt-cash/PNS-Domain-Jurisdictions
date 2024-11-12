@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.orange
+
+domain:       ORANGE
+
+organisation: Orange Brand Services Limited
+address:      3 More London Riverside
+address:      London SE1 2AQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Legal Director, Group Legal Brand Affairs
+organisation: Orange Brand Services Limited
+address:      3 More London Riverside
+address:      London SE1 2AQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0) 207 535 4412
+e-mail:       ngtld-orange@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.ORANGE 2a01:8840:6a:0:0:0:0:16 65.22.108.16
+nserver:      V0N1.NIC.ORANGE 2a01:8840:6b:0:0:0:0:16 65.22.109.16
+nserver:      V0N2.NIC.ORANGE 2a01:8840:6c:0:0:0:0:16 65.22.110.16
+nserver:      V0N3.NIC.ORANGE 161.232.32.16 2a01:8840:108:0:0:0:0:16
+nserver:      V2N0.NIC.ORANGE 2a01:8840:6d:0:0:0:0:16 65.22.111.16
+nserver:      V2N1.NIC.ORANGE 161.232.33.16 2a01:8840:109:0:0:0:0:16
+ds-rdata:     10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
+
+whois:        whois.nic.orange
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-06-18
+changed:      2024-03-31
+source:       IANA
+
+# whois.nic.orange
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:57:49Z <<<
+

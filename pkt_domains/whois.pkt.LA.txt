@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.la
+
+domain:       LA
+
+organisation: Lao National Internet Center (LANIC),
+organisation: Ministry of Technology and Communications
+address:      Lane Xang Avenue, Chanthaboury
+address:      Vientiane 01000
+address:      Lao People's Democratic Republic (the)
+
+contact:      administrative
+name:         Deputy Director General of LANIC
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Technology and Communications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane 10000
+address:      Lao People's Democratic Republic (the)
+phone:        +856 21 254150
+fax-no:       +856 21 254150
+e-mail:       admincontact@lanic.gov.la
+
+contact:      technical
+name:         Director of ccTLD .LA Division
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Technology and Communications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane 10000
+address:      Lao People's Democratic Republic (the)
+phone:        +856 030 5745154
+fax-no:       +856 21 254150
+e-mail:       technicalcontact@lanic.gov.la
+
+nserver:      NS1.NIC.LA 185.24.64.15 2a04:2b00:13cc:0:0:0:1:15
+nserver:      NS2.NIC.LA 194.169.218.14 2001:67c:13cc:0:0:0:1:14
+nserver:      NS3.NIC.LA 185.24.64.14 2a04:2b00:13cc:0:0:0:1:14
+nserver:      NS4.NIC.LA 194.169.218.15 2001:67c:13cc:0:0:0:1:15
+ds-rdata:     42973 7 2 e7d0c3bcdf60e8d842e882d90b4ec263c8889b760098492c798841c13b4ea13f
+ds-rdata:     42973 7 1 1f0cefa420e9101bb5791f3ab93e85917a72978b
+
+whois:        whois.nic.la
+
+status:       ACTIVE
+remarks:      Registration information: http://www.la
+
+created:      1996-05-14
+changed:      2023-03-17
+source:       IANA
+
+# whois.nic.la
+
+The queried object does not exist: previous registration D14592811-LANIC was purged on 2017-04-02T10:47:03.0Z (DOMAIN NOT FOUND)
+
+>>> Last update of WHOIS database: 2024-10-28T08:52:19.0Z <<<
+

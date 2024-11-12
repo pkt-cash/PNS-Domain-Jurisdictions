@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.insure
+
+domain:       INSURE
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.INSURE 2a01:8840:1a:0:0:0:0:53 65.22.24.53
+nserver:      V0N1.NIC.INSURE 2a01:8840:1b:0:0:0:0:53 65.22.25.53
+nserver:      V0N2.NIC.INSURE 2a01:8840:1c:0:0:0:0:53 65.22.26.53
+nserver:      V0N3.NIC.INSURE 161.232.12.53 2a01:8840:f6:0:0:0:0:53
+nserver:      V2N0.NIC.INSURE 2a01:8840:1d:0:0:0:0:53 65.22.27.53
+nserver:      V2N1.NIC.INSURE 161.232.13.53 2a01:8840:f7:0:0:0:0:53
+ds-rdata:     54472 8 2 fbe73379c21c9221115f502eae725983064c91d82af0c293a8c718ccbee36529
+
+whois:        whois.nic.insure
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-04-24
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.insure
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:35Z <<<
+

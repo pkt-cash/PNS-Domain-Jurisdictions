@@ -1,0 +1,78 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.im
+
+domain:       IM
+
+organisation: Isle of Man Government
+address:      Bucks Road
+address:      Douglas Isle of Man IM1
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+
+contact:      administrative
+name:         Brian Osborn
+organisation: Information Systems Division,
+organisation: Isle of Man Government
+address:      St Andrew's House
+address:      Finch Road
+address:      Douglas IM1 3PX
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1624 685685
+e-mail:       imdomainadmin@nic.im
+
+contact:      technical
+name:         Phil Adcock
+organisation: Domicilium (IoM) Ltd
+address:      Isle of Man Datacentre
+address:      Ronaldsway IM9 2RS
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1624 825278
+fax-no:       +44 1624 829525
+e-mail:       padcock@domicilium.com
+
+nserver:      BARNEY.ADVSYS.CO.UK 217.23.160.50
+nserver:      HOPPY.IOM.COM 217.23.163.140
+nserver:      NS4.JA.NET 193.62.157.66 2001:630:0:47:0:0:0:42
+nserver:      PEBBLES.IOM.COM 83.218.14.53
+
+whois:        whois.nic.im
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.im
+
+created:      1996-09-11
+changed:      2018-11-24
+source:       IANA
+
+# whois.nic.im
+
+
+                This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name:	PKT.IM
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 02/12/2025 00:59:56
+Name Server:jake.ns.cloudflare.com.
+Name Server:sandy.ns.cloudflare.com.

@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.volvo
+
+domain:       VOLVO
+
+organisation: Volvo Holding Sverige Aktiebolag
+address:      Avd 980 VHK
+address:      Gothenburg 405 08
+address:      Sweden
+
+contact:      administrative
+name:         Consultant
+organisation: AB Volvo
+address:      Avd 980 VHK
+address:      Gothenburg 405 08
+address:      Sweden
+phone:        +46.31660000
+e-mail:       ngtld-volvo@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.VOLVO 2a01:8840:6e:0:0:0:0:73 65.22.112.73
+nserver:      A2.NIC.VOLVO 2a01:8840:71:0:0:0:0:73 65.22.115.73
+nserver:      B0.NIC.VOLVO 2a01:8840:6f:0:0:0:0:73 65.22.113.73
+nserver:      C0.NIC.VOLVO 2a01:8840:70:0:0:0:0:73 65.22.114.73
+ds-rdata:     3397 8 2 0bb2ad4280d93d2c86cdd0dc7cf335c35b50fee80e6e07c25a061c76a506a006
+
+whois:        whois.nic.volvo
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2016-01-29
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.volvo
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:06:16Z <<<
+

@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.imena.bg
+
+domain:       бг
+domain-ace:   XN--90AE
+
+organisation: Imena.BG AD
+address:      91, Alexander Malinov str, Office 303
+address:      Sofia 1715
+address:      Bulgaria
+
+contact:      administrative
+name:         Dragomir Slavov
+organisation: Imena.BG AD
+address:      91, Alexander Malinov str, Office 303
+address:      Sofia 1715
+address:      Bulgaria
+phone:        +359 2 9037212
+fax-no:       +359 2 9037211
+e-mail:       dhs@digsys.bg
+
+contact:      technical
+name:         Daniel Kalchev
+organisation: Imena.BG AD
+address:      91, Alexander Malinov str, Office 303
+address:      Sofia 1715
+address:      Bulgaria
+phone:        +359 2 9037213
+fax-no:       +359 2 9037211
+e-mail:       daniel@digsys.bg
+
+nserver:      A.NIC.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
+nserver:      B.NIC.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
+nserver:      C.NIC.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
+nserver:      D.NIC.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
+nserver:      E.NIC.BG 185.143.80.1 2a02:6a80:530e:0:0:0:0:1
+nserver:      P.NIC.BG 2001:500:14:6110:ad:0:0:1 204.61.216.110
+ds-rdata:     55126 8 2 0669c2eb01c870dae3ef098917da83562b431531334a531e9814f117557509d7
+
+whois:        whois.imena.bg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.imena.bg
+
+created:      2016-03-05
+changed:      2023-03-07
+source:       IANA
+
+# whois.imena.bg
+
+DOMAIN NAME: pkt.бг (pkt.xn--90ae)
+registration status: invalid

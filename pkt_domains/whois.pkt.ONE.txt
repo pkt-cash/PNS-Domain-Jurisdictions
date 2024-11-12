@@ -1,0 +1,169 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.one
+
+domain:       ONE
+
+organisation: One.com A/S
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+
+contact:      administrative
+name:         Karsten Heimbürger
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       kmj@oneregistry.co
+
+contact:      technical
+name:         Karsten Heimbürger
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen DK-1560
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       operations@oneregistry.co
+
+nserver:      A.NIC.ONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.ONE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.ONE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.ONE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     64939 8 2 32961f5f8cbfc0a1714eb5589e9cb54e83e1340380b5d76ead661d58ea55de9d
+
+whois:        whois.nic.one
+
+status:       ACTIVE
+remarks:      Registration information: http://www.one.com/
+
+created:      2014-12-18
+changed:      2023-12-05
+source:       IANA
+
+# whois.nic.one
+
+Domain Name: pkt.one
+Registry Domain ID: D8802CEFAEA824277A6B2AABAE2ACF33C-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2024-06-09T03:57:10Z
+Creation Date: 2020-04-17T10:17:47Z
+Registry Expiry Date: 2026-04-17T10:17:47Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Arizona
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns43.domaincontrol.com
+Name Server: ns44.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:57:45Z <<<
+
+# whois.godaddy.com
+
+Domain Name: pkt.one
+Registry Domain ID: D8802CEFAEA824277A6B2AABAE2ACF33C-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2023-04-18T11:15:09Z
+Creation Date: 2020-04-17T10:17:47Z
+Registrar Registration Expiration Date: 2026-04-17T10:17:47Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: CR766977753
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.one
+Registry Tech ID: CR766977755
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=pkt.one
+Name Server: NS43.DOMAINCONTROL.COM
+Name Server: NS44.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:57:45Z <<<
+

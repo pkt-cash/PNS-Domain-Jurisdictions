@@ -1,0 +1,91 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.irs.net.nz
+
+domain:       NZ
+
+organisation: InternetNZ
+address:      Level 13
+address:      18 Willis Street
+address:      Wellington Central
+address:      Wellington 6011
+address:      New Zealand
+
+contact:      administrative
+name:         Tumuwhanake | GM Customer and Product
+organisation: InternetNZ
+address:      Level 13
+address:      18 Willis Street
+address:      Wellington Central
+address:      Wellington 6011
+address:      New Zealand
+phone:        +64 21 417 903
+e-mail:       iana@internetnz.net.nz
+
+contact:      technical
+name:         .NZ Operations Manager
+organisation: InternetNZ
+address:      Level 13
+address:      18 Willis Street
+address:      Wellington Central
+address:      Wellington 6011
+address:      New Zealand
+phone:        +64 21 783 399
+e-mail:       ianatech@internetnz.net.nz
+
+nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
+nserver:      NS2.DNS.NET.NZ 2001:dce:7000:2:0:0:0:130 202.46.187.130
+nserver:      NS3.DNS.NET.NZ 2001:dce:d453:0:0:0:0:53 202.46.188.130
+nserver:      NS4.DNS.NET.NZ 2001:dce:d454:0:0:0:0:53 202.46.189.130
+nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
+nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
+nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
+ds-rdata:     63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
+ds-rdata:     934 8 2 9d58f1627c135043f2cb12df20545c53f02f1bb78e7ed562c802084dfb672e2e
+
+whois:        whois.irs.net.nz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dnc.org.nz/
+
+created:      1987-01-19
+changed:      2024-08-06
+source:       IANA
+
+# whois.irs.net.nz
+
+Not found: pkt.nz
+
+% Terms of Use
+%
+% By submitting a WHOIS query you are entering into an agreement with Domain
+% Name Commission Ltd on the following terms and conditions, and subject to
+% all relevant .nz Policies and procedures as found at https://dnc.org.nz/.
+%
+% It is prohibited to:
+% - Send high volume WHOIS queries with the effect of downloading part of or
+%   all of the .nz Register or collecting register data or records;
+% - Access the .nz Register in bulk through the WHOIS service (ie. where a
+%   user is able to access WHOIS data other than by sending individual queries
+%   to the database);
+% - Use WHOIS data to allow, enable, or otherwise support mass unsolicited
+%   commercial advertising, or mass solicitations to registrants or to
+%   undertake market research via direct mail, electronic mail, SMS, telephone
+%   or any other medium;
+% - Use WHOIS data in contravention of any applicable data and privacy laws,
+%   including the Unsolicited Electronic Messages Act 2007;
+% - Store or compile WHOIS data to build up a secondary register of
+%   information;
+% - Publish historical or non-current versions of WHOIS data; and
+% - Publish any WHOIS data in bulk.
+%
+% Copyright Domain Name Commission Limited (a company wholly-owned by Internet
+% New Zealand Incorporated) which may enforce its rights against any person or
+% entity that undertakes any prohibited activity without its written
+% permission.
+%
+% The WHOIS service is provided by Internet New Zealand Incorporated.
+%
+% Additional information may be available at https://www.dnc.org.nz

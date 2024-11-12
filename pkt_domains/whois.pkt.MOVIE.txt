@@ -1,0 +1,208 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.movie
+
+domain:       MOVIE
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.MOVIE 2a01:8840:22:0:0:0:0:26 65.22.32.26
+nserver:      V0N1.NIC.MOVIE 2a01:8840:23:0:0:0:0:26 65.22.33.26
+nserver:      V0N2.NIC.MOVIE 2a01:8840:24:0:0:0:0:26 65.22.34.26
+nserver:      V0N3.NIC.MOVIE 161.232.16.26 2a01:8840:fa:0:0:0:0:26
+nserver:      V2N0.NIC.MOVIE 2a01:8840:25:0:0:0:0:26 65.22.35.26
+nserver:      V2N1.NIC.MOVIE 161.232.17.26 2a01:8840:fb:0:0:0:0:26
+ds-rdata:     391 8 2 0c93d08a6111d49129ac112076adf54b8b8e8975eb6f334372c8ce498664c422
+
+whois:        whois.nic.movie
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-03-12
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.movie
+
+Domain Name: pkt.movie
+Registry Domain ID: e717135c76354cadbef99a09f4f996bf-DONUTS
+Registrar WHOIS Server: whois.registrar.amazon.com
+Registrar URL: http://registrar.amazon.com
+Updated Date: 2024-09-03T01:50:46Z
+Creation Date: 2024-08-29T01:50:26Z
+Registry Expiry Date: 2025-08-29T01:50:26Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Identity Protection Service
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Middlesex
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: GB
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns-1239.awsdns-26.org
+Name Server: ns-230.awsdns-28.com
+Name Server: ns-1722.awsdns-23.co.uk
+Name Server: ns-808.awsdns-37.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:55:05Z <<<
+
+# whois.registrar.amazon.com
+
+Domain Name: pkt.movie
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2024-08-29T02:00:42Z
+Creation Date: 2024-08-29T01:50:26Z
+Registrar Registration Expiration Date: 2025-08-29T01:50:26Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of pkt.movie owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: 2f314bd4-bed3-4894-ab20-52e92687daa2@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of pkt.movie owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: 2f314bd4-bed3-4894-ab20-52e92687daa2@identity-protect.org
+Name Server: NS-1239.AWSDNS-26.ORG
+Name Server: NS-1722.AWSDNS-23.CO.UK
+Name Server: NS-230.AWSDNS-28.COM
+Name Server: NS-808.AWSDNS-37.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:55:06Z <<<
+
+# whois.registrar.amazon
+
+Domain Name: pkt.movie
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2024-08-29T02:00:42Z
+Creation Date: 2024-08-29T01:50:26Z
+Registrar Registration Expiration Date: 2025-08-29T01:50:26Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of pkt.movie owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: 2f314bd4-bed3-4894-ab20-52e92687daa2@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of pkt.movie owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: 2f314bd4-bed3-4894-ab20-52e92687daa2@identity-protect.org
+Name Server: NS-1239.AWSDNS-26.ORG
+Name Server: NS-1722.AWSDNS-23.CO.UK
+Name Server: NS-230.AWSDNS-28.COM
+Name Server: NS-808.AWSDNS-37.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:55:06Z <<<
+

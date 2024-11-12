@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.gp
+
+domain:       GP
+
+organisation: Networking Technologies Group
+address:      Rue de la Chapelle 232
+address:      Z.I. de Jarry
+address:      Baie-Mahault 97122
+address:      Guadeloupe
+
+contact:      administrative
+name:         Patrick Raimond
+organisation: Networking Technologies Group
+address:      Rue de la Chapelle 232
+address:      Z.I. de Jarry
+address:      Baie-Mahault 97122
+address:      Guadeloupe
+phone:        +590590803140
+fax-no:       +590590814261
+e-mail:       patrick.raimond@ntgroup.gp
+
+contact:      technical
+name:         John Broomfield
+organisation: Bull ATOS Caraibes
+address:      24 Lot. Barboux
+address:      Valette
+address:      Sainte-Anne 97180
+address:      Guadeloupe
+phone:        +590 690 002711
+e-mail:       jbroom@nic.gp
+
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2001:67c:e0:0:0:0:0:76
+nserver:      NS-GP.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      NS1.NIC.GP 193.218.114.2
+nserver:      NS2.NIC.GP 193.218.114.34
+
+whois:        whois.nic.gp
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.gp/
+
+created:      1996-10-21
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.gp
+

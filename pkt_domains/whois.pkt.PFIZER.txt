@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       PFIZER
+
+organisation: Pfizer Inc.
+address:      235 East 42nd Street
+address:      New York City NY 10017
+address:      United States of America (the)
+
+contact:      administrative
+name:         Domain Manager
+organisation: Com Laude
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 2074218250
+e-mail:       registry@comlaude.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.PFIZER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.PFIZER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.PFIZER 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
+nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
+nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
+ds-rdata:     56779 8 2 1de9b797ab28f75b9c00723c2308abcaea91bcee49eb2a4470efc123613802c6
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pfizer.com
+
+created:      2016-06-16
+changed:      2024-05-11
+source:       IANA
+

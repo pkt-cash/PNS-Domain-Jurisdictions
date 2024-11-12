@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.blockbuster
+
+domain:       BLOCKBUSTER
+
+organisation: Dish DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director Advanced Video Products
+organisation: DISH DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+phone:        +1.303.723.1000
+fax-no:       +1.303.723.1699
+e-mail:       ngtld-blockbuster@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BLOCKBUSTER 2a01:8840:5a:0:0:0:0:25 65.22.92.25
+nserver:      A2.NIC.BLOCKBUSTER 2a01:8840:5d:0:0:0:0:25 65.22.95.25
+nserver:      B0.NIC.BLOCKBUSTER 2a01:8840:5b:0:0:0:0:25 65.22.93.25
+nserver:      C0.NIC.BLOCKBUSTER 2a01:8840:5c:0:0:0:0:25 65.22.94.25
+ds-rdata:     20059 8 2 7cc46ee5db147183b41bda17ac3a5ce97963064f139e80a7c2b60aa8bd5200e7
+
+whois:        whois.nic.blockbuster
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dish.com/
+
+created:      2016-06-30
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.blockbuster
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:42:09Z <<<
+

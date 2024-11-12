@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.dominio.gq
+
+domain:       GQ
+
+organisation: GETESA
+address:      Calle Rey Boncoro N 219 APDO 494
+address:      Malabo
+address:      Equatorial Guinea
+
+contact:      administrative
+name:         CTO
+organisation: GETESA S.A.
+address:      Calle Rey Boncoro N 219 APDO 494
+address:      Malabo
+address:      Equatorial Guinea
+phone:        +240222100110
+e-mail:       inocencio.ndong@getesa.gq
+
+contact:      technical
+name:         Jefe Departamento Sistemas
+organisation: GETESA S.A.
+address:      Calle Rey Boncoro N 219 APDO 494
+address:      Malabo
+address:      Equatorial Guinea
+phone:        +240222254117
+e-mail:       sabino.nsue@getesa.gq
+
+nserver:      A.NS.GQ 185.21.168.65 2a04:1b00:10:0:0:0:0:1
+nserver:      B.NS.GQ 185.21.169.65 2a04:1b00:11:0:0:0:0:1
+nserver:      C.NS.GQ 185.21.170.65 2a04:1b00:12:0:0:0:0:1
+nserver:      D.NS.GQ 185.21.171.65 2a04:1b00:13:0:0:0:0:1
+
+whois:        whois.dominio.gq
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dominio.gq
+
+created:      1997-07-10
+changed:      2023-08-14
+source:       IANA
+
+# whois.dominio.gq
+
+The domain you requested is not known in Freenoms database.
+
+This TLD has no whois server.

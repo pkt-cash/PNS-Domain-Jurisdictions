@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tatamotors
+
+domain:       TATAMOTORS
+
+organisation: Tata Motors Ltd
+address:      1st Floor
+address:      Service Road, Teen Hath Naka, Thane West
+address:      Thane Maharashtra 400604
+address:      India
+
+contact:      administrative
+name:         General Manager, IT Strategy & Solutions
+organisation: Tata Motors Ltd
+address:      1st Floor
+address:      Service Road, Teen Hath Naka, Thane West
+address:      Thane Maharashtra 400604
+address:      India
+phone:        +91 22 6665 8282
+fax-no:       +91 22 6665 7782
+e-mail:       ngtld-tatamotors@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.TATAMOTORS 2a01:8840:6e:0:0:0:0:69 65.22.112.69
+nserver:      A2.NIC.TATAMOTORS 2a01:8840:71:0:0:0:0:69 65.22.115.69
+nserver:      B0.NIC.TATAMOTORS 2a01:8840:6f:0:0:0:0:69 65.22.113.69
+nserver:      C0.NIC.TATAMOTORS 2a01:8840:70:0:0:0:0:69 65.22.114.69
+ds-rdata:     55006 8 2 038f7fe751b672c38c8a1748d2e8be90c1cb1ff8c35766ec10e0242e0c2fb843
+
+whois:        whois.nic.tatamotors
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-07-16
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.tatamotors
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T09:02:03Z <<<
+

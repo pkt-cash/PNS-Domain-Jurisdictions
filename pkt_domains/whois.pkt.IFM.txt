@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ifm
+
+domain:       IFM
+
+organisation: ifm electronic gmbh
+address:      Friedrichstr. 1
+address:      Essen NRW 45128
+address:      Germany
+
+contact:      administrative
+name:         Teamleader IT Infrastructure Services Network
+organisation: ifm electronic gmbh
+address:      Friedrichstr. 1
+address:      Essen NRW 45128
+address:      Germany
+phone:        +49-201-24220
+fax-no:       +49-201-24221200
+e-mail:       nameservice@ifm.com
+
+contact:      technical
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      Dortmund North Rhine-Westphalia 44227
+address:      Germany
+phone:        +49 231 9703 0
+fax-no:       +49 231 9703 200
+e-mail:       dnsmaster@irondns.net
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     1062 10 2 9f27e38962fe2e8fea42e4ad88f1f90a5a23f6bdb4c8949af772c1430e073745
+
+whois:        whois.nic.ifm
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ifm.com
+
+created:      2015-01-15
+changed:      2022-01-07
+source:       IANA
+
+# whois.nic.ifm
+
+The queried object does not exist: no matching objects found
+>>> Last update of Whois database: 2024-10-28T08:51:24.998Z <<<
+

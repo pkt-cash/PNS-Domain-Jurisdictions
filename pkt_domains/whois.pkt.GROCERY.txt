@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.grocery
+
+domain:       GROCERY
+
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+
+contact:      administrative
+name:         Project and Process Manager
+organisation: Wal-Mart Stores, Inc.
+address:      702 Southwest 8th Street
+address:      Bentonville AR 72716
+address:      United States of America (the)
+phone:        +44 20 70 15 17 17
+e-mail:       ngtld-walmart@cscglobal.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A0.NIC.GROCERY 2a01:8840:6e:0:0:0:0:50 65.22.112.50
+nserver:      A2.NIC.GROCERY 2a01:8840:71:0:0:0:0:50 65.22.115.50
+nserver:      B0.NIC.GROCERY 2a01:8840:6f:0:0:0:0:50 65.22.113.50
+nserver:      C0.NIC.GROCERY 2a01:8840:70:0:0:0:0:50 65.22.114.50
+ds-rdata:     58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
+ds-rdata:     18634 8 2 03d573c990bfb36fce9a9ecebf706b50bc42d96772d9c39c76af617225c02b34
+
+whois:        whois.nic.grocery
+
+status:       ACTIVE
+remarks:      Registration information: http://www.walmart.com
+
+created:      2017-06-08
+changed:      2024-10-25
+source:       IANA
+
+# whois.nic.grocery
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:50:44Z <<<
+

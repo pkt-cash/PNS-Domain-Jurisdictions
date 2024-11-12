@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.krd
+
+domain:       KRD
+
+organisation: KRG Department of Information Technology
+address:      Council of Ministers
+address:      Menarah Street
+address:      Erbil Kurdistan Region 44000
+address:      Iraq
+
+contact:      administrative
+name:         Hiwa Afandi
+organisation: Kurdistan Regional Government
+address:      Council of Ministers
+address:      Menarah Street
+address:      Erbil Kurdistan Region 44000
+address:      Iraq
+phone:        +9647504458604
+fax-no:       +9647504458604
+e-mail:       hiwa.afandi@gov.krd
+
+contact:      technical
+name:         Hiwa Afandi
+organisation: Kurdistan Regional Government
+address:      Council of Ministers
+address:      Menarah Street
+address:      Erbil Kurdistan Region 44000
+address:      Iraq
+phone:        +9647504458604
+fax-no:       +9647504458604
+e-mail:       hiwa.afandi@gov.krd
+
+nserver:      A.NIC.KRD 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.KRD 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.KRD 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.KRD 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.KRD 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.KRD 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     62344 8 2 5a1637513252be2e160bafa8e86c853914d8418598064dc8a9e23a6ca266bedd
+
+whois:        whois.nic.krd
+
+status:       ACTIVE
+remarks:      Registration information: https://dot.krd
+
+created:      2014-07-10
+changed:      2023-12-11
+source:       IANA
+
+# whois.nic.krd
+
+Reserved Domain Name
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:52:15Z <<<
+

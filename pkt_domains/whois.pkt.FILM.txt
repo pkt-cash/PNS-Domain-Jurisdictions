@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.film
+
+domain:       FILM
+
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      169 Domain Rd
+address:      South Yarra VIC 3141
+address:      Australia
+
+contact:      administrative
+name:         Adrian Kinderis
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      P.O. Box 82
+address:      South Yarra VIC 3141
+address:      Australia
+phone:        +61416163791
+e-mail:       info@go.film
+
+contact:      technical
+name:         Adrian Kinderis
+organisation: Motion Picture Domain Registry
+address:      P.O. Box 82
+address:      South Yarra VIC 3141
+address:      Australia
+phone:        +61416163791
+e-mail:       info@go.film
+
+nserver:      A.NIC.FILM 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.FILM 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.FILM 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.FILM 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.FILM 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     40855 8 2 2c6b614b379da71a9822bce8094b4b42d14801c5368b07cb1f6f59af7e750ae8
+
+whois:        whois.nic.film
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.film
+
+created:      2015-02-27
+changed:      2024-01-05
+source:       IANA
+
+# whois.nic.film
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:49:35Z <<<
+

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       المغرب
+domain-ace:   XN--MGBC0A9AZCG
+
+organisation: Agence Nationale de Réglementation des Télécommunications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud, Hay Ryad
+address:      Rabat 10100
+address:      Morocco
+
+contact:      administrative
+name:         General Director of ANRT
+organisation: Agence Nationale de Réglementation des Télécommunications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud, Hay Ryad
+address:      Rabat 10100
+address:      Morocco
+phone:        +212 537 71 86 01
+fax-no:       +212 537 20 38 62
+e-mail:       ma@anrt.ma
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Agence Nationale de Réglementation des Télécommunications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud, Hay Ryad
+address:      Rabat 10100
+address:      Morocco
+phone:        +212 537 71 84 08
+fax-no:       +212 537 20 38 62
+e-mail:       ma@anrt.ma
+
+nserver:      A.TLD.MA 2001:4288:1800:186:0:0:0:3 81.192.171.131 81.192.171.83
+nserver:      B.TLD.MA 2001:4288:1800:186:0:0:0:4 81.192.171.132 81.192.171.84
+nserver:      C.TLD.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
+nserver:      D.TLD.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
+nserver:      E.TLD.MA 105.73.80.236
+nserver:      F.TLD.MA 2c0f:fb20:100:fc:0:0:0:33 41.214.240.4
+nserver:      NS-MA.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registre.ma
+
+created:      2011-02-05
+changed:      2023-03-07
+source:       IANA
+

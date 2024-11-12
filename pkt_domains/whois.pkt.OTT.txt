@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ott
+
+domain:       OTT
+
+organisation: Dish DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director Advanced Video Products
+organisation: DISH DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood CO 80112
+address:      United States of America (the)
+phone:        +1.303.723.1000
+fax-no:       +1.303.723.1699
+e-mail:       ngtld-ott@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.OTT 2a01:8840:5a:0:0:0:0:9 65.22.92.9
+nserver:      A2.NIC.OTT 2a01:8840:5d:0:0:0:0:9 65.22.95.9
+nserver:      B0.NIC.OTT 2a01:8840:5b:0:0:0:0:9 65.22.93.9
+nserver:      C0.NIC.OTT 2a01:8840:5c:0:0:0:0:9 65.22.94.9
+ds-rdata:     39925 8 2 ea35cb20303ca3e610c87e77947bf04693f3e14933c59a60beff384bd0ca0654
+
+whois:        whois.nic.ott
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dish.com
+
+created:      2016-05-19
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.ott
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:57:53Z <<<
+

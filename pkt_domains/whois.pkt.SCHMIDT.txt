@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.schmidt
+
+domain:       SCHMIDT
+
+organisation: SCHMIDT GROUPE S.A.S.
+address:      5, rue Clemenceau
+address:      Liepvre 68660
+address:      France
+
+contact:      administrative
+name:         Project & Process Manager
+organisation: SCHMIDT GROUPE S.A.S.
+address:      5, rue Clemenceau
+address:      Liepvre 68660
+address:      France
+phone:        +442070151717
+e-mail:       ngtld-schmidt@cscglobal.com
+
+contact:      technical
+name:         Project & Process Manager
+organisation: SCHMIDT GROUPE S.A.S.
+address:      5, rue Clemenceau
+address:      Liepvre 68660
+address:      France
+phone:        +442070151717
+e-mail:       ngtld-schmidt@cscglobal.com
+
+nserver:      A.NIC.SCHMIDT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SCHMIDT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SCHMIDT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.SCHMIDT 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SCHMIDT 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SCHMIDT 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     26932 8 2 b073b6b0636b7081aaec30d496a1d18b380031886748277e8ea437c07d9c9a61
+
+whois:        whois.nic.schmidt
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.schmidt/
+
+created:      2014-06-19
+changed:      2023-11-30
+source:       IANA
+
+# whois.nic.schmidt
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:00:41Z <<<
+

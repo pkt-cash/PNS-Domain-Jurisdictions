@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.med
+
+domain:       MED
+
+organisation: Medistry LLC
+address:      3029 Prospect Ave
+address:      Cleveland OH 44115
+address:      United States of America (the)
+
+contact:      administrative
+name:         Ray Fassett
+organisation: Medistry, LLC
+address:      3029 Prospect Ave
+address:      Cleveland OH 44115
+address:      United States of America (the)
+phone:        +1 216-361-1000
+fax-no:       +1 216-588-1558
+e-mail:       ray@goto.jobs
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.MED 213.248.219.124 2a01:618:403:0:0:0:0:124
+nserver:      DNS2.NIC.MED 103.49.83.124 2401:fd80:403:0:0:0:0:124
+nserver:      DNS3.NIC.MED 213.248.223.124 2a01:618:407:0:0:0:0:124
+nserver:      DNS4.NIC.MED 2401:fd80:407:0:0:0:0:124 43.230.51.124
+nserver:      DNSA.NIC.MED 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.MED 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.MED 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.MED 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     36455 8 2 4b9cbec710c3fb2eddc07ae31e75fa59855fb5abcb9ce68a61cb7e490b5831c4
+
+whois:        whois.nic.med
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      2015-11-12
+changed:      2021-11-09
+source:       IANA
+
+# whois.nic.med
+
+This domain name has not been registered.
+
+>>> Last update of WHOIS database: 2024-10-28T08:54:22Z <<<
+

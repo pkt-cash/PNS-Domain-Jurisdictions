@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.date
+
+domain:       DATE
+
+organisation: dot Date Limited
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+
+contact:      administrative
+name:         Edgar Charles Andrew Lavarello
+organisation: Pricewaterhousecoopers Ltd.
+address:      327 Main Street
+address:      Gibraltar  GX11 1AA
+address:      Gibraltar
+phone:        +350 200 73520
+e-mail:       edgar.c.lavarello@gi.pwc.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.DATE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.DATE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.DATE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.DATE 156.154.144.46 2610:a1:1071:0:0:0:0:2e
+nserver:      NS2.DNS.NIC.DATE 156.154.145.46 2610:a1:1072:0:0:0:0:2e
+nserver:      NS3.DNS.NIC.DATE 156.154.159.46 2610:a1:1073:0:0:0:0:2e
+ds-rdata:     17974 8 2 89f996cd425d64fbd8deba987615d4c3d8de899f626643b4bfc6fa7bf8f996e5
+
+whois:        whois.nic.date
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.date
+
+created:      2015-02-05
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.date
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:45:35Z <<<
+

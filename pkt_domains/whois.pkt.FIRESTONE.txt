@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.firestone
+
+domain:       FIRESTONE
+
+organisation: Bridgestone Licensing Services, Inc.
+address:      535 Marriott Drive
+address:      Nashville TN 37214
+address:      United States of America (the)
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     9944 8 2 4ffb2b67bad9d7c6d0def9ec1dc4ac201ef4137364729662e19f329c10801634
+
+whois:        whois.nic.firestone
+
+status:       ACTIVE
+remarks:      Registration information: http://www.firestone.com/
+
+created:      2015-10-29
+changed:      2023-06-20
+source:       IANA
+
+# whois.nic.firestone
+
+The queried object does not exist: DOMAIN NOT FOUND
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:49:38.0Z <<<
+

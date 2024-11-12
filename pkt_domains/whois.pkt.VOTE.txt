@@ -1,0 +1,168 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.vote
+
+domain:       VOTE
+
+organisation: Monolith Registry LLC
+address:      746 East Winchester St
+address:      Salt Lake City UT 84107
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.VOTE 2a01:8840:a2:0:0:0:0:9 65.22.168.9
+nserver:      A2.NIC.VOTE 2a01:8840:a5:0:0:0:0:9 65.22.171.9
+nserver:      B0.NIC.VOTE 2a01:8840:a3:0:0:0:0:9 65.22.169.9
+nserver:      C0.NIC.VOTE 2a01:8840:a4:0:0:0:0:9 65.22.170.9
+ds-rdata:     62749 8 2 101d2ae9c31fbe10078e74d477010aa5c8966d814421123a893b8b0e7b46891a
+
+whois:        whois.nic.vote
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-02-13
+changed:      2023-09-01
+source:       IANA
+
+# whois.nic.vote
+
+Domain Name: pkt.vote
+Registry Domain ID: 19a59e2c1ba04146a3cf819e49a56bd2-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-09-02T14:06:20Z
+Creation Date: 2024-08-28T14:06:13Z
+Registry Expiry Date: 2025-08-28T14:06:13Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Nimble Security, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: VA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:06:17Z <<<
+
+# whois.namecheap.com
+
+Domain name: PKT.VOTE
+Registry Domain ID: 19a59e2c1ba04146a3cf819e49a56bd2-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2024-08-28T14:06:13.30Z
+Registrar Registration Expiration Date: 2025-08-28T14:06:13.30Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: Redacted for Privacy Purposes
+Registrant Name: Redacted for Privacy Purposes
+Registrant Organization: Redacted for Privacy Purposes
+Registrant Street: Redacted for Privacy Purposes
+Registrant City: Redacted for Privacy Purposes
+Registrant State/Province: VA
+Registrant Postal Code: Redacted for Privacy Purposes
+Registrant Country: US
+Registrant Phone: Redacted for Privacy Purposes
+Registrant Phone Ext: Redacted for Privacy Purposes
+Registrant Fax: Redacted for Privacy Purposes
+Registrant Fax Ext: Redacted for Privacy Purposes
+Registrant Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=PKT.VOTE
+Registry Admin ID: Redacted for Privacy Purposes
+Admin Name: Redacted for Privacy Purposes
+Admin Organization: Redacted for Privacy Purposes
+Admin Street: Redacted for Privacy Purposes
+Admin City: Redacted for Privacy Purposes
+Admin State/Province: Redacted for Privacy Purposes
+Admin Postal Code: Redacted for Privacy Purposes
+Admin Country: Redacted for Privacy Purposes
+Admin Phone: Redacted for Privacy Purposes
+Admin Phone Ext: Redacted for Privacy Purposes
+Admin Fax: Redacted for Privacy Purposes
+Admin Fax Ext: Redacted for Privacy Purposes
+Admin Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=PKT.VOTE
+Registry Tech ID: Redacted for Privacy Purposes
+Tech Name: Redacted for Privacy Purposes
+Tech Organization: Redacted for Privacy Purposes
+Tech Street: Redacted for Privacy Purposes
+Tech City: Redacted for Privacy Purposes
+Tech State/Province: Redacted for Privacy Purposes
+Tech Postal Code: Redacted for Privacy Purposes
+Tech Country: Redacted for Privacy Purposes
+Tech Phone: Redacted for Privacy Purposes
+Tech Phone Ext: Redacted for Privacy Purposes
+Tech Fax: Redacted for Privacy Purposes
+Tech Fax Ext: Redacted for Privacy Purposes
+Tech Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=PKT.VOTE
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-27T12:06:17.59Z <<<
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        
+
+domain:       JNJ
+
+organisation: Johnson & Johnson Services, Inc.
+address:      One Johnson & Johnson Plaza
+address:      New Brunswick NJ 08933
+address:      United States of America (the)
+
+contact:      administrative
+name:         Paul Freeman
+organisation: CentralNic
+address:      Saddlers House, 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0) 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.JNJ 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.JNJ 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.JNJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      NS1.DNS.NIC.JNJ 156.154.144.89 2610:a1:1071:0:0:0:0:59
+nserver:      NS2.DNS.NIC.JNJ 156.154.145.89 2610:a1:1072:0:0:0:0:59
+nserver:      NS3.DNS.NIC.JNJ 156.154.159.89 2610:a1:1073:0:0:0:0:59
+ds-rdata:     8032 8 2 5cf2a2dfa2b3a5b5c8b3f42bd42290fe5632dc8720b48286573c4aca21fd8c82
+
+whois:        
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jnj.com/
+
+created:      2016-01-14
+changed:      2024-07-01
+source:       IANA
+

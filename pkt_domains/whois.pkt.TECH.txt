@@ -1,0 +1,136 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tech
+
+domain:       TECH
+
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Director
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.TECH 194.169.218.60 2001:67c:13cc:0:0:0:1:60
+nserver:      B.NIC.TECH 185.24.64.60 2a04:2b00:13cc:0:0:0:1:60
+nserver:      E.NIC.TECH 212.18.248.60 2a04:2b00:13ee:0:0:0:0:60
+nserver:      F.NIC.TECH 212.18.249.60 2a04:2b00:13ff:0:0:0:0:60
+ds-rdata:     50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
+ds-rdata:     28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
+
+whois:        whois.nic.tech
+
+status:       ACTIVE
+remarks:      Registration information: https://radix.website/
+
+created:      2015-03-12
+changed:      2024-02-28
+source:       IANA
+
+# whois.nic.tech
+
+Domain Name: PKT.TECH
+Registry Domain ID: D14445555-CNIC
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: http://www.west.cn
+Updated Date: 2024-01-12T08:17:01.0Z
+Creation Date: 2016-01-11T23:57:50.0Z
+Registry Expiry Date: 2025-01-11T23:59:59.0Z
+Registrar: CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.
+Registrar IANA ID: 1556
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Hong Jiang Yi
+Registrant State/Province: Shang Hai Shi
+Registrant Country: CN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.DAN.COM
+Name Server: NS2.DAN.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@west.cn
+Registrar Abuse Contact Phone: +86.2862778877
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:02:09.0Z <<<
+
+# whois.west.cn
+
+Domain Name: pkt.tech                
+Registry Domain ID: zd63169626432516
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: www.west.cn
+Updated Date: 2016-01-11T23:57:52.0Z
+Creation Date: 2016-01-11T23:57:52.0Z
+Registrar Registration Expiration Date: 2025-01-11T23:57:52.0Z
+Registrar: Chengdu west dimension digital technology Co., LTD
+Registrar IANA ID: 1556
+Reseller:
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Shang Hai Shi
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=pkt.tech
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: link at https://www.west.cn/web/whoisform?domain=pkt.tech
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: link at https://www.west.cn/web/whoisform?domain=pkt.tech
+Name Server: ns1.dan.com
+Name Server: ns2.dan.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: westabuse@gmail.com 
+Registrar Abuse Contact Phone: +86.2862778877
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+>>> Last update of WHOIS database: 2024-10-28T09:02:07.0Z <<<
+

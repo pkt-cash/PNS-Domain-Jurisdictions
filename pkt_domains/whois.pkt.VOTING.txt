@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.voting
+
+domain:       VOTING
+
+organisation: Valuetainment Corp.
+address:      Wigaertlistrasse 7
+address:      Taegerwilen CH-8274
+address:      Switzerland
+
+contact:      administrative
+name:         Chief Executive Officer
+organisation: Valuetainment Corp.
+address:      Wigaertlistrasse 7
+address:      Taegerwilen CH-8274
+address:      Switzerland
+phone:        +41 71 6772020
+fax-no:       +41 71 6772022
+e-mail:       dh@nic.voting
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.VOTING 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.VOTING 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.VOTING 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.VOTING 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.VOTING 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.VOTING 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     20254 8 2 8c2fea117f4531a3dbd045f935e0e412a8bc7546104bc003d5fc4357aa9aeba4
+
+whois:        whois.nic.voting
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.voting
+
+created:      2014-01-16
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.voting
+
+Number of allowed queries exceeded.

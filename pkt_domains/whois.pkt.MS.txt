@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ms
+
+domain:       MS
+
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+
+contact:      administrative
+name:         Director, Marketing and Development
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       info@mninet.ms
+
+contact:      technical
+name:         Chief Technical Officer
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       regsupport@mninet.ms
+
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     50317 8 2 a32757d135853b428cc7825f0bb88fa79f73a2fe497fb4e9f69611cc1687572a
+
+whois:        whois.nic.ms
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ms
+
+created:      1997-03-06
+changed:      2024-04-17
+source:       IANA
+
+# whois.nic.ms
+
+Domain Name: PKT.MS
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:55:08.323Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.reit
+
+domain:       REIT
+
+organisation: National Association of Real Estate Investment Trusts, Inc.
+address:      1875 I ST NW
+address:      Washington DC 20006
+address:      United States of America (the)
+
+contact:      administrative
+name:         VP, Operations
+organisation: National Association of Real Estate Investment Trusts, Inc.
+address:      1875 I ST NW
+address:      Washington DC 20006
+address:      United States of America (the)
+phone:        +1.2027399400
+fax-no:       +1.2027399401
+e-mail:       rootzone@nareit.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
+nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
+nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
+nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
+ds-rdata:     44512 8 2 661fbde636973834f5d417d3897ddf8590461da6f020cfaa4274718dd926c523
+ds-rdata:     51490 8 2 4dd84ee5eaf91cbbd8fddc5ab21382c030860e1fa9bf9d6412d8b4fe5dc9e353
+
+whois:        whois.nic.reit
+
+status:       ACTIVE
+remarks:      Registration information: http://www.reit.com
+
+created:      2014-10-23
+changed:      2023-09-19
+source:       IANA
+
+# whois.nic.reit
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:58:45.0Z <<<
+

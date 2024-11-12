@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.dvr
+
+domain:       DVR
+
+organisation: DISH Technologies L.L.C.
+address:      100 Inverness Terrace East
+address:      Englewood CO 80112
+address:      United States of America (the)
+
+contact:      administrative
+name:         Senior Patent Counsel & Director
+organisation: Hughes Satellite Systems Corporation
+address:      100 Inverness Terrace East
+address:      Englewood CO 80112
+address:      United States of America (the)
+phone:        +1.303.706.4000
+fax-no:       +1.301.428.2818
+e-mail:       ngtld-dvr@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.DVR 2a01:8840:6a:0:0:0:0:17 65.22.108.17
+nserver:      A2.NIC.DVR 2a01:8840:6d:0:0:0:0:17 65.22.111.17
+nserver:      B0.NIC.DVR 2a01:8840:6b:0:0:0:0:17 65.22.109.17
+nserver:      C0.NIC.DVR 2a01:8840:6c:0:0:0:0:17 65.22.110.17
+ds-rdata:     28879 8 2 fe84d723dc95eeee237ed7452871da942fc883f0154cdead6bcfa3a36ef52dc9
+
+whois:        whois.nic.dvr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.echostar.com
+
+created:      2016-09-22
+changed:      2024-04-25
+source:       IANA
+
+# whois.nic.dvr
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:46:27Z <<<
+

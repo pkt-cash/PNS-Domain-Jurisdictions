@@ -1,0 +1,58 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sucks
+
+domain:       SUCKS
+
+organisation: Vox Populi Registry Ltd.
+address:      3-110 Governors Square,
+address:      Seven Mile Beach
+address:      Grand Cayman KY1-1108
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         John Berard
+organisation: Vox Populi Registry Ltd.
+address:      3-110 Governors Square,
+address:      Seven Mile Beach
+address:      Grand Cayman KY1-1108
+address:      Cayman Islands (the)
+phone:        +18299473020
+fax-no:       +61398661970
+e-mail:       support@registry.sucks
+
+contact:      technical
+name:         Rob Hall
+organisation: Momentous Inc
+address:      308 Port St. Charles
+address:      St. Peter BB26013
+address:      Barbados
+phone:        +18299473020
+fax-no:       +61398661970
+e-mail:       support@registry.sucks
+
+nserver:      A.NIC.SUCKS 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SUCKS 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SUCKS 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.SUCKS 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SUCKS 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SUCKS 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     59257 8 2 0eb720a2c0284375766effebd01edd5255397bafcce4a8aaa46f0bf13fca9a5b
+
+whois:        whois.nic.sucks
+
+status:       ACTIVE
+remarks:      Registration information: http://www.voxpopregistry.com
+
+created:      2015-02-19
+changed:      2023-12-07
+source:       IANA
+
+# whois.nic.sucks
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:01:51Z <<<
+

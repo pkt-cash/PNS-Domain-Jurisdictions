@@ -1,0 +1,60 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tg
+
+domain:       TG
+
+organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+address:      4638, Boulevard Général Gnassingbé Eyadema
+address:      Immeuble ARCEP
+address:      BP 358
+address:      Lomé
+address:      Togo
+
+contact:      administrative
+name:         Chief Executive Officer
+organisation: ARCEP
+address:      4638, Boulevard Général Gnassingbé Eyadema
+address:      Immeuble ARCEP
+address:      BP 358
+address:      Lomé
+address:      Togo
+phone:        +22822236380
+fax-no:       +22822236394
+e-mail:       arcep@arcep.tg
+
+contact:      technical
+name:         Chief Executive Officer
+organisation: C.A.F.E. Informatique et Telecommunications
+address:      Cite Maman NDanida, Bld du 30 Août
+address:      Lome 07BP12596
+address:      Togo
+phone:        +22822255555
+fax-no:       +22822256666
+e-mail:       cafe@cafe.tg
+
+nserver:      NS1.ADMIN.NET 198.73.186.1
+nserver:      NS1.NIC.TG 41.207.188.36
+nserver:      NS2.ADMIN.NET 108.61.25.122 2001:19f0:300:1007:0:0:0:cafe
+nserver:      NS2.NIC.TG 80.248.68.12
+nserver:      NS3.ADMIN.NET 2001:41d0:2:8adf:0:0:0:2 87.98.180.44
+nserver:      NS4.ADMIN.NET 103.25.58.26 2406:d501:0:0:0:0:47e3:2a7c
+nserver:      NS5.ADMIN.NET 188.165.33.42 2001:41d0:8:5c79:0:0:0:3
+nserver:      TLD.CAFE.TG 80.248.64.20
+
+whois:        whois.nic.tg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.tg
+
+created:      1996-09-05
+changed:      2021-03-08
+source:       IANA
+
+# whois.nic.tg
+
+domain : syntax error in specified domain name
+required syntax: ^(?:[à-öœù-ýÿßa-zA-Z0-9ء-غف-ي٠-٩](?:[à-öœù-ýÿßa-zA-Z0-9ء-غف-ي٠-٩\-](?!\.)){0,61}[à-öœù-ýÿßa-zA-Z0-9ء-غف-ي٠-٩]?\.)+(tg)$
+

@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.boehringer
+
+domain:       BOEHRINGER
+
+organisation: Boehringer Ingelheim International GmbH
+address:      Binger Strasse 173
+address:      Ingelheim am Rhein Rhineland-Palatinate 55216
+address:      Germany
+
+contact:      administrative
+name:         IPR / Domains
+organisation: Boehringer Ingelheim International GmbH
+address:      Binger Strasse 173
+address:      Ingelheim am Rhein Rhineland-Palatinate 55216
+address:      Germany
+phone:        +496132772378
+fax-no:       +496132774566
+e-mail:       ngtld-boehringer@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BOEHRINGER 2a01:8840:b6:0:0:0:0:17 65.22.188.17
+nserver:      A2.NIC.BOEHRINGER 2a01:8840:b9:0:0:0:0:17 65.22.191.17
+nserver:      B0.NIC.BOEHRINGER 2a01:8840:b7:0:0:0:0:17 65.22.189.17
+nserver:      C0.NIC.BOEHRINGER 2a01:8840:b8:0:0:0:0:17 65.22.190.17
+ds-rdata:     37117 8 2 98508b91e23eef16223b93512b6ffd370f83ced809a7a157a98a8b07be84e0ce
+
+whois:        whois.nic.boehringer
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.boehringer-ingelheim.com/
+
+created:      2015-11-06
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.boehringer
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:42:17Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.rehab
+
+domain:       REHAB
+
+organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.REHAB 2a01:8840:1e:0:0:0:0:61 65.22.28.61
+nserver:      V0N1.NIC.REHAB 2a01:8840:1f:0:0:0:0:61 65.22.29.61
+nserver:      V0N2.NIC.REHAB 2a01:8840:20:0:0:0:0:61 65.22.30.61
+nserver:      V0N3.NIC.REHAB 161.232.14.61 2a01:8840:f8:0:0:0:0:61
+nserver:      V2N0.NIC.REHAB 2a01:8840:21:0:0:0:0:61 65.22.31.61
+nserver:      V2N1.NIC.REHAB 161.232.15.61 2a01:8840:f9:0:0:0:0:61
+ds-rdata:     5731 8 2 d3ba72f70047888faae7f22dead5112c540fa6aac533dcc55d9ee4920de4cca9
+
+whois:        whois.nic.rehab
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-05-29
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.rehab
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:58:44Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.construction
+
+domain:       CONSTRUCTION
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.CONSTRUCTION 2a01:8840:16:0:0:0:0:50 65.22.20.50
+nserver:      V0N1.NIC.CONSTRUCTION 2a01:8840:17:0:0:0:0:50 65.22.21.50
+nserver:      V0N2.NIC.CONSTRUCTION 2a01:8840:18:0:0:0:0:50 65.22.22.50
+nserver:      V0N3.NIC.CONSTRUCTION 161.232.10.50 2a01:8840:f4:0:0:0:0:50
+nserver:      V2N0.NIC.CONSTRUCTION 2a01:8840:19:0:0:0:0:50 65.22.23.50
+nserver:      V2N1.NIC.CONSTRUCTION 161.232.11.50 2a01:8840:f5:0:0:0:0:50
+ds-rdata:     64792 8 2 810c9892ae0cef123c2ab4b09a8bf2547beba98819e21b5698032e9026e5faf7
+
+whois:        whois.nic.construction
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-11-08
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.construction
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:44:56Z <<<
+

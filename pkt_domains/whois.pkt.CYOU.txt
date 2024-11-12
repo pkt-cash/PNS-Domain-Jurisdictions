@@ -1,0 +1,151 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.cyou
+
+domain:       CYOU
+
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg L-1331
+address:      Luxembourg
+
+contact:      administrative
+name:         Lars Jensen
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.CYOU 194.169.218.120 2001:67c:13cc:0:0:0:1:120
+nserver:      B.NIC.CYOU 185.24.64.120 2a04:2b00:13cc:0:0:0:1:120
+nserver:      C.NIC.CYOU 212.18.248.120 2a04:2b00:13ee:0:0:0:0:120
+nserver:      D.NIC.CYOU 212.18.249.120 2a04:2b00:13ff:0:0:0:0:120
+ds-rdata:     19927 13 2 2079b2824eee39ec9ab51f32b199a6bcc68162ca56bd12c2740b8c800fc611c4
+ds-rdata:     14103 13 2 579e60f99fbb5da7942ead76a5f2c5e5c2f7b6e7376d3d76363b6314c660dc28
+
+whois:        whois.nic.cyou
+
+status:       ACTIVE
+remarks:      Registration information: http://cy.changyou.com
+
+created:      2015-03-19
+changed:      2024-06-19
+source:       IANA
+
+# whois.nic.cyou
+
+Domain Name: PKT.CYOU
+Registry Domain ID: D484234950-CNIC
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net/
+Updated Date: 2024-09-06T17:43:50.0Z
+Creation Date: 2024-09-06T17:43:49.0Z
+Registry Expiry Date: 2025-09-06T23:59:59.0Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization:
+Registrant State/Province: WI
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS-11-A.GANDI.NET
+Name Server: NS-99-B.GANDI.NET
+Name Server: NS-187-C.GANDI.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:45:32.0Z <<<
+
+# whois.gandi.net
+
+Domain Name: pkt.cyou
+Registry Domain ID: D484234950-CNIC
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2024-09-06T17:43:52Z
+Creation Date: 2024-09-06T15:43:49Z
+Registrar Registration Expiration Date: 2025-09-06T23:59:59Z
+Registrar: GANDI SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Reseller: 
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Wisconsin
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: eba4296fbcf445abb4becfefd9bdca2f-50166983@contact.gandi.net
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: eba4296fbcf445abb4becfefd9bdca2f-50166983@contact.gandi.net
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: eba4296fbcf445abb4becfefd9bdca2f-50166983@contact.gandi.net
+Name Server: NS-11-A.GANDI.NET
+Name Server: NS-99-B.GANDI.NET
+Name Server: NS-187-C.GANDI.NET
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:45:32Z <<<
+

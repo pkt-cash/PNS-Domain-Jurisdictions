@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.healthcare
+
+domain:       HEALTHCARE
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.HEALTHCARE 2a01:8840:1e:0:0:0:0:15 65.22.28.15
+nserver:      V0N1.NIC.HEALTHCARE 2a01:8840:1f:0:0:0:0:15 65.22.29.15
+nserver:      V0N2.NIC.HEALTHCARE 2a01:8840:20:0:0:0:0:15 65.22.30.15
+nserver:      V0N3.NIC.HEALTHCARE 161.232.14.15 2a01:8840:f8:0:0:0:0:15
+nserver:      V2N0.NIC.HEALTHCARE 2a01:8840:21:0:0:0:0:15 65.22.31.15
+nserver:      V2N1.NIC.HEALTHCARE 161.232.15.15 2a01:8840:f9:0:0:0:0:15
+ds-rdata:     24502 8 2 db68117556c537203b18d94be79836f65ecce06452c5658d16887ba2f0629c58
+
+whois:        whois.nic.healthcare
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2014-07-24
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.healthcare
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:00Z <<<
+

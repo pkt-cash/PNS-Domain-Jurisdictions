@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.uniregistry.net
+
+domain:       LINK
+
+organisation: Nova Registry Ltd.
+address:      136, St. Christopher Street
+address:      Valletta VLT1463
+address:      Malta
+
+contact:      administrative
+name:         Vaughn Liley
+organisation: Nova Registry Ltd
+address:      136, St. Christopher Street
+address:      Valletta VLT1463
+address:      Malta
+phone:        +34 686 084 480
+fax-no:       +34 686 084 480
+e-mail:       vaughn@nova.link
+
+contact:      technical
+name:         Vice President, Engineering
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2014-01-09
+changed:      2024-05-03
+source:       IANA
+
+# whois.uniregistry.net
+
+Domain Name: pkt.link
+
+>>> This name is not available for registration:
+
+>>> This name is reserved by the registry operator
+
+>>> Last update of WHOIS database: 2024-10-28T08:52:39.621Z <<<
+

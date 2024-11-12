@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.aquarelle
+
+domain:       AQUARELLE
+
+organisation: Aquarelle.com
+address:      28 rue Jacques Ibert
+address:      Levallois-Perret 92300
+address:      France
+
+contact:      administrative
+name:         CTO
+organisation: Aquarelle.com
+address:      28 rue Jacques Ibert
+address:      Levallois-Perret 92300
+address:      France
+phone:        +33 140541010
+fax-no:       +33 140541064
+e-mail:       naubin@universalflower.com
+
+contact:      technical
+name:         Head of Registry Engineering
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.AQUARELLE 194.169.218.160 2001:67c:13cc:0:0:0:1:160
+nserver:      B.NIC.AQUARELLE 185.24.64.160 2a04:2b00:13cc:0:0:0:1:160
+nserver:      C.NIC.AQUARELLE 212.18.248.160 2a04:2b00:13ee:0:0:0:0:160
+nserver:      D.NIC.AQUARELLE 212.18.249.160 2a04:2b00:13ff:0:0:0:0:160
+ds-rdata:     22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
+ds-rdata:     23208 13 2 3ce81b2d9619bd2e5ba77ba9005e79c77728f75983b7ef37d1944c0746ad4310
+
+whois:        whois.nic.aquarelle
+
+status:       ACTIVE
+remarks:      Registration information: https://www.aquarelle.com
+
+created:      2014-11-06
+changed:      2024-08-23
+source:       IANA
+
+# whois.nic.aquarelle
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:41:00.0Z <<<
+

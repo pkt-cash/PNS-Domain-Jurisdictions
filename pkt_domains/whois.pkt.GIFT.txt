@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.uniregistry.net
+
+domain:       GIFT
+
+organisation: Uniregistry, Corp.
+address:      Third Floor, Monaco Towers
+address:      George Town Grand Cayman 30369SMB-KY11202
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         Frank Schilling
+organisation: UNR Corp.
+address:      Third Floor, Monaco Towers
+address:      George Town Grand Cayman 30369SMB-KY11202
+address:      Cayman Islands (the)
+phone:        +1 345 746 3687
+fax-no:       +1 345 746 3687
+e-mail:       contact@unr.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     45508 13 2 eea1dc9ae9e1bd91256962bfb0d639c8df881e8c56981b667fffc27daf293a6b
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2014-01-09
+changed:      2024-05-02
+source:       IANA
+
+# whois.uniregistry.net
+
+>>> Domain pkt.gift is available for registration
+
+>>> Please visit https://uniregistry.link/accredited-registrars/ for a
+list of accredited registrars
+
+>>> Last update of WHOIS database: 2024-10-28T08:50:15.592Z <<<
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.moe
+
+domain:       MOE
+
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
+address:      Japan
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
+e-mail:       gtld@interlink.ad.jp
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.MOE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MOE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MOE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.MOE 156.154.144.114 2610:a1:1071:0:0:0:0:72
+nserver:      NS2.DNS.NIC.MOE 156.154.145.114 2610:a1:1072:0:0:0:0:72
+nserver:      NS3.DNS.NIC.MOE 156.154.159.114 2610:a1:1073:0:0:0:0:72
+ds-rdata:     32761 8 2 ea6de3f9a962ab77bb96daf62bec88d0f580fc31799ec36ff7da697de8535af6
+
+whois:        whois.nic.moe
+
+status:       ACTIVE
+remarks:      Registration information: https://get.moe/
+
+created:      2014-03-13
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.moe
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:54:57Z <<<
+

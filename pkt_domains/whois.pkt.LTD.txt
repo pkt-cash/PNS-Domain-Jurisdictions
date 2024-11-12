@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ltd
+
+domain:       LTD
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.LTD 2a01:8840:1e:0:0:0:0:2 65.22.28.2
+nserver:      V0N1.NIC.LTD 2a01:8840:1f:0:0:0:0:2 65.22.29.2
+nserver:      V0N2.NIC.LTD 2a01:8840:20:0:0:0:0:2 65.22.30.2
+nserver:      V0N3.NIC.LTD 161.232.14.2 2a01:8840:f8:0:0:0:0:2
+nserver:      V2N0.NIC.LTD 2a01:8840:21:0:0:0:0:2 65.22.31.2
+nserver:      V2N1.NIC.LTD 161.232.15.2 2a01:8840:f9:0:0:0:0:2
+ds-rdata:     54 8 2 d0f5f5a210d27f70a8912bf81078beeb34dbd370d7f0470d1140b749ac2f3a46
+
+whois:        whois.nic.ltd
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2015-08-06
+changed:      2023-09-12
+source:       IANA
+
+# whois.nic.ltd
+
+This premium domain is available for purchase. To register the domain, please contact premium@identity.digital.
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:52:51Z <<<
+

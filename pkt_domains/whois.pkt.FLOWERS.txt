@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.flowers
+
+domain:       FLOWERS
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.FLOWERS 194.169.218.154 2001:67c:13cc:0:0:0:1:154
+nserver:      B.NIC.FLOWERS 185.24.64.154 2a04:2b00:13cc:0:0:0:1:154
+nserver:      C.NIC.FLOWERS 212.18.248.154 2a04:2b00:13ee:0:0:0:0:154
+nserver:      D.NIC.FLOWERS 212.18.249.154 2a04:2b00:13ff:0:0:0:0:154
+ds-rdata:     10590 13 2 d831e687aafb8d324b01f56658815aa816e56f2e5c2ea0e033421c3da884a4da
+
+whois:        whois.nic.flowers
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.flowers
+
+created:      2014-12-18
+changed:      2024-01-31
+source:       IANA
+
+# whois.nic.flowers
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:49:45.0Z <<<
+

@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.music
+
+domain:       MUSIC
+
+organisation: DotMusic Limited
+address:      19 Mesolongiou Street
+address:      Limassol 3032
+address:      Cyprus
+
+contact:      administrative
+name:         Constantinos Roussos
+organisation: DotMusic Limited
+address:      19 Mesolongiou Street
+address:      Limassol 3032
+address:      Cyprus
+phone:        +1 310 985 8661
+fax-no:       +357 25363193
+e-mail:       costa@music.us
+
+contact:      technical
+name:         Francisco Obispo (CTO)
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.9499033449
+e-mail:       fobispo@tucows.com
+
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     14632 13 2 68f411322e670c84337b2182422af6e8f95c367c24e79cd4326b2276f52f4603
+
+whois:        whois.nic.music
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.music/
+
+created:      2021-10-14
+changed:      2024-10-08
+source:       IANA
+
+# whois.nic.music
+
+Domain Name: pkt.music
+
+>>> This name is not available for registration:
+
+>>> Registry Reserved
+
+>>> Last update of WHOIS database: 2024-10-28T08:55:12.906Z <<<
+

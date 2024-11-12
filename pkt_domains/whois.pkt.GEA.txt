@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.gea
+
+domain:       GEA
+
+organisation: GEA Group Aktiengesellschaft
+address:      Peter-Mueller-Str. 12
+address:      Duesseldorf NRW 40468
+address:      Germany
+
+contact:      administrative
+name:         CEO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
+address:      Germany
+phone:        +49 461 5050 35 0
+e-mail:       gearegistry@lemarit.com
+
+contact:      technical
+name:         CTO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
+address:      Germany
+phone:        +49 4615050350
+fax-no:       +49 461 50503535
+e-mail:       gearegistry@lemarit.com
+
+nserver:      A.DNS.NIC.GEA 194.0.25.33 2001:678:20:0:0:0:0:33
+nserver:      M.DNS.NIC.GEA 194.0.26.13 2001:67c:10e0:0:0:0:0:13
+nserver:      N.DNS.NIC.GEA 194.0.24.13 2001:678:24:0:0:0:0:13
+ds-rdata:     60191 8 2 62049b91e513b7230f960b356c6e70634af960efbfe5ddd4f33741a26b2583f0
+
+whois:        whois.nic.gea
+
+status:       ACTIVE
+remarks:      Registration information: http://www.geagroup.com
+
+created:      2015-07-09
+changed:      2022-06-15
+source:       IANA
+
+# whois.nic.gea
+
+The queried object does not exist: domain PKT.GEA

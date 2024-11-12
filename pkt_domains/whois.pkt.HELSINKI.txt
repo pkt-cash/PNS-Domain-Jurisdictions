@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.helsinki
+
+domain:       HELSINKI
+
+organisation: City of Helsinki
+address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
+address:      Helsinki 00099
+address:      Finland
+
+contact:      administrative
+name:         Päivi Jalava, Product Owner
+organisation: Digitalization Unit, City of Helsinki
+address:      Konepajankatu 8
+address:      Helsinki 00580
+address:      Finland
+phone:        +358 9 3103 8427
+e-mail:       paivi.jalava@hel.fi
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HELSINKI 2a01:8840:d6:0:0:0:0:33 65.22.220.33
+nserver:      A2.NIC.HELSINKI 2a01:8840:d9:0:0:0:0:33 65.22.223.33
+nserver:      B0.NIC.HELSINKI 2a01:8840:d7:0:0:0:0:33 65.22.221.33
+nserver:      C0.NIC.HELSINKI 2a01:8840:d8:0:0:0:0:33 65.22.222.33
+ds-rdata:     31639 8 2 069a71ef4b12265a44802fcf51b4531dc3835f8fbb68874fbf3565144a12770d
+
+whois:        whois.nic.helsinki
+
+status:       ACTIVE
+remarks:      Registration information: http://www.hel.fi
+
+created:      2015-12-10
+changed:      2023-09-25
+source:       IANA
+
+# whois.nic.helsinki
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:51:01Z <<<
+

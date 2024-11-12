@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.kg
+
+domain:       KG
+
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek 720011
+address:      Kyrgyzstan
+
+contact:      administrative
+name:         Glotov Evgenii V.
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek 720011
+address:      Kyrgyzstan
+phone:        +996 312 964488
+fax-no:       +996 312 963434
+e-mail:       support@cctld.kg
+
+contact:      technical
+name:         Sergey D. Piryazev
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek 720011
+address:      Kyrgyzstan
+phone:        +996 312 964488
+fax-no:       +996 312 963434
+e-mail:       admin@cctld.kg
+
+nserver:      KG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.84 2001:67c:e0:0:0:0:0:84
+nserver:      NS.KG 195.38.160.36 2a11:a380:0:0:195:38:160:36
+nserver:      NS2.KG 195.38.160.38 2a11:a380:0:0:195:38:160:38
+ds-rdata:     45982 8 2 d642af8c9bb761e035ce77a48750bbaa64b41cfa0799d8d94498cfa335fa1380
+
+whois:        whois.kg
+
+status:       ACTIVE
+remarks:      Registration information: https://www.cctld.kg/
+
+created:      1995-07-12
+changed:      2023-12-08
+source:       IANA
+
+# whois.kg
+
+% This is the .kg ccTLD Whois server
+% Register your own domain at http://www.cctld.kg
+% Use @cctld_kg_bot telegram bot for whois service
+
+Domain PKT.KG
+
+Data not found. This domain is available for registration.
+

@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.agakhan
+
+domain:       AGAKHAN
+
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      Geneva CH-1202
+address:      Switzerland
+
+contact:      administrative
+name:         Director of Finance
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      Geneva CH-1202
+address:      Switzerland
+phone:        +41 22 909 7200
+fax-no:       +41 22 909 7292
+e-mail:       akftld.agakhan@akdn.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.AGAKHAN 2a01:8840:2a:0:0:0:0:1 65.22.44.1
+nserver:      A2.NIC.AGAKHAN 2a01:8840:2d:0:0:0:0:1 65.22.47.1
+nserver:      B0.NIC.AGAKHAN 2a01:8840:2b:0:0:0:0:1 65.22.45.1
+nserver:      C0.NIC.AGAKHAN 2a01:8840:2c:0:0:0:0:1 65.22.46.1
+ds-rdata:     44761 8 2 4b8c22972dcaa43686d72581c1cb59d1f18d111a24464b8fc3464e52c7200cef
+
+whois:        whois.nic.agakhan
+
+status:       ACTIVE
+remarks:      Registration information: http://www.akdn.org/
+
+created:      2016-03-31
+changed:      2023-08-25
+source:       IANA
+
+# whois.nic.agakhan
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-10-28T08:39:28Z <<<
+

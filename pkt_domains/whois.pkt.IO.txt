@@ -1,0 +1,185 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.io
+
+domain:       IO
+
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+
+contact:      administrative
+name:         Internet Administrator
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+phone:        +246 9398
+fax-no:       +246 9398
+e-mail:       administrator@nic.io
+
+contact:      technical
+name:         Administrator
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
+nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
+nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
+nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+
+whois:        whois.nic.io
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.io/
+
+created:      1997-09-16
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.io
+
+Domain Name: pkt.io
+Registry Domain ID: e0161141b5a446d082737418aa9e3d56-DONUTS
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: https://www.gandi.net
+Updated Date: 2023-11-22T03:15:45Z
+Creation Date: 2014-12-22T00:30:19Z
+Registry Expiry Date: 2024-12-22T00:30:19Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Paris
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: FR
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns-2035.awsdns-62.co.uk
+Name Server: ns-1379.awsdns-44.org
+Name Server: ns-531.awsdns-02.net
+Name Server: ns-202.awsdns-25.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:51:38Z <<<
+
+# whois.gandi.net
+
+Domain Name: pkt.io
+Registry Domain ID: D503300000040365594-LRMS
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2024-10-22T21:37:39Z
+Creation Date: 2014-12-21T23:30:19Z
+Registrar Registration Expiration Date: 2024-12-22T00:30:19Z
+Registrar: GANDI SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Reseller: Amazon Registrar, Inc.
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: 63-65 boulevard Massena
+Registrant City: Paris
+Registrant State/Province: Paris
+Registrant Postal Code: 75013
+Registrant Country: FR
+Registrant Phone: +33.170377666
+Registrant Phone Ext:
+Registrant Fax: +33.143730576
+Registrant Fax Ext:
+Registrant Email: 7448006c83cc844b5280c378e127b3eb-7079063@contact.gandi.net
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: 
+Admin Street: 63-65 boulevard Massena
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 75013
+Admin Country: FR
+Admin Phone: +33.170377666
+Admin Phone Ext:
+Admin Fax: +33.143730576
+Admin Fax Ext:
+Admin Email: 7448006c83cc844b5280c378e127b3eb-7079063@contact.gandi.net
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: 
+Tech Street: 63-65 boulevard Massena
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 75013
+Tech Country: FR
+Tech Phone: +33.170377666
+Tech Phone Ext:
+Tech Fax: +33.143730576
+Tech Fax Ext:
+Tech Email: 7448006c83cc844b5280c378e127b3eb-7079063@contact.gandi.net
+Name Server: NS-2035.AWSDNS-62.CO.UK
+Name Server: NS-202.AWSDNS-25.COM
+Name Server: NS-531.AWSDNS-02.NET
+Name Server: NS-1379.AWSDNS-44.ORG
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T08:51:39Z <<<
+

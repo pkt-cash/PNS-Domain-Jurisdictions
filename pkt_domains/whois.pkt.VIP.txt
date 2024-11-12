@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.vip
+
+domain:       VIP
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.VIP 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.VIP 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.VIP 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.VIP 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.VIP 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.VIP 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     34207 8 2 db3e27d9a9bf7ba3ad1e2a45d5d2b10486670711be8d81f1487b01912f06a47a
+
+whois:        whois.nic.vip
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.vip/
+
+created:      2015-07-30
+changed:      2024-04-17
+source:       IANA
+
+# whois.nic.vip
+
+Number of allowed queries exceeded.

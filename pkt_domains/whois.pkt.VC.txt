@@ -1,0 +1,129 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.identitydigital.services
+
+domain:       VC
+
+organisation: Ministry of Telecommunications, Science, Technology and Industry
+address:      Egmont Street
+address:      Kingstown
+address:      Saint Vincent and the Grenadines
+
+contact:      administrative
+name:         Jacqueline Creese
+organisation: Ministry of Telecommunications, Science, Technology and Industry
+address:      Egmont Street
+address:      Kingstown
+address:      Saint Vincent and the Grenadines
+phone:        +1 784 457 1007
+fax-no:       +1 784 457 2880
+e-mail:       jcreese@gov.vc
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+ds-rdata:     54391 8 2 8e38107261b61499f2e57a72e762ef501798a0462cb69e6afcc9c4a2539e6bff
+
+whois:        whois.identitydigital.services
+
+status:       ACTIVE
+remarks:      Registration information: 
+
+created:      1991-09-03
+changed:      2024-07-09
+source:       IANA
+
+# whois.identitydigital.services
+
+Domain Name: pkt.vc
+Registry Domain ID: c479636a89d349ebb186c96b7bd79861-DONUTS
+Registrar WHOIS Server: whois.name.com
+Registrar URL: http://www.name.com
+Updated Date: 2024-10-22T16:31:50Z
+Creation Date: 2021-11-08T19:16:48Z
+Registry Expiry Date: 2025-11-08T19:16:48Z
+Registrar: Name.com, Inc.
+Registrar IANA ID: 625
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: +1.7203101849
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Domain Protection Services, Inc.
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CO
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1jsv.name.com
+Name Server: ns3bgq.name.com
+Name Server: ns2fgv.name.com
+Name Server: ns4bfy.name.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T09:05:40Z <<<
+
+# whois.name.com
+
+Domain Name: PKT.VC 
+Registry Domain ID: c479636a89d349ebb186c96b7bd79861-DONUTS 
+Registrar WHOIS Server: whois.name.com 
+Registrar URL: http://www.name.com 
+Updated Date: 2024-10-22T16:31:50Z 
+Creation Date: 2021-11-08T19:16:48Z 
+Registrar Registration Expiration Date: 2025-11-08T19:16:48Z 
+Registrar: Name.com, Inc. 
+Registrar IANA ID: 625 
+Reseller:  
+ 
+Please visit https://www.afilias-grs.info/public/whois_search for more info.
+
+
+The data in the Name.com, Inc. WHOIS database is provided by Name.com, Inc. for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Name.com, Inc. does not guarantee its accuracy.  Users accessing the Name.com, Inc. WHOIS service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Name.com, Inc., except as reasonably necessary to register domain names or modify existing registrations. When using the Name.com, Inc. WHOIS service, please consider the following: the WHOIS service is not a replacement for standard EPP commands to the SRS service. WHOIS is not considered authoritative for registered domain objects. The WHOIS service may be scheduled for downtime during production or OT&E maintenance periods. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements.  Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis, for accessing the withheld data. Access to this data can be requested by submitting a request via the form found at [www.name.com/whois-layered-access] Name.com, Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+

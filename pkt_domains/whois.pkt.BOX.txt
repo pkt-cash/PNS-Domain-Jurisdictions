@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.box
+
+domain:       BOX
+
+organisation: Intercap Registry Inc.
+address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
+address:      George Town Grand Cayman KY1-1002
+address:      Cayman Islands (the)
+
+contact:      administrative
+name:         General Manager
+organisation: Intercap Registry Inc.
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
+phone:        +1 833 436 8462
+e-mail:       admin@intercap.inc
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.BOX 194.169.218.139 2001:67c:13cc:0:0:0:1:139
+nserver:      B.NIC.BOX 185.24.64.139 2a04:2b00:13cc:0:0:0:1:139
+nserver:      C.NIC.BOX 212.18.248.139 2a04:2b00:13ee:0:0:0:0:139
+nserver:      D.NIC.BOX 212.18.249.139 2a04:2b00:13ff:0:0:0:0:139
+ds-rdata:     63242 8 2 f63250257503cce60195e71c2e346a2d8bde06dcbd666b9ee4f860d75988702d
+ds-rdata:     62294 8 2 29a911bdbf1fc105d593ea39a619bf1e89cb1bfe73ff70fb7e80b75ab9a7a8b8
+
+whois:        whois.nic.box
+
+status:       ACTIVE
+remarks:      Registration information: https://intercap.inc
+
+created:      2016-10-27
+changed:      2023-11-17
+source:       IANA
+
+# whois.nic.box
+
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2024-10-28T08:43:44.0Z <<<
+

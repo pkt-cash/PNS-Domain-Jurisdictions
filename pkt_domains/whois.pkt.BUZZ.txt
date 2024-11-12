@@ -1,0 +1,118 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.buzz
+
+domain:       BUZZ
+
+organisation: DOTSTRATEGY CO.
+address:      1920 Centennial Club Dr.
+address:      Conway AR 72034
+address:      United States of America (the)
+
+contact:      administrative
+name:         William Doshier
+organisation: dotStrategy, Co
+address:      1920 Centennial Club Dr.
+address:      Conway AR 72034
+address:      United States of America (the)
+phone:        5013529385
+fax-no:       5015683834
+e-mail:       bill@nameshops.com
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.BUZZ 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BUZZ 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BUZZ 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
+nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
+nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
+ds-rdata:     60340 8 2 fba59e35952704ae0656bc122aec20528c8d49600e314e8bdf0ae00ce8c336b7
+
+whois:        whois.nic.buzz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.buzznames.biz
+
+created:      2013-12-12
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.buzz
+
+Domain Name: pkt.buzz
+Registry Domain ID: DBF79410494834BE0884098B7A80DA3EE-GDREG
+Registrar WHOIS Server: https://porkbun.com/whois
+Registrar URL: www.porkbun.com
+Updated Date: 2024-02-22T18:26:09Z
+Creation Date: 2024-02-17T18:26:09Z
+Registry Expiry Date: 2025-02-17T18:26:09Z
+Registrar: Porkbun
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: abuse@porkbun.com
+Registrar Abuse Contact Phone: +1.5038508351
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Private by Design, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NC
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: curitiba.ns.porkbun.com
+Name Server: salvador.ns.porkbun.com
+Name Server: fortaleza.ns.porkbun.com
+Name Server: maceio.ns.porkbun.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:43:54Z <<<
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.wien
+
+domain:       WIEN
+
+organisation: punkt.wien GmbH
+address:      Schoenbrunner Strasse 231
+address:      Vienna 1120
+address:      Austria
+
+contact:      administrative
+name:         Ronald Schwaerzler
+organisation: punkt.wien GmbH
+address:      Schoenbrunner Strasse 231
+address:      Vienna 1120
+address:      Austria
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       ronald.schwaerzler@nic.wien
+
+contact:      technical
+name:         Technical Operations
+organisation: RyCE GmbH
+address:      Schoenbrunner Strasse 231
+address:      Vienna 1120
+address:      Austria
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       tech@dns.business
+
+nserver:      DNS.RYCE-RSP.COM 194.0.11.114 2001:678:e:114:0:0:0:53
+nserver:      NS1.DNS.BUSINESS 157.90.205.138 2a01:4f8:252:4295:0:0:9d5a:cd8a
+nserver:      NS1.RYCE-RSP.COM 193.56.204.111 2a0c:8f40:0:701:0:0:0:111
+ds-rdata:     57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875d5cf44c7
+
+whois:        whois.nic.wien
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.wien
+
+created:      2013-12-19
+changed:      2021-03-11
+source:       IANA
+
+# whois.nic.wien
+
+Backend server problems ()

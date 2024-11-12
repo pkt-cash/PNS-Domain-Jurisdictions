@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ml
+
+domain:       ML
+
+organisation: Agence des Technologies de l’Information et de la Communication
+address:      ACI 2000 Hamdallaye,
+address:      BP E 5467
+address:      Bamako
+address:      Mali
+
+contact:      administrative
+name:         Chef Service Gestion du .ml
+organisation: Agence des Technologies de l’Information et de la Communication
+address:      ACI 2000 Hamdallaye,
+address:      BP E 5467
+address:      Bamako
+address:      Mali
+phone:        +223 77 28 52 51
+fax-no:       +223 20 29 94 13
+e-mail:       ml@agetic.gouv.ml
+
+contact:      technical
+name:         Adama TRAORE
+organisation: Agence des Technologies de l'Information et de la Communication
+address:      Hamdallaye ACI 2000, cour Bibliothèque Nationale
+address:      Bamako Mali BPE 5467
+address:      Mali
+phone:        +223 20 23 04 04
+e-mail:       dotml@agetic.gouv.ml
+
+nserver:      A.NIC.ML 196.10.220.136
+nserver:      B.NIC.ML 165.90.218.166 2c0f:f900:2:3:0:0:0:2
+nserver:      C.NIC.ML 2001:500:14:6144:ad:0:0:1 204.61.216.144
+nserver:      D.NIC.ML 196.216.168.37 2001:43f8:120:0:0:0:0:37
+
+whois:        whois.nic.ml
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ml
+
+created:      1993-09-29
+changed:      2023-09-19
+source:       IANA
+
+# whois.nic.ml
+
+Domain Name: PKT.ML
+Domain Status: No Object Found
+Notes: This server is not authoritative for the TLD or Zone you are looking for
+>>> Last update of WHOIS database: 2024-10-28T08:54:50.447Z <<<
+

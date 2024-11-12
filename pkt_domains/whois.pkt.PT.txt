@@ -1,0 +1,75 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.dns.pt
+
+domain:       PT
+
+organisation: Associação DNS.PT
+address:      Rua Eça de Queiroz, 29
+address:      Lisboa 1050-095
+address:      Portugal
+
+contact:      administrative
+name:         Luisa Ribeiro Lopes
+organisation: Associação DNS.PT
+address:      Rua Eça de Queiroz, 29
+address:      Lisboa 1050-095
+address:      Portugal
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
+e-mail:       luisa@dns.pt
+
+contact:      technical
+name:         Assis Guerreiro
+organisation: Associação DNS.PT
+address:      Rua Eça de Queiroz, 29
+address:      Lisboa 1050-095
+address:      Portugal
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
+e-mail:       assis.guerreiro@dns.pt
+
+nserver:      A.DNS.PT 185.39.208.1 2a04:6d80:0:0:0:0:0:1
+nserver:      B.DNS.PT 194.0.25.23 2001:678:20:0:0:0:0:23
+nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
+nserver:      D.DNS.PT 185.39.210.1 2a04:6d82:0:0:0:0:0:1
+nserver:      E.DNS.PT 193.136.192.64 2001:690:a00:4001:0:0:0:64
+nserver:      G.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
+nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+ds-rdata:     40155 13 2 b0ed28b7255e9880e7ce4665b75ae7271f7837899057f0d4b897ece2eb1eb494
+
+whois:        whois.dns.pt
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dns.pt/
+
+created:      1988-06-30
+changed:      2023-08-02
+source:       IANA
+
+# whois.dns.pt
+
+Domain: pkt.pt
+Domain Status: Registered
+Creation Date: 26/04/2024 09:16:18
+Expiration Date: 26/04/2025 09:16:18
+Owner Name: 
+Owner Address: 
+Owner Locality: 
+Owner ZipCode: 
+Owner Locality ZipCode: 
+Owner Country Code: 
+Owner Email: 
+Admin Name: Dream Fusion - IT Services, Lda
+Admin Address: Rua João Paulo II  Nº165, Loja AC, CX35
+Admin Locality: Barcelos
+Admin ZipCode: 4750-177
+Admin Locality ZipCode: BARCELOS
+Admin Country Code: PT
+Admin Email: dominios@webtuga.pt
+Name Server: ns1.leitecastro.com | IPv4:  and IPv6: 
+Name Server: ns1.castrotelecom.net | IPv4:  and IPv6: 

@@ -1,0 +1,75 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--kput3i
+
+domain:       手机
+domain-ace:   XN--KPUT3I
+
+organisation: Beijing RITT-Net Technology Development Co., Ltd
+address:      Building 13, Yard 1, Baosheng South Road,
+address:      Haidian District
+address:      Beijing 100083
+address:      China
+
+contact:      administrative
+name:         V P
+organisation: Beijing RITT-Net Technology Development Co., Ltd
+address:      Building 13, Yard 1, Baosheng South Road,
+address:      Haidian District
+address:      Beijing 100083
+address:      China
+phone:        +86.1082512114
+fax-no:       +86.1082512114
+e-mail:       contact@rntd.cn
+
+contact:      technical
+name:         Chief Engineer
+address:      Building 13, Yard 1, Baosheng South Road
+address:      Haidian District
+address:      Beijing 100083
+address:      China
+phone:        +86.1082512114
+fax-no:       +86.1082512114
+e-mail:       contact@rntd.cn
+
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
+ds-rdata:     27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
+
+whois:        whois.nic.xn--kput3i
+
+status:       ACTIVE
+remarks:      Registration information: http://www.rntd.cn
+
+created:      2014-06-05
+changed:      2023-01-19
+source:       IANA
+
+# whois.nic.xn--kput3i
+
+Internationalized Domain Name: pkt.手机
+No matching record.
+
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE:The data contained in Beijing Tele-info Network
+Technology Co.  LTD's("TELE-INFO") WhoIs database is provided for the
+sole purpose of assisting you in obtaining information about or
+related to a domain name registration record.  TELE-INFO provides the
+data in accordance with the registration record, but does not
+guarantee its accuracy.  By submitting a WHOIS query, you agree that
+you will use this Data only for lawful purposes and that, under no
+circumstances will you: (1) use electronic processes that are
+automated and high-volume to access or query the Whois database;
+(2)support the transmission of mass unsolicited, commercial
+advertising or solicitations via facsimile, e-mail and telephone.
+Without the prior written consent of TELE-INFO, the compilation,
+repackaging and dissemination of this Data is expressly prohibited.
+TELE-INFO reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy.
+

@@ -1,0 +1,170 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.company
+
+domain:       COMPANY
+
+organisation: Binky Moon, LLC
+address:      c/o Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+
+contact:      administrative
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      V0N0.NIC.COMPANY 2a01:8840:1a:0:0:0:0:36 65.22.24.36
+nserver:      V0N1.NIC.COMPANY 2a01:8840:1b:0:0:0:0:36 65.22.25.36
+nserver:      V0N2.NIC.COMPANY 2a01:8840:1c:0:0:0:0:36 65.22.26.36
+nserver:      V0N3.NIC.COMPANY 161.232.12.36 2a01:8840:f6:0:0:0:0:36
+nserver:      V2N0.NIC.COMPANY 2a01:8840:1d:0:0:0:0:36 65.22.27.36
+nserver:      V2N1.NIC.COMPANY 161.232.13.36 2a01:8840:f7:0:0:0:0:36
+ds-rdata:     11266 8 2 ca9ea07e5ef40b031c8b7ce22d30076665054333b8d56b2979c481df8cb5f983
+
+whois:        whois.nic.company
+
+status:       ACTIVE
+remarks:      Registration information: https://www.identity.digital/
+
+created:      2013-12-12
+changed:      2023-09-13
+source:       IANA
+
+# whois.nic.company
+
+Domain Name: pkt.company
+Registry Domain ID: 8127a88073274be5b600dae209588262-DONUTS
+Registrar WHOIS Server: whois.regtons.com
+Registrar URL: http://regtons.com
+Updated Date: 2024-06-09T07:07:05Z
+Creation Date: 2023-06-12T09:41:04Z
+Registry Expiry Date: 2025-06-12T09:41:04Z
+Registrar: Gransy, s.r.o.
+Registrar IANA ID: 1505
+Registrar Abuse Contact Email: abuse@regtons.com
+Registrar Abuse Contact Phone: +420.732954549
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: PKT Company, s.r.o.
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: SK
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns12.wixdns.net
+Name Server: ns13.wixdns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:44:52Z <<<
+
+# whois.regtons.com
+
+
+Domain Name: pkt.company
+Registry Domain ID: 8127a88073274be5b600dae209588262-DONUTS
+Registrar WHOIS Server: whois.regtons.com
+Registrar URL: http://regtons.com
+Updated Date: 2024-06-09T00:00:00Z
+Creation Date: 2023-06-12T00:00:00Z
+Registrar Registration Expiration Date: 2025-06-12T00:00:00Z
+Registrar: GRANSY S.R.O D/B/A SUBREG.CZ
+Registrar IANA ID: 1505
+Registrar Abuse Contact Email: abuse@regtons.com
+Registrar Abuse Contact Phone: +420.734463373
+Reseller: WebSupport s.r.o.
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: Not Disclosed
+Registrant Name: Not Disclosed Not Disclosed
+Registrant Organization: PKT Company, s.r.o.
+Registrant Street: Not Disclosed
+Registrant City: Not Disclosed
+Registrant State/Province: 
+Registrant Postal Code: Not Disclosed
+Registrant Country: SK
+Registrant Phone: Not Disclosed
+Registrant Phone Ext: Not Disclosed
+Registrant Fax: Not Disclosed
+Registrant Fax Ext:  Not Disclosed
+Registrant Email: webproxy@whoisprotection.domains
+Registry Admin ID: Not Disclosed
+Admin Name: Not Disclosed Not Disclosed
+Admin Organization: 
+Admin Street: Not Disclosed
+Admin City: Not Disclosed
+Admin State/Province: Not Disclosed
+Admin Postal Code: Not Disclosed
+Admin Country: Not Disclosed
+Admin Phone: Not Disclosed
+Admin Phone Ext: Not Disclosed
+Admin Fax: Not Disclosed
+Admin Fax Ext:  Not Disclosed
+Admin Email: webproxy@whoisprotection.domains
+Registry Tech ID: Not Disclosed
+Tech Name: Not Disclosed Not Disclosed
+Tech Organization: 
+Tech Street: Not Disclosed
+Tech City: Not Disclosed
+Tech State/Province: Not Disclosed
+Tech Postal Code: Not Disclosed
+Tech Country: Not Disclosed
+Tech Phone: Not Disclosed
+Tech Phone Ext: Not Disclosed
+Tech Fax: Not Disclosed
+Tech Fax Ext:  Not Disclosed
+Tech Email: webproxy@whoisprotection.domains
+Name Server: ns12.wixdns.net
+Name Server: ns13.wixdns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-10-28T00:00:00Z <<<

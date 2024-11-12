@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.rugby
+
+domain:       RUGBY
+
+organisation: World Rugby Strategic Developments Limited
+address:      World Rugby House
+address:      8-10 Pembroke Street
+address:      Dublin Dublin 2
+address:      Ireland
+
+contact:      administrative
+name:         Ryan Nelsen
+organisation: World Rugby Strategic Developments Limited
+address:      World Rugby House
+address:      8-10 Pembroke Street
+address:      Dublin Dublin 2
+address:      Ireland
+phone:        +1.9292946005
+e-mail:       primary@rugbydomains.co
+
+contact:      technical
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
+
+nserver:      A.NIC.RUGBY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.RUGBY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.RUGBY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.RUGBY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.RUGBY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.RUGBY 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     30334 8 2 ab547a2f87369f8141bc75216586a4ba1e1d9ed416660aa5d46a8c243061e53d
+
+whois:        whois.nic.rugby
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.rugby/
+
+created:      2017-03-23
+changed:      2024-05-11
+source:       IANA
+
+# whois.nic.rugby
+
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-10-28T08:59:03Z <<<
+
