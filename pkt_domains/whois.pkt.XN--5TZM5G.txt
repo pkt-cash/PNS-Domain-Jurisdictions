@@ -53,5 +53,5 @@ source:       IANA
 # whois.nic.xn--5tzm5g
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:06:57Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:24Z <<<
 

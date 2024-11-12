@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.weber
 
 No match for "PKT.WEBER".
->>> Last update of WHOIS database: 2024-10-28T09:06:10Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:35Z <<<
 

@@ -106,7 +106,67 @@ Name Server: doug.ns.cloudflare.com
 Name Server: virginia.ns.cloudflare.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:57:29Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:51Z <<<
 
 # whois.ionos.com
+
+Domain Name: pkt.ninja
+Registry Domain ID: 508de884429d450ebef75efa8a2ffbdc-donuts
+Registrar WHOIS Server: whois.ionos.com
+Registrar URL: http://ionos.com
+Updated Date: 2021-01-20T15:17:45.346Z
+Creation Date: 2015-11-23T16:20:53.042Z
+Registrar Registration Expiration Date: 2024-11-23T16:20:53.042Z
+Registrar: IONOS SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@ionos.com
+Registrar Abuse Contact Phone: +1.8774612631
+Reseller: 
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: ON
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CA
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: dataprivacyprotected@ionos.de
+Registry Admin ID: REDACTED FOR PRIVACY 
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: dataprivacyprotected@ionos.de
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: dataprivacyprotected@ionos.de
+Nameserver: doug.ns.cloudflare.com
+Nameserver: virginia.ns.cloudflare.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+>>> Last update of WHOIS database: 2024-11-12T15:05:51Z <<<
 

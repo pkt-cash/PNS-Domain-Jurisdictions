@@ -109,68 +109,7 @@ Name Server: ns4.he.net
 Name Server: ns5.he.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:02:19Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:31Z <<<
 
 # whois.namecheap.com
-
-Domain name: PKT.TIPS
-Registry Domain ID: 4ca06dff96344880a1db2065a7b9095f-DONUTS
-Registrar WHOIS Server: whois.namecheap.com
-Registrar URL: http://www.namecheap.com
-Updated Date: 2024-03-16T05:15:29.35Z
-Creation Date: 2022-03-16T20:32:50.26Z
-Registrar Registration Expiration Date: 2025-03-16T20:32:50.26Z
-Registrar: NAMECHEAP INC
-Registrar IANA ID: 1068
-Registrar Abuse Contact Email: abuse@namecheap.com
-Registrar Abuse Contact Phone: +1.9854014545
-Reseller: NAMECHEAP INC
-Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
-Registry Registrant ID: 
-Registrant Name: Redacted for Privacy
-Registrant Organization: Privacy service provided by Withheld for Privacy ehf
-Registrant Street: Kalkofnsvegur 2 
-Registrant City: Reykjavik
-Registrant State/Province: Capital Region
-Registrant Postal Code: 101
-Registrant Country: IS
-Registrant Phone: +354.4212434
-Registrant Phone Ext: 
-Registrant Fax: 
-Registrant Fax Ext: 
-Registrant Email: b3d7cb2619dd4f2e829c86373c895f30.protect@withheldforprivacy.com
-Registry Admin ID: 
-Admin Name: Redacted for Privacy
-Admin Organization: Privacy service provided by Withheld for Privacy ehf
-Admin Street: Kalkofnsvegur 2 
-Admin City: Reykjavik
-Admin State/Province: Capital Region
-Admin Postal Code: 101
-Admin Country: IS
-Admin Phone: +354.4212434
-Admin Phone Ext: 
-Admin Fax: 
-Admin Fax Ext: 
-Admin Email: b3d7cb2619dd4f2e829c86373c895f30.protect@withheldforprivacy.com
-Registry Tech ID: 
-Tech Name: Redacted for Privacy
-Tech Organization: Privacy service provided by Withheld for Privacy ehf
-Tech Street: Kalkofnsvegur 2 
-Tech City: Reykjavik
-Tech State/Province: Capital Region
-Tech Postal Code: 101
-Tech Country: IS
-Tech Phone: +354.4212434
-Tech Phone Ext: 
-Tech Fax: 
-Tech Fax Ext: 
-Tech Email: b3d7cb2619dd4f2e829c86373c895f30.protect@withheldforprivacy.com
-Name Server: ns1.he.net
-Name Server: ns2.he.net
-Name Server: ns3.he.net
-Name Server: ns4.he.net
-Name Server: ns5.he.net
-DNSSEC: unsigned
-URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T01:02:23.15Z <<<
 

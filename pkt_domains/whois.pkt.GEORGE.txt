@@ -30,10 +30,12 @@ phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.GEORGE 2a01:8840:6e:0:0:0:0:49 65.22.112.49
-nserver:      A2.NIC.GEORGE 2a01:8840:71:0:0:0:0:49 65.22.115.49
-nserver:      B0.NIC.GEORGE 2a01:8840:6f:0:0:0:0:49 65.22.113.49
-nserver:      C0.NIC.GEORGE 2a01:8840:70:0:0:0:0:49 65.22.114.49
+nserver:      A.NIC.GEORGE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.GEORGE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.GEORGE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.GEORGE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GEORGE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GEORGE 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
 ds-rdata:     52471 8 2 2075b42f79f6ac18baaa19256564296dc9a53b1a24f2bf84550e005206b4e2d3
 
@@ -43,11 +45,12 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2016-07-21
-changed:      2024-10-25
+changed:      2024-11-06
 source:       IANA
 
 # whois.nic.george
 
-Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:50:11Z <<<
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-11-12T14:59:48Z <<<
 

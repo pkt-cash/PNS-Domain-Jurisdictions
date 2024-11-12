@@ -50,6 +50,3 @@ source:       IANA
 
 # whois.nic.bo
 
-DOMINIO NO REGISTRADO
-
-whois.nic.bo solo acepta consultas con dominios .bo

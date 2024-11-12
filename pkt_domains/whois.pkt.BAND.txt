@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.band
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:41:21Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:46:58Z <<<
 

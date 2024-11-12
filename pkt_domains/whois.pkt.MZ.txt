@@ -49,8 +49,8 @@ source:       IANA
 
 # whois.nic.mz
 
-Domain Name: PKT.MZ
+Domain Name: pkt.MZ
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:57:04.881Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:15.010Z <<<
 

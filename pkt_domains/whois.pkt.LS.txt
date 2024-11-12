@@ -53,12 +53,3 @@ source:       IANA
 
 # whois.nic.ls
 
-% Domain Information over Whois protocol
-% 
-% Whoisd Server Version: 3.10.2
-
-%ERROR:101: no entries found
-% 
-% No entries found.
-
-

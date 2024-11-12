@@ -74,7 +74,7 @@ source:       IANA
    Name Server: NS5.PUBLICISGROUPE.COM
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2024-10-28T08:44:35Z <<<
+>>> Last update of whois database: 2024-11-12T14:52:22Z <<<
 
 # whois.corporatedomains.com
 

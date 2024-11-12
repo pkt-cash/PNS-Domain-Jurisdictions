@@ -48,8 +48,9 @@ source:       IANA
 
 # whois.registry.gy
 
-Domain Name: PKT.GY
-Domain Status: No Object Found
+Domain Name: pkt.GY
+The queried object does not exist: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:50:56.160Z <<<
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-11-12T15:00:18.734Z <<<
 

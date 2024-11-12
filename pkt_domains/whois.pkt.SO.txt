@@ -39,8 +39,8 @@ source:       IANA
 
 # whois.nic.so
 
-Domain Name: PKT.SO
+Domain Name: pkt.SO
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T09:01:11.550Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:43.307Z <<<
 

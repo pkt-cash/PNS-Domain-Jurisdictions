@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.madrid
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:53:16.432Z <<<
+>>> Last update of Whois database: 2024-11-12T15:02:37.53Z <<<
 

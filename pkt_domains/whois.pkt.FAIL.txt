@@ -108,7 +108,7 @@ Name Server: 2-can.njalla.in
 Name Server: 3-get.njalla.fo
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:49:25Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:08Z <<<
 
 # whois.tucows.com
 
@@ -135,7 +135,7 @@ Registrant Phone: REDACTED FOR PRIVACY
 Registrant Phone Ext: 
 Registrant Fax: REDACTED FOR PRIVACY
 Registrant Fax Ext: 
-Registrant Email: https://tieredaccess.com/contact/2f833507-93d4-4462-a676-3a4777115041
+Registrant Email: https://tieredaccess.com/contact/c2244f44-4977-470b-a953-f1ae739781bf
 Registry Admin ID: 
 Admin Name: REDACTED FOR PRIVACY
 Admin Organization: REDACTED FOR PRIVACY
@@ -169,5 +169,5 @@ DNSSEC: unsigned
 Registrar Abuse Contact Email: domainabuse@tucows.com
 Registrar Abuse Contact Phone: +1.4165350123
 URL of the ICANN WHOIS Data Problem Reporting System: https://icann.org/wicf
->>> Last update of WHOIS database: 2024-10-28T08:49:26Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:08Z <<<
 

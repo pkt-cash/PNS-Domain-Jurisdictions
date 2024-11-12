@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.xn--11b4c3d
 
 No match for "PKT.XN--11B4C3D".
->>> Last update of WHOIS database: 2024-10-28T09:06:10Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:51Z <<<
 

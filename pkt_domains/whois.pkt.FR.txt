@@ -86,6 +86,27 @@ anonymous:                     No
 registered:                    2014-11-17T00:00:00Z
 source:                        FRNIC
 
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     TLD Registrar Solutions Ltd
+changed:                       2022-09-15T06:10:39Z
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
 nic-hdl:                       TRS360-FRNIC
 type:                          ORGANIZATION
 contact:                       TLD Registrar Solutions
@@ -96,7 +117,7 @@ country:                       GB
 phone:                         +44.2033880600
 e-mail:                        abuse@tldregistrarsolutions.com
 registrar:                     TLD Registrar Solutions Ltd
-changed:                       2024-10-28T05:36:32.579227Z
+changed:                       2024-11-12T11:01:00.187418Z
 anonymous:                     NO
 obsoleted:                     NO
 eppstatus:                     associated
@@ -126,26 +147,5 @@ eligstatus:                    not identified
 reachstatus:                   not identified
 source:                        FRNIC
 
-nic-hdl:                       ANO00-FRNIC
-type:                          PERSON
-contact:                       Ano Nymous
-registrar:                     TLD Registrar Solutions Ltd
-changed:                       2022-09-15T06:10:39Z
-anonymous:                     YES
-remarks:                       -------------- WARNING --------------
-remarks:                       While the registrar knows him/her,
-remarks:                       this person chose to restrict access
-remarks:                       to his/her personal data. So PLEASE,
-remarks:                       don't send emails to Ano Nymous. This
-remarks:                       address is bogus and there is no hope
-remarks:                       of a reply.
-remarks:                       -------------- WARNING --------------
-obsoleted:                     NO
-eppstatus:                     associated
-eppstatus:                     active
-eligstatus:                    not identified
-reachstatus:                   not identified
-source:                        FRNIC
-
->>> Last update of WHOIS database: 2024-10-28T08:49:52.526764Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:33.236367Z <<<
 

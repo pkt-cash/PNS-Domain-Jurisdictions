@@ -53,5 +53,5 @@ source:       IANA
 
 This premium domain is available for purchase. To register the domain, please contact premium@identity.digital.
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:06:09Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:37Z <<<
 

@@ -104,7 +104,7 @@ Name Server: ns1.myhostadmin.net
 Name Server: ns2.myhostadmin.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:52:04Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:29Z <<<
 
 # whois.west.cn
 
@@ -164,5 +164,5 @@ DNSSEC: unsigned
 Registrar Abuse Contact Email: westabuse@gmail.com 
 Registrar Abuse Contact Phone: +86.2862778877
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
->>> Last update of WHOIS database: 2024-10-28T08:52:05.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:26.0Z <<<
 

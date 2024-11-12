@@ -51,5 +51,5 @@ source:       IANA
 
 Domain Name: pkt.bi
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T08:20:41.572Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:30:58.745Z <<<
 

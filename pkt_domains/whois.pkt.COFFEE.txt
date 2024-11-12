@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.coffee
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:44:49Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:42Z <<<
 

@@ -49,8 +49,8 @@ source:       IANA
 
 # whois.nic.cv
 
-Domain Name: PKT.CV
+Domain Name: pkt.CV
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:45:31.482Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:54:23.195Z <<<
 

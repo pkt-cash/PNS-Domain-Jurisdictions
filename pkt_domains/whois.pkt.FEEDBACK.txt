@@ -39,10 +39,10 @@ ds-rdata:     8710 13 2 d28054e80046b19c06009c25b451836bebe30a7516ed8c8e51b044e0
 whois:        whois.nic.feedback
 
 status:       ACTIVE
-remarks:      Registration information: http://centralnic.com
+remarks:      Registration information: https://nic.love
 
 created:      2014-03-06
-changed:      2024-05-29
+changed:      2024-10-30
 source:       IANA
 
 # whois.nic.feedback
@@ -52,5 +52,5 @@ source:       IANA
 >>> Please visit https://www.nic.realty/registrars/ for a list of accredited
 registrars
 
->>> Last update of WHOIS database: 2024-10-28T08:49:32.054Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:14.185Z <<<
 

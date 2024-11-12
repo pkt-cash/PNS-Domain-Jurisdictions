@@ -56,5 +56,5 @@ source:       IANA
 # whois.gtld.knet.cn
 
 The queried object does not exist: pkt.baidu
->>> Last update of WHOIS database: 2024-10-28T08:36:37Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:45:51Z <<<
 

@@ -48,6 +48,6 @@ source:       IANA
 
 # whois.gtlds.nic.br
 
-The queried object does not exist: PKT.RIO
->>> Last update of WHOIS database: 2024-10-28T08:58:58Z <<<
+The queried object does not exist: pkt.RIO
+>>> Last update of WHOIS database: 2024-11-12T15:07:35Z <<<
 

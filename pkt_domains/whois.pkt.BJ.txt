@@ -50,5 +50,5 @@ source:       IANA
 
 Domain Name: pkt.bj
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T06:48:54.588Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:34:15.338Z <<<
 

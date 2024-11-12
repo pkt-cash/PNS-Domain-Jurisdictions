@@ -52,8 +52,8 @@ source:       IANA
 
 # whois.ricta.org.rw
 
-Domain Name: PKT.RW
+Domain Name: pkt.RW
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:59:05.735Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:07:42.293Z <<<
 

@@ -41,7 +41,7 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2024-05-23
+changed:      2024-10-28
 source:       IANA
 
 # whois.nic.locker
@@ -51,5 +51,5 @@ source:       IANA
 >>> Please visit https://www.nic.locker/registrars/ for a list of accredited
 registrars
 
->>> Last update of WHOIS database: 2024-10-28T08:52:44.507Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:02:07.480Z <<<
 

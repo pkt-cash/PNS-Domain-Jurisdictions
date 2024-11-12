@@ -57,7 +57,7 @@ source:       IANA
 
 % NOTE: This output has been filtered.
 
-% Information related to 'PKT.IR'
+% Information related to 'pkt.IR'
 
 
 domain:		pkt.ir

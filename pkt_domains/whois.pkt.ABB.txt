@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.abb
+
+domain:       ABB
+
+organisation: ABB Ltd
+address:      Affolternstrasse 44
+address:      Zurich CH-8050
+address:      Switzerland
+
+contact:      administrative
+name:         Domain Administration
+organisation: ABB Schweiz AG
+address:      Intellectual Property, CH-IP/TM
+address:      Brown Boveri Strasse 6
+address:      Baden CH-5400
+address:      Switzerland
+phone:        +41 58 585 56 34
+fax-no:       +41 58 585 76 55
+e-mail:       ngtld-abb@cscinfo.com
+
+contact:      technical
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
+
+nserver:      A0.NIC.ABB 2a01:8840:6e:0:0:0:0:41 65.22.112.41
+nserver:      A2.NIC.ABB 2a01:8840:71:0:0:0:0:41 65.22.115.41
+nserver:      B0.NIC.ABB 2a01:8840:6f:0:0:0:0:41 65.22.113.41
+nserver:      C0.NIC.ABB 2a01:8840:70:0:0:0:0:41 65.22.114.41
+ds-rdata:     16216 8 2 6dc3161e488f546a3baa11018bf0123c789c56241c9c03dcb74ce07a5accb18f
+
+whois:        whois.nic.abb
+
+status:       ACTIVE
+remarks:      Registration information: http://abb.com
+
+created:      2015-04-09
+changed:      2023-08-11
+source:       IANA
+
+# whois.nic.abb
+
+Domain not found.
+>>> Last update of WHOIS database: 2024-11-12T13:44:45Z <<<
+

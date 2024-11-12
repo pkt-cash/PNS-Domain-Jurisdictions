@@ -66,4 +66,4 @@ source:       IANA
 # the .se top level domain.
 # This whois printout is printed with UTF-8 encoding.
 #
-The server was unable to process your request for "PKT.NU". The query is not valid.
+The server was unable to process your request for "pkt.NU". The query is not valid.

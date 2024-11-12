@@ -60,4 +60,4 @@ Domain Status: No Object Found
 The data in the WHOIS database of TC Registry is provided by NICTC Registry LTD for information purposes, and to assist persons in obtaining information about or related to domain name registration records. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances, you will use this data to enable high volume, automated, electronic processes that apply to NICTC Registry or its systems. NIC TC Registry LTD reserves the right to modify these terms.
 By submitting this query, you agree to abide by this policy.
 
-&gt;&gt;&gt; Last update of WHOIS database: 2024-10-28T07:47:13.341Z &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of WHOIS database: 2024-11-12T13:58:43.735Z &lt;&lt;&lt;

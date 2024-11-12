@@ -104,11 +104,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:42:08Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:47:32Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.BLACK
+Domain name: pkt.BLACK
 Registry Domain ID: 577bd11c314d45749d1f54850b0a1e12-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -165,5 +165,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T11:42:08.44Z <<<
+>>> Last update of WHOIS database: 2024-11-11T15:47:32.44Z <<<
 

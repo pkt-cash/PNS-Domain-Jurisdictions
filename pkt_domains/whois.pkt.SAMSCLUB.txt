@@ -30,10 +30,12 @@ phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.SAMSCLUB 2a01:8840:6e:0:0:0:0:66 65.22.112.66
-nserver:      A2.NIC.SAMSCLUB 2a01:8840:71:0:0:0:0:66 65.22.115.66
-nserver:      B0.NIC.SAMSCLUB 2a01:8840:6f:0:0:0:0:66 65.22.113.66
-nserver:      C0.NIC.SAMSCLUB 2a01:8840:70:0:0:0:0:66 65.22.114.66
+nserver:      A.NIC.SAMSCLUB 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SAMSCLUB 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SAMSCLUB 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.SAMSCLUB 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SAMSCLUB 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SAMSCLUB 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 ds-rdata:     35602 8 2 29e4496bea5e1cec89fcb45cbd4d9c45d0a024eb2b3bb1245f67ef66ba89d210
 
@@ -43,11 +45,12 @@ status:       ACTIVE
 remarks:      Registration information: http://www.samsclub.com
 
 created:      2016-07-21
-changed:      2024-10-25
+changed:      2024-11-06
 source:       IANA
 
 # whois.nic.samsclub
 
-Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:59:12Z <<<
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-11-12T15:07:47Z <<<
 

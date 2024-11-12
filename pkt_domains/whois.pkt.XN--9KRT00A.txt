@@ -53,5 +53,5 @@ source:       IANA
 # whois.nic.xn--9krt00a
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:07:07Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:31Z <<<
 

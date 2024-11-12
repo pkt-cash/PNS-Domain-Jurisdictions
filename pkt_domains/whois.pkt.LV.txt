@@ -60,4 +60,4 @@ Domain: pkt.lv
 Status: free
 
 [Whois]
-Updated: 2024-10-28T06:12:30.679405+00:00
+Updated: 2024-11-12T12:12:30.666752+00:00

@@ -108,7 +108,7 @@ Name Server: ns1114.ui-dns.de
 Name Server: ns1120.ui-dns.biz
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:57:22Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:44Z <<<
 
 # whois.ionos.com
 
@@ -172,5 +172,5 @@ DNSSEC: Unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
 
 
->>> Last update of WHOIS database: 2024-10-28T08:57:22Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:44Z <<<
 

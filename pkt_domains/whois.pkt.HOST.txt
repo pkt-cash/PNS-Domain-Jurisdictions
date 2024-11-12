@@ -51,86 +51,102 @@ source:       IANA
 
 Domain Name: PKT.HOST
 Registry Domain ID: D7696410-CNIC
-Registrar WHOIS Server: whois.namecheap.com
-Registrar URL: https://namecheap.com
-Updated Date: 2023-08-31T16:50:08.0Z
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: http://cloudflare.com
+Updated Date: 2024-11-09T00:30:59.0Z
 Creation Date: 2015-04-21T23:12:07.0Z
-Registry Expiry Date: 2025-04-21T23:59:59.0Z
-Registrar: Namecheap
-Registrar IANA ID: 1068
+Registry Expiry Date: 2026-04-21T23:59:59.0Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
 Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
-Registrant Organization: Privacy service provided by Withheld for Privacy ehf
-Registrant State/Province: Capital Region
-Registrant Country: IS
+Domain Status: transferPeriod https://icann.org/epp#transferPeriod
+Registrant Organization:
+Registrant State/Province: CA
+Registrant Country: US
 Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
 Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
 Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
-Name Server: DNS1.REGISTRAR-SERVERS.COM
-Name Server: DNS2.REGISTRAR-SERVERS.COM
+Name Server: JOAQUIN.NS.CLOUDFLARE.COM
+Name Server: LOLA.NS.CLOUDFLARE.COM
 DNSSEC: unsigned
 Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
-Registrar Abuse Contact Email: abuse@namecheap.com
-Registrar Abuse Contact Phone: +1.9854014545
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:51:14.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:36.0Z <<<
 
-# whois.namecheap.com
+# whois.cloudflare.com
 
-Domain name: PKT.HOST
+Domain Name: PKT.HOST
 Registry Domain ID: D7696410-CNIC
-Registrar WHOIS Server: whois.namecheap.com
-Registrar URL: http://www.namecheap.com
-Updated Date: 2023-04-09T23:10:50.50Z
-Creation Date: 2015-04-21T23:12:07.00Z
-Registrar Registration Expiration Date: 2025-04-21T23:59:59.00Z
-Registrar: NAMECHEAP INC
-Registrar IANA ID: 1068
-Registrar Abuse Contact Email: abuse@namecheap.com
-Registrar Abuse Contact Phone: +1.9854014545
-Reseller: NAMECHEAP INC
-Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
-Registry Registrant ID: 
-Registrant Name: Redacted for Privacy
-Registrant Organization: Privacy service provided by Withheld for Privacy ehf
-Registrant Street: Kalkofnsvegur 2 
-Registrant City: Reykjavik
-Registrant State/Province: Capital Region
-Registrant Postal Code: 101
-Registrant Country: IS
-Registrant Phone: +354.4212434
-Registrant Phone Ext: 
-Registrant Fax: 
-Registrant Fax Ext: 
-Registrant Email: a428295513aa4ad58d46854eab8df1e6.protect@withheldforprivacy.com
-Registry Admin ID: 
-Admin Name: Redacted for Privacy
-Admin Organization: Privacy service provided by Withheld for Privacy ehf
-Admin Street: Kalkofnsvegur 2 
-Admin City: Reykjavik
-Admin State/Province: Capital Region
-Admin Postal Code: 101
-Admin Country: IS
-Admin Phone: +354.4212434
-Admin Phone Ext: 
-Admin Fax: 
-Admin Fax Ext: 
-Admin Email: a428295513aa4ad58d46854eab8df1e6.protect@withheldforprivacy.com
-Registry Tech ID: 
-Tech Name: Redacted for Privacy
-Tech Organization: Privacy service provided by Withheld for Privacy ehf
-Tech Street: Kalkofnsvegur 2 
-Tech City: Reykjavik
-Tech State/Province: Capital Region
-Tech Postal Code: 101
-Tech Country: IS
-Tech Phone: +354.4212434
-Tech Phone Ext: 
-Tech Fax: 
-Tech Fax Ext: 
-Tech Email: a428295513aa4ad58d46854eab8df1e6.protect@withheldforprivacy.com
-Name Server: dns1.registrar-servers.com
-Name Server: dns2.registrar-servers.com
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: https://www.cloudflare.com
+Updated Date: 2024-11-09T00:30:59Z
+Creation Date: 2015-04-21T23:12:07Z
+Registrar Registration Expiration Date: 2026-04-21T23:59:59Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: servertransferprohibited https://icann.org/epp#servertransferprohibited
+Domain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited
+Domain Status: transferperiod https://icann.org/epp#transferperiod
+Registry Registrant ID:
+Registrant Name: DATA REDACTED 
+Registrant Organization: DATA REDACTED
+Registrant Street: DATA REDACTED
+Registrant City: DATA REDACTED
+Registrant State/Province: CA
+Registrant Postal Code: DATA REDACTED
+Registrant Country: US
+Registrant Phone: DATA REDACTED
+Registrant Phone Ext: DATA REDACTED
+Registrant Fax: DATA REDACTED
+Registrant Fax Ext: DATA REDACTED
+Registrant Email: https://domaincontact.cloudflareregistrar.com/pkt.host
+Registry Admin ID:
+Admin Name: DATA REDACTED 
+Admin Organization: DATA REDACTED
+Admin Street: DATA REDACTED
+Admin City: DATA REDACTED
+Admin State/Province: DATA REDACTED
+Admin Postal Code: DATA REDACTED
+Admin Country: DATA REDACTED
+Admin Phone: DATA REDACTED
+Admin Phone Ext: DATA REDACTED
+Admin Fax: DATA REDACTED
+Admin Fax Ext: DATA REDACTED
+Admin Email: https://domaincontact.cloudflareregistrar.com/pkt.host
+Registry Tech ID:
+Tech Name: DATA REDACTED 
+Tech Organization: DATA REDACTED
+Tech Street: DATA REDACTED
+Tech City: DATA REDACTED
+Tech State/Province: DATA REDACTED
+Tech Postal Code: DATA REDACTED
+Tech Country: DATA REDACTED
+Tech Phone: DATA REDACTED
+Tech Phone Ext: DATA REDACTED
+Tech Fax: DATA REDACTED
+Tech Fax Ext: DATA REDACTED
+Tech Email: https://domaincontact.cloudflareregistrar.com/pkt.host
+Registry Billing ID:
+Billing Name: DATA REDACTED 
+Billing Organization: DATA REDACTED
+Billing Street: DATA REDACTED
+Billing City: DATA REDACTED
+Billing State/Province: DATA REDACTED
+Billing Postal Code: DATA REDACTED
+Billing Country: DATA REDACTED
+Billing Phone: DATA REDACTED
+Billing Phone Ext: DATA REDACTED
+Billing Fax: DATA REDACTED
+Billing Fax Ext: DATA REDACTED
+Billing Email: https://domaincontact.cloudflareregistrar.com/pkt.host
+Name Server: joaquin.ns.cloudflare.com
+Name Server: lola.ns.cloudflare.com
 DNSSEC: unsigned
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T14:51:14.61Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:37Z <<<
 

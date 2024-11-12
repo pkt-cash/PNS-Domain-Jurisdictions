@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.shoes
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:00:59Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:31Z <<<
 

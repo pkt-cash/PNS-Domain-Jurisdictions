@@ -105,7 +105,7 @@ Name Server: ns-127-c.gandi.net
 Name Server: ns-34-a.gandi.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:58:41Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:07:20Z <<<
 
 # whois.gandi.net
 
@@ -177,5 +177,5 @@ Name Server:
 Name Server: 
 DNSSEC: Unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:58:41Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:07:21Z <<<
 

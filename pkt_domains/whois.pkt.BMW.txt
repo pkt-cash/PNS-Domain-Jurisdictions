@@ -52,5 +52,5 @@ source:       IANA
 
 The queried object does not exist: DOMAIN NOT FOUND
 
->>> Last update of WHOIS database: 2024-10-28T08:42:13.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:47:37.0Z <<<
 

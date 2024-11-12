@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.eus
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:48:37.407Z <<<
+>>> Last update of Whois database: 2024-11-12T14:58:17.41Z <<<
 

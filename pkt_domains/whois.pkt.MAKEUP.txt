@@ -72,11 +72,11 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse@namecheap.com
 Registrar Abuse Contact Phone: +1.9854014545
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:54:13.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:03:36.0Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.MAKEUP
+Domain name: pkt.MAKEUP
 Registry Domain ID: D480352548-CNIC
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -134,5 +134,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T22:54:13.47Z <<<
+>>> Last update of WHOIS database: 2024-11-12T07:03:36.62Z <<<
 

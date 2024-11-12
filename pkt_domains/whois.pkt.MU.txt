@@ -49,5 +49,5 @@ source:       IANA
 
 Domain Name: pkt.mu
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T08:29:10.501Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:58:43.345Z <<<
 

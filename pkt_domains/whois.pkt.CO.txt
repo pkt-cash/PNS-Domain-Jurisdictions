@@ -116,7 +116,7 @@ Name Server: ns4.afternic.com
 Name Server: verification-vt83aztvltvbx3gwn2pgzu.ns101.verify.hn
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:44:46Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:40Z <<<
 
 # whois.dynadot.com
 

@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.xn--w4r85el8fhu5dnra
 
 No match for "PKT.XN--W4R85EL8FHU5DNRA".
->>> Last update of WHOIS database: 2024-10-28T09:09:03Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:18:25Z <<<
 

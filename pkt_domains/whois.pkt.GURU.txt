@@ -55,14 +55,15 @@ Domain Name: pkt.guru
 Registry Domain ID: ef01ab643a5b479fb7a979d46b03498f-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: https://www.namecheap.com/
-Updated Date: 2023-12-17T00:51:12Z
+Updated Date: 2024-11-02T00:55:35Z
 Creation Date: 2020-11-02T00:50:42Z
-Registry Expiry Date: 2024-11-02T00:50:42Z
+Registry Expiry Date: 2025-11-02T00:50:42Z
 Registrar: NameCheap, Inc.
 Registrar IANA ID: 1068
 Registrar Abuse Contact Email: abuse@namecheap.com
 Registrar Abuse Contact Phone: +1.9854014545
 Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
 Registry Registrant ID: REDACTED FOR PRIVACY
 Registrant Name: REDACTED FOR PRIVACY
 Registrant Organization: Privacy service provided by Withheld for Privacy ehf
@@ -102,15 +103,15 @@ Tech Phone Ext: REDACTED FOR PRIVACY
 Tech Fax: REDACTED FOR PRIVACY
 Tech Fax Ext: REDACTED FOR PRIVACY
 Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
-Name Server: dns1.registrar-servers.com
-Name Server: dns2.registrar-servers.com
+Name Server: dns102.registrar-servers.com
+Name Server: dns101.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:50:48Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:16Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.GURU
+Domain name: pkt.GURU
 Registry Domain ID: ef01ab643a5b479fb7a979d46b03498f-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -162,9 +163,9 @@ Tech Phone Ext:
 Tech Fax: 
 Tech Fax Ext: 
 Tech Email: 416adb7301514a6cac32db58b71cbad7.protect@withheldforprivacy.com
-Name Server: dns1.registrar-servers.com
-Name Server: dns2.registrar-servers.com
+Name Server: dns101.registrar-servers.com
+Name Server: dns102.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T06:50:55.31Z <<<
+>>> Last update of WHOIS database: 2024-11-12T03:00:18.12Z <<<
 

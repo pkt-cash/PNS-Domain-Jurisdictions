@@ -61,10 +61,10 @@ Registrar: Wild West Domains, Inc.
 Registrar IANA ID: 440
 Registrar Abuse Contact Email: abuse@wildwestdomains.com
 Registrar Abuse Contact Phone: +1.4806242505
-Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
 Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
 Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
 Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
 Registry Registrant ID: REDACTED FOR PRIVACY
 Registrant Name: REDACTED FOR PRIVACY
 Registrant Organization: Domains By Proxy, LLC
@@ -114,5 +114,5 @@ Name Server: ns01.domaincontrol.com
 Name Server: ns02.domaincontrol.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:47:46Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:57:32Z <<<
 

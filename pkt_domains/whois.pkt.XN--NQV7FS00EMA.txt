@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.xn--nqv7fs00ema
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:09:07Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:18:32Z <<<
 

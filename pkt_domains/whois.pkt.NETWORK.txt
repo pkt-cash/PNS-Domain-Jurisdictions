@@ -108,7 +108,7 @@ Name Server: ns-cloud-d3.googledomains.com
 Name Server: ns-cloud-d4.googledomains.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:57:21Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:42Z <<<
 
 # whois.donuts.co
 
@@ -169,5 +169,5 @@ Name Server: ns-cloud-d3.googledomains.com
 Name Server: ns-cloud-d4.googledomains.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:57:21Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:43Z <<<
 

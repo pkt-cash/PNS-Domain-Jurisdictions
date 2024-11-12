@@ -75,11 +75,11 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse@porkbun.com
 Registrar Abuse Contact Phone: +1.8557675286
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:52:25.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:45.0Z <<<
 
 # whois.porkbun.com
 
-No match for "PKT.LAT" in the registrar database.
+No match for "pkt.LAT" in the registrar database.
 
 The Data in the Porkbun LLC WHOIS database is provided by Porkbun LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Porkbun LLC does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Porkbun LLC (or its systems). Porkbun LLC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
 

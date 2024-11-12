@@ -52,5 +52,5 @@ Domain Name: pkt.vana
 
 >>> Reserved by Registry
 
->>> Last update of WHOIS database: 2024-10-28T09:05:39.609Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:22.640Z <<<
 

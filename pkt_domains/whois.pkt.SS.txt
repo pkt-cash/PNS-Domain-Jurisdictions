@@ -48,8 +48,8 @@ source:       IANA
 
 # whois.nic.ss
 
-Domain Name: PKT.SS
+Domain Name: pkt.SS
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T09:01:41.603Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:55.081Z <<<
 

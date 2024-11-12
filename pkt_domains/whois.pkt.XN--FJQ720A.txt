@@ -53,5 +53,5 @@ source:       IANA
 # whois.nic.xn--fjq720a
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:07:18Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:42Z <<<
 

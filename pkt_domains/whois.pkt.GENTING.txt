@@ -54,5 +54,5 @@ source:       IANA
 # whois.nic.genting
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:50:11Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:47Z <<<
 

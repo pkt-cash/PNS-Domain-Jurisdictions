@@ -58,5 +58,5 @@ source:       IANA
 # whois.nic.xn--efvy88h
 
 The queried object does not exist: pkt.新闻
->>> Last update of WHOIS database: 2024-10-28T09:02:25Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:02Z <<<
 

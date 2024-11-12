@@ -53,10 +53,10 @@ Registrar: Gandi
 Name Server: ns-2-a.gandi.net
 Name Server: ns-158-b.gandi.net
 Name Server: ns-221-c.gandi.net
-Status: clientTransferProhibited, serverTransferProhibited
+Status: clientTransferProhibited
 Updated Date: 2024-09-06
 Creation Date: 2024-09-06
 Expiration Date: 2025-09-06
 
->>> Last update of whois database: 2024-10-28T09:01:42Z <<<
+>>> Last update of whois database: 2024-11-12T15:09:55Z <<<
 

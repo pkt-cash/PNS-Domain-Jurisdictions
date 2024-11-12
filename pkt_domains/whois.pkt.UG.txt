@@ -57,7 +57,7 @@ source:       IANA
             *            The UG ccTLD Registry Database              *
             **********************************************************
 
-            Domain Name: PKT.UG
+            Domain Name: pkt.UG
             >>> Domain not Found
-            >>> Last update of WHOIS database: 2024-10-28T09:04:15 <<<
+            >>> Last update of WHOIS database: 2024-11-12T15:13:58 <<<
         

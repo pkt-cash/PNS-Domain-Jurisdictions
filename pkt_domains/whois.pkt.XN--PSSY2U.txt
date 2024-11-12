@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.xn--pssy2u
 
 No match for "PKT.XN--PSSY2U".
->>> Last update of WHOIS database: 2024-10-28T09:08:49Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:18:14Z <<<
 

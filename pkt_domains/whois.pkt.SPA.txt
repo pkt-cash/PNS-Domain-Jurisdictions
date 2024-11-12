@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.spa
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:01:39Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:52Z <<<
 

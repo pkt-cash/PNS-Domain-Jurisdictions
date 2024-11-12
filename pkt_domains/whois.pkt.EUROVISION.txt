@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.eurovision
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:48:51.201Z <<<
+>>> Last update of Whois database: 2024-11-12T14:58:04.973Z <<<
 

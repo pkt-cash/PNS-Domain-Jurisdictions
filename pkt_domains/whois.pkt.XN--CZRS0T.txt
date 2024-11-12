@@ -53,5 +53,5 @@ source:       IANA
 # whois.nic.xn--czrs0t
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:07:11Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:36Z <<<
 

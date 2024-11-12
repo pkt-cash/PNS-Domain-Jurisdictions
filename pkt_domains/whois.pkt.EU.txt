@@ -109,9 +109,9 @@ Registrar:
         Website: http://www.consultingservice.pl
 
 Name servers:
-        ns-1211.awsdns-23.org
+        ns-381.awsdns-47.com
         ns-802.awsdns-36.net
         ns-1841.awsdns-38.co.uk
-        ns-381.awsdns-47.com
+        ns-1211.awsdns-23.org
 
 Please visit www.eurid.eu for more info.

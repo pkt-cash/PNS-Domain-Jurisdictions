@@ -72,5 +72,5 @@ source:       IANA
 %
 % All rights reserved.
 %
-% WHOIS PKT.LU
+% WHOIS pkt.LU
 % No such domain

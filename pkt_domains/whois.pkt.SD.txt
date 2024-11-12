@@ -53,8 +53,8 @@ source:       IANA
 
 # whois.nic.sd
 
-Domain Name: PKT.SD
+Domain Name: pkt.SD
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T09:00:46.581Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:18.746Z <<<
 

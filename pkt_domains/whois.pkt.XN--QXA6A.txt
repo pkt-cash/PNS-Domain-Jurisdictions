@@ -92,5 +92,5 @@ source:       IANA
 % Registrant and on-site contact information can be obtained through use of the
 % web-based WHOIS service available from the EURid website www.eurid.eu
 %
-% WHOIS PKT.XN--QXA6A
+% WHOIS pkt.XN--QXA6A
 -7: %Invalid pattern

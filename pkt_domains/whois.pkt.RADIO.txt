@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.radio
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:57:58.410Z <<<
+>>> Last update of Whois database: 2024-11-12T15:06:34.265Z <<<
 

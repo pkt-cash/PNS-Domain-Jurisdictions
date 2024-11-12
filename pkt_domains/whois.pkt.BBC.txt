@@ -58,5 +58,5 @@ source:       IANA
 
 This domain name has not been registered.
 
->>> Last update of WHOIS database: 2024-10-28T08:41:31Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:47:05Z <<<
 

@@ -79,5 +79,5 @@ source:       IANA
         ns1.brandable.uk          162.159.2.249  2400:cb00:2049:1::a29f:2f9
         ns2.brandable.uk          162.159.6.231  2400:cb00:2049:1::a29f:6e7
 
-    WHOIS lookup made at 09:04:16 28-Oct-2024
+    WHOIS lookup made at 15:13:58 12-Nov-2024
 

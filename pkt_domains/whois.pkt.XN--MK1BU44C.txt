@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.xn--mk1bu44c
 
 No match for "PKT.XN--MK1BU44C".
->>> Last update of WHOIS database: 2024-10-28T09:08:49Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:18:00Z <<<
 

@@ -55,5 +55,5 @@ source:       IANA
 # whois.nic.redstone
 
 The queried object does not exist: pkt.redstone
->>> Last update of WHOIS database: 2024-10-28T08:57:14Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:18Z <<<
 

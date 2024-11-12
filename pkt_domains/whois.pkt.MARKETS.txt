@@ -106,11 +106,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:54:17Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:03:40Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.MARKETS
+Domain name: pkt.MARKETS
 Registry Domain ID: 12487609281a413985790b91986da83f-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -167,5 +167,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T10:54:18.02Z <<<
+>>> Last update of WHOIS database: 2024-11-12T06:03:41.48Z <<<
 

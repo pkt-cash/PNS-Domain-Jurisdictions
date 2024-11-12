@@ -53,5 +53,5 @@ Domain Name: pkt.music
 
 >>> Registry Reserved
 
->>> Last update of WHOIS database: 2024-10-28T08:55:12.906Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:11.355Z <<<
 

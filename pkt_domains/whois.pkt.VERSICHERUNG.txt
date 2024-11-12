@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.versicherung
 
 The queried object does not exist
->>> Last update of Whois database: 2024-10-28T09:06:06Z <<<
+>>> Last update of Whois database: 2024-11-12T15:15:34Z <<<
 

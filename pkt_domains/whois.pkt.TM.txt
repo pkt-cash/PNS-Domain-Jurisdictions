@@ -50,8 +50,3 @@ source:       IANA
 
 # whois.nic.tm
 
-
-Domain PKT.TM is available for purchase
-Please visit http://www.nic.tm/ for more information
-
-

@@ -48,5 +48,5 @@ source:       IANA
 # whois.nic.lipsy
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:52:40Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:02:01Z <<<
 

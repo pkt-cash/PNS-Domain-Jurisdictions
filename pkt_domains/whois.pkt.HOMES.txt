@@ -75,7 +75,7 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse@porkbun.com
 Registrar Abuse Contact Phone: +1.8557675286
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:51:10.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:33.0Z <<<
 
 # whois.porkbun.com
 

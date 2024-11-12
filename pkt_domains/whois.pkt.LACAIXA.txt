@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.lacaixa
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:52:16.175Z <<<
+>>> Last update of Whois database: 2024-11-12T15:01:32.188Z <<<
 

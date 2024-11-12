@@ -53,5 +53,5 @@ Domain Name: pkt.dm
 >>> Premium Domain Name - Please contact Registry for further details at:
 service@dotdm.dm.
 
->>> Last update of WHOIS database: 2024-10-28T08:46:14.472Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:56:02.473Z <<<
 

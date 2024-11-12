@@ -48,5 +48,5 @@ source:       IANA
 # whois.nic.hamburg
 
 The queried object does not exist
->>> Last update of Whois database: 2024-10-28T08:50:57Z <<<
+>>> Last update of Whois database: 2024-11-12T15:00:20Z <<<
 

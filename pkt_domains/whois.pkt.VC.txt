@@ -107,7 +107,7 @@ Name Server: ns2fgv.name.com
 Name Server: ns4bfy.name.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:05:40Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:23Z <<<
 
 # whois.name.com
 

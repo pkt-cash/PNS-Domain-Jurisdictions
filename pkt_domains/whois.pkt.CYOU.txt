@@ -54,12 +54,11 @@ Domain Name: PKT.CYOU
 Registry Domain ID: D484234950-CNIC
 Registrar WHOIS Server: whois.gandi.net
 Registrar URL: http://www.gandi.net/
-Updated Date: 2024-09-06T17:43:50.0Z
+Updated Date: 2024-11-07T11:04:10.0Z
 Creation Date: 2024-09-06T17:43:49.0Z
 Registry Expiry Date: 2025-09-06T23:59:59.0Z
 Registrar: Gandi SAS
 Registrar IANA ID: 81
-Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
 Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
 Registrant Organization:
 Registrant State/Province: WI
@@ -75,7 +74,7 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse@support.gandi.net
 Registrar Abuse Contact Phone: +33.170377661
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:45:32.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:54:24.0Z <<<
 
 # whois.gandi.net
 
@@ -83,7 +82,7 @@ Domain Name: pkt.cyou
 Registry Domain ID: D484234950-CNIC
 Registrar WHOIS Server: whois.gandi.net
 Registrar URL: http://www.gandi.net
-Updated Date: 2024-09-06T17:43:52Z
+Updated Date: 2024-11-06T08:06:10Z
 Creation Date: 2024-09-06T15:43:49Z
 Registrar Registration Expiration Date: 2025-09-06T23:59:59Z
 Registrar: GANDI SAS
@@ -92,7 +91,7 @@ Registrar Abuse Contact Email: abuse@support.gandi.net
 Registrar Abuse Contact Phone: +33.170377661
 Reseller: 
 Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
-Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: 
 Domain Status: 
 Domain Status: 
 Domain Status: 
@@ -147,5 +146,5 @@ Name Server:
 Name Server: 
 DNSSEC: Unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:45:32Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:54:24Z <<<
 

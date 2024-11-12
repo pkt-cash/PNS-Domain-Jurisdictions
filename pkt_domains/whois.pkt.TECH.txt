@@ -72,7 +72,7 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse@west.cn
 Registrar Abuse Contact Phone: +86.2862778877
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:02:09.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:20.0Z <<<
 
 # whois.west.cn
 
@@ -132,5 +132,5 @@ DNSSEC: unsigned
 Registrar Abuse Contact Email: westabuse@gmail.com 
 Registrar Abuse Contact Phone: +86.2862778877
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
->>> Last update of WHOIS database: 2024-10-28T09:02:07.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:18.0Z <<<
 

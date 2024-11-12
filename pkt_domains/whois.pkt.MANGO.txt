@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.mango
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:53:56.10Z <<<
+>>> Last update of Whois database: 2024-11-12T15:02:47.111Z <<<
 

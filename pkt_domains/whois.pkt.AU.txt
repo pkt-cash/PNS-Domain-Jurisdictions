@@ -76,5 +76,5 @@ DNSSEC: unsigned
 Registrant: VPE Pty Ltd
 Registrant ID: ABN 95618027384
 Eligibility Type: Company
->>> Last update of WHOIS database: 2024-10-28T08:41:11Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:46:46Z <<<
 

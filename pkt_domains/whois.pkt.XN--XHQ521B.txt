@@ -53,6 +53,6 @@ source:       IANA
 
 # whois.ngtld.cn
 
-The queried object does not exist: PKT.XN--XHQ521B (No matching record.)
->>> Last update of WHOIS database: 2024-10-28T09:09:29Z <<<
+The queried object does not exist: pkt.XN--XHQ521B (No matching record.)
+>>> Last update of WHOIS database: 2024-11-12T15:18:45Z <<<
 

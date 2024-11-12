@@ -79,5 +79,5 @@ documented by VeriSign, Inc. but will not be used for any commercial purpose wha
  Registrar IANA ID: 1068
  Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
   
->>> Last update of whois database: 2024-10-28T08:56:51Z <<<
+>>> Last update of whois database: 2024-11-12T15:00:30Z <<<
 

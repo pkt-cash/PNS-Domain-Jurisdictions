@@ -50,8 +50,8 @@ source:       IANA
 
 # whois.kenic.or.ke
 
-Domain Name: PKT.KE
+Domain Name: pkt.KE
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:51:57.076Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:23.791Z <<<
 

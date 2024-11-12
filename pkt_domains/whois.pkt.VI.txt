@@ -47,5 +47,5 @@ source:       IANA
 
 Domain Name: pkt.vi
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T03:40:25.41Z <<<
+>>> Last update of WHOIS database: 2024-11-12T05:30:44.983Z <<<
 

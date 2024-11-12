@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.goodyear
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:50:37Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:05Z <<<
 

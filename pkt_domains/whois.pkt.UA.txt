@@ -52,7 +52,7 @@ source:       IANA
 # whois.ua
 
 % Request from 91.165.39.242
-% This is the Ukrainian Whois query server #W.
+% This is the Ukrainian Whois query server #A.
 % The Whois is subject to Terms of use
 % See https://hostmaster.ua/services/
 %

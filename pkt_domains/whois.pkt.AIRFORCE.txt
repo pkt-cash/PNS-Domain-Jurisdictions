@@ -54,5 +54,5 @@ source:       IANA
 The TLD is not associated with, or sponsored by, any national or international government agency or branch of the armed forces in any nation.
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:40:46Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:46:17Z <<<
 

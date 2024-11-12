@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.xn--fhbei
 
 No match for "PKT.XN--FHBEI".
->>> Last update of WHOIS database: 2024-10-28T09:06:56Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:16:25Z <<<
 

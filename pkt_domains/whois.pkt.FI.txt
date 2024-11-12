@@ -84,5 +84,5 @@ Registrar
 registrar..........: Holla Online Oy
 www................: https://catcha.fi
 
->>> Last update of WHOIS database: 28.10.2024 10:46:06 (EET) <<<
+>>> Last update of WHOIS database: 12.11.2024 16:46:08 (EET) <<<
 

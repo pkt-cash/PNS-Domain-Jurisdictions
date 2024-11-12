@@ -76,7 +76,7 @@ source:       IANA
    Expiration Date: 21-Dec-2024
 
 
-% >>> Last update of whois database: Mon, 28 Oct 2024 14:05:37 +0500 <<<
+% >>> Last update of whois database: Tue, 12 Nov 2024 20:15:18 +0500 <<<
 
 % NOTICE: The expiration date displayed in this record is the date the
 % registrar's sponsorship of the domain name registration in the registry is
@@ -191,7 +191,7 @@ Status: ACTIVE
    Expiration Date: 21-Dec-2024
 
 
-% >>> Last update of whois database: Mon, 28 Oct 2024 14:05:37 +0500 <<<
+% >>> Last update of whois database: Tue, 12 Nov 2024 20:15:20 +0500 <<<
 
 % NOTICE: The expiration date displayed in this record is the date the
 % registrar's sponsorship of the domain name registration in the registry is

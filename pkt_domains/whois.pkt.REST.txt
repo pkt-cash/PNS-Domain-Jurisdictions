@@ -112,11 +112,11 @@ Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf/
 
->>> Last update of WHOIS database: 2024-10-28T08:58:52.113Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:07:29.368Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.REST
+Domain name: pkt.REST
 Registry Domain ID: DO_59189bd70356ba43de07f1ff4b24c9cb-PUNTO
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -173,5 +173,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T11:58:52.51Z <<<
+>>> Last update of WHOIS database: 2024-11-12T10:07:29.75Z <<<
 

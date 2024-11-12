@@ -48,5 +48,5 @@ source:       IANA
 # whois.nic.norton
 
 No match for "PKT.NORTON".
->>> Last update of WHOIS database: 2024-10-28T08:57:07Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:35Z <<<
 

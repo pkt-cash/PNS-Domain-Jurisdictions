@@ -55,5 +55,5 @@ source:       IANA
 # whois.nic.swiss
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T09:01:39.635Z <<<
+>>> Last update of Whois database: 2024-11-12T15:09:12.631Z <<<
 

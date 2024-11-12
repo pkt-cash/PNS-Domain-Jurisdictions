@@ -30,10 +30,12 @@ phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.GROCERY 2a01:8840:6e:0:0:0:0:50 65.22.112.50
-nserver:      A2.NIC.GROCERY 2a01:8840:71:0:0:0:0:50 65.22.115.50
-nserver:      B0.NIC.GROCERY 2a01:8840:6f:0:0:0:0:50 65.22.113.50
-nserver:      C0.NIC.GROCERY 2a01:8840:70:0:0:0:0:50 65.22.114.50
+nserver:      A.NIC.GROCERY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.GROCERY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.GROCERY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      X.NIC.GROCERY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GROCERY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GROCERY 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 ds-rdata:     18634 8 2 03d573c990bfb36fce9a9ecebf706b50bc42d96772d9c39c76af617225c02b34
 
@@ -43,11 +45,12 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2017-06-08
-changed:      2024-10-25
+changed:      2024-11-06
 source:       IANA
 
 # whois.nic.grocery
 
-Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:50:44Z <<<
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-11-12T15:00:13Z <<<
 

@@ -48,5 +48,5 @@ source:       IANA
 Domain Name: pkt.amsterdam
 Domain Status: free
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:40:54Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:46:26Z <<<
 

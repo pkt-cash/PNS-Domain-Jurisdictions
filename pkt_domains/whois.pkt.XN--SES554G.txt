@@ -57,5 +57,5 @@ source:       IANA
 # whois.nic.xn--ses554g
 
 The queried object does not exist: Silver; No match.
->>> Last update of WHOIS database: 2024-10-28T09:07:28Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:42Z <<<
 

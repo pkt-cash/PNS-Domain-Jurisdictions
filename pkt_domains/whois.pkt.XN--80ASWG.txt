@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.xn--80aswg
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T09:06:11.714Z <<<
+>>> Last update of Whois database: 2024-11-12T15:16:05.818Z <<<
 

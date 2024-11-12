@@ -106,11 +106,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:44:54Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:47Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.COMPUTER
+Domain name: pkt.COMPUTER
 Registry Domain ID: 95641eadeed843b7925f4371bbe22b83-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -167,5 +167,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T01:44:54.54Z <<<
+>>> Last update of WHOIS database: 2024-11-11T15:52:48.01Z <<<
 

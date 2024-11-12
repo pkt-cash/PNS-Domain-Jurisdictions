@@ -50,5 +50,5 @@ source:       IANA
 
 %% NOT FOUND
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:55:12.395849Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:10.779056Z <<<
 

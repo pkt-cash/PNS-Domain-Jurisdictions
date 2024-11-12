@@ -109,7 +109,7 @@ Name Server: salvador.ns.porkbun.com
 Name Server: fortaleza.ns.porkbun.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:00:51Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:09:23Z <<<
 
 # whois.porkbun.com
 

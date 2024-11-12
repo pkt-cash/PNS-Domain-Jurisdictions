@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.bosch
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:43:37Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:49:01Z <<<
 

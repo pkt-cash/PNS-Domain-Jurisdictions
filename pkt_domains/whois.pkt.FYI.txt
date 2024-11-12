@@ -106,7 +106,7 @@ Name Server: ns1.bluehost.com
 Name Server: ns2.bluehost.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:50:01Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:39Z <<<
 
 # whois.PublicDomainRegistry.com
 
@@ -165,5 +165,5 @@ DNSSEC: Unsigned
 Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
 Registrar Abuse Contact Phone: +1.2013775952
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:50:01Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:39Z <<<
 

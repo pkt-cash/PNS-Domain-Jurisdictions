@@ -58,4 +58,4 @@ source:       IANA
 
 # whois.educause.edu
 
-NO MATCH: PKT.EDU
+NO MATCH: pkt.EDU

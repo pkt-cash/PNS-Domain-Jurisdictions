@@ -53,5 +53,5 @@ source:       IANA
 
 Domain Name: PKT.TOKYO
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:03:52.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:13:27.0Z <<<
 

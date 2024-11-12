@@ -30,10 +30,12 @@ phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.WALMART 2a01:8840:6e:0:0:0:0:74 65.22.112.74
-nserver:      A2.NIC.WALMART 2a01:8840:71:0:0:0:0:74 65.22.115.74
-nserver:      B0.NIC.WALMART 2a01:8840:6f:0:0:0:0:74 65.22.113.74
-nserver:      C0.NIC.WALMART 2a01:8840:70:0:0:0:0:74 65.22.114.74
+nserver:      A.NIC.WALMART 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WALMART 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WALMART 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.WALMART 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WALMART 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WALMART 156.154.174.82 2610:a1:1076:0:0:0:1:82
 ds-rdata:     34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 ds-rdata:     4411 8 2 cee1000fc9a5a5c1e205308ac36910953c589174ca5d18516dcb0549ea450886
 
@@ -43,11 +45,12 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2016-07-21
-changed:      2024-10-25
+changed:      2024-11-06
 source:       IANA
 
 # whois.nic.walmart
 
-Domain not found.
->>> Last update of WHOIS database: 2024-10-28T09:06:21Z <<<
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-11-12T15:15:49Z <<<
 

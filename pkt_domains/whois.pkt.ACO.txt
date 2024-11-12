@@ -46,4 +46,4 @@ source:       IANA
 
 # whois.nic.aco
 
-The queried object does not exist: domain PKT.ACO
+The queried object does not exist: domain pkt.ACO

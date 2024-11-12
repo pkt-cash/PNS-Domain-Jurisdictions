@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.scot
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T09:00:12.372Z <<<
+>>> Last update of Whois database: 2024-11-12T15:08:51.96Z <<<
 

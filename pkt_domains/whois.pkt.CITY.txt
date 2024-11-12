@@ -109,7 +109,7 @@ Name Server: ns59.domaincontrol.com
 Name Server: ns60.domaincontrol.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:44:37Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:32Z <<<
 
 # whois.godaddy.com
 
@@ -160,5 +160,5 @@ Name Server: NS59.DOMAINCONTROL.COM
 Name Server: NS60.DOMAINCONTROL.COM
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:44:37Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:32Z <<<
 

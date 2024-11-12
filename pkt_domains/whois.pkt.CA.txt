@@ -116,7 +116,7 @@ Name Server: ns1.on-rev.com
 Name Server: ns2.on-rev.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:43:57Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:49:21Z <<<
 
 # whois.ca.fury.ca
 
@@ -188,5 +188,5 @@ Name Server: ns1.on-rev.com
 Name Server: ns2.on-rev.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:43:57Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:49:21Z <<<
 

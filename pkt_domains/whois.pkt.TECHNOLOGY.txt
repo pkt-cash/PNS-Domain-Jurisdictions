@@ -107,7 +107,7 @@ Name Server: ns1.siteground.net
 Name Server: ns2.siteground.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:02:10Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:22Z <<<
 
 # whois.donuts.co
 
@@ -167,5 +167,5 @@ Name Server: ns1.siteground.net
 Name Server: ns2.siteground.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:02:10Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:23Z <<<
 

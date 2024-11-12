@@ -105,11 +105,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:42:11Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:47:35Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.BLUE
+Domain name: pkt.BLUE
 Registry Domain ID: e1796c74152f4f37be448084e5f17f4f-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -166,5 +166,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T15:42:11.61Z <<<
+>>> Last update of WHOIS database: 2024-11-11T18:47:35.60Z <<<
 

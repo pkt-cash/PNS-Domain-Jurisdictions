@@ -2,8 +2,8 @@
 % for more information on IANA, visit http://www.iana.org
 % This query returned 0 objects.
 %
-% You queried for PKT.INT but this server does not have
-% any data for PKT.INT.
+% You queried for pkt.INT but this server does not have
+% any data for pkt.INT.
 %
 % If you need further information please check the web site
 % or use -h for help

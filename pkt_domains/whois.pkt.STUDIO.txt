@@ -106,11 +106,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:01:48Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:00Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.STUDIO
+Domain name: pkt.STUDIO
 Registry Domain ID: 23d0c7882d3a42d3a7682d7b2bea0859-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -166,5 +166,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T17:01:48.89Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:10:01.38Z <<<
 

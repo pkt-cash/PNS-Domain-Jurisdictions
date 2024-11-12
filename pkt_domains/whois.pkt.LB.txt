@@ -54,8 +54,8 @@ source:       IANA
 
 # whois.lbdr.org.lb
 
-Domain Name: PKT.LB
+Domain Name: pkt.LB
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:52:28.487Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:48.910Z <<<
 

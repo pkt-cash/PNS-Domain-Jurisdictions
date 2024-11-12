@@ -38,6 +38,7 @@ nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
 nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
 nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
 ds-rdata:     48559 8 2 6c7d94c6f25556eeb180ef5e3e9237f2247597f28dca8d7fa63b3a1a45b79a4f
+ds-rdata:     42290 8 2 01cb881bec8bee893cd6c45b9f3185825c5faf619afb51f3c11fe1cd2c1a3785
 
 whois:        whois.dns.pl
 
@@ -45,7 +46,7 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dns.pl/en/
 
 created:      1990-07-30
-changed:      2024-01-22
+changed:      2024-11-08
 source:       IANA
 
 # whois.dns.pl

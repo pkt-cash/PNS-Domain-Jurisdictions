@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.lasalle
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:52:24Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:45Z <<<
 

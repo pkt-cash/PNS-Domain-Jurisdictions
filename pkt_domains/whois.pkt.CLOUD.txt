@@ -52,5 +52,5 @@ source:       IANA
 >>> Please visit https://www.nic.cloud/registrars/ for a list of accredited
 registrars
 
->>> Last update of WHOIS database: 2024-10-28T08:44:43.377Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:52:36.970Z <<<
 

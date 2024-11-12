@@ -51,5 +51,5 @@ source:       IANA
 # whois.nic.cruise
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:45:29Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:54:20Z <<<
 

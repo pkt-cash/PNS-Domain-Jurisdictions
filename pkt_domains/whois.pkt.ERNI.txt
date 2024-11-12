@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.erni
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:49:04.372Z <<<
+>>> Last update of Whois database: 2024-11-12T14:58:07.953Z <<<
 

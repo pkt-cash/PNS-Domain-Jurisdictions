@@ -105,11 +105,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:58:11Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:06:52Z <<<
 
 # whois.namecheap.com
 
-Domain name: pkt.pink
+Domain name: pkt.PINK
 Registry Domain ID: bddfb68fec9443828999792e4907ebe1-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -166,5 +166,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T11:48:57.11Z <<<
+>>> Last update of WHOIS database: 2024-11-11T16:06:53.25Z <<<
 

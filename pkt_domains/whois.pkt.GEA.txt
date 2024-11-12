@@ -46,4 +46,4 @@ source:       IANA
 
 # whois.nic.gea
 
-The queried object does not exist: domain PKT.GEA
+The queried object does not exist: domain pkt.GEA

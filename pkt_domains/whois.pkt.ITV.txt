@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.itv
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:51:44Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:10Z <<<
 

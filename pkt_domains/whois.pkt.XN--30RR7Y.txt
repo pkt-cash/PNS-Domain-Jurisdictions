@@ -53,5 +53,5 @@ source:       IANA
 # whois.gtld.knet.cn
 
 The queried object does not exist: pkt.慈善
->>> Last update of WHOIS database: 2024-10-28T09:02:25Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:10:58Z <<<
 

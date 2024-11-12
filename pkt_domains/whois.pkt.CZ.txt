@@ -48,4 +48,3 @@ source:       IANA
 
 # whois.nic.cz
 
-Your connection limit exceeded. Please slow down and try again later.

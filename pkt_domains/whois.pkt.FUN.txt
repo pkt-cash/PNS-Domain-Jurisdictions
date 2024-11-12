@@ -72,7 +72,7 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: domainabuse@service.aliyun.com
 Registrar Abuse Contact Phone: +86.95187
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:49:55.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:36.0Z <<<
 
 # grs-whois.hichina.com
 

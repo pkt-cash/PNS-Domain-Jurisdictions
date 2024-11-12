@@ -48,5 +48,5 @@ source:       IANA
 # whois.nic.sap
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T08:59:08.776Z <<<
+>>> Last update of Whois database: 2024-11-12T15:07:01.785Z <<<
 

@@ -48,7 +48,7 @@ source:       IANA
 # whois.amnic.net
 
 %
-%AM TLD whois server #1
+%AM TLD whois server #2
 % Please see 'whois -h whois.amnic.net help' for usage.
 %
 

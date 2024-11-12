@@ -52,5 +52,5 @@ source:       IANA
 # whois.nic.dental
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:45:43Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:55:50Z <<<
 

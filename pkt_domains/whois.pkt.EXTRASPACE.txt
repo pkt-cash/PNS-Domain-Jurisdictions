@@ -50,5 +50,5 @@ source:       IANA
 # whois.nic.extraspace
 
 Domain not found.
->>> Last update of WHOIS database: 2024-10-28T08:49:23Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:06Z <<<
 

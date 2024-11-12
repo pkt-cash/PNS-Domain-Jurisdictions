@@ -49,5 +49,5 @@ source:       IANA
 # whois.nic.verisign
 
 No match for "PKT.VERISIGN".
->>> Last update of WHOIS database: 2024-10-28T09:05:51Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:15:04Z <<<
 

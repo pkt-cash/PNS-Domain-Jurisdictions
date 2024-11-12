@@ -57,5 +57,5 @@ source:       IANA
 
 Domain Name: pkt.ma
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T08:54:09.330Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:03:08.318Z <<<
 

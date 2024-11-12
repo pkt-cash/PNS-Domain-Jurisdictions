@@ -48,6 +48,6 @@ source:       IANA
 
 # whois.gtlds.nic.br
 
-The queried object does not exist: PKT.FINAL
->>> Last update of WHOIS database: 2024-10-28T08:49:35Z <<<
+The queried object does not exist: pkt.FINAL
+>>> Last update of WHOIS database: 2024-11-12T14:59:17Z <<<
 

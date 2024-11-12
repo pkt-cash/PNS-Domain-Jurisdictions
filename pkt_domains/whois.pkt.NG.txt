@@ -49,8 +49,8 @@ source:       IANA
 
 # whois.nic.net.ng
 
-Domain Name: PKT.NG
+Domain Name: pkt.NG
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:57:25.298Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:47.346Z <<<
 

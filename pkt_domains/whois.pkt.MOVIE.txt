@@ -108,7 +108,7 @@ Name Server: ns-1722.awsdns-23.co.uk
 Name Server: ns-808.awsdns-37.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:55:05Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:04Z <<<
 
 # whois.registrar.amazon.com
 
@@ -156,7 +156,7 @@ Name Server: NS-230.AWSDNS-28.COM
 Name Server: NS-808.AWSDNS-37.NET
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:55:06Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:04Z <<<
 
 # whois.registrar.amazon
 
@@ -204,5 +204,5 @@ Name Server: NS-230.AWSDNS-28.COM
 Name Server: NS-808.AWSDNS-37.NET
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T08:55:06Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:05Z <<<
 

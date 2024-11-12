@@ -121,7 +121,7 @@ DNSSEC: unsigned
 Canonical Name: pkt.cat
 IDN Tag: ca
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of Whois database: 2024-10-28T08:43:40.780Z <<<
+>>> Last update of Whois database: 2024-11-12T13:49:30.64Z <<<
 
 # whois.scip.es
 
@@ -194,5 +194,5 @@ Name Server: EXPIRED1.VIRTUALNS.NET
 Name Server: EXPIRED2.VIRTUALNS.NET
 DNSSEC: Unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-28T09:44:00Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:49:00Z <<<
 

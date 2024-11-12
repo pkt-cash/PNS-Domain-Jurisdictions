@@ -55,4 +55,4 @@ source:       IANA
 % See https://www.isnic.is/en/about/copyright
 
 %
-% No entries found for query "PKT.IS".
+% No entries found for query "pkt.IS".

@@ -51,8 +51,3 @@ source:       IANA
 
 # whois.nic.mr
 
-Domain Name: PKT.XN--MGBAH1A3HJKRD
-Domain Status: No Object Found
-Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T09:08:50.891Z <<<
-

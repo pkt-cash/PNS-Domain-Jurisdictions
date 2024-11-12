@@ -58,4 +58,4 @@ source:       IANA
 % Rights restricted by copyright.
 % http://nic.sa/en/view/whois-cmd-copyright
 
-No Match for PKT.SA.
+No Match for pkt.SA.

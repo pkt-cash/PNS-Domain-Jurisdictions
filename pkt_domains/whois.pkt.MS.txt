@@ -46,8 +46,8 @@ source:       IANA
 
 # whois.nic.ms
 
-Domain Name: PKT.MS
+Domain Name: pkt.MS
 Domain Status: No Object Found
 Notes: This server is not authoritative for the TLD or Zone you are looking for
->>> Last update of WHOIS database: 2024-10-28T08:55:08.323Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:05:06.511Z <<<
 

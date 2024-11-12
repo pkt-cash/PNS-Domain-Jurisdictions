@@ -57,9 +57,9 @@ source:       IANA
 %  being prohibited its distribution, commercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2024-10-28T05:43:45-03:00 - IP: 91.165.39.242
+%  2024-11-12T10:49:06-03:00 - IP: 91.165.39.242
 
-% No match for PKT.BR
+% No match for pkt.BR
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br

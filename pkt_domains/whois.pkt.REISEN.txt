@@ -107,7 +107,7 @@ Name Server: dns104.ovh.net
 Name Server: ns104.ovh.net
 DNSSEC: signedDelegation
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:58:45Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:07:24Z <<<
 
 # whois.ovh.com
 

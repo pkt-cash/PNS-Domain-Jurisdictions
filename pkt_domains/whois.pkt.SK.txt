@@ -81,7 +81,7 @@ City:                         Bratislava
 Postal Code:                  82108
 Country Code:                 SK
 Created:                      2017-09-01
-Updated:                      2024-10-28
+Updated:                      2024-11-12
 
 Administrative Contact:       WEBS-0001
 Name:                         WebSupport s.r.o.
@@ -94,7 +94,7 @@ City:                         Bratislava
 Postal Code:                  82108
 Country Code:                 SK
 Created:                      2017-09-01
-Updated:                      2024-10-28
+Updated:                      2024-11-12
 
 Technical Contact:            WEBS-0001
 Name:                         WebSupport s.r.o.
@@ -107,4 +107,4 @@ City:                         Bratislava
 Postal Code:                  82108
 Country Code:                 SK
 Created:                      2017-09-01
-Updated:                      2024-10-28
+Updated:                      2024-11-12

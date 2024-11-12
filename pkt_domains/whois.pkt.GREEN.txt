@@ -104,11 +104,11 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T08:50:43Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:00:10Z <<<
 
 # whois.namecheap.com
 
-Domain name: PKT.GREEN
+Domain name: pkt.GREEN
 Registry Domain ID: d2654e42f95042fc9f8d6d624c42d40a-DONUTS
 Registrar WHOIS Server: whois.namecheap.com
 Registrar URL: http://www.namecheap.com
@@ -165,5 +165,5 @@ Name Server: dns1.registrar-servers.com
 Name Server: dns2.registrar-servers.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2024-10-27T22:50:43.69Z <<<
+>>> Last update of WHOIS database: 2024-11-12T09:00:11.33Z <<<
 

@@ -51,5 +51,5 @@ source:       IANA
 
 Domain Name: pkt.bw
 Domain Status: No Object Found
->>> Last update of WHOIS database: 2024-10-28T08:17:39.934Z <<<
+>>> Last update of WHOIS database: 2024-11-12T13:46:35.64Z <<<
 

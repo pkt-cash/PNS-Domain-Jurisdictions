@@ -72,7 +72,7 @@ Billing Email: Please query the RDDS service of the Registrar of Record identifi
 Registrar Abuse Contact Email: abuse-contact@sav.com
 Registrar Abuse Contact Phone: +1.8885808790
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-10-28T09:09:33.0Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:18:49.0Z <<<
 
 # whois-service.virtualcloud.co
 
@@ -100,7 +100,7 @@ Registrant Phone: +1.2563740797
 Registrant Phone Ext: 
 Registrant Fax: 
 Registrant Fax Ext: 
-Registrant Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Registrant Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=pkt.XYZ
 Registry Admin ID: GFMF5DS
 Admin Name: REDACTED FOR PRIVACY
 Admin Organization: REDACTED FOR PRIVACY
@@ -113,7 +113,7 @@ Admin Phone: +1.2563740797
 Admin Phone Ext: 
 Admin Fax: 
 Admin Fax Ext: 
-Admin Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Admin Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=pkt.XYZ
 Registry Tech ID: GFMF5DS
 Tech Name: REDACTED FOR PRIVACY
 Tech Organization: REDACTED FOR PRIVACY
@@ -126,7 +126,7 @@ Tech Phone: +1.2563740797
 Tech Phone Ext: 
 Tech Fax: 
 Tech Fax Ext: 
-Tech Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=PKT.XYZ
+Tech Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=pkt.XYZ
 Name Server: NS1.AFTERNIC.COM
 Name Server: NS2.AFTERNIC.COM
 DNSSEC: unsigned

@@ -51,7 +51,7 @@ source:       IANA
 
                 This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
               
-Domain Name:	PKT.IM
+Domain Name:	pkt.IM
 Domain Managers
 Name: Redacted
 Address

@@ -52,5 +52,5 @@ source:       IANA
 >>> Please visit https://uniregistry.link/accredited-registrars/ for a
 list of accredited registrars
 
->>> Last update of WHOIS database: 2024-10-28T08:50:15.592Z <<<
+>>> Last update of WHOIS database: 2024-11-12T14:59:52.430Z <<<
 

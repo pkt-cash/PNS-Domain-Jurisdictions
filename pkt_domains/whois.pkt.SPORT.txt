@@ -51,5 +51,5 @@ source:       IANA
 # whois.nic.sport
 
 The queried object does not exist: no matching objects found
->>> Last update of Whois database: 2024-10-28T09:00:45.715Z <<<
+>>> Last update of Whois database: 2024-11-12T15:09:49.238Z <<<
 

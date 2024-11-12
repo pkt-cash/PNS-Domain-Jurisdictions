@@ -56,6 +56,6 @@ source:       IANA
 
 # whois.ngtld.cn
 
-The queried object does not exist: PKT.XN--55QX5D (No matching record.)
->>> Last update of WHOIS database: 2024-10-28T09:06:56Z <<<
+The queried object does not exist: pkt.XN--55QX5D (No matching record.)
+>>> Last update of WHOIS database: 2024-11-12T15:16:23Z <<<
 

@@ -53,5 +53,5 @@ Available
 No information was found matching that query. This domain may be registered at another registry.
 
 
->>> Last update of WHOIS database: 2024-10-28T08:51:51Z <<<
+>>> Last update of WHOIS database: 2024-11-12T15:01:18Z <<<
 
